@@ -1,4 +1,4 @@
-ТЕХНИЧЕСКАЯ ПОЛИТИКА И ЭТАПЫ РАЗВИТИЯ ЦИФРОВОЙ ОБРАЗОВАТЕЛЬНОЙ СРЕДЫ МПГУ
+*Техническая политика и этапы развития цифровой образовательной среды МПГУ
 С. Д. Каракозов, Р. С. Сулейманов, А. Ю. Уваров
 Сегодня в МПГУ ведутся работы по погружению студентов в современную педагогику. Для
 этого требуется сформировать в Университете новую ИКТ-насыщенную образовательную
@@ -8,9 +8,9 @@
 тия вуза, как инструмент решения задач обновления образовательного процесса.
 Ключевые слова: информатизация образования, информационная среда вуза, концепция раз-
 вития информационной среды, развитие педагогического образования.
-TECHNICAL POLICY AND DEVELOPM ENT STAGES
-OF MOSCOW STATE PEDAGOGICAL UNIVERSITY
-DIGITAL EDUCATIONAL ENVIRONMENT
+*Technical policy and developm ent stages
+*of Moscow State Pedagogical University
+*digital educational environment
 S. D. Karakozov, R. S. Suleymanov, A. Yu. Uvarov
 To immerse students into modern pedagogics, it is necessary to create new ICT- saturated educational
 environment which allows to support the work with students without significant increase in workload
@@ -21,8 +21,8 @@ solving the problems of updating the educational process.
 Keywords: Informatization of education, information environment of higher education institution,
 concept of development the information environment, development of pedagogical education.
  
-АКТИВНЫЕ МЕТОДЫ ОБУЧЕНИЯ В СОВРЕМЕННОМ КИТАЕ:
-ТЕОРИЯ И ПРАКТИКА ПРИМЕНЕНИЯ
+*Активные методы обучения в современном Китае:
+*теория и практика применения
 Ван Юй
 В данной статье рассматривается использование трех современных и эффективных мето-
 дов обучения, таких как метод обучения грамоте рифмованным текстом, метод ситуации
@@ -39,8 +39,8 @@ concept of development the information environment, development of pedagogical e
 Ключевые слова: познавательная деятельность, ассоциация, активные методы обучения,
 метод ситуации и чувства, метод пробования, метод обучения грамоте рифмованным тек-
 стом, эффективность.
-ACTIVE METHODS OF LEARNING IN MODERN CHINA:
-THEORY AND APPLICATION PRACTICE
+*Active methods of learning in modern China:
+*theory and application practice
 Wang Yu
 The article deals with the use of three modern and effective teaching methods such as the method of
 teaching literacy by a rhymed text, the “situation and emotion” method, and the try method which are
@@ -56,22 +56,22 @@ to primary school.
 Keywords: cognitive activity, association, active learning methods, situation and sense method, try
 method, method of teaching literacy by rhymed text, efficiency.
  
-К ВОПРОСУ О НОВОЙ РАЗРАБОТКЕ ДОКУМЕНТА О СОДЕРЖАНИИ ОБЩЕГО ОБРАЗОВАНИЯ (АНАЛОГА ОБЯЗАТЕЛЬНОГО МИНИМУМА). НЕКОТОРЫЕ ТЕЗИСЫ
+*К вопросу о новой разработке документа о содержании общего образования (аналога обязательного минимума). Некоторые тезисы
 О. Б. Логинова
 В статье разбираются некоторые тезисы по вопросу о новой разработке документа о содер-
 жании общего образования (аналога обязательного минимума).
 Ключевые слова: образовательные стандарты, содержание общего образования.
-TO THE QUESTION OF NEW DEVELOPM ENT OF THE DOCUMENT ON THE
-CONTENT OF THE GENERAL EDUCATION (ANALOG OF THE MANDATORY
-MINIMUM). SOME THESES
+*To the question of new developm ent of the document on the
+*content of the general education (analog of the mandatory
+*minimum). Some theses
 O. B. Loginova
 The article deals with some theses about the new development of a document on the content of General
 education (analog of the mandatory minimum).
 Keywords: educational standards, the content of General education.
  
-ОСНОВНЫЕ АСПЕКТЫ СООТНОШЕНИЯ
-ПРОФЕССИОНАЛЬНЫХ КОМПЕТЕНТНОСТЕЙ
-И ИДЕНТИЧНОСТИ ПЕДАГОГА
+*Основные аспекты соотношения
+*профессиональных компетентностей
+*и идентичности педагога
 А. Ю. Нестерова
 В статье рассматриваются понятия «профессиональная компетентность» и «идентичность»
 педагога. Показывается, каким образом исследуемые понятия – профессиональная компетент-
@@ -83,8 +83,8 @@ Keywords: educational standards, the content of General education.
 Ключевые слова: компетентность, идентичность, когнитивная деятельность, способ-
 ность, готовность, мотивация, личность, целостность, самоидентификация, профессио-
 нальное самоопределение.
-MAIN ASPECTS OF THE RATIO OF PROFESSIONAL COMPETENCE
-AND IDENTITY OF THE TEACHER
+*Main aspects of the ratio of professional competence
+*and identity of the teacher
 A. Yu. Nesterova
 The article deals with the concepts “professional competence” and “identity” of the teacher and their
 interdependent characteristics. The carried-out analysis allows to prove that professional identity is the
@@ -93,15 +93,15 @@ activity and providing integrity, definiteness and development of professional c
 Keywords: competence, identity, cognitive activity, ability, readiness, motivation, personality, integrity,
 identity, professional self-determination.
  
-КОММУНИКАТИВНАЯ ДЕЯТЕЛЬНОСТЬ НА УРОКАХ ГЕОМЕТРИИ КАК СРЕДСТВО СОЦИАЛИЗАЦИИ СТАРШЕКЛАССНИКОВ
+*Коммуникативная деятельность на уроках геометрии как средство социализации старшеклассников
 А. В. Виноградова
 В данной статье проводится анализ понятий «коммуникативность», «коммуникативная де-
 ятельность», «социализация», а также анализируются составляющие процесса социализации
 старшеклассников при проведении устной работы на уроках геометрии.
 Ключевые слова: коммуникативность, коммуникативная деятельность, социализация,
 старшеклассник.
-COMMUNICATIVE ACTIVITY AT GEOMETRY LESSONS
-AS MEANS OF SOCIALIZATION OF SENIOR STUDENTS
+*Communicative activity at geometry lessons
+*as means of socialization of senior students
 A. V. Vinogradova
 The article analyzes such concepts as “communicativeness”, “communicative activity”, “socialization”.
 It also examines the components of socialization process with senior students during the geometry
@@ -129,9 +129,9 @@ Keywords: communicativeness, communicative activity, socialization, senior stude
 ние профессиональной готовности к деятельности в области использования информацион-
 но-образовательных систем, уровни профессиональной готовности, показатели и критерии,
 виртуализация и информатизация образования.
-THE RELEVANCE OF TRAINING FUTURE COMPUTER SCIENCE TEACHERS
-TO USE INFORMATION AND EDUCATION SYSTEMS IN TERMS
-OF VIRTUALIZATION AND INFORMATIZATION OF MODERN EDUCATION
+*The relevance of training future computer science teachers
+*to use information and education systems in terms
+*of virtualization and informatization of modern education
 A. A. Lyash
 The article substantiates the relevance of training future teachers of computer science within the use of
 the information and education systems (IES). The author describes the practical use of both information
@@ -149,7 +149,7 @@ science teaching, professional and pedagogical tasks, formation of professional 
 performing in the field of use of information and education systems, levels of professional readiness,
 criteria and indicators, virtualization and informatization of education.
  
-ЧЕМ ОПРЕДЕЛЯЕТСЯ ИНТЕРЕС ОБЩЕСТВА К НАУКЕ
+*Чем определяется интерес общества к науке
 А. Г. Ваганов
 Статья посвящена почти не изученной систематически в социологии и культурологии про-
 блеме – формированию и бытованию научно-популярной литературы и периодики. Сегодня,
@@ -165,7 +165,7 @@ criteria and indicators, virtualization and informatization of education.
 учно-популярной литературы.
 Ключевые слова: научно-популярная литература, популяризация науки, промышленное раз-
 витие, социология чтения, научная политика.
-WHAT DETERMINES THE PUBLIC INTEREST TO SCIENCE
+*What determines the public interest to science
 A. G. Vaganov
 The article is devoted to the problem of formation and existence of popular scientific literature and
 periodicals. This issue is not completely studied systematically in sociology and culture studies. Today,
@@ -180,7 +180,7 @@ polemical: the public interest in science poorly depends on circulations of popu
 Keywords: science-fiction, science popularization, industrial development, sociology of reading, science
 policy.
  
-ОБРАЗОВАТЕЛЬНАЯ СТРАТЕГИЯ И ЧЕЛОВЕЧЕСКИЙ ПОТЕНЦИАЛ
+*Образовательная стратегия и человеческий потенциал
 В. К. Бацын
 Статья посвящена актуальным вопросам современной образовательной политики Российской
 Федерации. Полагая стратегической целью такой политики развитие человеческого потенци-
@@ -190,7 +190,7 @@ policy.
 ся автору в развитии прямого диалога между обществом и государством относительно целей
 и качества образования.
 Ключевые слова: модернизация образования, цель образования, качество образования.
-EDUCATIONAL STRATEGY AND HUMAN POTENTIAL
+*Educational strategy and human potential
 V. K. Batsyn
 The article deals with the key issues of modern educational policy of the Russian Federation. Considering
 the development of human potential as a strategic objective of such policy necessary for realization
@@ -216,8 +216,8 @@ Keywords: modernization of education, goals of education, quality of education.
 Смоделированная педагогическая технология направлена на сохранение нравственных исто-
 рических ценностей, сформированных на основе богатой отечественной культуры.
 Ключевые слова: педагогика, искусство, воспитание, педагогические технологии.
-PEDAGOGY AS SCIENCE AND ART IN PROCEDURAL
-AND DESCRIPTIVE ASPECTS
+*Pedagogy as science and art in procedural
+*and descriptive aspects
 G. N. Bogomolova
 The article considers theoretical and methodological aspects of pedagogy as an independent science in
 the procedural and descriptive context of the phenomenon “pedagogy - the art” on the example of artistic
@@ -232,7 +232,7 @@ Simulated educational technology is aimed at preserving the historical moral val
 rich native culture.
 Keywords: pedagogy, art, education, educational technologies.
  
-НОВЫЕ РЕСУРСЫ ДИДАКТИКИ ДЛЯ СОВРЕМЕННОЙ ШКОЛЫ
+*Новые ресурсы дидактики для современной школы
 Т. М. Ковалева
 В статье осмысливаются кардинальные изменения, происходящие сегодня в системе образова-
 ния (формирование различных субъектов в сфере образования, открытость и вариативность
@@ -260,7 +260,7 @@ Keywords: pedagogy, art, education, educational technologies.
 Ключевые слова: дидактика, антропологический подход, цели образования, принцип инди-
 видуализации, субъектность и субъективность, личностно-ресурсная карта, индивидуальная
 образовательная программа, тьютор.
-NEW DIDACTIC RESOURCES FOR MODERN SCHOOL
+*New didactic resources for modern school
 T. M. Kovaleva
 The article deals with the current major changes in the education system (formation of various
 subjects in education, openness and variability of educational models, non-institutional forms of
@@ -283,7 +283,7 @@ new didactic resource for modern schools.
 Keywords: didactics, anthropological content, aims of education, principle of individualization, subject
 and subjectivity, personal-resource map, individual educational program, tutor.
  
-СТРАТЕГИИ ПОЗИЦИОНИРОВАНИЯ ОБЩЕОБРАЗОВАТЕЛЬНЫХ ШКОЛ В ОБЩЕСТВЕ РИСКА
+*Стратегии позиционирования общеобразовательных школ в обществе риска
 И. М. Лоскутова
 В статье рассматриваются особенности позиционирования общеобразовательных школ в
 условиях общества риска. Подробно анализируются стратегии позиционирования вальдорф-
@@ -301,8 +301,8 @@ and subjectivity, personal-resource map, individual educational program, tutor.
 ля и более полное вовлечение родителей в образовательный процесс.
 Ключевые слова: стратегии, позиционирование, общеобразовательные школы, общество
 риска.
-STRATEGY OF COMPREHENSIVE SCHOOLS POSITIONING
-IN THE RISK SOCIETY
+*Strategy of comprehensive schools positioning
+*in the risk society
 I. M. Loskutova
 The article deals with the features of the positioning of secondary schools in terms of the risk society.
 Positioning strategy of the Waldorf schools in modern Russia are analyzed in detail. The article provides
@@ -317,7 +317,7 @@ highly demanded educational concept, increased role of the teacher and fuller in
 in the educational process
 Keywords: strategy, positioning, comprehensive schools, risk society.
  
-МОДЕРНИЗАЦИЯ ВЫСШЕГО ОБРАЗОВАНИЯ И ПОВЫШЕНИЕ КВАЛИФИКАЦИИ ПРЕПОДАВАТЕЛЯ (НА ПРИМЕРЕ МОНГОЛИИ)
+*Модернизация высшего образования и повышение квалификации преподавателя (на примере Монголии)
 Я. Отгонбаяр
 Очевидно, что в целях развития высшего образования в соответствии с современными требовани-
 ями необходимо укреплять материальную базу, чтобы финансировать востребованные квалифи-
@@ -330,9 +330,9 @@ Keywords: strategy, positioning, comprehensive schools, risk society.
 актуальных вопросах повышения квалификации преподавателей в вузах Монголии.
 Ключевые слова: повышение квалификации преподавателя, реформа высшего образования,
 системы образования, стратегии.
-MODERNIZATION OF THE HIGHER EDUCATION
-AND PROFESSIONAL DEVELOPM ENT OF TEACHERS
-(ON THE EXAMPLE OF MONGOLIA)
+*Modernization of the higher education
+*and professional developm ent of teachers
+*(on the example of Mongolia)
 Ya. Otgonbayar
 It is obvious, that in order to develop higher education according to up-to-date demands it is necessary
 to strengthen material resources to finance required skills, to use advanced modern methods and
@@ -343,9 +343,9 @@ Mongolia in order to bring it to the world level, but the preparation of teacher
 Therefore we’ve focused on some current issues of teachers development.
 Keywords: teachers’ professional development, higher education reform, education systems, strategy.
  
-ПРЕДСТАВЛЕНИЯ УЧАЩИХСЯ
-О НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ
-В ОБЛАСТИ ЭСТЕТИКИ ЯЗЫКА И РЕЧИ
+*Представления учащихся
+*о научно-Исследовательской деятельности
+*в области эстетики языка и речи
 Д. В. Асеева
 В статье отражены результаты анализа анкетирования воспитанников училища (ОПКУ), вы-
 являющее их представление об исследовательской деятельности в области лингвистики. Прове-
@@ -353,8 +353,8 @@ Keywords: teachers’ professional development, higher education reform, educati
 траекторию будущей исследовательской работы с учащимися в области эстетики языка и речи.
 Ключевые слова: исследовательская деятельность учащихся, научная работа, исследова-
 тельские умения, эстетика частей речи.
-STUDENTS’ VIEWS ON SCIENTIFIC AND RESEARCH ACTIVITY IN THE
-FIELD OF LANGUAGE AND SPEECH AETHETICS
+*Students’ views on scientific and research activity in the
+*field of language and speech aethetics
 D. V. Aseeva
 The article reflects the results of the survey analysis of the Orenburg Presidential Cadet School pupils,
 revealing their understanding of research activities in linguistics. The survey allowed to present the
@@ -362,10 +362,10 @@ current state of the methodological problems and to build the trajectory of futu
 students in the aesthetics of language and speech area.
 Keywords: research activities of students, academic work, research skills, aesthetic of parts of speech.
  
-СОВЕРШЕНСТВОВАНИЕ ЛИЧНОСТИ В КОНТЕКСТЕ
-ИСКУССТВА: ЛИНГВОКОГНИТИВНАЯ ПАРАДИГМ А
-ПРОФЕССИОНАЛЬНОГО СТАНОВЛЕНИЯ БУДУЩИХ
-УЧИТЕЛЕЙ-СЛОВЕСНИКОВ
+*Совершенствование личности в контексте
+*искусства: лингвокогнитивная парадигм а
+*профессионального становления будущих
+*учителей-словесников
 Л. П. Сычугова
 Статья посвящена проблеме использования искусства и методов когнитивной лингвистики в
 формировании языковой личности будущих учителей-словесников. Из различных сфер челове-
@@ -376,9 +376,9 @@ Keywords: research activities of students, academic work, research skills, aesth
 расширения когнитивного, эмоционального, духовного пространства обучаемых, достижения
 метапредметных результатов обучения языку.
 Ключевые слова: искусство, язык, слово, речь, языковая личность.
-PERSONALITY IMPROVEMENT IN THE CONTEXT OF ART:
-LINGUISTIC AND COGNITIVE PARADIGM OF PROFESSIONAL FORMATION
-OF FUTURE LANGUAGE AND LITERATURE TEACHERS
+*Personality improvement in the context of art:
+*linguistic and cognitive paradigm of professional formation
+*of future language and literature teachers
 L. P. Sychugova
 The article deals with the use of art and methods of cognitive linguistics in formation of the language
 identity of future language and literature teachers. From various fields of human activity and forms
@@ -389,24 +389,24 @@ languages, expansion of cognitive, emotional and spiritual space of trainees, ac
 results of training in language are presented.
 Keywords: art, language, word, speech, linguistic personality.
  
-РОЛЬ СТЕРОИДНЫХ ГОРМОНОВ В ПАТОФИЗИОЛОГИИ
-ПЕРВОГО ПСИХОТИЧЕСКОГО ЭПИЗОДА
+*Роль стероидных гормонов в патофизиологии
+*первого психотического эпизода
 Л. Н. Горобец, А. Г. Лорикян, Н. М. Кутузова.
 Статья посвящена анализу научной литературы, касающемуся различных аспектов изучения
 нейрогормональных процессов организма, в частности, гипоталамо-гипофизарно-адреналовой
 оси, при психических расстройствах.
 Ключевые слова: стероидные гормоны, кортизол, дегидроэпиандростерон-сульфат, первый
 психотический эпизод (ППЭ).
-THE ROLE OF STEROID HORMONES IN PATHOPHYSIOLOGY
-OF FIRST EPISODE PSYCHOSIS
+*The role of steroid hormones in pathophysiology
+*of first episode psychosis
 L. N. Gorobets, A. G. Lorikyan, N. M. Kutuzova
 The article analyzes the scientific literature related to various aspects of the study of neurohormonal
 processes of the body, particularly the hypothalamic-pituitary-adrenal axis in psychiatric disorders.
 Keywords: steroid hormones, cortisol, dehydroepiandrosterone sulphate (DНEA-S), first-episode psychosis
 (FEP).
  
-ИССЛЕДОВАНИЕ ОПТИМАЛЬНЫХ ПАРАМЕТРОВ ХОДЬБЫ
-КАК СРЕДСТВА ФИЗИЧЕСКОЙ ТРЕНИРОВКИ
+*Исследование оптимальных параметров ходьбы
+*как средства физической тренировки
 И. В. Богданов
 В статье описан эксперимент, итоги которого говорят о преимуществах и плюсах ходьбы.
 Опытным путем доказано, что длительная ходьба в среднем и высоком темпе в целом дает
@@ -415,8 +415,8 @@ Keywords: steroid hormones, cortisol, dehydroepiandrosterone sulphate (DНEA-S),
 па прохождения дистанции дает возможность регулировать нагрузку увеличивать ее или
 уменьшать.
 Ключевые слова: ходьба, ходьба с палками, скандинавская ходьба, физическая культура.
-STUDY OF OPTIMUM PARAMETERS OF WALKING AS MEANS
-OF PHYSICAL TRAINING
+*Study of optimum parameters of walking as means
+*of physical training
 I. V. Bogdanov
 The article describes the experiment results that show the advantages of walking. It is experimentally
 proven that long walking on average and high speed generally gives such training load on the body
@@ -455,9 +455,9 @@ Keywords: walking, walking with sticks, Nordic walking, physical culture.
 ности на основе применения элементов динамических ситуаций дзюдо.
 Ключевые слова: борьба дзюдо, конкретно-динамические ситуации, юные дзюдоисты, техни-
 ческая подготовленность, технико-тактическая подготовка.
-IMPROVEMENT OF TECHNICAL AND TACTICAL TRAINING
-OF YOUNG JUDOISTS CONSIDERING THE DYNAMIC SITUATIONS
-OF COMPETITIVE ACTIVITY
+*Improvement of technical and tactical training
+*of young judoists considering the dynamic situations
+*of competitive activity
 R. G. Gasanov, Ch. T. Ivankov, A. V. Safoshin
 The article deals with the research aimed at creating favorable conditions for the development of rational
 equipment and their high-quality practical application with possible increase of productivity of
@@ -482,8 +482,8 @@ basis of application of elements of dynamic situations of judo are developed.
 Keywords: judo, concrete and dynamic situation, young judokas, technical readiness, technical and
 tactical training.
  
-АПРОБАЦИЯ МОДЕЛИ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ
-В ПРОЦЕССЕ ПРЕОДОЛЕНИЯ НЕУСПЕШНОСТИ ШКОЛЬНИКОВ
+*Апробация модели проектной деятельности
+*в процессе преодоления неуспешности школьников
 Д. Ж. Давыдов
 В работе показаны результаты педагогического эксперимента, применение разработанной
 автором модели применения проектной деятельности в педагогической практике в процессе
@@ -505,8 +505,8 @@ tactical training.
 ности, модель преодоления неуспешности, результаты преодоления неуспешности, ученики,
 педагогический эксперимент, алгоритм применения проектной деятельности, психолого-педа-
 гогические параметры неуспешности.
-APPRAISAL OF THE PROJECT ACTIVITY MODEL
-IN THE COURSE OF OVERCOMING SCHOOL STUDENTS’ POOR PROGRESS
+*Appraisal of the project activity model
+*in the course of overcoming school students’ poor progress
 D. Zh. Davydov
 The article deals with the results of the educational experiment and the implementation of the model
 of application of the design activity developed by the author in teaching practice in the course of overcoming
@@ -527,7 +527,7 @@ Keywords: school students, design activity, poor success, overcoming of poor suc
 poor success, results of overcoming poor success, pupils, pedagogical experiment, algorithm of
 application of design activity, psychology and pedagogical parameters of poor success.
  
-ГОСУДАРСТВЕННЫЙ И ЯЗЫКИ НАРОДОВ РОССИИ В СОВРЕМЕННОЙ ШКОЛЕ
+*Государственный и языки народов России в современной школе
 О. И. Артеменко
 В условиях нового образовательного законодательства возникает необходимость просчитать
 риски и предложить комплекс мер, направленных на формирование положительных мотивов
@@ -536,8 +536,8 @@ application of design activity, psychology and pedagogical parameters of poor su
 Ключевые слова: государственная национальная политика, языковая образовательная поли-
 тика, конституционный статус языков, положительные мотивы, основные образовательные
 программы.
-STATE LANGUAGE AND LANGUAGES OF THE PEOPLES OF RUSSIA
-IN MODERN SCHOOL
+*State language and languages of the peoples of Russia
+*in modern school
 O. I. Artemenko
 In terms of the new educational legislation there is a need to evaluate risks and to offer a package of
 measures directed at the formation of positive motives for mastering the languages of the peoples of
@@ -545,17 +545,17 @@ Russia, including the Russian language and improvement of the quality of studyin
 Keywords: state national policy, language educational policy, constitutional status of languages, positive
 motives, main educational programs.
  
-ПОЛИКУЛЬТУРНОЕ ВОСПИТАНИЕ В СОВРЕМЕННОЙ
-ТЕОРИИ И ОБРАЗОВАТЕЛЬНОЙ ПРАКТИКЕ:
-ПРОБЛЕМЫ И ПУТИ ИХ РЕШЕНИЯ
+*Поликультурное воспитание в современной
+*теории и образовательной практике:
+*проблемы и пути их решения
 Л. В. Загрекова, Т. А. Краснова
 В статье рассматриваются основные подходы к разработке проблемы поликультурного вос-
 питания в отечественной и зарубежной педагогике, дается анализ современной образователь-
 ной практики, приводятся пути решения в условиях общеобразовательной школы.
 Ключевые слова: поликультурное воспитание, поликультурное образование, многокультур-
 ное образование, межнациональное общение.
-POLYCULTURAL EDUCATION IN THE MODERN THEORY AND EDUCATIONAL
-PRACTICE: PROBLEMS AND WAYS OF THEIR SOLUTION
+*Polycultural education in the modern theory and educational
+*practice: problems and ways of their solution
 L. V. Zagrekova, T. A. Krasnova
 The article deals with the main approaches to the development of the problem of polycultural education
 in national and foreign pedagogy. It also analyzes the modern educational practices and presents
@@ -580,8 +580,8 @@ communication.
 и лингвотрадиций.
 Ключевые слова: вежливость, этикет, речевой этикет, таароф, речевая ситуация, иран-
 ская культура.
-POLITENESS IN IRAN AND RUSSIA:
-COMMON AND DIFFERENT FEATURES
+*Politeness in Iran and Russia:
+*common and different features
 Zeinab Ahmadi
 The article considers the peculiarities of politeness in the Iranian and Russian speech culture. It also
 reveals the universal and the particular, describes the factors and reasons of cultural specificity. The
@@ -596,10 +596,10 @@ questionnaires the summary table of basic differences between Iranian and Russia
 and linguistic traditions is made.
 Keywords: politeness, etiquette, speech etiquette, taarof, speech situation, Iranian culture.
  
-ПРИМЕНЕНИЕ МЕДИАТЕКСТОВ С ЦЕЛЬЮ
-ВЗАИМОСВЯЗАННОГО ОБУ ЧЕНИЯ ИНОСТРАННОМУ
-ЯЗЫКУ И МЕЖКУ ЛЬТУРНОМУ ОБЩЕНИЮ СТУД ЕНТОВ
-ЯЗЫКОВЫХ ФАКУ ЛЬТЕТОВ
+*Применение медиатекстов с целью
+*взаимосвязанного обу чения иностранному
+*языку и межку льтурному общению студ ентов
+*языковых факу льтетов
 Е. И. Шеваршинова
 Основной задачей данной статьи является показать возможность формирования иноязычной
 коммуникативной компетенции параллельно с формированием межкультурной компетен-
@@ -610,9 +610,9 @@ Keywords: politeness, etiquette, speech etiquette, taarof, speech situation, Ira
 тивность обучения языку и культуре совместно.
 Ключевые слова: медиатекст, межкультурная компетенция, коммуникативная компетен-
 ция, иностранные языки.
-APPLICATION OF MEDIA TEXTS FOR INTERRELATED FOREIGN
-LANGUAGE TEACHING AND INTERCULTURAL COMMUNICATION
-OF STUDENTS OF FOREIGN LANGUAGE FACULTIES
+*Application of media texts for interrelated foreign
+*language teaching and intercultural communication
+*of students of foreign language faculties
 E. I. Shevarshinova
 The article analyzes the possibilities to form both communicative and intercultural competence of
 the language department students using media texts of the country language they learn. The article is
@@ -622,9 +622,9 @@ at the foreign language lesson and the analysis of such methods which show a bet
 and learning language and culture together.
 Keywords: media text, intercultural competence, communicative competence, foreign languages.
  
-О РОЛИ ИНТЕЛЛЕКТУАЛЬНОГО НАЧАЛА
-В РАБОТЕ НАД ХУДОЖЕСТВЕННОЙ ЭМОЦИЕЙ
-В ПРОЦЕССЕ ПРЕПОДАВАНИЯ МУ ЗЫКИ
+*О роли интеллектуального начала
+*в работе над художественной эмоцией
+*в процессе преподавания му зыки
 Т. Б. Николаева-Солдатенкова
 Статья посвящена раскрытию месту интеллектуального начала в работе над художествен-
 ной эмоцией в музыкально-исполнительском классе. Опираясь на концепции отечественных и
@@ -634,8 +634,8 @@ Keywords: media text, intercultural competence, communicative competence, foreig
 ального начала, недооценка которого не дает возможности сполна реализовать ее педагогиче-
 ский потенциал.
 Ключевые слова: интеллектуальное начало, художественная эмоция, исполнительство.
-ON THE ROLE OF INTELLECTUAL BEGINNING
-IN WORKING ON ART EMOTION IN THE COURSE OF MUSIC TEACHING
+*On the role of intellectual beginning
+*in working on art emotion in the course of music teaching
 T. B. Nikolaeva-Soldatenkova
 The article expands on the place of intellectual beginning while working on art emotion in a musical
 and performing class. Following the concepts of Russian and foreign psychologists (L. S. Vygotsky, S.
@@ -654,8 +654,8 @@ Keywords: intellectual beginning, artistic emotion, performance.
 нов семьи, без учета возрастных особенностей и утомляемости детей, специфики детских
 интересов, эмоциональной насыщенности и их развивающего потенциала.
 Ключевые слова: досуг, досуговая деятельность, дошкольник, семья.
-FEATURES OF ORGANIZATION OF PRESCHOOL CHILDREN’S
-FAMILY LEISURE ACTIVITIES
+*Features of organization of preschool children’s
+*family leisure activities
 N. M. Shafran
 The author studies leisure time experience, activities typical of modern families with pre-school children
 and defines its contents and forms. The article analyses the most wide-spread activities. The
@@ -664,8 +664,8 @@ prefer activities for adults ignoring peculiarities of children’s age, physica
 and developing potential
 Keywords: leisure time, pastime activity, pre-school children, family.
  
-ПРЕДСТАВЛЕНИЯ О СОВЛАДАЮЩЕМ ПОВЕДЕНИИ
-В КОНТЕКСТЕ СОВРЕМЕННОГО ОБРАЗОВАНИЯ
+*Представления о совладающем поведении
+*в контексте современного образования
 М. В. Луева
 Автор статьи ставит вопрос о значении совладающего поведения в современном образовании
 и тех возможностях, которые открывает умения человека справляться со своими пережи-
@@ -681,7 +681,7 @@ Keywords: leisure time, pastime activity, pre-school children, family.
 ностями личности.
 Ключевые слова: совладающее поведение, образование, стратегии совладающего поведения,
 личностные особенности, подросток.
-IDEAS ON COPING BEHAVIOR IN THE CONTEXT OF MODERN EDUCATION
+*Ideas on coping behavior in the context of modern education
 M. V. Lueva
 The article deals with such an important issue as coping behavior in modern education, and those
 opportunities which open abilities of people to cope with their worries without creating contradictions

@@ -2,7 +2,7 @@
 Бежевец Д. А.
 В статье обозначена основная проблема духовно-нравственного образования школьников – проблема его организации. С этой целью предлагается модель эффективного управления духовно-нравственным образованием школьников и рассматриваются ее основные компоненты. На основе результатов внедрения этой модели в практику общеобразовательных школ прогнозируется возможность совершенствования и использования апробированной авторской рабочей программы в образовательном процессе школы.
 Ключевые слова: духовно-нравственное образование, модель управления духовно-нравственным образованием, управленческая образовательная среда школы, рабочая программа духовно-нравственного обучения и воспитания школьников.
-MODEL OF SUPERINTENDENCE OF PUPILS MORAL AND SPIRITUAL EDUCATION
+*Model of superintendence of PUPILS moral AND spiritual education
 Bezhevets D. A.
 In the article the main problem of pupils moral and spiritual education is emphasized, namely the problem of its organization. For that purpose the model of efficient superintendence of moral and spiritual education is proposed and its main components are considered. On the basis of the results of its implementation into the comprehensive school practice the possibility of improving the approved working program is predicted as well as its use in the school educational process.
 Keywords: moral and spiritual education, model of superintendence of moral and spiritual education, educational management environment of the school, working program of pupils moral and spiritual education.
@@ -43,11 +43,11 @@ Udovenko L. N.
 The article considers the problems of mathematical education in Russia. The main question is the problem of its contents. It can be solved by different means and methods. One of them can be the «logical designing» that represents specially organized activities of pupils connected with classifying objects, constructing objects with specified properties from certain parts, designing logic circuits, programs of activities, etc. The article gives examples of using tasks of constructing objects with specified properties from the specified parts in the process of teaching mathematics at school.
 Keywords: logical designing, classification, constructing objects with specified properties from certain parts.
  
-ТЕХНОЛОГИЯ ПРОЕКТИРОВАНИЯ ДИСТАНЦИОННОГО КУРСА «ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ» С ИСПОЛЬЗОВАНИЕМ LMS MOODLE
+*Технология проектирования дистанционного курса «Дифференциальные уравнения» с использованием LMS Moodle
 Муханов С. А., Муханова А. А.
 В данной статье рассматриваются вопросы проектирования дистанционного курса «Дифференциальные уравнения» с использованием системы дистанционного обучения Moolde с позиций осуществления эффективных коммуникаций между преподавателем и студентами.
 Ключевые слова: дистанционное обучение, проектирование учебного курса, Moodle.
-TECHNOLOGY OF DESIGNING THE DISTANCE COURSE “DIFFERENTIAL EQUATIONS” USING LMS MOODLE
+*Technology of designING THE distance course “Differential Equations” using LMS MOODLE
 Mukhanov S. A., Mukhanova A. A.
 The article deals with designing the distance course “Differential Equations” using Learning Management System Moolde from positions of implementing effective communications between teacher and students.
 Keywords: distance learning, designing an educational course, Moodle.
@@ -169,7 +169,7 @@ Sidorova O. S.
 This article is devoted to the problem of forming the social competence by younger pupils at foreign language lessons. Using the elements of a game, the teacher forms necessary universal educational actions due to which the social competence of younger pupils is formed.
 Keywords: social competence, younger pupils, game technologies, universal education actions.
  
-НЕОБХОДИМОСТЬ УЧЕТА КОГНИТИВНОГО СТИЛЯ РЕБЕНКА В ПРОЦЕССЕ ФОРМИРОВАНИЯ ПОЗНАВАТЕЛЬНЫХ СТРАТЕГИЙ В ИНОЯЗЫЧНОМ ОБРАЗОВАНИИ МЛАДШИХ ШКОЛЬНИКОВ
+*Необходимость учета когнитивного стиля ребенка в процессе формирования познавательных стратегий в иноязычном образовании младших школьников
 Филатова Е. А.
 Статья посвящена проблеме развития когнитивных стратегий. Автор предлагает возможные пути развития когнитивных стратегий в процессе обучения иностранному языку. В статье подчеркивается необходимость принятия во внимание основных особенностей обучения у детей с разным типом познавательных способностей.
 Ключевые слова: тип мышления, когнитивный стиль, когнитивные стратегии.
@@ -258,11 +258,11 @@ Tsvetkov V. Zh., Tsvetkova E. A.
 The article deals with the approach to learning history at secondary school using the elements of historical psychology and within this methodology one of «difficult questions» of National history is analyzed, namely the revolution of 1917 and the Civil war.
 Keywords: historical psychology, the concept of the New Educational and methodical complex on National history, revolution of 1917, Civil war, the White movement, Soviet system.
  
-ОЦЕНКА ЭФФЕКТИВНОСТИ ПРОГРАММ СЕМЕЙНОГО ФИЗИЧЕСКОГО ВОСПИТАНИЯ ПО ПОКАЗАТЕЛЯМ ФИЗИЧЕСКОГО РАЗВИТИЯ И ФИЗИЧЕСКОЙ ПОДГОТОВЛЕННОСТИ МЛАДШИХ ШКОЛЬНИКОВ
+*Оценка эффективности программ семейного физического воспитания по показателям физического развития и физической подготовленности младших школьников
 Ким Т. К.
 В статье представлены результаты использования в условиях образовательных учреждений различного типа программ семейного физического воспитания, как необходимого условия повышения эффективности физического воспитания детей и подростков и обеспечения качественного взаимодействия школы и семьи. Действенность программ оценивалась по показателям физического развития и физической подготовленности младших школьников, участвовавших в опытно-экспериментальной работе. Полученный фактический материал позволяет констатировать прирост тестовых показателей по всем оцениваемым параметрам у учащихся экспериментальных групп на статистически достоверном уровне и достижение ими нормативных показателей уровня развития физических качеств и сопряженных с ними двигательных способностей по сравнению с их сверстниками из контрольных групп. Также полученные результаты указывают на равномерный прирост отдельных морфометрических параметров, позволяющих судить о положительных приспособительных изменениях со стороны отдельных систем организма младших школьников.
 Ключевые слова: здоровье, физическое развитие, физическая подготовленность, младшие школьники, семейное физическое воспитание.
-ASSESSMENT OF EFFICIENCY OF FAMILY PHYSICAL TRAINING PROGRAMS ON INDICATORS OF PHYSICAL DEVELOPMENT AND PHYSICAL FITNESS BY YOUNGER PUPILS
+*Assessment of efficiency of family physical training programs on indicators of physical development and physical FITNESS BY younger PUPILS
 Kim T. K.
 The article deals with the results of using various types of programs of family physical training in the context of educational institutions as a necessary condition for increasing the efficiency of children’s and teenagers’ physical training and for providing high-quality interaction of school and family. Effectiveness of programs was estimated on indicators of physical development and physical fitness of younger pupils that participated in developmental and experimental work. The received factual material allows stating the growth of test indicators on all estimated parameters by pupils of experimental groups at the statistically-valid level and their achieving statutory indicators on the level of development of physical qualities as well as of the moving abilities connected with them in comparison with their contemporaries from control groups. In addition, the obtained results indicate a uniform gain of the separate morphometric parameters, allowing to judge about positive adaptive changes from separate systems of younger pupils’ organism.
 Keywords: health, physical development, physical fitness, younger pupils, family physical training.
@@ -298,7 +298,7 @@ Keywords: education, classification, folk toys, types of traditional folk toys, 
 Дубов А. М., Кузьменко Г. А.
 В условиях освоения содержания программы дисциплины «Агентская деятельность в спорте» среди магистрантов и бакалавров факультета физической культуры особую значимость приобретает технология оценки качества сформированности профессиональной компетентности, которая опирается на конструктивное использование межпредметных и надпредметных связей. Структура и содержание образовательной деятельности обучающегося основывается на этапности формирования профессиональной компетентности и разносторонности требований к профессиональной подготовке спортивного агента в аспектах теорети­ко-методической, организационно-управленческой, психолого-педагогической компетентности, компетентности в области медико-биологического сопровождения, консалтинга и экономического сопровождения, в области развития имиджа организации и субъекта деятельности, позволяющих оказывать социально значимую поддержку процессу становления и развития личности спортсмена.
 Ключевые слова: агентская деятельность, профессиональное образование, профессиональная компетентность, освоение образовательной программы, технология оценки качества, технологическая карта формирования профессиональной компетентности.
-THE QUALITY EVOLUTION TECHNOLOGY OF THE LEVEL OF COMPETENCE OF MASTERS AND BACHELORS IN THE FIELD OF AGENTS` ACTIVITIES.
+*The quality evolution technology of the level of competence of Masters and Bachelors in the field of agents` activities.
 Dubov A. M., Kuzmenko G. A.
 In the context of mastering the contents of the program «Agent Activity in Sports» by Master’s and Bachelor’s degree students of the Faculty of Physical Culture the technology of evaluating the quality of professional competence level gains a special significance. This technology is based on the constructive usage of intersubject and supersubject communications. The structure and contents of students’ educational activities are based on the stage-by-stage approach to forming the professional competence and on the versatility of the requirements to the professional training of sports agents in terms of theoretical and methodical, organizational and managerial, psychological and pedagogical competence as well as the competence in the field of medical and biological support, consulting and economical support in the sphere of organization’s and process owner’s image development, which allow to provide socially significant support to the process of formation and development of sportsman’s personality.
 Keywords:
@@ -379,7 +379,7 @@ Keywords: gender, gender stratification, gender approach, education of social se
 Лазарева М. В., Хрипункова О. В.
 В статье рассматриваются психофизиологические и психологические механизмы педагогической интеграции. Подчеркивается важность педагогической интеграции (интеграции образовательного процесса), которая создает благоприятные условия для всестороннего гармоничного развития ребенка.
 Ключевые слова: педагогическая интеграция, психофизиологический и психологический аспект, механизм, ассоциация.
-PSYCHOPHYSIOLOGICAL AND PSYCHOLOGICAL MECHANISMS OF PEDAGOGICAL INTEGRATION
+*Psychophysiological and psychological mechanisms of pedagogical integration
 Lazareva M. V., Khripunkova O. V.
 The article analyzes psychophysiological and psychological mechanisms of pedagogical integration. The importance of pedagogical integration (integration of educational process) is emphasized, which creates favorable conditions for the all-round and harmonious development of the child.
 Keywords: pedagogical integration, psychophysiological and psychological aspect, mechanism, association.

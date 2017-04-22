@@ -1,4 +1,4 @@
-ПРОБЛЕМА РАСХОЖДЕНИЯ ОБРАЗОВАТЕЛЬНОГО СТАНДАРТА И ПРАКТИКИ ПРЕПОДАВАНИЯ РУССКОЙ ЛИТЕРАТУРЫ КИТАЙСКИМ СТУДЕНТАМ-РУСИСТАМ
+*Проблема расхождения образовательного стандарта и практики преподавания русской литературы китайским студентам-русистам
 Ван Цзясин, В. Д. Янченко
 В статье рассмотрена проблема расхождения между требованиями образовательного стан-
 дарта по литературе и практикой ее преподавания в вузах Китая. Подчеркнута необходи-
@@ -9,7 +9,7 @@
 литературой.
 Ключевые слова: образовательный стандарт по литературе, русский язык как иностран-
 ный, роль художественной литературы, методика «медленного чтения».
-THE PROBLEM OF DIVERGENCE OF THE EDUCATIONAL STANDARD AND PRACTICE OF TEACHING RUSSIAN LITERATURE TO THE CHINESE STUDENTS OF RUSSIAN PHILOLOGY
+*The problem of divergence of the educational standard and practice of teaching Russian literature to the Chinese students of Russian philology
 Wang Jiaxing, V. D. Yanchenko
 The article considers the divergence problem between requirements of the educational standard for
 literature and practice of its teaching in higher education institutions of China. The necessity to comply
@@ -30,9 +30,9 @@ e-mail: v.d.yanchenko@gmail.com
 Yanchenko Vladislav D., S cD in Education, Professor, Theory and practice of teaching Russian language and Russian
 as a second language Department, Moscow State Pedagogical University
 e-mail: v.d.yanchenko@gmail.com
-МУЗЫКАЛЬНАЯ И ОБЩАЯ КУЛЬТУРА –
-СТЕРЖЕНЬ ПРЕЕМСТВЕННОСТИ
-В МУЗЫКАЛЬНОМ РАЗВИТИИ ДЕТЕЙ
+*Музыкальная и общая культура –
+*стержень преемственности
+*в музыкальном развитии детей
 О. П. Радынова
 В статье обосновывается актуальность проблемы преемственности на современном этапе
 развития науки и практики дошкольного образования; раскрываются основные интегратив-
@@ -46,8 +46,8 @@ e-mail: v.d.yanchenko@gmail.com
 Ключевые слова: дошкольное образование, технология, музыкальная культура, художествен-
 ная культура, общая культура, музыкальная классика, методы воспитания, преемствен-
 ность, интеграция образовательных областей.
-MUSIC AND GENERAL CULTURE – A CORE OF CONTINUITY
-IN THE MUSICAL DEVELOPMENT OF CHILDREN
+*Music and general culture – a core of continuity
+*in the musical development of children
 O. P. Radynova
 The article reveals the relevance of the problem of continuity at the present stage of development of the
 science and practice of pre-school education and analyzes the basic integrative processes, methods and
@@ -66,8 +66,8 @@ e-mail: olgaradynova@mail.ru
 Radynova Olga P., S cD in Education, Professor, Acting Chairperson, Aesthetic Education of preschool children
 Department, Moscow State Pedagogical University
 e-mail: olgaradynova@mail.ru
-ПОНЯТИЕ «ПОЗНАВАТЕЛЬНАЯ САМОСТОЯТЕЛЬНОСТЬ»:
-ИСТОРИКО-ПЕДАГОГИЧЕСКИЙ АНАЛИЗ
+*Понятие «познавательная самостоятельность»:
+*историко-педагогический анализ
 Я. Н. Носикова
 В статье рассматривается проблема развития познавательной самостоятельности в обра-
 зовании. Понятие «познавательная самостоятельность» представлено как отдельный фено-
@@ -80,8 +80,8 @@ e-mail: olgaradynova@mail.ru
 Ключевые слова: познавательная самостоятельность, активизация учебной деятельности,
 методы организации самостоятельной работы в образовании, инициативность, навыки само-
 стоятельной деятельности, самостоятельное познание.
-THE CONCEPT OF “COGNITIVE INDEPENDENCE”: HISTORICAL AND
-PEDAGOGICAL ANALYSIS
+*The concept of “cognitive independence”: historical and
+*pedagogical analysis
 Ya. N. Nosikova
 The article deals with the problem of cognitive independence development in education. The concept of
 “cognitive independence” is presented as a separate phenomenon that has gnoseological, psychological
@@ -97,10 +97,10 @@ e-mail: ynn@inbox.ru
 Nosikova Yana N., extended education teacher, State Budget Educational Institution, No.1302 Moscow Secondary
 School with advanced study of languages, Post-Graduate Student, Moscow City Teacher Training University
 e-mail: ynn@inbox.ru
-ИСПОЛЬЗОВАНИЕ ИНТЕРАКТИВНОЙ ГЕОМЕТРИЧЕСКОЙ
-СРЕДЫ GEOGEBRA ПРИ ПРОБЛЕМНОМ ОБУЧЕНИИ
-НА ПРИМЕРЕ РЕШЕНИЯ НЕЛИНЕЙНЫХ СИСТЕМ
-УРАВНЕНИЙ С ДВУМЯ ПЕРЕМЕННЫМИ
+*Использование интерактивной геометрической
+*среды GeoGebra при проблемном обучении
+*на примере решения нелинейных систем
+*уравнений с двумя переменными
 Ю. В. Садовничий, Р. М. Туркменов
 В данной статье представлен новый информационный подход к обучению решению нелинейных си-
 стем уравнений с двумя переменными. В качестве основного инструмента для построения процес-
@@ -114,9 +114,9 @@ e-mail: ynn@inbox.ru
 нелинейных систем уравнений с двумя неизвестными для иллюстрации всех возможных случаев.
 Ключевые слова: метод проблемного обучения, профильное обучение, системы нелинейных
 уравнений, нестандартные уравнения, интерактивная геометрическая среда Geogebra.
-THE USE OF INTERACTIVE GEOMETRIC ENVIRONMENT GEOGEBRA
-WHILE PROBLEM-BASED TEACHING ON THE EXAMPLE OF SOLVING
-NONLINEAR SYSTEMS OF EQUATIONS WITH TWO VARIABLES
+*The use of interactive geometric environment GeoGebra
+*while problem-based teaching on the example of solving
+*nonlinear systems of equations with two variables
 Yu. V. Sadovnichiy, R. M. Turkmenov
 The article presents a new information approach to teaching in solving nonlinear systems of equations
 with two variables. As the main tool for building the learning process in the form of a method of problem
@@ -155,8 +155,8 @@ e-mail: mathrobert@mail.ru
 ность контекстного обучения для формирования информационной культуры студентов.
 Ключевые слова: высшая школа, преподавание информационных технологий, контекстный
 подход.
-CONTEXT UAL APPROACH TO INFORMATION TECHNOLOGIES STUDY
-IN PEDAGOGICAL HIGHER EDUCATION INSTITUTIONS
+*Context ual approach to information technologies study
+*in Pedagogical Higher Education Institutions
 S. G. Gilmiyarova, L. N. Titova, L. V. Tikhonova
 The article considers the ways of teaching information disciplines in pedagogical higher education
 institutions. The main attention is paid to the introduction of contextual approach which allows to
@@ -184,8 +184,8 @@ e-mail: tludmila7@gmail.com
 e-mail: Lilija1229@yandex.ru
 Tikhonova Liliya V., P ost-graduate student, M. Akmulla Bashkir State Pedagogical University, Ufa
 e-mail: Lilija1229@yandex.ru
-РЕЗЕРВЫ РОСТА ПРОИЗВОДИТЕЛЬНОСТИ ТРУДА
-И СТРАТЕГИЯ ПАРТНЕРСКОГО ВЗАИМОДЕЙСТВИЯ
+*Резервы роста производительности труда
+*и стратегия партнерского взаимодействия
 Д. В. Иванова, С. Ю. Иванов
 В статье рассматриваются основные факторы, влияющие на рост производительности тру-
 да в российской экономике. Определены стратегические приоритеты развития социального
@@ -199,7 +199,7 @@ e-mail: Lilija1229@yandex.ru
 через систему среднего профессионального и дополнительного профессионального образования.
 Ключевые слова: производительность труда, рынок труда, рабочая сила, оплата труда, со-
 циальное партнерство, переговорный процесс.
-RESERVES OF LABOR PRODUCTIVITY GROWTH AND PARTNERSHIP STRATEGY
+*Reserves of labor productivity growth and partnership strategy
 D. V. Ivanova, S. Yu. Ivanov
 The article considers the main factors influencing the growth of labor productivity in the Russian economy,
 strategic priorities of development of social partnership in the context of improving productivity
@@ -223,7 +223,7 @@ Ivanov Sergey Yu., S cD in Sociology, Associate Professor, Professor,Theory and 
 Moscow State Pedagogical University
 e-mail: av5401@comtv.ru
 
-ОБРАЗОВАНИЕ ДЛЯ СРЕДНЕГО КЛАССА
+*Образование для среднего класса
 Е. Б. Куркин
 Средний класс – самая многочисленная, образованная и социально устойчивая часть населения
 высокоразвитых стран постиндустриальной эпохи. Будущее России, ее экономическое и социаль-
@@ -236,7 +236,7 @@ e-mail: av5401@comtv.ru
 Ключевые слова: средний класс, меритократическое общество, технократизм и технокра-
 тия в образовании, непрерывное образование, уравновешенная общность, антиобразователь-
 ный опыт, реальная школа, образование и профессиональная подготовка.
-EDUCATION FOR THE MIDDLE CLASS
+*Education for the middle class
 E. B. Kurkin
 Middle class is the most numerous, educated and socially sustainable part of the population of
 the advanced countries of post-industrial era. The future of Russia, its economic and social development
@@ -287,9 +287,9 @@ e-mail: i.v.ilichewa@gmail.com
 Ilyichova I.V., H onoured Teacher of Russia, Principal of Gymnasium No. 1409, Moscow
 e-mail: i.v.ilichewa@gmail.com
 
-НАУЧНОЕ ОБОСНОВАНИЕ МЕХАНИЗМОВ И ФУНКЦИЙ
-УПРАВЛЕНИЯ СИСТЕМОЙ НЕПРЕРЫВНОЙ
-ПРОФЕССИОНАЛЬНОЙ ПОДГОТОВКИ СПЕЦИАЛИСТОВ
+*Научное обоснование механизмов и функций
+*управления системой непрерывной
+*профессиональной подготовки специалистов
 Л. В. Нестерова
 Современные требования к качеству образования определяют новые требования к организа-
 ции профессиональной подготовки специалистов. В условиях внедрения федеральных государ-
@@ -304,8 +304,8 @@ e-mail: i.v.ilichewa@gmail.com
 Ключевые слова: непрерывная профессиональная подготовка специалистов, функции управ-
 ления, механизмы управления, условия функционирования системы, критерии достижения
 результативности.
-SCIENTIFIC SUBSTANTIATION OF MECHANISMS AND FUNCTIONS OF
-CONTINUOUS PROFESSIONAL TRAINING SYSTEM MANAGEMENT
+*Scientific substantiation of mechanisms and functions of
+*continuous professional training system management
 L. V. Nesterova
 Modern requirements to quality of education define new demands to the organization of vocational
 training of experts. In terms of Federal State Educational Standards, the requirements to administrative
@@ -324,9 +324,9 @@ Nesterova Lyudmila V., H eadmistress, Nefteyugansk Industrial College (branch) �
 student, Yugra State University
 e-mail: n-lv@mail.ru
 
-ОЦЕНКА АДАПТАЦИИ ПЕРВОКЛАССНИКОВ
-К ОБРАЗОВАТЕЛЬНОЙ СРЕДЕ С ИСПОЛЬЗОВАНИЕМ
-МЕТОДОВ САНОГЕНЕТИЧЕСКОГО МОНИТОРИНГА
+*оценка адаптации первоклассников
+*к образовательной среде с использованием
+*методов саногенетического мониторинга
 Н. Б. Панкова, Е. Б. Романова, О. Л. Кирпанева,
 М. Ю. Карганов
 Проведено двукратное, в начале и конце учебного года, тестирование показателей психомо-
@@ -342,8 +342,8 @@ e-mail: n-lv@mail.ru
 успеваемостью первоклассников.
 Ключевые слова: психомоторная интеграция, адаптация, саногенетический мониторинг,
 школьники.
-ASSESSMENT OF ADAPTATION OF FIRST-GRADERS TO THE
-EDUCA TIONAL ENVIRONMEN T USING THE METHODS OF SANOGENETIC MONITORING
+*Assessment of adaptation of first-graders TO THE
+*EDUCA TIONAL ENVIRONMEN T USING THE METHODS OF sanogenetic MONITORING
 N. B. Pankova, E. B. Romanova, O. L. Kirpanyova,
 M. Yu. Karganov
 Double testing of indicators of psychomotor integration is carried out, at the beginning and the end
@@ -383,7 +383,7 @@ Karganov Mikhail Yu., S cD. in Biology, Professor, Head of Laboratory of Physica
 Institute of General Pathology and Pathophysiology
 e-mail: mkarganov@mail.ru
 
-МЕХАНИЗМ ОБРАТНОЙ СВЯЗИ СО СЛУШАТЕЛЯМИ КАК ЭЛЕМЕНТ МОНИТОРИНГА КАЧЕСТВА ОБРАЗОВАНИЯ: ОПЫТ ГАОУ ВПО МИОО
+*Механизм обратной связи со слушателями как элемент мониторинга качества образования: опыт ГАОУ ВПО МИОО
 Т. В. Расташанская, О. А. Самаркин, К. А. Табаровская
 Статья посвящена актуальной для системы дополнительного профессионального образова-
 ния (ДПО) проблеме мониторинга оценки качества образования. Такой мониторинг вменен
@@ -401,7 +401,7 @@ e-mail: mkarganov@mail.ru
 нительная профессиональная программа (ДПП), слушатели ДПП, мониторинг оценки каче-
 ства образования, образовательные услуги, методы исследования, механизм обратной связи
 со слушателями, анкетирование, фокусированное групповое интервью, экспертное интервью.
-FEEDBACK MECHANISM AS A PART OF EDUCATION QUALITY MONITORING SYSTEM: MOSCOW INSTITUTE OF OPEN EDUCATION EXPERIENCE
+*Feedback mechanism as a part of Education Quality Monitoring System: Moscow Institute of Open Education experience
 T. V. Rastashanskaya, O. A. Samarkin, K. A. Tabarovskaya
 The article deals with the monitoring of quality evaluation as an issue of the day for Continuing Professional
 Education (CPE) system. The monitoring is obligatory by Federal Law for all educational
@@ -446,8 +446,8 @@ e-mail: TabarovskayaKA@mioo.ru
 с использованием новейших информационных технологий.
 Ключевые слова: информационные технологии, информатизация, интенсификация учебного
 процесса, новые педагогические технологии, электронные учебные пособия.
-THE ROLE OF INFORMATION TECHNOLOGIES
-IN IMPROVING THE QUALITY OF VOCATIONAL EDUCATION
+*The role of information technologies
+*in improving the quality of vocational education
 R. M. Aslanov, E. V. Belyaeva
 The article considers the history of development of the process of Informatization in the Russian Federation,
 the development of information technologies and key aspects of their application in training
@@ -471,9 +471,9 @@ e-mail: r_aslanov@list.ru
 Belyaeva Elena V., P hD in Education, Associate Professor, Informatics Department, Ulyanovsk Higher Civil Aviation
 School
 e-mail: r_aslanov@list.ru
-КОНЦЕПТУАЛЬНЫЕ ОСНОВЫ КОГНИТИВНОЙ СТРАТЕГИИ
-ЛИНГВОМЕТОДИЧЕСКОЙ ПОДГОТОВКИ БАКАЛАВРОВ –
-БУДУЩИХ УЧИТЕЛЕЙ РУССКОГО ЯЗЫКА
+*Концептуальные основы когнитивной стратегии
+*лингвометодической подготовки бакалавров –
+*будущих учителей русского языка
 Н. А. Исаева
 В статье рассматривается профессиональное становление бакалавра – будущего учителя рус-
 ского языка на основе фундаментальных научных знаний – лингвистических и методических.
@@ -494,9 +494,9 @@ e-mail: r_aslanov@list.ru
 Ключевые слова: когнитивная стратегия, лингвометодическая подготовка, бакалавр педа-
 гогического образования, когнитивный подход, деятельностный подход, лингвистическое и ме-
 тодическое мышление, интеллектуальное развитие.
-CONCEPTUAL BASES OF COGNITIVE STRATEGY OF LINGUISTIC AND
-METHODICAL TRAINING OF BACHELORS – FUTURE TEACHERS OF
-RUSSIAN LANGUAGE
+*Conceptual bases of cognitive strategy of linguistic and
+*methodical training of bachelors – future teachers of
+*Russian language
 N. A. Isaeva
 The article deals with the professional formation of bachelors – future teachers of Russian language on
 the basis of fundamental scientific knowledge both linguistic and methodical. This direction of training
@@ -523,8 +523,8 @@ Isaeva Nina A., P hD in Philology, Associate Professor, Russian Language Departm
 State University, Post-doctoral student, Moscow State Pedagogical University
 e-mail: isaeva178@mail.ru
 
-ЛИТЕРАТУРНЫЙ ТЕКСТ КАК ФАКТ КУЛЬТУРНОГО
-ОТБОРА ДЛЯ ЦЕЛЕЙ ОБРАЗОВАНИЯ1
+*Литературный текст как факт культурного
+*отбора для целей образования1
 О. Э. Хазанова
 Статья посвящена вопросу формирования корпуса образцовых литературно-художествен-
 ных текстов, которые могли бы стать основой для изучения современной русской и ан-
@@ -547,7 +547,7 @@ e-mail: isaeva178@mail.ru
 Ключевые слова: образование, литературный канон, литературный процесс, ключевые ли-
 тературные тексты, культурные заимствования, формирование литературных хрестома-
 тий XX–XXI вв.
-LITERARY TEXT AS A FACT OF CULTURAL SELECTION FOR EDUCATION
+*Literary text as a fact of cultural selection for education
 O. E. Khazanova
 The article deals with the problem of formation of model literary and art texts which could become a
 basis for studying modern Russian and English literature at school. The two literatures are regarded
@@ -585,8 +585,8 @@ e-mail: olga_edwards@inbox.ru
 ференцированные направления работы с детьми, имеющими дизартрию, алалию, заикание.
 Ключевые слова: нарушения речи у детей, ритмические процессы, логопедическая ритмика,
 двигательное обучение, педагогическая модель, психосенсомоторный речевой стереотип.
-PEDAGOGICAL MODEL OF SPEECH AND MOTOR RHYTHMS CORRECTION
-IN CHILDREN WITH SPEECH AND LANGUAGE DISORDERS
+*Pedagogical model of speech and motor rhythms correction
+*in children with speech and language disorders
 L. I. Belyakova, Yu. O. Filatova
 Experimentally identified disorders of speech and motor rhythm in children with various speech and
 language disorders are one of the bases for development of new correctional motor learning model. The
@@ -608,7 +608,7 @@ Filatova Yulia O., PhD in Education, Associate Professor, Logopedics Department,
 of Childhood, Moscow State Pedagogical University
 e-mail: yofilatova@yandex.ru
 
-БЛАГОТВОРИТЕЛЬНАЯ ДЕЯТЕЛЬНОСТЬ В СССР ПО ПРЕОДОЛЕНИЮ МАССОВОЙ ДЕТСКОЙ БЕСПРИЗОРНОСТИ (1917–1935 ГГ.)
+*Благотворительная деятельность в СССР по преодолению массовой детской беспризорности (1917–1935 гг.)
 Д. В. Потепалов, С. А. Днепров
 Статья привлечет внимание специалистов, изучающих содержание, методы и формы соци-
 альной поддержки детей-сирот и детей, оставшихся без попечения родителей, реализовывав-
@@ -621,7 +621,7 @@ e-mail: yofilatova@yandex.ru
 ветской России.
 Ключевые слова: детская беспризорность, дети-сироты, детство, благотворительность,
 филантропия.
-CHARITY IN THE USSR TO OVERCOM YOUTH HOMELESSNESS (1917–1935)
+*Charity in the USSR to overcom youth homelessness (1917–1935)
 D. V. Potepalov, S. A. Dneprov
 The article deals with the issues of the history of homeless children in Russia. It gives detailed analysis
 of Soviet and post-Soviet emigrant literature on the causes of homelessness among children in the
@@ -645,7 +645,7 @@ Dneprov Sergey A., S cD in Education, Professor, Honored worker, Higher Professi
 Professional Pedagogy Department, Russian State Vocational Pedagogical University, Ekaterinburg
 e-mail: dneprov_sa@mail.ru
 
-СОВЕТИЗАЦИЯ УЧИТЕЛЬСТВА НА ДАЛЬНЕМ ВОСТОКЕ В 20-Е ГОДЫ ХХ ВЕКА
+*Советизация учительства на Дальнем Востоке в 20-е годы ХХ века
 Н. И. Сеник
 В статье рассматривается одна из задач истории педагогики – формирование учительства
 в 20-е гг. ХХ в. на Дальнем Востоке. На основе фактического материала анализируются спо-
@@ -661,7 +661,7 @@ e-mail: dneprov_sa@mail.ru
 ческой силой советского государства.
 Ключевые слова: советизация, учительство, факторы, коммунистическое перерождение,
 тенденции, политизация.
-SOVIETIZATION OF TEACHING IN THE FAR EAST IN THE 20-IES OF THE TWENTIETH CENTURY
+*Sovietization of teaching in the Far East in the 20-ies of the twentieth century
 N. I. Senik
 The article discusses one of the issues of the history of education - teaching in the formation of the 20-
 ies of XX century in the Far East. Based on this material, the ways to provide the school network of
@@ -681,7 +681,7 @@ Senik Natalia I., A ssociate Professor, Management and Economics of Education De
 Institute of Education Development
 e-mail: Senik_n_i@mail.ru
 
-ПОНИМАНИЕ ВОСПИТАНИЯ В ФИЛОСОФИИ «МОСКОВСКОЙ ШКОЛЫ»1
+*Понимание воспитания в философии «московской школы»1
 С. И. Скороходова
 В статье рассматривается понимание воспитания в философии представителей «московской
 школы». На основании анализа их основных взглядов делается вывод о том, что духовное и
@@ -720,7 +720,7 @@ Skorokhodova Svetlana I., S cD in Philosophy, Associate Professor, Philosophy De
 University
 e-mail: eleonora_reut@mail.ru
 
-СИСТЕМА СОЦИОКУЛЬТУРНО-ПЕДАГОГИЧЕСКОЙ ЭМОТИВАЦИИ КАК ОДНА ИЗ СТРАТЕГИЧЕСКИХ ОБЛАСТЕЙ ОБЩЕСТВЕННОЙ БЕЗОПАСНОСТИ РОССИЙСКОГО ОБЩЕСТВА
+*Система социокультурно-педагогической эмотивации как одна из стратегических областей общественной безопасности российского общества
 А. Ю. Гончарук
 Для российского общества в XXI в. первостепенное значение имеет развитие коммуникатив-
 ных компетенций современного студента, учащегося бакалавриата, магистранта, аспиран-
@@ -750,7 +750,7 @@ e-mail: eleonora_reut@mail.ru
 Ключевые слова: аналитические проблемы, социально-педагогическая мотивация, социально-
 педагогическое образование, инновации, информационные и коммуникационные подходы, ком-
 плексное решение, системы авторского права.
-SYSTEM OF A SOCIAL, CULTURAL AND PEDAGOGICAL EMOTIVATIONS AS ONE OF STRATEGIC AREAS OF PUBLIC SAFETY OF RUSSIAN SOCIETY
+*System of a social, cultural and pedagogical emotivations as one of strategic areas of public safety of Russian society
 A. Yu. Goncharuk
 For the contemporary Russian society the development of communicative competences of modern bachelor
 students, post-graduate students, doctoral students of social or family pedagogy departments is
@@ -795,7 +795,7 @@ e-mail: a-goncharuk@bk.ru
 бежно приводят к плюрализму философских концепций и веры их авторов в их ценность.
 Ключевые слова: философская вера, научная вера, религиозная вера, интуиция, убеждения
 личности, философские и научные принципы, вера и постулаты, плюрализм философии.
-THE PHENOMENON OF PHILOSOPHICAL BELIEF
+*The PHENOMENON OF PHILOSOPHICAL BELIEF
 V. N. Knyazev
 The article considers the status of philosophical belief as a form of spirituality. Traditionally philosophy
 is treated as philosophical knowledge and philosophical activity (philosophizing). Philosophical belief is
@@ -840,7 +840,7 @@ e-mail: victor_knyazev@rambler.ru
 го-педагогическая культура, методика, логика, логическая культура, закон тождества, закон
 противоречия.
  
-TO THE ISSUE OF THE HIGHER SCHOOL TEACHERS’ LOGICAL CULTURE
+*To the issue of the higher school teachers’ logical culture
 D. A. Gusev
 The article deals with the important concept of teachers’ logical culture. The degree of efficiency of educational
 process is largely associated with the logical level of culture in teaching. One of the main reasons
@@ -876,7 +876,7 @@ e-mail: gusev.d@bk.ru
 стемы педагогической культуры, культурологический принцип организации педагогического
 процесса, методы формирования педагогической культуры у родителей дошкольников.
  
-CHARACTERISTICS OF PEDAGOGICAL CULTURE OF TEACHERS AND PARENTS OF PRESCHOOL CHILDREN
+*Characteristics of pedagogical culture of teachers and parents of preschool children
 N. A. Moreva, Yu. A. Dmitriev, T. V. Krotova
 The article deals with the concept of pedagogical culture, explains its significance in preschool institution
 and family education, defines types of pedagogical culture, reveals cultural principles of structuring
@@ -902,7 +902,7 @@ Krotova Tatiana V., P hD in Education, Associate Professor, Pre-school Pedagogy 
 Pedagogical University
 e-mail: krotovatv75@mail.ru
  
-ПОДГОТОВКА ПЕДАГОГА-МУЗЫКАНТА ДЛЯ ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ: ПРОШЛОЕ И НАСТОЯЩЕЕ (ИЗ ИСТОРИИ МУЗЫКАЛЬНОГО ФАКУЛЬТЕТА МПГУ )
+*Подготовка педагога-музыканта для общеобразовательной школы: прошлое и настоящее (из истории музыкального факультета МПГУ )
 Т. Г. Мариупольская
 В статье рассматривается процесс зарождения и становления отечественной школы подго-
 товки учителей музыки. За прошедшие 55 лет со времени создания музыкального факультета
@@ -920,7 +920,7 @@ e-mail: krotovatv75@mail.ru
 Ключевые слова: учитель музыки, музыкальный факультет, концепция развития системы
 музыкально-педагогического образования.
  
-TRAINING OF THE TEACHER-MUSICIAN FOR COMPREHENSIVE SCHOOL: THE PAST AND THE PRESENT (FROM THE HISTORY OF MUSICAL FACULTY OF MOSCOW STATE PEDAGOGICAL UNIVERSITY)
+*Training of the teacher-musician for comprehensive school: the past and the present (from the history of Musical Faculty of Moscow State Pedagogical University)
 T. G. Mariupolskaya
 The article considers the process of origin and formation of domestic school of training teachers of
 music. For the last 55 year since the foundation of Musical Faculty in Moscow State Pedagogical
@@ -941,7 +941,7 @@ Mariupolskaya Tatiana G., S cD in Education, Professor, Music and Performing Art
 Moscow State Pedagogical University
 e-mail: t.g.mari@mail.ru
  
-К ВОПРОСУ О СЦЕНИЧЕСКОМ ВОЛНЕНИИ ЭСТРАДНОГО ПЕВЦА
+*К вопросу о сценическом волнении эстрадного певца
 Е. В. Петренко
 Статья посвящена проблеме формирования сценического состояния эстрадных певцов. Рас-
 крываются психолого-педагогические условия наиболее эффективного воздействия на арти-
@@ -952,7 +952,7 @@ e-mail: t.g.mari@mail.ru
 ское состояние, эстрадное пение, профессиональная деятельность, высокохудожественный ре-
 пертуар, компетенция эстрадных певцов, качественные характеристики, учебный процесс.
  
-TO THE QUESTION OF STAGE FRIGHT OF A POP SINGER
+*To the question of stage fright of a pop singer
 E. V. Petrenko
 The article is devoted to the problem of forming stage anxiety of pop singers. Psychology and pedagogical
 conditions of the most effective impact on actors is revealed. This problem is considered from the
@@ -991,9 +991,9 @@ e-mail: Маrgatova@list.ru
 ностная, метапредметная, предметная направленность, сферы личности, структура обра-
 зовательной деятельности.
  
-STUDY OF THE CONTENT OF PEDAGOGICAL REQUIREMENTS
-TO THE TEENAGER'S INTELLECTUAL ACTIVITY ORIENTED
-ON THE QUALITY OF EDUCATIONAL AND SPORTING ACHIEVEMENTS
+*Study of the content of pedagogical requirements
+*to the teenager's intellectual activity oriented
+*on the quality of educational and sporting achievements
 Т. N. Lugovskikh, G. A. Kuzmenko
 The article deals with the research results of the structure and content of training requirements of
 teachers and coaches that need to provide quality of intellectual and sports activity of a teenage
@@ -1022,7 +1022,7 @@ Kuzmenko Galina A., P hD in Education, Associate Professor, Theoretical Basis of
 Moscow State Pedagogical University
 e-mail: kuzmenkoga2010@yandex.ru
  
-ИССЛЕДОВАНИЕ ЭФФЕКТИВНОСТИ ПУТЕЙ ВОВЛЕЧЕНИЯ МОЛОДЕЖИ В ВОЛОНТЕРСКУЮ ДЕЯТЕЛЬНОСТЬ В НАРОДНОЙ ДРУЖИНЕ
+*Исследование эффективности путей вовлечения молодежи в волонтерскую деятельность в народной дружине
 А. А. Семенов
 В статье отражены вопросы, связанные с рассмотрением сущности, содержания и видов во-
 лонтерской деятельности как социокультурного и педагогического феномена на современном
@@ -1034,7 +1034,7 @@ e-mail: kuzmenkoga2010@yandex.ru
 Ключевые слова: волонтерство, волонтерская деятельность, народная дружина, отноше-
 ние молодежи к волонтерской деятельности, пути привлечения молодежи к волонтерской
 деятельности.
-RESEARCH OF EFFICIENCY OF WAYS OF YOUTH VOLUNTEER INVOLVEMENT IN THE NATIONAL TEAM ACTIVITIES
+*Research of efficiency of ways of youth volunteer involvement in the National team activities
 A. A. Semenov
 The article highlights the issues connected with the essence and different kinds of volunteer activities
 as social and cultural phenomena on current stage of Russian society's development. The article represents
@@ -1046,4 +1046,7 @@ Keywords: volunteering, volunteer activity, national druzhina, youth's relation 
 ways to attract youth to volunteering.
  
 Семенов Александр Александрович, аспирант Московского педагогического государственного универ-
-ситета Тел. +7-915-008-35-51 Semenov Alexandr A., Post-Graduate Student, Moscow State Pedagogical University Тел. +7-915-008-35-51
+ситета
+Тел. +7-915-008-35-51
+Semenov Alexandr A., Post-Graduate Student, Moscow State Pedagogical University
+Тел. +7-915-008-35-51

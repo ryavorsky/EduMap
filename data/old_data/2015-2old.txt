@@ -1,5 +1,5 @@
-ПОДГОТОВКА СТУДЕНТОВ К ИННОВАЦИОННОЙ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ В УСЛОВИЯХ РЕГИОНАЛЬНОГО ИНФОРМАЦИОННОГО
-ОБРАЗОВАТЕЛЬНОГО ПРОСТРАНСТВА
+*Подготовка студентов к инновационной проектной деятельности в условиях регионального информационного
+*образовательного пространства
 Л. А. Мокрецова, Е. В. Дудышева, Л. А. Романова
 Аннотация. Ресурсы информационного образовательного пространства для развития регионального инно-
 вационного предпринимательства в вузах базируются на коммуникациях с бизнес-инкубато-
@@ -34,7 +34,7 @@
 заказчиками и потребителями.
 Ключевые слова: инновационная проектная деятельность, информационное образователь-
 ное пространство, педагогическое сопровождение, молодежные форумы. 
-TRAINING OF STUDENTS FOR INNOVATIVE PROJECT ACTIVITY IN THE CONDITIONS OF REGIONAL INFORMATION EDUCATIONAL SPACE
+*Training of students for innovative project activity in the conditions of regional information educational space
 L. A. Mokretsova, E. V. Dudysheva, L. A. Romanova
 Abstract. Resources of information educational space for development of regional innovative business in higher
 education institutions are based on communications with business incubators, science and technology
@@ -82,7 +82,7 @@ Romanova L. A., S enior Lecturer, Physics and Informatics Department, Shukshin A
 Biysk
 e-mail: rla_biysk@mail.ru
 
-СОВРЕМЕННОЕ СОСТОЯНИЕ И ПУТИ СОВЕРШЕНСТВОВАНИЯ РОСС ИЙСКОЙ СИСТЕМЫ ПЕНСИОННОГО ОБЕСПЕЧЕНИЯ
+*Современное состояние и пути совершенствования росс ийской системы пенсионного обеспечения
 М. А. Буданова, С. Ю. Иванов
 Аннотация. В статье дается анализ состояния системы пенсионного обеспечения, определяются перспек-
 тивы ее развития с учетом социально-экономического развития нашей страны. В работе при-
@@ -90,7 +90,7 @@ e-mail: rla_biysk@mail.ru
 стойного уровня жизни пенсионеров.
 Ключевые слова: пенсии, пенсионное обеспечение, пенсионеры, социальный стандарт, соци-
 альное партнерство.
-CURRENT STATE AND WAYS OF IMPROVEMENT OF THE RUSSIAN PENSION SYSTEM
+*Current state and ways of improvement of the Russian pension system
 M. A. Budanova, S.Yu. Ivanov
 Abstract. The article analyzes the state of the pension system and defines the prospects of its improvement considering
 the social and economic development of our country. The article presents specific proposals to
@@ -109,7 +109,7 @@ Ivanov Sergey Yu., S cD in Sociology, Associate Professor, Theory and History of
 State Pedagogical University
 e-mail: av5401@comtv.ru
 
-КЛЮЧЕВЫЕ ПРОБЛЕМЫ ПРОЕКТИРОВАНИЯ ПРОГРАММ ПОВЫШЕНИЯ КВАЛИФИКАЦИИ В СВЕТЕ СОВРЕМЕННЫХ НОРМАТИВНЫХ ТРЕБОВАНИЙ
+*Ключевые проблемы проектирования программ повышения квалификации в свете современных нормативных требований
 С. Е. Мансурова, Т. В. Расташанская
 Аннотация. Проведение данного прикладного исследования обусловлено ограниченностью регламентных
 требований к образовательной деятельности в сфере дополнительного профессионального об-
@@ -126,7 +126,7 @@ e-mail: av5401@comtv.ru
 ДПО в условиях перехода на компетентностную парадигму образования.
 Ключевые слова: качество образования, программа повышения квалификации, мониторинг,
 экспертиза, компетенции.
-KEY ISSUES OF DESIGNING PROFESSIONAL DEVELOPMENT PROGRAMS IN THE LIGHT OF CURRENT REGULATORY REQUIREMENTS
+*Key issues of designing professional development programs In the light of current regulatory requirements
 S. E. Mansurova, T. V. Rastashanskaya
 Abstract. Implementing of this applied study is caused by the limitation of procedural requirements to educational
 activity in the field of additional professional education. There arises a condition of independent
@@ -154,7 +154,7 @@ Rastashanskaya Tatyana V., P hD in Education, Vice-rector for Educational and Sc
 of Open Education
 e-mail: rastashanskayatv@mioo.ru
 
-ОСНОВНЫЕ НАПРАВЛЕНИЯ В РАЗВИТИИ МЕТОДИКИ ОБУЧЕНИЯ ШКОЛЬНИКОВ ВЫРАЗИТЕЛЬНОМУ ЧТЕНИЮ НА УРОКАХ ЛИТЕРАТУРЫ
+*Основные направления в развитии методики обучения школьников выразительному чтению на уроках литературы
 З. А. Шелестова
 Аннотация. Автор выделяет основные направления в развитии методики обучения школьников вырази-
 тельному чтению и связывает их с научной школой полихудожественного воспитания сред-
@@ -166,8 +166,8 @@ e-mail: rastashanskayatv@mioo.ru
 Ключевые слова: полихудожественное воспитание, интеграция, театральная педагогика,
 артистизм, экстраверсия, режиссерско-педагогические компетенции, коммуникативная ком-
 петентность, аудиовизуальные средства.
-MAIN DIRECTIONS IN THE DEVELOPMENT OF THE METHODS OF TEACHING SCHOOL STUDENTS THE EXPRESSIVE READING
-AT LITERATURE CLASSES
+*Main directions in the development of the methods of teaching school students the expressive reading
+*at literature classes
 Z. A. Shelestova
 Abstract. The author identifies the main directions in the development of methods of teaching expressive reading
 to school students and connects them with the scientific school of poly-artistic education by means
@@ -185,7 +185,7 @@ Shelestova Zinaida A., P hD in Education, Associate Professor, Speech Therapy De
 Faculty, Moscow State Pedagogical University
 e-mail: aida6747@gmail.com
 
-К ПРОБЛЕМЕ ПРИМЕНЕНИЯ ИННОВАЦИОННЫХ ТЕХНОЛОГИЙ ОБУЧЕНИЯ ИНОСТРАННЫМ ЯЗЫКАМ
+*К проблеме применения инновационных технологий обучения иностранным языкам
 Э. Р. Латыпова
 Аннотация. Ориентиры инновационного развития российского образования обозначены в ряде программных
 документов. Модернизация системы образования предполагает решение приоритетных задач.
@@ -201,7 +201,7 @@ e-mail: aida6747@gmail.com
 личным дисциплинам в профессиональных образовательных учреждениях.
 Ключевые слова: инновационное развитие, непрерывное образование, модернизация образова-
 ния, технология обучения, инновационные технологии, иностранный язык.
-TO THE PROBLEM OF USING INNOVATIVE TECHNOLOGIES OF FOREIGN LANGUAGES TEACHING
+*To the problem of using innovative technologies of foreign languages teaching
 E. R. Latypova
 Abstract. Reference points of innovative development of Russian education are designated in a number of
 program documents. Modernization of education system assumes the solution of priority tasks. One
@@ -225,7 +225,7 @@ Post-Graduate Student, General Pedagogy, History of Pedagogy and Education Depar
 of Bashkir State University
 e-mail: lat-elvira@yandex.ru
 
-О РЕЗУЛЬТАТАХ ПРИМЕНЕНИЯ МЕТОДИКИ ПОЭЛЕМЕНТНОГО ОБУЧЕНИЯ ФИЗИКЕ НА ПАРАЛЛЕЛЬНО РЕШАЕМЫХ ЗАДАЧАХ
+*О результатах применения методики поэлементного обучения физике на параллельно решаемых задачах
 Г. Б. Тодер
 Аннотация. В работе в сжатом виде представлена носящая адаптационный характер методика поэле-
 ментного обучения на параллельно решаемых задачах. Проведено сравнение результатов об-
@@ -236,7 +236,7 @@ e-mail: lat-elvira@yandex.ru
 элементного обучения оказывается эффективнее традиционной.
 Ключевые слова: методика обучения, адаптационный, операция, алгоритм, параллельно ре-
 шаемые задачи, учебная задача по физике.
-ON THE RESULTS OF USING THE “UNIT-TO-UNIT” METHODS OF TEACHING PHYSICS IN SOLVING THE PROBLEMS
+*On the results of using the “unit-to-unit” methods of teaching Physics in solving the problems
 G. B. Toder
 Abstract. The article presents the adaptive method of unit-to-unit teaching in solving the problems simultaneously.
 Comparison of the results of teaching poorly prepared engineering students to solve a standard
@@ -253,7 +253,7 @@ Toder Georgy B., P hD in Physics and Mathematics, Associate Professor, Physics a
 State Transport University
 e-mail: georgyt@mail.ru
 
-СОДЕРЖАНИЕ И КОМПОНЕНТЫ МАТЕМАТИЧЕСКОЙКУ ЛЬТУРЫ БАКАЛАВРОВ-ПЕДАГОГОВ ПРОФИЛЯ «ИНФОРМАТИКА» В УС ЛОВИЯХ ИНТЕГРАЦИИ ПРЕДМЕТНЫХ ОБЛАСТЕЙ «МАТЕМАТИКА» И «ИНФОРМАТИКА»
+*Содержание и компоненты математическойку льтуры бакалавров-педагогов профиля «Информатика» в ус ловиях интеграции предметных областей «Математика» и «Информатика»
 М. С. Мирзоев
 Аннотация. В статье отражено содержание и основные компоненты математической культуры буду-
 щих учителей информатики в контексте развития математики в областях дискретной
@@ -271,7 +271,7 @@ e-mail: georgyt@mail.ru
 щих учителей информатики составляют деятельностный, личностно-ориентированый и
 компетентностный подходы.
 Ключевые слова: бакалавр, педагогическое образование, будущий учитель информатики, интеграция предметных областей «Математика» и «Информатика», развитие математики с использованием информационных технологий, математическая культура.
-CONTENTS AND COMPONENTS OF MATHEMATICAL CULTURE OF THE BACHELORS-TEACHERS OF THE “INFORMATICS” WITHIN THE INTEGRATION OF SUBJECT AREAS OF MATHEMATICS AND COMPUTER SCIENCE
+*Contents and components of mathematical culture of the bachelors-teachers of the “informatics” within the integration of subject areas of mathematics and computer science
 M. S. Mirzoev
 Abstract. The article reflects the contents and the main components of mathematical culture of future
 teachers of computer sciences in the context of development of discrete and applied mathematics.
@@ -294,7 +294,7 @@ Mirzoev Makhmasharif S., P hD in Education, Associate Professor, Applied Mathema
 Information Technologies Department, Moscow State Pedagogical University
 e-mail: sharifmir64@gmail.com
 
-ПОДГОТОВКА УЧИТЕЛЯ К ФОРМИРОВАНИЮ У МЛАДШИХ ШКОЛЬНИКОВ УЧЕБНЫХ УМЕНИЙ И НАВЫКОВ В ТЕОРИИ И ПРАКТИКЕ ПЕДАГОГИЧЕСКОГО ОБРАЗОВАНИЯ
+*Подготовка учителя к формированию у младших школьников учебных умений и навыков в теории и практике педагогического образования
 П. Гьоци, С. Kеренджи
 Аннотация. Процесс формирования учебных умений и навыков является центральной проблемой повыше-
 ния эффективности обучения. В статье отмечается многообразие и противоречивость трак-
@@ -305,8 +305,8 @@ e-mail: sharifmir64@gmail.com
 на качественно новый уровень.
 Ключевые слова: подготовка учителя, учебно-воспитательный процесс, формирование учеб-
 ных умений и навыков, начальное образование.
-TRAINING OF TEACHERS FOR THE FORMATION AT YOUNGER SCHOOL STUDENTS OF EDUCATIONAL SKILLS IN THE THEORY AND PRACTICE OF
-PEDAGOGICAL EDUCATION
+*Training of teachers for the formation at younger school students of educational skills in the theory and practice of
+*pedagogical education
 P. Gjoci, S. Kërënxhi
 Abstract. The process of formation of educational abilities and skills is the key problem of increasing the
 effectiveness of teaching. The article notes the diversity and discrepancy of interpretation of the concept
@@ -330,7 +330,7 @@ Kërënxhi Svjetllana, S cD in Mathematics, Associate Professor, Mathematics Dep
 A. Xhuvani University, Elbasan, Albania
 e-mail: skerenxhiel@yahoo.com
 
-НОВЫЕ ВИДЫ УЧЕБНОЙ ДЕЯТЕЛЬНОСТИ В ИНФОРМАЦИОННОЙ ОБРАЗОВАТЕЛЬНОЙ СРЕДЕ
+*Новые виды учебной деятельности в информационной образовательной среде
 Н. Е. Воробьева
 Аннотация. В данной статье рассматриваются особенности современной информационной образователь-
 ной среды. Федеральные государственные стандарты общего образования определяют создание
@@ -344,7 +344,7 @@ e-mail: skerenxhiel@yahoo.com
 формационной образовательной среде.
 Ключевые слова: информационная образовательная среда, виды учебной деятельности, но-
 вые образовательные результаты.
-NEW TYPES OF LEARNING ACTIVITIES IN THE INFORMATION AND EDUCATIONAL ENVIRONMENT
+*New types of learning activities in the information and educational environment
 N. E. Vorobyeva
 Abstract. The article deals with the features of modern information and educational environment. Federal state
 standards of general education define creation of the information educational environment as the
@@ -363,7 +363,7 @@ Vorobyeva Natalya E., Teacher of informatics, Secondary school No. 9, Stupino, M
 student, Information Technologies Department, Academy of Social Control, Moscow
 e-mail: vorobjeva-n@yandex.ru
 
-ОБУЧЕНИЕ ХИМИИ КАК ПРОЦЕСС РАЗВИТИЯ ПОЗНАВАТЕЛЬНЫХ СТРАТЕГИЙ УЧАЩИХСЯ
+*Обучение химии как процесс развития познавательных стратегий учащихся
 М. А. Ахметов, Е. Ю. Зорова
 Аннотация. Химия как учебный предмет является одним из наиболее трудных в овладении. Связано это со
 спецификой химического знания, предполагающего способность учащегося мысленно манипули-
@@ -383,7 +383,7 @@ e-mail: vorobjeva-n@yandex.ru
 не только к улучшению результатов обучения, но и к развитию учащихся.
 Ключевые слова: обучение химии, развитие, рефлексия, познавательные стратегии, мен-
 тальные химические образы.
-DEVELOPMENT OF STUDENTS’ LEARNING STRATEGIES IN TEACHING CHEMISTRY
+*Development of Students’ Learning Strategies in Teaching Chemistry
 M. A. Akhmetov, E. Yu. Zorova
 Abstract. Chemistry as a school subject is one of the most difficult for students because chemical knowledge has
 some features. Chemists have the ability to manipulate certain chemical models in their minds. Mental
@@ -412,7 +412,7 @@ Zorova Elena Yu., C hemistry Teacher, Comprehensive School No. 17, Dimitrovgrad,
 Graduate Student, Moscow State Pedagogical University
 e-mail: fondmcr@mail.ru
 
-ОПРЕДЕЛЕНИЕ ЦЕЛИ И РЕЗУЛЬТАТОВ ОБУЧЕНИЯ КАК СИСТЕМООБРАЗУЮЩАЯ ОСНОВА АВТОРСКОЙ ПРОГРАММЫ (НА ПРИМЕРЕ КУРСА «ГЕОГРАФИЯ РОССИИ» ОСНОВНОЙ ШКОЛЫ)
+*Определение цели и результатов обучения как системообразующая основа авторской программы (на примере курса «География России» основной школы)
 В. Б. Пятунин
 Аннотация. В статье рассматривается интерпретация целей и результатов обучения в одном из вари-
 антов авторской программы школьного курса «География России» с учетом требований к ре-
@@ -423,7 +423,7 @@ e-mail: fondmcr@mail.ru
 Ключевые слова: ФГОС ООО, предметные и метапредметные результаты обучения, при-
 мерная программа, авторская программа учебного курса, «География России», содержательно-
 деятельностная матрица.
-DEFINITION OF TEACHING GOALS AND RESULTS AS A CORE BASIS OF THE AUTHOR’S PROGRAM (ON THE EXAMPLE OF THE COURSE “GEOGRAPHY OF RUSSIA” OF A SECONDARY SCHOOL)
+*Definition of teaching goals and results as a core basis of the author’s program (on the example of the course “Geography of Russia” of a secondary school)
 V. B. Pyatunin
 Abstract. The article examines the interpretation of teaching goals and results in one of the versions of the original
 school curriculum “Geography of Russia” taking into account requirements to the mastering results
@@ -439,7 +439,7 @@ Pyatunin Vladimir B., P hD in Education, Associate Professor, Methods of teachin
 State Pedagogical University
 e-mail: vbpyatunin@yandex.ru
 
-ИННОВАЦИОННЫЙ РЕСУРС САМОРАЗВИТИЯ УЧАЩИХСЯ С ОГРАНИЧЕННЫМИ ВОЗМОЖНОСТЯМИ ЗДОРОВЬЯ
+*Инновационный ресурс саморазвития учащихся с ограниченными возможностями здоровья
 Т. Е. Веденеева, Ф. Н. Зименкова, Н. Л. Чернецова
 Аннотация. В данной статье обсуждаются вопросы включения детей с нарушением слуховой функции в
 образовательное пространство НОУ СОШ «Интеграция» г. Москвы. Рассматриваются под-
@@ -456,7 +456,7 @@ e-mail: vbpyatunin@yandex.ru
 возможностями здоровья, методика «Турбион-технология», комфортная образовательная
 среда, точечная интеграция, школьный загородный экопарк, реабилитационная технология,
 гражданские сообщества, инновационный ресурс саморазвития.
-INNOVATIVE RESOURCE OF SELF-DEVELOPMENT OF STUDENTS WITH DISABILITIES
+*Innovative resource of self-development of students with disabilities
 T. E. Vedeneeva, F. N. Zimenkova, N. L. Chernetsova
 Abstract. The article deals with the issues of involvement of hearing impaired children in the educational system
 of Moscow private secondary school “Integration”. The article considers the possibilities providing an
@@ -491,7 +491,7 @@ Institute of Physics, Technology and Information systems, Moscow State Pedagogic
 and drawing, Moscow Private Secondary School “Integration”
 e-mail: natacherne@mail.ru
 
-АРТ-ТЕРАПЕВТИЧЕСКИЕ ЗАНЯТИЯ С ДЕТЬМИ ДОШКОЛЬНОГО ВОЗРАСТА
+*Арт-терапевтические занятия с детьми дошкольного возраста
 М. С. Вальдес Одриосола, А. Г. Московкина
 Аннотация. Статья посвящена занятиям изобразительным искусством с детьми раннего и дошкольного
 возраста, а также с детьми с ограниченными возможностями здоровья. В статье раскрыта
@@ -504,7 +504,7 @@ e-mail: natacherne@mail.ru
 условиях семьи с ребенком раннего возраста, а также с дошкольником при подготовке к школе.
 Ключевые слова: арт-терапевтические занятия, изобразительное искусство, дети дошколь-
 ного возраста, восковые цветные мелки.
-ART THERAPEUTIC OCCUPATIONS WITH PRESCHOOL CHILDREN.
+*Art Therapeutic Occupations with Preschool Children.
 M. S. Valdes Odriosola, A. G. Moskovkina
 Abstract. The article is devoted to fine arts occupations with children of early and preschool age including those
 with limited opportunities of health. Specific art therapeutic impact on the person causing need for the
@@ -527,7 +527,7 @@ Moskovkina Alla G., P hD in Biology, Professor, Department of Preschool Defectol
 Moscow State Pedagogical University
 e-mail: ag.moskovina@mpgu.edu
 
-О ГЛАВНОЙ ПОТРЕБНОСТИ ЧЕЛОВЕКА​
+*О главной потребности человека​
 В. С. Лысенко
 Аннотация. В настоящей статье излагаются результаты многолетнего исследования ведущей, по мне-
 нию автора, потребности человека как социального индивида, а именно потребности в
@@ -542,7 +542,7 @@ e-mail: ag.moskovina@mpgu.edu
 этернистов.
 Ключевые слова: социально-персональная значимость, прибавочные ценности, власть, бо-
 гатство, слава, закон социально-аксиологического соответствия, актуализм, этернизм.
-ON THE MAIN HUMAN NEED
+*On the Main Human Need
 V. S. Lysenko
 Abstract. The article presents the results of long-term research of the main, according to the author, need of a
 man as a social individual, the need for social and personal importance. It is claimed that this need
@@ -559,7 +559,7 @@ e-mail: valys1@yandex.ru
 Lysenko Valery S., P hD in Philosophy
 e-mail: valys1@yandex.ru
 
-МОЛОДЕЖЬ НА ОБЛОМКАХ СССР (1991–2013 ГГ.)
+*Молодежь на обломках СССР (1991–2013 гг.)
 Д. В. Зернов, А. А. Иудин, А. А. Овсянников
 Аннотация. Рассмотрены изменения социально-психологических и политических ориентаций студенческой
 молодежи в период перед распадом СССР (1991 г.) по 2013 г. Рассмотрены установки молодежи
@@ -569,7 +569,7 @@ e-mail: valys1@yandex.ru
 Ключевые слова: советское и постсоветское социальное пространство, социальное самочув-
 ствие молодежи, социальные страхи, социальные установки, молодое поколение, политиче-
 ский процесс, ценности, молодежь России, Белоруссии, Украины, Армении.
-THE YOUTH ON THE RUINS OF THE USSR (1991–2013)
+*The youth on the ruins of the USSR (1991–2013)
 D. V. Zernov, A. A. Iudin, A. A. Ovsyannikov
 Abstract. The article deals with the changes in social, psychological and political orientations of student youth
 during the period before the dissolution of the Soviet Union (1991) up to 2013. Attitudes of youth of
@@ -598,7 +598,7 @@ Ovsyannikov Anatoliy A., S cD in Economics, Professor, Sociology Department, Mos
 Relations
 e-mail: aovsianikov@post.ru
 
-ДРЕВНЕРУССКАЯ ЛИТЕРАТУРА В ШКОЛЬНОМ ИЗУЧЕНИИ: СРАВНИТЕЛЬНО-ИСТОРИЧЕСКИЙ АСПЕКТ
+*Древнерусская литература в школьном изучении: сравнительно-исторический аспект
 В. Ф. Чертов
 Аннотация. В статье представлена характеристика основных этапов школьного освоения древнерусской
 литературы: чтение фрагментов при изучении курса церковнославянского языка и истории
@@ -609,7 +609,7 @@ e-mail: aovsianikov@post.ru
 классической и современной литературой; обращение к их художественным интерпретациям.
 Ключевые слова: древнерусская литература, церковнославянский язык, история русской ли-
 тературы, литературное образование, сравнительно-исторический аспект.
-OLD RUSSIAN LITERATURE IN SCHOOL LEARNING: COMPARATIVE AND HISTORICAL ASPECT
+*Old Russian literature in school learning: comparative and historical aspect
 V. F. Chertov
 Abstract. The article presents a description of the key stages of learning Old Russian literature at schools: reading
 the fragments in the study course of the Church Slavonic language and the history of Russian
@@ -627,7 +627,7 @@ Chertov Victor F., S cD in Education, Professor, Chairperson, Methods of Teachin
 State Pedagogical University
 e-mail: victorchertov@mail.ru
 
-ПРОБЛЕМЫ ПРЕПОДАВАНИЯ СЛОВЕСНОСТИ В МЕСТНЫХ ПЕДАГОГИЧЕСКИХ ЖУРНАЛАХ КОНЦА XIX – НАЧАЛА XX ВЕКОВ
+*Проблемы преподавания словесности в местных педагогических журналах конца XIX – начала XX веков
 Ю. В. Лазарев
 Аннотация. Значительное влияние на развитие школьного образования оказывает педагогическая журна-
 листика. В статье показано, как отражались проблемы преподавания словесности в отече-
@@ -640,7 +640,7 @@ e-mail: victorchertov@mail.ru
 зовали страницы журнала как трибуну для пропаганды своих взглядов.
 Ключевые слова: педагогические журналы, педагогическая публицистика, методика препо-
 давания литературы, история школьного литературного образования.
-PROBLEMS OF TEACHING LITERATURE IN LOCAL PEDAGOGICAL JOURNALS OF THE LATE 19TH – EARLY 20TH CENTURIES
+*Problems of teaching literature in local pedagogical journals of the late 19th – early 20th centuries
 Yu. V. Lazarev
 Abstract. Pedagogical journalism has a significant influence on the development of school education. The article
 shows how problems of teaching of literature were reflected in Russian pedagogical publications in late
@@ -661,7 +661,7 @@ State University, Post-Doctorate Student, Methods of teaching literature Departm
 University
 e-mail: jurnalist.rgu@gmail.com
 
-СОЦИАЛЬНАЯ КОММУНИКАЦИЯ И МЕДИАЦИОННАЯ ДЕЯТЕЛЬНОСТЬ КАК АКТУАЛЬНЫЕ СОСТАВЛЯЮЩИЕ ПРОФЕССИОНАЛЬНОЙ ПОДГОТОВКИ СОВРЕМЕННОГО СПЕЦИАЛИСТА ГУМАНИТАРНОГО ПРОФИЛЯ
+*Социальная коммуникация и медиационная деятельность как актуальные составляющие профессиональной подготовки современного специалиста гуманитарного профиля
 Н. И. Башмакова, Н. И. Рыжова, С. А. Ускова
 Аннотация. В статье говорится об актуальности формирования профессиональной готовности современ-
 ного специалиста гуманитарного профиля в области социальной коммуникации и медиаци-
@@ -681,7 +681,7 @@ e-mail: jurnalist.rgu@gmail.com
 ности социальной коммуникации, медиация, языковая, иноязычная, информационно-коммуни-
 кационная, правовая составляющие социальной коммуникации, поликультурность, конфлик-
 тогенность, глобализация.
-SOCIAL COMMUNICATION AND MEDIATION ACTIVITIES AS RELEVANT COMPONENTS OF VOCATIONAL TRAINING OF MODERN SPECIALISTS IN HUMANITIES
+*Social communication and mediation activities as relevant components of vocational training of modern specialists in Humanities
 N. I. Bashmakova, N. I. Ryzhova , S. A. Uskova
 Abstract. The article deals with the relevance of formation of professional readiness of modern experts in Humanities
 in the field of social communication and mediation activity which will contribute to the productivity
@@ -716,7 +716,7 @@ Uskova Svetlana A., P hD in Education, Associate Professor, Vice Chairperson, th
 Petersburg University of the Humanities and Social Sciences
 e-mail: usa1807@yandex.ru
 
-КОММУНИКАТИВНАЯ ГОТОВНОСТЬ ДЕТЕЙ К ШКОЛЕ: РОЛЬ И МЕСТО ОБРАЗОВАТЕЛЬНОГО УЧРЕЖДЕНИЯ
+*Коммуникативная готовность детей к школе: роль и место образовательного учреждения
 Т. В. Зотова
 Аннотация. Статья посвящена исследованию влияния посещения детьми дошкольных образовательных уч-
 реждений на коммуникативную готовность ребенка к школе. Исследовался социальный ста-
@@ -729,7 +729,7 @@ e-mail: usa1807@yandex.ru
 о том, что у данной группы детей более развиты коммуникативные навыки общения в группе.
 Ключевые слова: готовность к школе, коммуникативная готовность к школе, отношение к
 школе, социальный статус в классе.
-THE IMPACT OF PRESCHOOL EDUCATIONAL INSTITUTIONS ON THE COMMUNICATIVE READINESS OF FIRST GRADERS FOR SCHOOL
+*The impact of preschool educational institutions on the communicative readiness of first graders for school
 T. V. Zotova
 Abstract. The article analyzes the impact of preschool educational institutions on the communicative readiness
 of children for school. It also studies the social status of pupils in a class at the beginning and the end
@@ -749,14 +749,14 @@ Zotova Tatyana V., P hD in Psychology, Associate Professor, Child Psychology Dep
 Moscow State Pedagogical University
 e-mail: ztvjob@gmail.com
 
-МУЗЕЙНЫЕ ИЗДАНИЯ ДЛЯ ШКОЛЬНИКОВ КАК МЕТОДИЧЕСКАЯ ОСНОВА РЕАЛИЗАЦИИ ОБРАЗОВАТЕЛЬНЫХ ПРОГРАММ С ДЕТСКОЙ АУДИТОРИЕЙ
+*Музейные издания для школьников как методическая основа реализации образовательных программ с детской аудиторией
 М. В. Короткова
 Аннотация. Статья посвящена важному аспекту современной музейной педагогики – созданию специаль-
 ной учебной литературы для организации музейных занятий. Автор обращает внимание на
 теоретические аспекты проблемы и приводит примеры из музейной практики.
 Ключевые слова: музейная педагогика, музейный урок, буклет, путеводитель, рабочая те-
 традь, интеллектуальная деятельность, творческая деятельность.
-MUSEUM PUBLICATIONS FOR SCHOOL STUDENTS AS A METHODICAL BASIS OF IMPLEMENTATION OF EDUCATIONAL PROGRAMS WITH CHILDREN'S AUDIENCE
+*Museum publications for school students as a methodical basis of implementation of educational programs with children's audience
 M. V. Korotkova
 Abstract. The article deals with such important aspect of modern museum pedagogics as creation of special educational
 literature for the organization of museum classes. The author focuses on theoretical aspects of
@@ -770,7 +770,7 @@ Korotkova Marina V., S cD in History, Professor, Moscow State Pedagogical Univer
 Teacher's Training Academy of Science
 e-mail: markor13@mail.ru
 
-ИЗУЧЕНИЕ ПРЕДЛОЖЕНИЙ С ПРИСОЕДИНЕННЫМИ КОМПОНЕНТАМИ НА УРОКАХ РУССКОГО ЯЗЫКА И ЛИТЕРАТУРЫ В ШКОЛЕ (НА МАТЕРИАЛЕ РАССКАЗА И. С. ТУРГЕНЕВА «БЕЖИН ЛУГ»)
+*Изучение предложений с присоединенными компонентами на уроках русского языка и литературы в школе (на материале рассказа И. С. Тургенева «Бежин луг»)
 Е. В. Севрюгина
 Аннотация. На сегодняшний день в школах и даже высших учебных заведениях изучению такого важного вида
 синтаксической связи, как присоединение, уделяется недостаточное внимание. Соответствен-
@@ -786,7 +786,7 @@ e-mail: markor13@mail.ru
 пользованы в практике школьного преподавания русского языка и литературы.
 Ключевые слова: присоединение, присоединенные компоненты, пропозиция, модус, авторская
 интенция.
-THE STUDY OF SENTENCES WITH ATT ACHED COMPONENTS ON THE LESSONS OF RUSSIAN LANGUAGE AND LITERATURE AT SCHOOL (BASED ON THE STORY BY I. S. TURGENEV “BEZHIN MEADOW”)
+*The study of sentences with att ached components on the lessons of Russian language and literature at school (based on the story by I. S. Turgenev “Bezhin meadow”)
 E. V. Sevryugina
 Abstract. Nowadays at schools and even in higher educational institutions the studying of such important type
 of a syntactic link as connection, is paid insufficient attention to. So the main task of this article is:
@@ -807,7 +807,7 @@ Sevryugina Elena V., P hD in Philology, Associate Professor, Russian Language an
 State Social University; Post-Doctorate Student, Moscow State Pedagogical University
 e-mail: elena_s2003@list.ru
 
-ПОЛИФОНИЯ КАК ДИАЛОГ МЕЖДУ ЭПОХОЙ БАРОККО И СОВРЕМЕННОСТЬЮ
+*Полифония как диалог между эпохой барокко и современностью
 А. В. Галыгина
 Аннотация. Освоение полифонической музыки сегодня – необходимая часть работы пианиста, так как эта
 работа не только учит его воспринимать музыкальную ткань многопланово, но и влияет на
@@ -825,7 +825,7 @@ e-mail: elena_s2003@list.ru
 ном деле освоения нового музыкального материала.
 Ключевые слова: диалог эпох, полифония эпохи барокко, современная полифония ХХ в., Новая
 музыка.
-POLYPHONY AS A DIALOGUE BETWEEN THE BAROQUE ERA AND MODERNITY
+*Polyphony as a dialogue between the Baroque era and Modernity
 A. V. Galygina
 Abstract. Development of polyphonic music nowadays is a necessary part of the pianist's work as it doesn't only teach to
 perceive music as a multidimensional concept but also influences the general development. Moreover, it helps
@@ -897,7 +897,7 @@ Kaziev Garri Z., S cD in Chemistry, Professor, Chairperson, General Chemistry De
 and Chemistry, Moscow State Pedagogical University
 e-mail: gkaziev@mail.ru
 
-ДОБРОВОЛЬНАЯ НАРОДНАЯ ДРУЖИНА КАК ВИД МОЛОДЕЖНОЙ ВОЛОНТЕРСКОЙ ДЕЯТЕЛЬНОСТИ
+*Добровольная народная дружина как вид молодежной волонтерской деятельности
 А. А. Семенов
 Аннотация. В статье отражены вопросы, связанные с рассмотрением сущности, содержания и видов во-
 лонтерской деятельности как социокультурного и педагогического феномена на современном
@@ -909,7 +909,7 @@ e-mail: gkaziev@mail.ru
 Ключевые слова: волонтерство, волонтерская деятельность, добровольная народная дружи-
 на, отношение молодежи к волонтерской деятельности, пути привлечения молодежи к волон-
 терской деятельности.
-VOLUNTARY NATIONAL TEAM AS A KIND OF YOUTH VOLUNTEER ACTIVITIES
+*Voluntary national team as a kind of youth volunteer activities
 A. A. Semenov
 Abstract. The article highlights the issues connected with the content and different kinds of volunteer activities
 as social and cultural phenomena within the current stage of development of the Russian society.
@@ -919,5 +919,8 @@ people to volunteering and voluntary national team. The article considers the de
 testing of the ways to attract young people to volunteering and volunteer activities.
 Keywords: volunteering, volunteer activity, voluntary national team (druzhina), attitude of young
 people to volunteer activities, ways to attract the youth to volunteering.
-Семенов Александр Александрович, аспирант Московского педагогического государственного университета Тел. +7-915-008-35-51
-Semenov Alexandr A., P ost-Graduate Student, Moscow State Pedagogical University Тел. +7-915-008-35-51
+Семенов Александр Александрович, аспирант Московского педагогического государственного универ-
+ситета
+Тел. +7-915-008-35-51
+Semenov Alexandr A., P ost-Graduate Student, Moscow State Pedagogical University
+Тел. +7-915-008-35-51
