@@ -1,0 +1,471 @@
+ОПТИМИЗАЦИЯ УЧЕБНОГО ПРОЦЕССА В УСЛОВИЯХ МОДЕНИЗАЦИИ РОССИЙСКОГО ОБРАЗОВАНИЯ
+Морева Н. А.
+В статье представлено авторское видение реализации теории оптимизации в современных условиях модернизации российского образования. Показана методологическая база оптимизации, выделенные условия, критерии, правила оптимизации учебного занятия в студенческой аудитории.
+Ключевые слова: модернизация, оптимизация, базисные основания оптимизации, педагогические условия оптимизации, правила оптимизации, критерии оптимизации
+THE EDUCATIONAL PROCESS OPTIMIZATION IN THE MODERNIZATION OF RUSSIAN EDUCATIONAL SYSTEM
+Moreva N. A.
+The author of this article shows his own view for the realization of the optimization theory in the conditions of Russian educational system modernization. The author outlines the methodological base of this optimization, as well as different conditions, criteria and rules of educational process optimization
+Keywords: modernization, optimization, rules of educational process optimization, optimization criteria
+ 
+СРЕДОВЫЙ ПОДХОД В РЕШЕНИИ ПРОБЛЕМЫ НЕПРЕРЫВНОСТИ И ПРЕЕМСТВЕННОСТИ ОБРАЗОВАНИЯ НА ЭТАПЕ ПРЕДШКОЛЬНОЙ ПОДГОТОВКИ
+Шкляревская С. М.
+В статье представлен анализ российских исследований, концепций и программ по проблемам образовательной среды предшколы. Показано, что средовый подход в организации предшколы позволяет реализовать идею преемственности и непрерывности образования посредством «мягкой» интеграции образовательных сред предшкольного и начального общего образования.
+Ключевые слова: образовательная среда, предшкольное образование, средовый подход, интеграция образовательных сред
+ENVIRONMENTAL APPROACH IN SOLVING PROBLEMS OF CONTINUITY OF EDUCATION DURING PRE-PRIMARY EDUCATION
+Shklyarevskaya S. M.
+In this paper we get an analysis of Russian studies, concepts and programs on pre-school educational environment. It is shown that the environmental approach in the organization of pre-school can implement the idea of succession and continuity of education through the „soft integration of preschool educational and environments of primary education.
+Keywords: educational environment, preschool education, environmental approach, the integration of educational media
+ 
+ФАКТОРЫ АКТИВИЗАЦИИ КОНКУРЕНТНЫХ ПРОЦЕССОВ В СОВРЕМЕННОЙ СИСТЕМЕ ОБЩЕГО ОБРАЗОВАНИЯ
+Сибилёв И. В.
+В статье рассматриваются процессы конкуренции образовательных учреждений. Анализ причин возникновения и этапов развития процессов конкуренции образовательных учреждений позволил выделить факторы их активизации
+Ключевые слова: общее образование, конкурентоспособность школы, факторы, рыночные отношения
+FACTORS OF ACTIVATION OF COMPETITIVE PROCESSES IN THE MODERN SYSTEM OF GENERAL EDUCATION
+Sibiljov I. V.
+The article considers the processes of competition of educational institutions. The analysis of the causes and the stages of development of the processes of competition of educational institutions allowed to allocate the factors of their activation.
+Keywords: general education, the competitiveness of the school, factors, market relations
+ 
+ПРОФЕССИОНАЛЬНАЯ КОМПЕТЕНТНОСТЬ ПЕДАГОГАМАТЕМАТИКА КАК СРЕДСТВО РЕАЛИЗАЦИИ ЗАДАЧ МАТЕМАТИЧЕСКОГО ОБРАЗОВАНИЯ
+Ольнева А. Б.
+В статье затрагиваются вопросы педагогической и математической компетентности педагогаматематика высшей технической школы. Рассматриваются вопросы подготовки педагогов-ма те мати ков для технической школы. Даются рекомендации по развитию креативных способностей педагогов и студентов при изучении курса математики в высшей школе.
+Ключевые слова: профессиональная компетентность, математическая компетентность, математическое образование, творчество, интерактивность, интерактивные технологии
+THE PROFESSIONAL COMPETENCE OF THE MATHEMATICS TEACHER AS A TOOL FOR REALIZATION OF THE TASKS OF MATHEMATICAL EDUCATION
+Olneva A. B.
+In the article the questions of pedagogical and mathematical competence of the teacher of mathematics in higher technical school are discussed. The issues of training of math teachers for the technical school are considered. Recommendations for the development of creative abilities in teachers and students in a course of mathematics in high school are given.
+Keywords: professional competence, mathematical competence, mathematical education, creativity, interactive technologies
+ 
+ЗАДАЧИ С ПАРАМЕТРАМИ КАК СРЕДСТВО РАЗВИТИЯ МАТЕМАТИЧЕСКОЙ КУЛЬТУРЫ БУДУЩЕГО УЧИТЕЛЯ МАТЕМАТИКИ
+Качалова Г. А.
+Впервые признаки системности применены к процессу развития математической культуры будущего учителя математики. В центре внимания проблемы и перспективы развития математической культуры будущего учителя математики на примере содержательно-методической линии «Задачи с параметрами».
+Ключевые слова: математическая культура, признаки системности, задачи с параметрами
+PROBLEM WITH PARAMETERS AS A MEANS OF MATHEMATICAL CULTURE DEVELOPMENT OF THE FUTURE TEACHERS OF MATHEMATICS
+Kachalova G. A.
+For the first time a systemic approach is applied to the process of development of the mathematical culture of the future teachers of mathematics. The article primarily focuses on the problems and prospects of development of the mathematical culture of the future teachers of mathematics on the example of the conceptualmethodological line «Problem with parameters»
+Keywords: mathematical culture, features of a systemic approach, problem with parameters
+ 
+МОДЕЛИРОВАНИЕ МАТЕМАТИЧЕСКОЙ КУЛЬТУРЫ БУДУЩЕГО УЧИТЕЛЯ ИНФОРМАТИКИ
+Мирзоев М. С.
+В статье анализируется использование метода моделирования в создании и изучении структуры и содержания системы формирования математической культуры будущего учителя информатики в условиях реализации новых школьных образовательных стандартов.
+Ключевые слова: метод моделирования, учитель информатики, математическая культура, математическая компетенция, ФГОС 2-го поколения, ФГОС ВПО 3-го поколения
+MODELING OF MATHEMATICAL CULTURE OF FUTURE SCIENCE TEACHERS В настоящее время происходят широкомасштабные изменения в сфере образования РФ, происходят серьезные изменения структуры, содержания и формы школьного и вузовского образования. Важнейшие изменения наблюдаются и в системе математического образования, математическая деятельность приобретает сверхвысокий импульс. В этих условиях особую актуальность приобретает фундаментальное математическое образование, в частности, в профессиональной подготовке бакалавров образования по профилю Информатика, будущих учителей информатики. Для обоснования и реализации системы формирования математической культуры будущего учителя информатики (далее МК БУИ), где ключевым компонентом является математическая компетенция, нами в качестве научного метода исследования использовано моделирование. В работе [1] говорится о следующих видах моделирования:  концептуальное моделирование, при котором совокупность уже известных фактов или представлений относительно исследуемого объекта или системы истолковывается с помощью некоторых специальных знаков, символов, операций над ними или с помощью естественного или искусственного языков;  физическое моделирование, при котором модель и моделируемый объект представляют собой реальные объекты или процессы единой или различной физической природы, причем между процессами в объекте-оригинале и в модели выполняются некоторые соотношения подобия, вытекающие из схожести физических явлений;  структурно-функциональное моделирование, при котором моделями являются схемы (блок-схемы), графики, графы, диаграммы, таблицы, рисунки, дополненные специальными правилами их объединения и преобразования;  математическое моделирование, при котором моделирование, включая
+Mirzoev M. S.
+In this article the usage of a method of modeling in the creation and analysis of the mathematical model of culture of the future teachers of computer science in the implementation of new school educational standards is being analyzed.
+Keywords: modeling techniques, science teacher, mathematical culture, mathematical competence, 2nd generation GEF, 3rd generation GEF VPO
+ 
+КРИТЕРИИ И ПОКАЗАТЕЛИ СФОРМИРОВАННОСТИ МЕТОДИЧЕСКИХ КОМПЕТЕНТНОСТЕЙ БУДУЩИХ УЧИТЕЛЕЙ ФИЗИКИ
+Нижегородцев В. А., Лебедева О. В.
+В статье описана возможность измерения сформированности методических компетентностей будущих учителей физики. Предполагается, что установленные критерии и уровни методических компетентностей разрешают получить количественную оценку уровня подготовки будущих учителей физики.
+Ключевые слова: методическая компетентность, компетентностный подход, учитель физики
+CRITERIA AND THE INDICES OF THE FORMATION OF THE METHODICAL COMPETENCES OF THE FUTURE TEACHERS OF PHYSICS
+Nizhegorodtsev V. A., Lebedeva O. V.
+The possibility of the measurement of methodical competency formation of future teachers of physics is described in the article. It is expected that these criteria and levels of methodical competencies will allow to get the quantitative estimation level of training of future teachers of physics.
+Keywords: methodical competence, competence approach, teacher of physics
+ 
+МЕТОДОЛОГИЯ ИССЛЕДОВАНИЯ ПРОБЛЕМЫ ФОРМИРОВАНИЯ ТВОРЧЕСКОЙ САМОСТОЯТЕЛЬНОСТИ БУДУЩЕГО УЧИТЕЛЯ: СИСТЕМНЫЙ ПОДХОД
+Качалов А. В.
+В статье выявляется и обосновывается системный подход как методологическая основа формирования творческой самостоятельности студентов вуза будущих учителей. Системный подход рассматривается как способ научного познания, как теоретико-методологический принцип, как методологическое условие.
+Ключевые слова: методология, подход, системный подход
+THE METHODOLOGY OF THE RESEARCH ON THE FUTURE TEACHERS CREATIVE INDEPENDENCE FORMATION PROBLEM: THE SYSTEMATIC APPROACH
+Kachalov A. V.
+The article states the systematic approach to be the methodological basis of the future teachers creative independence formation. The systematic approach is considered to be the method of the scientific cognition, to be the theoretical and methodological principle as well as the methodological condition.
+Keywords: methodology, approach, systematic approach
+ 
+МЕТОДИЧЕСКАЯ КОМПЕТЕНТНОСТЬ КАК СОСТАВЛЯЮЩАЯ ПРОФЕССИОНАЛЬНОЙ КОМПЕТЕНТНОСТИ ПЕДАГОГА
+Нагибина Н. А., Ипполитова Н. В.
+В статье на основе анализа понятий «компетентность», «профессиональная компетентность», «про фессиональная компетентность педагога» анализируется понятие «методическая компетентность педагога», выделяются его характеристики.
+Ключевые слова: компетентность, профессиональная компетентность, профессиональная компетентность педагога, методическая компетентность педагога
+METHODICAL COMPETENCE AS A PART OF TEACHERS PROFESSIONAL COMPETENCE
+Nagibina N. A., Ippolitova N. V.
+The article is devoted to the description of the notion teachers methodical competence. On the basis of the analysis of the notions competence, professional competence, teachers professional competence the notion teachers methodical competence is analyzed, its characteristics are described
+Keywords: competence, professional competence, teacher\'s professional competence, teacher\'s methodical competence
+ 
+ПОДХОДЫ К ФОРМИРОВАНИЮ УПРАВЛЕНЧЕСКОЙ КОМПЕТЕНТНОСТИ УЧИТЕЛЯ В СИСТЕМЕ МЕТОДИЧЕСКОЙ РАБОТЫ ШКОЛЫ В УСЛОВИЯХ ИНТЕГРАЦИИ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ В ОБРАЗОВАТЕЛЬНЫЙ ПРОЦЕСС
+Заславская О. Ю.
+Формирование управленческой компетентности учителя в системе методической работы школы способствует выявлению и развитию новых творческих идей учителя, переход его компетенций на новый уровень в условиях информатизации.
+Ключевые слова: информатизация образования, управленческая компетентность учителя, методическая работа, теория и методика обучения
+APPROACHES TO FORMATION OF MANAGERIAL COMPETENCE OF TEACHERS IN THE SYSTEM OF METHODICAL WORK OF SCHOOLS IN TERMS OF THE INTEGRATION OF INFORMATION TECHNOLOGIES IN EDUCATIONAL PROCESS
+Zaslavskaya O. Yu.
+Formation of managerial competence of teachers in the system of methodical work of schools contributes to the identification and development of new creative ideas of teachers and promotes the transition of his skills to a new level in terms of informatization
+Keywords: informatization of education, managerial competence of teachers, methodical work, theory and methods of teaching
+ 
+ОСНОВНЫЕ ЭТАПЫ ФОРМИРОВАНИЯ ПРОФЕССИОНАЛЬНО ОРИЕНТИРОВАННЫХ МУЛЬТИМЕДИЙНЫХ КОМПЕТЕНЦИЙ В СИСТЕМЕ ИНФОРМАЦИОННО-ПОЗНАВАТЕЛЬНОГО ПРОЦЕССА ОБУЧЕНИЯ СТУДЕНТОВ
+Саукова Н. М.
+Профессионализм будущего педагога определяется сформированными профессионально ориентированными мультимедийными компетенциями, умением профессионально анализировать и представлять новые подходы к решению инновационных проектов, доказывая состоятельность и целесообразность мультимедийных позиций.
+Ключевые слова: профессионально ориентированные мультимедийные компетенции, моделирование педагогического процесса, научно обоснованные этапы информационно-познавательного процесса обучения студентов
+THE MAIN STAGES IN THE FORMATION OF PROFESSIONALLY ORIENTED MULTIMEDIA COMPETENCE IN THE SYSTEM OF INFORMATIONAL-COGNITIVE PROCESS OF STUDENTS\' TRAINING
+Saukova N. M.
+Professionalism of a future teacher is determined by professionally oriented multimedia competences, the ability to professionally analyze and present new approaches to the solution of innovative projects, proving the viability and feasibility of multimedia positions.
+Keywords: professional competence-oriented multimedia, modeling of methodology the system, science-based information and cognitive stages of the learning process of students
+ 
+КОМПЬЮТЕРНАЯ ПОДДЕРЖКА РЕШЕНИЯ СИСТЕМ ОБЫКНОВЕННЫХ ДИФФЕРЕНЦИАЛЬНЫХ УРАВНЕНИЙ И ЕЕ ИСПОЛЬЗОВАНИЕ В УЧЕБНОМ ПРОЦЕССЕ ПЕДВУЗА
+Асланов Р. М., Безручко А. С., Матросов В. Л.
+В данной статье рассматривается возможность применения компьютерной техники при изучении систем обыкновенных дифференциальных уравнений. Также в статью включены несколько примеров, отражающих прикладную направленность дифференциальных уравнений, которые могут быть предложены студентам при изучении данной темы.
+Ключевые слова: системы дифференциальных уравнений, использование компьютерной техники
+COMPUTER SUPPORT OF THE DECISION OF SYSTEMS OF ORDINARY DIFFERENTIAL EQUATIONS AND ITS USE IN EDUCATIONAL PROCESS OF TEACHER TRAINING UNIVERSITY
+Aslanov R. M., Bezruchko A. S., Matrosov V. L.
+In this article the possibility of the use of computer equipment is considered when studying systems of the ordinary differential equations. Also some examples of the differential equations reflecting an applied orientation which can be offered to students when studying this subject are included in the article.
+Keywords: systems of the differential equations, use of the computer equipment
+ 
+ДИДАКТИЧЕСКИЕ ВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ КОМПЬЮТЕРНЫХ СРЕДСТВ В ОБУЧЕНИИ МАТЕМАТИКЕ
+Десятирикова Л. А.
+В статье приводится определение средств обучения, описываются технические средства обучения, рассматриваются вопросы, связанные с дидактическими возможностями использования компьютерных средств в обучении математике; приводится классификация компьютерных средств, указываются их преимущества среди других средств обучения математике
+Ключевые слова: средства обучения, технические средства обучения, новые информационные технологии, компьютерные средства
+DIDACTIC APPLICATIONS FOR COMPUTER-ASSISTED TRAINING IN MATHEMATICS
+Desyatirikova L. A.
+In addition to the determination of training facilities the article is devoted to instructional technologies and the matters of didactic applications for computerassisted training in mathematics; the author gives the classification for computer resources and forms of teaching and underlines their advantages over the other teaching methods in mathematics
+Keywords: teaching techniques, instructional techniques, innovative information technologies, computerassessed learning
+ 
+ФОРМИРОВАНИЕ И ОЦЕНКА ПРОФЕССИОНАЛЬНЫХ КОМПЕТЕНЦИЙ СТУДЕНТОВ-ФИЗИКОВ: КРИТЕРИИ И УРОВНИ ИХ СФОРМИРОВАННОСТИ
+Дамбуева А. Б., Скокова Л. В.
+В статье рассмотрены возможности формирования и оценки профессиональных компетенций. Представлена структура профессиональной компетенции, выделены уровни ее развития, а также факторы и условия, необходимые для их успешного формирования.
+Ключевые слова: профессиональные компетенции, компетентностный подход, спецкурсы, реализация компетенций
+FORMATION AND EVALUATION OF PROFESSIONAL COMPETENCES OF PHYSICS STUDENTS: THE CRITERIA AND LEVELS OF FORMATION
+Dambueva A. B., Skokova L. V.
+The paper considers the notion of professional competence, the possibility of its formation. The structure of professional competence is presented, levels of its development are highlighted, and the factors and conditions necessary for the successful formation are stated.
+Keywords: professional competence, competence approach, courses, implementation of competency
+ 
+ФОРМИРОВАНИЕ УМСТВЕННЫХ ОБРАЗОВ В ПРОЦЕССЕ УЧЕБНЫХ ИССЛЕДОВАНИЙ СТУДЕНТОВ
+Белянин В. А., Белянина В. Б.
+Полнота сформированного умственного образа у студента рассматривается как один из критериев понимания и усвоения им учебного материала. Формировать умственный образ предлагается в процессе учебных исследований через специальное выделение в материале курса физики физических ситуаций, обнаружение зависимостей физических величин и их исследование.
+Ключевые слова: умственный образ, учебное исследование, будущий учитель физики, исследовательская компетенция, методология научного исследования
+FORMATION OF MENTAL IMAGES IN THE PROCESS OF EDUCATIONAL RESEARCH OF STUDENTS
+Belyanin V. A., Belyanina V. B.
+The completeness of a students formed mental image is considered as one of the criteria for understanding and assimilation of the training material. It is proposed to form a mental image in the process of educational research through a special allocation of physical situations on the materials of Physics, the detection of dependencies of physical quantities and their investigation.
+Keywords: mental image, educational research, future physics teacher, investigative competence, research methodology
+ 
+ОЦЕНКА И КОРРЕКЦИЯ МАТЕМАТИЧЕСКОЙ КОМПЕТЕНТНОСТИ БУДУЩИХ БАКАЛАВРОВ НАПРАВЛЕНИЯ ПОДГОТОВКИ МЕНЕДЖМЕНТ С ПОМОЩЬЮ ЭЛЕКТРОННОГО ПОРТФОЛИО
+Чиркова О. В.
+В статье рассматривается возможность использования проектного портфолио для оценки и коррекции математической компетентности студентов, предлагается система рейтингования математической компетентности студентов с помощью оценочного блока портфолио, а также способ проверки надежности этого метода оценки.
+Ключевые слова: проектное портфолио, профессио нально ориентированный проект, математическая компетентность
+EVALUATION AND CORRECTION OF MATHEMATICAL COMPETENCE OF FUTURE BACHELORS IN THE FIELD OF MANAGEMENT BY MEANS OF THE ELECTRONIC PORTFOLIO
+Chirkova O. V.
+The possibility of using a design portfolio for assessment and correction of students mathematical competence is considered in this article, the rating system of students mathematical competence by means of estimation block of portfolio and the way of checking the reliability of this assessment method is offered.
+Keywords: design portfolio, the professional focused project, mathematical competence
+ 
+ПРИМЕНЕНИЕ МОДУЛЬНО-РЕЙТИНГОВОЙ СИСТЕМЫ ОЦЕНКИ ЗНАНИЙ В СИСТЕМЕ ПОДГОТОВКИ ВОЕННЫХ ШТУРМАНОВ
+Колосов С. В.
+В статье рассматривается модульно-рейтинговая система и ее практическое применение при оценке знаний в системе профессиональной подготовки военных штурманов ВВС РФ.
+Ключевые слова: модульно-рейтинговая система, оценка знаний, подготовка, военный штурман
+THE MODULAR-RATING SYSTEM KNOWLEDGE IN THE TRAINING OF MILITARY NAVIGATORS
+Kolosov S. V.
+This article deals with the module-rating system and its practical application in the assessment of knowledge in the training of military navigators Russian Air Force.
+Keywords: module-rating system, the assessment of knowledge, training, military navigator
+ 
+ИНТЕНСИФИКАЦИЯ ПРОЦЕССА ФОРМИРОВАНИЯ ИННОВАЦИОННО-ПРЕДПРИНИМАТЕЛЬСКОЙ КОМПЕТЕНТНОСТИ У СТУДЕНТОВ ВУЗА БУДУЩИХ МЕНЕДЖЕРОВ
+Колчина В. В.
+В статье рассматривается интенсификация про цесса формирования инновационно-пред при нима тель ской компетентности у студентов вуза будущих менеджеров с применением следующих условий: терминологического сопровождения; интенсифицирующего воздействия на формирование инновационно-предпринимательской компетентности; введения комплекса рефлексивнопе да гогических приемов; создания эмоциональностимулирующего и мотивационного фона; создания поля вероятностного прогнозирования.
+Ключевые слова: терминологическое сопровождение, интенсифицирующее воздействие, комплекс рефлексивно-педагогических приемов
+INTENSIFICATION OF PROCESS OF FORMATION OF INNOVATIVE AND ENTREPRENEURIAL COMPETENCE OF STUDENTS AS THE FUTURE MANAGERS
+Kolchina V. V.
+In this article the intensification of process of formation of innovative and entrepreneurial competence of students as the future managers is considered with application of the following conditions: terminological support disciplines; intensifying impact on formation of innovation and entrepreneurial competence; introduction of a complex reflexively pedagogical methods; creation of emotionally stimulating and motivational evaluative background; creation of a field of probabilistic forecasting
+Keywords: terminological support, intensifying influence, complex reflexively pedagogical methods
+ 
+ПЕДАГОГИЧЕСКИЕ УСЛОВИЯ ФОРМИРОВАНИЯ ПРОФЕССИОНАЛЬНО-РЕЧЕВОЙ КУЛЬТУРЫ СТУДЕНТОВ МЕДИЦИНСКОГО ВУЗА
+Забродина Л. Н.
+В статье на основе анализа понятий «условие», «педагогические условия» определяются и обосновываются педагогические условия, способствующие эффективному формированию профессиональноречевой культуры студентов медицинского вуза.
+Ключевые слова: профессионально-речевая культура студентов медицинского вуза, условия, педагогические условия
+PEDAGOGICAL CONDITIONS OF FORMATION OF PROFESSIONAL STANDARD OF SPEECH IN MEDICAL EDUCATION
+Zabrodina L. N.
+The article is devoted to the description of the conditions necessary for the formation of professional standard of speech of future medical specialists. On the basis of the analysis of the notions conditions, pedagogical conditions the latter ones securing the effective formation of professional standard of speech in medical education
+Keywords: conditions, pedagogical conditions, professional standard of speech of medical students
+ 
+СОПРЯЖЕНИЕ КАК КАТЕГОРИЯ ПОЗНАНИЯ И ДИДАКТИЧЕСКИЙ ПРИНЦИП ИЗУЧЕНИЯ БИОЛОГИЧЕСКИХ ДИСЦИПЛИН В ВУЗЕ
+Третьякова И. А.
+Осмысление и понимание сопряжения как фундаментального принципа организации и развития материи позволяет спроецировать его в образовательную область и рассматривать в качестве важнейшего дидактического принципа изучения биологических дисциплин в вузе.
+Ключевые слова: атрибуты материи, взаимодействие, сопряжение, методология, дидактический принцип
+COUPLING AS A CATEGORY OF KNOWLEDGE AND TEACHING PRINCIPLES FOR THE STUDY OF BIOLOGICAL DISCIPLINES IN HIGH SCHOOL
+Tretyakova I. A.
+Comprehension and understanding of the coupling as a fundamental principle of organization and development of matter can project it in the educational area and regard it as the most important didactic principle study of biological sciences at the university.
+Keywords: attributes of matter, the interaction, interface, methodology, teaching principle
+ 
+ПРОЕКТ ШКОЛА ЮНОГО ХИМИКА ТВЕРСКОГО ГОСУДАРСТВЕННОГО УНИВЕРСИТЕТА КАК ФОРМА СОЦИАЛЬНОГО ПАРТНЕРСТВА ВУЗА И ШКОЛЫ
+Баранова Н. В., Жабреева М. А., Рясенский С. С., Феофанова М. А.
+В работе представлены результаты реализации проекта «Школа юного химика» на химикотехнологическом факультете Тверского государственного университета
+Ключевые слова: школа юного химика, эксперимент, занимательная химия, школьники
+THE PROJECT SCHOOL OF THE YOUNG CHEMIST, TVER STATE UNIVERSITY, AS A FORM OF SOCIAL PARTNERSHIP OF UNIVERSITY AND SCHOOL
+Baranova N. V., Zhabreeva M. A., Ryasenskiy S. S., Feofanova M. A.
+The paper presents the results of the implementation of the project School of the young chemist on the faculty of chemical technology of Tver State University.
+Keywords: the school of the young chemist, experiment, entertaining chemistry, school students
+ 
+СКАЗКИ ПУШКИНА: КОНЦЕПЦИЯ, РАБОТА ПОЭТА НАД ИСТОЧНИКАМИ
+Красухин Г. Г.
+Статья освещает творческую деятельность А. С. Пушкина как сказочника. Внимание автора сосредоточено на работе Пушкина с первоисточниками, на том новом, что вносил Пушкин вовнутрь того топоса, в котором существовала прежде обрабатываемая им сказка.
+Ключевые слова: Пушкин, сказка, топос, жанр, светоносность
+PUSHKIN\'S FAIRY TALES: THE CONCEPT, THE POETS WORK ON THE SOURCES
+Krasukhin G. G.
+The peculiarities of Pushkin as a story-teller are investigated. Author considers the Pushkins preparation of primary sources of his tales, the new motives in them, the topic change of original story.
+Keywords: Pushkin, tale, topic, genre, radiant-bearing
+ 
+МЕДИАТЕКСТ КАК УЧЕБНЫЙ МАТЕРИАЛ ДЛЯ ФОРМИРОВАНИЯ МЕЖКУЛЬТУРНОЙ КОМПЕТЕНЦИИ СТУДЕНТОВ ЯЗЫКОВОГО ВУЗА
+Шеваршинова Е. И.
+Основной задачей данной статьи является показать возможность формирования иноязычной коммуникативной компетенции параллельно с формированием межкультурной компетенции студентов языковых вузов на старшем этапе обучения с использованием медиатекстов страны изучаемого языка. За основу взят реально существующий репортаж британского телеканала BBC1 и разработанные на его основе задания. Результатом данной работы является пример работы с подобным материалом и анализ данной методики, показывающий эффективность обучения языку и культуре совместно.
+Ключевые слова: медиатекст, межкультурная компетенция, коммуникативная компетенция, иностранные языки
+MEDIA TEXT AS TRAINING MATERIAL TO FORM THE INTERCULTURAL COMPETENCE OF STUDENTS OF THE LANGUAGE DEPARTMENT
+Shevarshinova E. I.
+The main aim of the article is to show a possibility to form the communicative competence and the intercultural competence of students of the language department at the same time using media texts of the country whose language they learn. The article is based on a real television news report from BBC1 and tasks specially made up to work with this media text in class. The result of this article is a concrete example of how to use such a material at a lesson of foreign languages and the analysis of such a method which shows a better effect of teaching and learning language and culture altogether
+Keywords: media text, intercultural competence, communicative competence, foreign languages
+ 
+СРАВНИТЕЛЬНЫЙ ЛИНГВОКУЛЬТУРОЛОГИЧЕСКИЙ АНАЛИЗ РУССКИХ И АРАБСКИХ ПРИМЕТ И СУЕВЕРИЙ С АНИМАЛИСТИЧЕСКИМ КОМПОНЕНТОМ
+Саад Джумаа Альсаиди , Позднякова А. А.
+В статье рассматриваются приметы и суеверия как важные составляющие народной культуры. Анализируются русские и арабские приметы и суеверия, связанные с образами животного мира, в аспекте их влияния на формирование языковой картины мира. На конкретном этнокультурном материале изучаются прогнозирующая, регуляторная, этикетная функции примет и суеверий.
+Ключевые слова: примета, поверье, верование, суеверие, предрассудок, животный мир
+COMPARATIVE LINGUOCULTURAL ANALYSIS OF RUSSIAN AND ARABIC OMENS AND SUPERSTITIOUS BELIEFS WITH ANIMAL COMPONENT
+Saad Jumaa Alsaedi , Pozdnyakova A. A.
+The article deals with omens and superstitious beliefs as important components of folklore. Russian and Arabic omens and superstitious beliefs associated with animals and these beliefs influence on the worldview are being analysed. Based on particular ethnocultural materials the predictive, regulatory, etiquette functions of omens and superstitious beliefs are examined.
+Keywords: omen, legend, belief, superstitious belief, superstition, animals
+ 
+ОСОБЕННОСТИ НОМИНАЦИИ В СОВРЕМЕННОМ АНГЛИЙСКОМ ЯЗЫКЕ (НА ПРИМЕРЕ НАЗВАНИЙ ВОЕННЫХ ОПЕРАЦИЙ)
+Киселева С. А.
+Данная статья раскрывает историю номинации важных военных операций, которую можно отнести к фразеологическим эвфемизмам социальнополитического типа, причины их появления, а также методы присвоения названий и проблемы номинации.
+Ключевые слова: номинация военных операций, эвфемизмам социально-политического типа, кодовые названия
+PECULIARITIES OF NOMINATION IN THE MODERN ENGLISH LANGUAGE (BASED ON THE NAMES OF MILITARY OPERATIONS)
+Kiseleva S. A.
+The article discloses the history of naming of major military operations, which may be referred to as euphemisms of socio-political type. Also it touches upon the reasons of their appearance, methods of nicknaming and problems which may arouse.
+Keywords: nicknaming, euphemisms of socio-political type, code names/ nicknames
+ 
+ПАРАДОКСАЛИСТ И СОЦИУМ В МОТИВНО-ОБРАЗНОЙ СТРУКТУРЕ ЗАПИСОК ИЗ ПОДПОЛЬЯ Ф. М. ДОСТОЕВСКОГО: МОТИВНЫЙ КОМПЛЕКС ПРОВОКАЦИЯ, ОБИДА, МЕСТЬ
+Ковырзенкова Т. В.
+В статье ставится задача проанализировать отношения, взаимодействие парадоксалиста и социума (как он явлен в системе персонажей повести) в экзистенциальном аспекте, сквозь призму мотивного комплекса «провокация», «обида», «месть». Провокация в области философской рефлексии героя над миром оборачивается стимулом самосознания, в социально-психологической сфере порождением обиды, формой мести за человеческое достоинство и единственным путем разорвать мир объективации, покинуть подполье, ч чего так и не происходит
+Ключевые слова: экзистенциализм, провокация, обида, месть
+Kovyrzenkova T. V.
+The article seeks to analyze the relationship, the interaction of a paradoxical hero with the society (the way he is revealed in the system of characters of the story) in the existential aspect, through the prism of the motivational complex \"provocation,\" \"hurt,\" \"Revenge.\" In the philosophical reflection on the world of the hero provocation turns as stimulus identity, in the socio-psy chological sphere it is a product of resentment, a form of revenge for human dignity and the only way to break the world of objectification, to leave the underground, which does not happen.
+Keywords: existentialism, provocation, resentment, revenge
+ 
+МЕТОДИЧЕСКАЯ СИСТЕМА ОВЛАДЕНИЯ МЛАДШИМИ ШКОЛЬНИКАМИ ИНОСТРАННЫМ ЯЗЫКОМ КАК ПЕДАГОГИЧЕСКИЙ ФЕНОМЕН
+Никитенко З. Н.
+В статье рассматриваются особенности разработанной автором методической системы, реализованной в федеральных учебниках английского языка для начальной школы. Выделяются структурные компоненты системы и раскрывается ее личностно образующая функция.
+Ключевые слова: начальное иноязычное образование, методическая система, личностно образующая функция, структурные компоненты методической системы
+EDUCATIONAL SYSTEM OF FOREIGN LANGUAGE ACQUISITION IN THE PRIMARY SCHOOL AS A PEDAGOGICAL PHENOMENON
+Nikitenko Z. N.
+The article considers the peculiarities of the Educational system, founded by the author and realized in the Federal English textbooks for the Primary school. The author singles out the structural components of the system and focuses on its learner development function.
+Keywords: primary foreign language education, learnerdevelopment function, structural components of the educational system
+ 
+МЕТАФОРА КАК ПРИЕМ ОБУЧЕНИЯ В ИНОЯЗЫЧНОМ ДОШКОЛЬНОМ ОБРАЗОВАНИИ
+Цыбина Ю. Ю., Тарасюк Н. А.
+В данной статье метафора рассматривается как прием обучения в иноязычном дошкольном образовании в процессе обучения иностранному языку дошкольников. Авторы рассматривают метафору для решения образовательных, развивающих и воспитательных задач в сфере иноязычного дошкольного образования.
+Ключевые слова: учебные задачи, методические средство, учебный процесс, мотивационный потенциал
+METAPHOR AS A MEANS OF TEACHING YOUNG LEARNERS
+Tsybina Yu. Yu., Tarasjuk N. A.
+The article describes metaphor as an effective device of foreign language teaching in the process of foreign language education of young learners. The authors consider the possible ways of using metaphor for solving didactic, developing and upbringing aims when teaching young learners English.
+Keywords: educational aims, methodical means, educational process, motivational potential
+ 
+ИССЛЕДОВАТЕЛЬСКАЯ ДЕЯТЕЛЬНОСТЬ МЛАДШИХ ШКОЛЬНИКОВ
+Борщевская А. Ю.
+В статье представлен авторский подход к исследовательской деятельности младших школьников, рассмотрено обучение его умениям и навыкам исследовательского поиска и приведены результаты работы.
+Ключевые слова: исследовательская деятельность, развитие способностей, творчество
+RESEARCH ACTIVITY OF YOUNGER SCHOOL STUDENTS
+Borschevskaya A. Yu.
+In the article the authors approach to research activity of younger school students is presented, training the skills of research is considered and the results of the work are given
+Keywords: research activity, development of abilities, creativity
+ 
+РАЗВИТИЕ ПОЗНАВАТЕЛЬНОЙ АКТИВНОСТИ ОБУЧАЮЩИХСЯ МЛАДШИХ КЛАССОВ СЕЛЬСКОЙ ШКОЛЫ ПОСРЕДСТВОМ РАСШИРЕНИЯ СПЕКТРА РЕСУРСОВ
+Фадюшина Л. П., Стерхова Н. С.
+В статье раскрывается содержание одного из условий повышения эффективности развития познавательной активности младших школьников сельской школы. В качестве данного условия выступает пополнение знаний учащихся за счет расширения спектра ресурсов. Для повышения эффективности исследуемого процесса предлагается использование пространственного, коммуникативного, информационного, этнокультурного ресурсов.
+Ключевые слова: развитие познавательной активности обучающихся, расширение спектра ресурсов, пространственный ресурс, коммуникативный ресурс, информационный ресурс, этнокультурный ресурс
+DEVELOPMENT OF PRIMARY VILLAGE SCHOOL PUPILS COGNITIVE ACTIVITY BY MEANS OF EXPANSION OF THE SPECTRUM OF RESOURCES
+Fadyushina L. P., Sterkhova N. S.
+The article defines the content of one of the conditions ensuring the development of primary village school pupils cognitive activity expansion of resources spectrum. The role of different resources (spatial, communicative, informational, ethnologic-cultural) in securing the effectiveness of the process concerned is described
+Keywords: development of pupils\' cognitive activity; expansion of resources spectrum; spatial resource, communicative resource, informational resource, ethnologiccultural resource
+ 
+АКТУАЛЬНЫЕ ВОПРОСЫ РАЗВИТИЯ УЧАЩЕГОСЯ В ПРОЦЕССЕ ОБУЧЕНИЯ (НА МАТЕРИАЛЕ ПРЕПОДАВАНИЯ МУЗЫКИ)
+Цыпин Г. М.
+В статье рассматриваются актуальные проблемы подготовки учителя музыки на современном этапе. Анализируются основные аспекты учебновоспитательной работы на музыкальных факультетах педагогических вузов. В центре статьи комплекс вопросов, связанных с развивающим обучением в специфической сфере художественнотворческой (музыкальной) педагогики.
+Ключевые слова: развивающее обучение, профессиональная подготовка учителя музыки
+CURRENT ISSUES OF STUDENT PROGRESS IN THE COURSE OF STUDYING (A CASE STUDY OF MUSIC TEACHING)
+Tsypin G. M.
+The article touches upon the current problems of music teacher training. It provides analysis of main aspects of educational process at music departments of teacher training colleges. The central topic of the article is a complex of issues relating to the developmental education in the specific area of artistic (musical) pedagogy.
+Keywords: developmental education, professional education of music teacher
+ 
+ВЫБОР РЕПЕРТУАРА КАК ФАКТОР РАЗВИТИЯ ГОЛОСА РАСШИРЕННОГО ДИАПАЗОНА
+Куфтырева Е. Л.
+В статье рассматривается подход к выбору репертуара как основополагающему фактору для развития голоса расширенного диапазона, также предпринята попытка обосновать необходимость параллельного изучения произведений, написанных для разных типов женских голосов, и разделения репертуара на учебный и концертный в процессе обучения в связи со сложной структурой этого типа голоса.
+Ключевые слова: голос расширенного диапазона, меццо-сопрано, сопрано, колоратурное сопрано, грудной резонатор, головной резонатор, диапазон, регистр, репертуар
+REPERTOIRE CHOICE AS THE FACTOR OF DEVELOPMENT OF A VOICE OF THE EXPANDED RANGE
+Kuftyreva E. L.
+In this article the approach to a repertoire choice as to the basic factor for development of a voice of the expanded range is considered, and also the attempt to prove the necessity of parallel studying of the products written for different types of female voices, and the divisions of repertoire on educational and concert in the course of training in connection with difficult structure of this type of a voice is undertaken.
+Keywords: voice of the expanded range, mezzo-soprano, soprano, coloratura soprano, the chest resonator, the head resonator, range, the register, repertoire
+ 
+РЕЗУЛЬТАТЫ ЭКСПЕРИМЕНТАЛЬНОЙ РАБОТЫ ПО ВНЕДРЕНИЮ МЕТОДИКИ РАЗВИТИЯ ТВОРЧЕСКИХ СПОСОБНОСТЕЙ ДЕТЕЙ МЛАДШЕГО ПОДРОСТКОВОГО ВОЗРАСТА ИСПОЛНИТЕЛЬСКИМИ СРЕДСТВАМИ ХОРОВОГО ДЕТСКОГО ТЕАТРА
+Редько А. М.
+В данной статье автор приводит результаты экспериментальной проверки реализации методики, ориентированной на развитие творческих способностей детей младшего подросткового возраста исполнительскими средствами хорового детского театра. Представленные в рамках каждого экспериментального этапа материалы исследования легли в основу сделанных автором аналитических выводов и способствовали разработке рекомендаций с конкретными дидактико-методическими указаниями.
+Ключевые слова: хоровой детский театр, экспериментальная работа, творческие способности, авторская методика
+Redko A. M.
+In this article the author provides results of experimental check of realization of the technique focused on development of creative abilities of children of younger teenage age by performing means of choral childrens theater. The materials of research presented within each experimental stage, form the basis of the analytical conclusions drawn by the author and promoted development of recommendations with particular didactic and methodical instructions.
+Keywords: choral children\'s theater, experimental work, creative abilities, author\'s technique
+ 
+РИСОВАНИЕ С НАТУРЫ КАК МЕТОД НАГЛЯДНОГО ОБУЧЕНИЯ И ОБЩЕГО РАЗВИТИЯ РЕБЕНКА
+Се Юнхуэй
+В статье освещены вопросы преподавания изобразительного искусства в общеобразовательной школе, целью которого является формирование художественной культуры учащихся как неотъемлемой части духовной культуры, приобщение детей к общечеловеческим и эстетическим ценностям, овладение ими национальным культурным наследием. Рисование с натуры развивает наблюдательность и любопытство учеников, развивает у них чувство прекрасного.
+Ключевые слова: рисование с натуры, метод обучения, художественное образование, художественнотворческая деятельность, развитие личности
+DRAWING FROM NATURE AS A METHOD OF VISUAL LEARNING AND OVERALL DEVELOPMENT OF A CHILD
+This article presents the problems of teaching art in a secondary school, the purpose of which is to develop students artistic culture as an integral part of the spiritual culture, familiarizing children with universal and aesthetic values, the mastery of their national cultural heritage. Drawing from Nature develops observation and curiosity of students, develops their sense of beauty.
+Keywords: drawing from nature, method of teaching, art education, artistic and creative activities, personality development
+ 
+ВЗАИМОДЕЙСТВИЕ ТРЕНЕРА И РОДИТЕЛЕЙ В ОРГАНИЗАЦИИ КУЛЬТУРНО-ДОСУГОВОЙ ДЕЯТЕЛЬНОСТИ ВОСПИТАННИКОВ
+Гасанов Н. В.
+В статье приводятся основные результаты, полученные в ходе исследования взаимодействия тренеров, юных спортсменов и их родителей в организации культурно-досуговой деятельности
+Ключевые слова: культурно-досуговая деятельность, тренер, юные спортсмены и их родители
+PARENTS-COACH INTERACTION IN TERMS OF ORGANISATION OF CULTURAL AND LEISURE ACTIVITIES OF TRAINEES
+Gasanov N. V.
+The article presents the results obtained in the experiment connected with the interaction of coaches, young sportsmen and their parents in terms of organization of cultural and leisure activities
+Keywords: cultural and leisure activities, coach, young sportsmen and their parents
+ 
+ПУТИ ПОВЫШЕНИЯ КАЧЕСТВА КУЛЬТУРНО-ДОСУГОВОЙ ДЕЯТЕЛЬНОСТИ РАБОТАЮЩИХ ЖЕНЩИН, ВЕДУЩИХ МАЛОПОДВИЖНЫЙ ОБРАЗ ЖИЗНИ
+Поляничко Н. А.
+В статье описаны пути повышения качества культурно-досуговой деятельности работающих женщин, ведущих малоподвижный образ жизни.
+Ключевые слова: культурно-досуговая деятельность, пути повышения качества
+WAYS OF INCREASING THE QUALITY OF CULTURAL AND LEISURE ACTIVITIES OF WORKING WOMEN, WHO LEAD A SLOW-MOVING WAY OF LIFE
+Polyanichko N. A.
+The article deals with ways of increasing the quality of cultural and leisure activities of working women, leading a slow-moving way of life
+Keywords: cultural and leisure activities; ways of increasing the quality
+ 
+ФИЛОСОФСКИЙ И ПСИХОЛОГО-ПЕДАГОГИЧЕСКИЙ АНАЛИЗ АВТОНОМИИ В УЧЕБНОЙ ДЕЯТЕЛЬНОСТИ
+Бухтеева Е. Е.
+В данной статье мы хотели бы провести философский и психолого-педагогический анализ понятия «автономии в учебной деятельности» для выявления признаков, характеризующих «идеально автономного студента», осознанно и эффективно управляющего своей учебной деятельностью.
+Ключевые слова: самоуправление, саморегуляция, самоактуализация, учебная автономия, самостоятельная деятельность, рефлексия, ответственность, учебные стратегии
+PHILOSOPHICAL, PSYCHOLOGICAL AND PEDAGOGICAL ANALYSIS OF AUTONOMY IN LEARNING ACTIVITIES
+Bukhteeva E. E.
+In this article we would like to conduct a philosophical, psychological and pedagogical analysis of the concept of autonomy in learning activities for signs that characterize the „ideally autonomous student who consciously and effectively manages his/her learning activities.
+Keywords: self-administration, self-regulation, selfactualization, learning autonomy, independent activities, reflection, responsibility, learning strategies
+ 
+ТЕОРЕТИЧЕСКОЕ ОБОСНОВАНИЕ РАЗВИТИЯ ЛИЧНОСТИ
+Вавилова И. Н.
+Нравственно-этический компонент структуры личности несет в себе свойства, присущие целому, а личность это динамичная, саморазвивающаяся система. Этот компонент отражает духовность категории личности.
+Ключевые слова: личность, развитие, психика, психические свойства
+THEORETICAL JUSTIFICATION OF DEVELOPMENT OF THE PERSONALITY
+Vavilovа I. N.
+The moral and ethical component of personality structure bears in itself the properties inherent to the whole, and the personality is a dynamic, self-developing system. This component reflects spirituality of the category of personality
+Keywords: personality, development, mentality, mental properties
+ 
+ЭКСПЕРИМЕНТАЛЬНАЯ ДИАГНОСТИКА ДИАЛОГИЧЕСКОГО ОБЩЕНИЯ ПОДРОСТКА
+Шалабаева Л. И.
+В статье изложены результаты эксперимента, проведенного автором, в двух классах средней школы в г. Алматы. Целью исследования являлись особенности развития подростка в диалогическом общении
+Ключевые слова: эксперимент, диалог, подросток, методика
+EXPERIMENTAL DIAGNOSTICS OF DIALOGIC COMMUNICATION OF A TEENAGER
+Shalabaeva L. I.
+The article presents the results of an experiment, conducted by the author in two classes of a school in Almaty. The main aim of this experiment was to trace the peculiar features of the development of a teenager during dialogic communication.
+Keywords: experiment, dialogue, teenager, method
+ 
+ПРОБЛЕМА ИЗУЧЕНИЯ ПСИХОЛОГИЧЕСКОГО СТРЕССА СТАРШИХ ШКОЛЬНИКОВ КАК ОТРАЖЕНИЯ СОЦИАЛЬНОЙ СИТУАЦИИ ИХ РАЗВИТИЯ
+Белова Е. А.
+Статья раскрывает актуальную тему диагностики изменений в сфере образования. Рассматривается проблема инноваций, их влияния на учащихся. Обсуждается и по-новому осмысляется проблема изучения психологического стресса в старшем школьном возрасте. Практическая ценность исследования связывается с возможностью проведения экспрессмониторинга изменений в системе образования.
+Ключевые слова: психологический стресс, факторы стресса, социальная ситуация развития, старший школьный возраст
+Belova E. A.
+The article discovers a topical subject of diagnostics of changes in an educational sphere. The article considers the problem of innovation and its influence on students. The article discusses and comprehends in a new way the problem of investigation of psychological stress in the senior school age. Practical value of research is connected with the possibility of carrying out express monitoring of changes in an educational system.
+Keywords: psychological stress, stress factors, a social situation of development, the senior school age
+ 
+ТЕОРЕТИЧЕСКИЙ АНАЛИЗ ОСНОВНЫХ ХАРАКТЕРИСТИК ОБРАЗА ПРОФЕССИИ: ПОНЯТИЕ, СТРУКТУРА, ФУНКЦИИ
+Володина К. А.
+В статье представлен теоретический анализ основных характеристик образа профессии. Рассматривается определение понятия «образ профессии», компонентный состав образа профессии, функциональное значение.
+Ключевые слова: образ мира, профессиональная составляющая образа мира, образ профессии
+THEORETICAL ANALYSIS OF THE MAIN CHARACTERISTICS OF THE PROFESSION IMAGE: CONCEPT, STRUCTURE AND FUNCTIONS
+Volodina K. A.
+The article presents a theoretical analysis of the main characteristics of the profession image. Some definitions of profession image, a componential composition of the profession image and functional meanings are observed.
+Keywords: the world image, a professional component of the world image, a profession image
+ 
+СОДЕРЖАТЕЛЬНОЕ НАПОЛНЕНИЕ КОМПОНЕНТОВ ПРОФЕССИОНАЛЬНО-ЭТИЧЕСКОЙ КУЛЬТУРЫ СОТРУДНИКОВ ОВД
+Качалова Л. П., Смирнов Д. Д.
+На основе анализа имеющихся исследований проблемы формирования профессиональной культуры сотрудников органов внутренних дел в статье дается характеристика компонентов, составляющих сущность профессионально-этической культуры сотрудников ОВД
+Ключевые слова: профессиональная культура, профес сионально-этическая культура, про фес сио нально-нравственный долг, профессиональная этика
+THE CONTENT OF THE COMPONENTS OF THE PROFESSIONAL AND ETHICAL CULTURE OF THE INTERNAL AFFAIRS DEPARTMENT EMPLOYEES
+Kachalova L. P., Smirnov D. D.
+On the basis of the analysis of the existing researches on the problem of the professional culture formation of the Internal Affairs Department employees the article provides the description of the components that form the essence of the professional and ethical culture of the Internal Affairs Department employees
+Keywords: professional culture, professional and ethical culture, professional and moral duty, professional ethics
+ 
+НЕКОТОРЫЕ ВОПРОСЫ ПРИМЕНЕНИЯ ТЕОРИИ ПОТРЕБНОСТЕЙ В СОВРЕМЕННЫХ УСЛОВИЯХ МОТИВАЦИИ ПЕРСОНАЛА
+Минцзин Ду
+В статье рассматриваются основные положения теории потребностей. Основное внимание уделяется иерархии потребностей А. Маслоу и разработанной им концепции «просвещенной управленческой политики», которой в российской литературе уделяется мало внимания. Раскрыты некоторые другие подходы к определению видов потребностей. Отмечается роль теории потребностей в разработке технологий мотивации персонала.
+Ключевые слова: потребность, мотивация, трудовая деятельность, индивидуальные различия, самоактуализация
+ON SOME ISSUES ASSOCIATED WITH THE APPLICATION OF THE THEORY OF NEEDS IN MODERN CONDITIONS OF STAFF MOTIVATION
+Mingin Du
+This paper provides an outline of the theory of needs. The focus is made on the hierarchy of needs worked out by Maslow and his concept of „enlightened management policy which has received little attention in Russian literature. Some other approaches to the definition of types of needs are revealed. The role of the theory in the development of technology needs motivation is noted.
+Keywords: need, motivation, work, individual differences, self-actualization
+ 
+ОСОБЕННОСТИ ВЛИЯНИЯ ТРАДИЦИОННОЙ КУЛЬТУРЫ НА ФОРМИРОВАНИЕ ОБЩЕСТВА ПОТРЕБЛЕНИЯ В КИТАЕ
+Тэн Минь
+В статье рассматривается ситуация становления в Китае общества потребления современного типа. Социальная и экономическая дифференциация населения формирует у групп с высоким доходом, у некоторой части молодежи не свойственные традиционному Китаю модели потребления. Китай становится одним из ведущих мировых рынков предметов роскоши. Этот процесс вызывает беспокойство у власти и общества в связи с задачей поддержания культуры Китая.
+Ключевые слова: Китай, общество потребления, культура потребления, престижное потребление, рынок роскоши
+THE FEATURES OF INFLUENCE OF A TRADITIONAL CULTURE ON FORMATION OF A CONSUMER SOCIETY IN CHINA
+Teng Min
+The article reviews the situation of China becoming a consumer society of modern type. The social and economic differentiation of the population generates not peculiar to China traditional patterns of consumption among higher-income groups, and among a certain proportion of young people. China is becoming one of the worlds leading markets for luxury goods. The Chinese government and the society are concerned about this process due to the task of sustaining the culture of China.
+Keywords: China, consumer society, consumer culture, the prestigious consumption, luxury market
+ 
+ФОРМИРОВАНИЕ ОБОБЩЕННЫХ АЛГОРИТМОВ У ШКОЛЬНИКОВ С НАРУШЕНИЕМ ИНТЕЛЛЕКТА НА УРОКАХ МАТЕМАТИКИ
+Яковлева И. М., Перова М. Н.
+В статье раскрыта коррекционно-развивающая направленность обучения математике умственно отсталых школьников на примере формирования обобщенных алгоритмов арифметических действий, подробно описаны приемы сравнения, противопоставления, установления аналогии.
+Ключевые слова: преподавание математики в коррекционной школе, умственно отсталые школьники, обобщенный алгоритм, обучение арифметическим действиям
+FORMATION OF THE GENERALIZED ALGORITHMS OF SCHOOLBOYS WITH INFRINGEMENT OF INTELLIGENCE AT LESSONS OF MATHEMATICS
+Yakovleva I. M., Perova M. N.
+The article describes in detail the correction-developing orientation of training of Mathematics of mentally retarded schoolboys by the example of formation of the generalized algorithms of arithmetic actions, receptions of comparison, opposition, an establishment of analogy
+Keywords: teaching of mathematics at correctional school, the mentally retarded schoolboys, the generalized algorithm, training to arithmetic actions
+ 
+ИСТОРИЧЕСКИЙ АНАЛИЗ СТАНОВЛЕНИЯ ПСИХОЛОГОПЕДАГОГИЧЕСКОЙ ПОДГОТОВКИ ВЫПУСКНИКОВ В ОБРАЗОВАТЕЛЬНЫХ УЧРЕЖДЕНИЯХ МВД РОССИИ
+Иванова А. В.
+1718 г. мы связываем с возникновением психологопедагогической подготовки кадров для Министерства Внутренних Дел. Проведен исторический анализ становления психолого-педагогической подготовки выпускников в образовательных учреждениях МВД России, в статье рассмотрены вопросы профессионального отбора кадров, изложены требования, предъявляемые к кандидату на полицейскую службу.
+Ключевые слова: психолого-педагогическая подготовка, профессиональный отбор, профессиональная подготовка, образовательное учреждение, кандидат
+THE HISTORICAL ANALYSIS OF THE FORMATION OF PSYCHOLOGICAL AND PEDAGOGICAL PREPARATION OF THE GRADUATES IN EDUCATIONAL INSTITUTIONS OF THE MINISTRY OF INTERNAL AFFAIRS OF RUSSIA
+Ivanova A. V.
+1718 is associated with the emergence of psychological and pedagogical training for the Ministry of Internal Affairs. The historical analysis of the formation of psychological and pedagogical preparation of the graduates in educational institutions of the Ministry of Internal Affairs of Russia is carried out. The article investigates the questions of professional selection of the staff, the requirements to the candidate for police service are stated.
+Keywords: psychological and pedagogical preparation, professional selection, vocational training, educational institution, candidate
+ 
+ПОНЯТИЕ НАРОД В ИСТОРИОСОФИИ Ю. Ф. САМАРИНА И СЛАВЯНОФИЛОВ
+Скороходова С. И.
+В статье на основе архивных материалов раскрывается одно из центральных понятий философии представителей «московской школы» «народ». Автор считает, что любовь славянофилов к народу не была абстрактной, но проявлялась практически. Они живо откликнулись на все основные вопросы современной России, по-своему изучив те элементы, которые повлияли на своеобразие внутреннего склада русского народа. В статье обосновывается мысль Н. А. Бердяева о том, что славянофилы стояли у истоков национального самосознания и повлияли на многие общественные направления, даже мало осознающие свое родство со славянофилами.
+Ключевые слова: русский народ, Самарин, Хомяков, Киреевский, Достоевский, «Бродяга», национальное самосознание
+THE NOTION OF PEOPLE IN THE HISTORIOSOPHY OF YU. F. SAMARIN AND THE SLAVOPHILES
+Skorokhodova S. I.
+The article, which is based on the archive materials, describes one of the central concepts of the Moscow Schools philosophy: the people. The author believes that the Slavophiles love for the people was not abstract but was shown in practice. They keenly responded to the principal issues of Russia of that time and, in their own way, studied the elements that influenced the Russian peoples original mentality. The article substantiates N. A. Berdyaevs idea that the Slavophiles were the originators of the national identity and had influence on many social sectors, even those few, who were aware of their connection with the Slavophiles.
+Keywords: the Russian people, Samarin, Khomyakov, Kireevskiy, Dostoevskiy, \"the Wanderer\", national identity
+ 
+СИНТЕЗ И ФАРМАКОЛОГИЧЕСКИЕ ИСПЫТАНИЯ НЕКОТОРЫХ ПРОИЗВОДНЫХ αИ β-ЦИКЛОДЕКСТРИНОВ1
+Грачев М. К., Курочкина Г. И., Баталова Т. А., Нифантьев Э. Е.
+Получены новые представители
+Ключевые слова: циклодекстрины, лекарственные препараты, конъюгирование, фармакологические исследования
+SYNTHESIS AND PHARMACOLOGICAL TESTS OF SOME αAND β-CYCLODEXTRINS DERIVATIVES
+Grachev M. K., Kurochkina G. I., Batalova T. A., Nifantiev E. E.
+The new representatives of
+Keywords: cyclodextrins, drugs, conjugation, pharmacological investigations
+ 
+ТОТАЛЬНОЕ АЦИЛИРОВАНИЕ ДИГИДРОКВЕРЦЕТИНА ХЛОРАНГИДРИДАМИ ГЕТЕРОЦИКЛИЧЕСКИХ КАРБОНОВЫХ КИСЛОТ1
+Коротеев А. М., Поздеев А. О., Коротеев М. П., Левина И. И., Васянина Л. К., Казиев Г. З., Нифантьев Э. Е.
+Впервые осуществлено тотальное ацилирование таксифолина хлорангидридами гетероциклических карбоновых кислот. Полученные сложные эфиры флавоноида представляют интерес в качестве биологически активных препаратов.
+Ключевые слова: дигидрокверцетин, ацилирование, гетероциклические эфиры карбоновых кислот
+THE TOTAL ACYLATION OF DIHYDROQUERCETIN BY CHLOROANHYDRIDES OF HETEROCYCLIC CARBONIC ACIDS
+Koroteev A. M., Pozdeev A. O., Koroteev M. P., Levina I. I., Vasianina L. K., Kaziev G. Z., Nifantiev E. E.
+For the first time the total acylation of taxifolin by chloroanhydrides of heterocyclic carbonic acids was realized. The obtained flavonoids esters are of interest as biologically active substances
+Keywords: dihydroquercetin, acylation, heterocyclic esters of carbonic acids
+ 
+СОЗДАНИЕ ХЕЛАТНЫХ И МАКРОГЕТЕРОЦИКЛИЧЕСКИХ СИСТЕМ, БАЗИРУЮЩЕЕСЯ НА ОЛИГОФУНКЦИОНАЛИЗАЦИИ ДИНАФТИЛМЕТАНОВ И КАЛИКС[4]РЕЗОРЦИНАРЕНОВ1
+Масленникова В. И., Серкова О. С., Гузеева Т. В., Бурихина А. В., Тарасенко Д. В., Глушко В. В., Нифантьев Э. Е.
+Осуществлена поливариантная модификация (тио лирование, аминирование, карбамоилирование, фос фо ри лирование) 2,2-дигидроксии 2,2,7,7-тетра гидрокси-динафтилметанов, а также резорцинаренов, находящихся в различных конформационных состояниях, и синтезирована серия хелатных лигандов, различающихся количеством и ориентацией хелатных пар, иммобилизованных на ароматической матрице
+Ключевые слова: динафтилметаны, каликс[4]резор цинарены, предорганизация, олигофункцио на лизация
+DESIGN OF CHELATE AND MACROHETEROCYCLIC SYSTEMS BASED ON OLIGOFUNCTIONALIZATION OF DINAPHTHYLMETHANES AND CALIX[4]RESORCINARENES
+Maslennikova V. I., Serkova O. S., Guzeeva T. V., Burikhina A. V., Tarasenko D. V., Glushko V. V., Nifantiev E. E.
+Polyvariant modification (thiolation, amination, carbamoylation, phosphorylation) of 2,2-dihydroxyand 2,2,7,7-tetrahydroxy-dinaphthylmethane and also resorcinarenes, being in various conformational conditions was carried out, and series of chelating ligands differing by the number and the orientation of the chelate pairs immobilized on the aromatic matrix was synthesized.
+Keywords: dinaphthylmethanes, calix[4]resorcinarenes, preorganization, oligofunctionalization
+ 
+ОСОБЕННОСТИ АМИНОМЕТИЛИРОВАНИЯ ДИГИДРОКВЕРЦЕТИНА1
+Мосюров С. Е., Кухарева Т. С., Нифантьев Э. Е.
+Осуществлено аминометилирование дигидрокверцетина с использованием аминов и аминокислот различного строения. В зависимости от соотношения реагентов получены продукты различного строения
+Ключевые слова: аминометилирование, дигидрокверцетин, амины, аминокислоты
+PECULIARITIES OF DIHYDROQUERCETIN AMINOMETHYLATION
+Mosyurov S. E., Kukhareva T. S., Nifantiev E. E.
+Carried Aminomethylation of dihydroquercetin using amines and amino acids with various structures. Depending on the ratio of reagents derived products of different structures.
+Keywords: aminomethylation, dihydroquercetin, amines, amino acids
+ 
+ФОСФОРИЛИРОВАНИЕ ПОЛИПРЕНОЛОВ ПРОИЗВОДНЫМИ ТРЕХВАЛЕНТНОГО ФОСФОРА
+Маленковская М. А., Расадкина Е. Н., Пугашова Н. М., Нифантьев Э. Е.
+Исследовано фосфорилирование полипренола по гидроксильной группе ациклическими и циклическими амидами фосфористой кислоты, а также циклическими хлорфосфитами с целью получения новых биологически активных соединений. Строение всех синтезированных соединений доказано методом спектроскопии ЯМР 31Р, 1Н и 13С.
+Ключевые слова: полипренол, фосфорилирование, амиды и хлорангидриды фосфористой кислоты, окисление, сульфуризация, алкилирование аминов, гидролиз
+PHOSPHORYLATION OF POLYPRENOLS BY THE TRIVALENT PHOSPHORUS DERIVATIVES
+Malenkovskaya M. A., Rasadkina E. N., Pugashova N. M., Nifantiev E. E.
+The phosphorylation of polyprenol at the hydroxyl group by the acyclic-, amidocyclophosphites and chlorocyclophosphites for the purpose of new biologically active compounds synthesis was studied. The structures of all synthesized substances were proved by NMR 1H, 13C and 31P spectroscopy.
+Keywords: polyprenol, phosphorylation, amides and chloroanhydrides of phosphorous acid and amidocyclophosphites, amines alkylation, hydrolysis
+ 
+ОСОБЕННОСТИ КОМПЛЕКСООБРАЗОВАНИЯ РОДИЯ (I) С КВЕРЦЕТИНОМ
+Телешев А. Т., Мишина Е. Н., Нифантьев Э. Е.
+В статье рассматриваются особенности комплексообразования родия (I) с кверцетином. Приводятся характеристические данные физико-химических исследований образующихся соединений родия (I, II). Дана оценка антиоксидантной активности системы кверцетин-родий в сравнении с исходным кверцетином.
+Ключевые слова: кверцетин, комплексы родия, антиоксидантная активность
+FEATURES OF THE COMPLEX FORMATION OF RHODIUM(I) WITH QUERCETIN
+Teleshev A. T., Mishina E. N., Nifantiev E. E.
+Keywords: In article features of a complex formation of rhodium (I) with the quercetin are considered. Characteristic data of physical and chemical researches of being formed compounds of rhodium (I, II) are provided. The assessment of antioxidant activity of system quercetinrhodium in comparison with initial the quercetin is given, quercetin, rhodium complexes, antioxidant activity

@@ -1,0 +1,23 @@
+Ссылка	Название	Комментарий
+http://www.niro.nnov.ru/?id=16854	Список открытых к доступу	
+http://www.vestnikedu.ru/Vestnik_obrazovaniya.html	Вестник образования	Можно посмотреть только оглавления журналов и слова от главного редактора
+http://vestniknews.ru/		Есть много статей. которые можно открыть целиком
+http://www.vovr.ru/	Высшее образование в России	Есть архивы номеров в pdf
+http://rusacademedu.ru/news/	Известия Российской академии образования	Новости РАО 
+http://vneshkolnik.su/about/news/	Внешкольник	Статьи недоступны, но можно посмотреть новости
+http://www.voppsy.ru/news.htm	Вопросы психологии	Статьи недоступны, но есть новости, анонсы, т.д.
+http://elibrary.ru/title_about.asp?id=8653        	Дидакт	Видимо, не достать
+http://www.schoolpress.ru/products/magazines/index.php?SECTION_ID=17&MAGAZINE_ID=35007	Воспитание школьников	Есть краткие содержания, архив
+http://www.schoolpress.ru/products/magazines/?MAGAZINE_ID=31513&SECTION_ID=39	Дошкольник. Младший школьник	Есть краткие содержания, архив
+http://edu4.ru/component/option,com_mtree/task,listcats/cat_id,1491/	Лидеры образования	
+http://n-shkola.ru/archive/index/year/2016	Начальная школа	есть архив
+http://school2100.com/izdaniya/magazine/archive/	Начальная школа: плюс-минус	есть архив
+http://school-education.ru/archive-2014/	Образование в современной школе	архив аннотаций
+https://pedologiya.ru/publikacii_pedagogov	Педология	есть публикации
+https://almavest.ru/ru/archive	Альма-матер	архив pdf
+http://ucpr.arbicon.ru/bupm95.html	Бюллетень программно-методических материалов  для учреждений дополнительного образования детей	2001 - 2005 год
+http://direktor.ru/article.htm?kind=normal	Директор школы	
+http://www.ppoisk.com/Gurnal-soderganie/soderganie-Kl-2016.htm	Классный руководитель	Перечень тем
+http://narodnoe.org/	Народное образование	
+http://m-profobr.com/page-6.html	Профессиональное образование	есть архив
+http://xn--c1arjr.xn--p1ai/ob-mpgu/izdaniya-mpgu/	Издания МПГУ	
