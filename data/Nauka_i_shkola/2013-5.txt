@@ -110,6 +110,7 @@ Keywords: differentiation and individualization of learning, types of the differ
 В статье коротко представлены методологические основы самообучения школьника; приведен алгоритм самообучения; кратко представлена концепция самообучения школьника; дано определение понятия «самообучение»; раскрыто понятие эффективности самообучения школьника.
 Ключевые слова: самообучение, электронное образование, алгоритм самообучения школьника, нелинейная личностная дидактическая модель самообучения школьника, дидактическая концепция самообучения
 METHODOLOGIC BASIS OF STUDENTS SELF-TRAINING
+Kirikovich T. E.
 The article includes methodological basis of students
 Keywords: self-training, online-education, student\'s self-training algorithm, nonlinear personal didactical model of student\'s training, didactic conception of the self-training
  
@@ -208,6 +209,7 @@ Keywords: metaphorical concept, conceptual metaphor, gender difference
 С появлением и развитием мультимедиа технологий коммуникативно-прагматическое пространство претерпело существенные изменения. Успешность современной иноязычной коммуникации напрямую зависит от учета основных возможностей и технических характеристик мультимедиа технологий, а их эффективная интеграция в процесс иноязычного образования становится основной задачей специалистов в области обучения иностранным языкам.
 Ключевые слова: мультимедиа технологии, лингводидактика, иностранные языки, лингвистическая прагматика
 CHANGES OF FUNDAMENTAL PRINCIPALS OF LINGUISTIC PRAGMATICS IN THE THEORY AND METHODS OF TEACHING LANGUAGES IN RESPONSE TO COMPUTERIZATION OF MODERN LANGUAGE EDUCATION
+Kashchuk S. M.
 Appearance and development of multimedia technology significantly change the communicative-pragmatic space. Success of the modern foreign language communications directly depends on allowance for the basic possibilities and characteristics of multimedia technology. At the same time an effective integration into process of foreign language education becomes the primary goal of experts in the field of foreign languages teaching.
 Keywords: multimedia technology, language education, foreign languages, linguistic pragmatics
  
@@ -342,6 +344,7 @@ Keywords: family, family system, child-parental relations, emotional positive ch
 Статья посвящена актуальным вопросам выявления резервов воспитательной системы гимназии для дальнейшего личностного, общественного и гражданского развития учащихся; указаны основные направления реализации воспитательного потенциала, отдельные воспитательные технологии, формы и методы, способствующие саморазвитию, самовоспитанию учащихся в условиях требований ФГОС к внеурочной деятельности.
 Ключевые слова: воспитательный потенциал гимназии, воспитательный потенциал процесса обучения и внеурочной деятельности
 TOPICAL ISSUES OF DEVELOPMENT OF EDUCATIONAL POTENTIAL OF A MODERN GYMNASIUM SCHOOL
+Bakulina M. E.
 The article is devoted to topical issues of identification of reserves of educational system of a gymnasium for further personal, social and civil development of pupils; the main directions of realization of the educational potential, separate educational technologies, forms and methods promoting self-development, self-education of pupils in the conditions of the requirements of Federal State Educational Standard for extracurricular activities are specified.
 Keywords: educational potential of a gymnasium school, educational potential of the process of training and extracurricular activities
  

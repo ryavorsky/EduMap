@@ -75,6 +75,7 @@ Keywords: structural-functional approach, frame of society, functions, structure
 В статье рассматриваются особенности духовной и нравственной сторон в воспитании школьников, значение артефактов в учебно-воспитательной работе, показываются активные методы и приемы работы с произведениями искусства и текстами разных жанров на примере урока развития речи по картине Б. М. Кустодиева «Балаганы» и отрывка из балета И. Ф. Стравинского «Петрушка», раскрывается метапредметное содержание урока с точки зрения требований ФГОС и учения о «первосмыслах».
 Ключевые слова: артефакт, духовно-нравственное воспитание, системно-деятельностный подход, активные и интерактивные методы и приемы, метапредметное содержание образования
 METHODS AND DEVISES OF THE WORK WITH ARTEFACTS AS POTENTIAL SOURCES OF THE SPIRITUAL AND MORAL INFLUENCE ON SCHOOLCHILDREN
+Gero I. K.
 The article is dealing with special features of the spiritual and moral aspects in the upbringing of schoolchildren as well as with significance of the artefacts in the education und upbringing. Besides the active methods and devises of how to analyse the works of art and the texts of different genres are shown on the example of the lesson on speech skills, which employs the painting Maslenitsa by B. M. Kustodiev and a fragment from the ballet Petrushka by I. F. Stravinsky. The meta-disciplinary content of this lesson is demonstrated according to demands of FGOS and the teaching of structural bases
 Keywords: artefact, spiritual and moral upbringing, systematic and operative approach, active and interactive methods and devises, meta-disciplinary content of education
  
@@ -119,6 +120,7 @@ Keywords: idiom, a component of „leg\", Russian, Persian character similaritie
 Статья посвящена исследованию возможностей сокращения архитектонической структуры немецких терминов как в сфере лексикографической фиксации, так и в речевом функционировании. Выявлены и изучены десять способов компрессии словообразовательной структуры немецких авиационных терминов, определены наиболее продуктивные из них, по которым создаются новые термины.
 Ключевые слова: термин, краткий вариант термина, терминообразование
 THE WAYS OF SHORT TERM FORMATION IN THE GERMAN LANGUAGE
+Sharafutdinova N. S.
 This article is devoted to the analysis of possibilities of shortening of the architectonic structure of terms in the German language both in the field of lexicographical fixation and in speech functioning. It describes ten methods of compression of the German aviation terms word-forming structure and defines the most productive methods used for forming new terms.
 Keywords: a term, a shortened form of the term, term formation
  
@@ -204,13 +206,14 @@ In the article the notion of information culture is determined, the process of f
 Keywords: information culture, forming of information culture, solving of mathematical problems as informational process
  
 ГУМАНИТАРНЫЙ АСПЕКТ ОБУЧЕНИЯ ФИЗИКЕ УЧАЩИХСЯ ШКОЛ С УГЛУБЛЕННЫМ ИЗУЧЕНИЕМ ИНОСТРАННЫХ ЯЗЫКОВ
- 
-This article covers the aspects of humanization of teaching physics to students of schools specialized in foreign languages.
-Ключевые слова: humanization, teaching physics, profile education
+Барышева З.П.
+В статье рассматриваются вопросы гуманитаризации процесса обучения физике учащихся школ с углубленным изучением иностранных языков.
+Ключевые слова: гуманитаризация, обучение физике, профильное образование
+
 HUMANITARIAN ASPECT OF TEACHING PHYSICS TO STUDENTS OF FOREIGN LANGUAGE SPECIALIZED SCHOOLS
 Barysheva Z. P.
-В статье рассматриваются вопросы гуманитаризации процесса обучения физике учащихся школ с углубленным изучением иностранных языков.
-Keywords: гуманитаризация, обучение физике, профильное образование
+This article covers the aspects of humanization of teaching physics to students of schools specialized in foreign languages.
+Keywords: humanization, teaching physics, profile education
  
 ФОРМИРОВАНИЕ ЕСТЕСТВЕННОНАУЧНОГО МИРОВОЗЗРЕНИЯ УЧАЩИХСЯ ГИМНАЗИИ НА РАННЕМ ЭТАПЕ ОБУЧЕНИЯ ФИЗИКЕ И АСТРОНОМИИ В 5-6 КЛАССЕ
 Масленникова Ю. В.
@@ -267,7 +270,7 @@ The article examines TV reportage from the standpoint of pragmatics in view of t
 Keywords: TV reportage, pragmatic aspect, expressive function, impact, cultural and ideological modality
  
 ОРГАНИЗАЦИЯ ВОССТАНОВЛЕНИЯ В ПРОЦЕССЕ ТРЕНИРОВКИ
- 
+Кулемин А. С.
 В статье рассматриваются методы оценки и воздействия на восстановление, его роль в тренировочном процессе. Автор приводит результаты исследования по проблеме организации восстановления в процессе тренировки.
 Ключевые слова: каратэ; мониторинг; восстановление; организация, karate, monitoring, relaxation, organization
 ORGANIZATION OF RELAXATION DURING TRAINING
@@ -307,6 +310,7 @@ Keywords: research activities, personality-oriented approach, adolescent psychol
 В статье рассматривается сущность понятия познавательной активности, познавательного интереса, рисования как вида продуктивно-творческой деятельности, значения образца (педагогического эскиза) для поддержания интереса к изобразительной деятельности
 Ключевые слова: познавательная активность, познавательный интерес, рисование, педагогические эскизы
 PROBLEMS OF FORMATION OF COGNITIVE ACTIVITY PRESCHOOL CHILDREN IN DRAWING
+Fadeeva E. R.
 In the article the essence of the concept of cognitive activity, cognitive interest, drawing as a form of productive and creative activity of the sample (Teacher sketch) to maintain interest in the fine arts activity is regarded.
 Keywords: , cognitive activity, cognitive interest, drawing, teaching sketches
  

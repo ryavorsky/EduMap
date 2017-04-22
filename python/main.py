@@ -80,5 +80,5 @@ for file_name in os.listdir():
 
 res_file = open('../data.txt','w', encoding='utf-8')
 for block in data:
-    res_file.write(block[4] + ' ' + block[3] + ': ' + block[0] + '\n')
+    res_file.write('\n' + block[4] + ' ' + block[3] + ':\n' + block[1] + '\n')
 res_file.close()

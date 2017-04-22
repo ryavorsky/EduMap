@@ -41,17 +41,15 @@ TOPICAL ISSUES OF MODERN ENVIRONMENTAL EDUCATION
 G. A. Yagodin, M. V. Argunova, T. A. Plyusnina
 The objective of the research is the development of optimal model of school ecological and educational environment for development of ecologically competent behavior in rapidly changing socio-natural environment as well as the creation of conditions for self-realization and development of all subjects of educational process. The research task is to create universal pedagogical tools directed on ecologi-cal contents acquisition; involvement of teachers, pupils and their parents in socially significant ac-tivities; control and assessment of educational results. School ecological and educational environment represents the combination of not only material factors, but also of interpersonal relations which are established at educational institution. During the research the following parameters were revealed for an assessment of the educational environment: coverage width, intensity of influence on pupils, tech-nological effectiveness, appreciation in the society as well as positioning in the society. The stages of involvement of pupils in socially significant activities are also defined in the article.
 Keywords: environmental education for sustainable development, ecological and educational environment, socially significant activities, ecological competence, pedagogical tools.
-РОЛЬ УЧЕБНЫХ ПРОЕКТОВ
-В РАЗВИТИИ КОММУНИКАТИВНОЙ КОМПЕТЕНЦИИ УЧАЩИХСЯ 8–9 КЛАССОВ
-(на примере изучения научного стиля речи)
+РОЛЬ УЧЕБНЫХ ПРОЕКТОВ В РАЗВИТИИ КОММУНИКАТИВНОЙ КОМПЕТЕНЦИИ УЧАЩИХСЯ 8–9 КЛАССОВ (НА ПРИМЕРЕ ИЗУЧЕНИЯ НАУЧНОГО СТИЛЯ РЕЧИ)
 Е. А. Рябухина, А. Р. Чудинова
 В статье рассматривается роль проектного метода в развитии коммуникативной компетенции учащихся 8–9-х классов при изучении научного стиля речи. Предпринята попытка разграничить ключевую и предметную коммуникативную компетенцию, а также определить предполагаемые результаты развития коммуникативных умений в соответствии с выделенными направлениями проектной деятельности. Предложена разработка проекта для учащихся 8-го класса «Сообщение как жанр устного предъявления информации».
 Ключевые слова: ключевая коммуникативная компетенция, предметная коммуникативная компетенция, коммуникативные умения, метод проектов, учебные проекты, научный стиль речи, подстили научного стиля речи.
-THE ROLE OF EDUCATIONAL PROJECTS IN DEVELOPING
-THE COMMUNICATIVE COMPETENCE OF PUPILS OF 8–9 FORMS (by the example of studying the scientific style of speech)
+THE ROLE OF EDUCATIONAL PROJECTS IN DEVELOPING THE COMMUNICATIVE COMPETENCE OF PUPILS OF 8–9 FORMS (by the example of studying the scientific style of speech)
 E. A. Ryabukhina, A. R. Chudinova
 This article discusses the role of project method in developing the communicative competence of pupils of 8-9 forms at studying the scientific style of speech. It is attempted to separate key and subject com-municative competences as well as to evaluate expected results of development of communicative skills in accordance with separate lines of project activities. The development of project for pupils of 8th form “Report as a Genre of Oral Representation of Information” is proposed.
 Keywords: key communicative competence, subject communicative competence, communicative skills, project method, educational projects, scientific style of speech, scientific sub-styles of speech.
+
 АНАЛИТИЧЕСКИЕ ПРОБЛЕМЫ СОЦИАЛЬНО-ПЕДАГОГИЧЕСКОГО ОБРАЗОВАНИЯ В УСЛОВИЯХ ИНФОРМАТИЗАЦИИ ОБЩЕСТВА
 А. Ю. Гончарук
 Авторская система социально-педагогической эмотивации проф. А. Ю. Гончарука, апробированная в Российском государственном социальном университете в 2003–2014 гг., является действенным комплексом развития инновационных информационно-коммуникативных технологий в комплексном решении аналитических проблем социально-педагогического образования учащихся бакалавриата, магистратуры, студентов, аспирантов и докторантов кафедры социальной и семейной педагогики факультета социальной работы, педагогики и ювенологии Российского государственного социального университета.
@@ -150,9 +148,7 @@ CORRELATION OF LATENT PERIODS OF SIMPLE SENSORIMOTOR REACTION TO STIMULI OF DIFF
 N. B. Pankova, E. B. Romanova, M. Yu. Karganov
 In the article the latent periods of simple sensorimotor reaction to light and sound stimuli by pupils of 1 and 5 grades were studied. The ratio of the latent periods of the sensorimotor response to stimuli of different modalities was examined in dynamics from the beginning to the end of the school year and compared with similar results of 10 years ago. It was shown that by pupils of the first form the latent periods of reaction to the stimuli of different modalities at the beginning of the school year were equal in about half of cases. In one third of cases the latent periods of reaction to an acoustic stimulus is longer than the reaction to a visual stimulus, and by modern first-graders, by contrast with their counterparts of 10 years ago, this parameter is reduced during the academic school year. Similar an-nual dynamics is revealed by fifth-graders, but it is more pronounced, on the contrary, in the results of 10 years ago.
 Keywords: psychomotor integration, sensorimotor reactivity, auditory stimuli, visual stimuli.
-ГЕННАЯ ДИАГНОСТИКА ДЛЯ СТУДЕНТОВ
-С НАСЛЕДСТВЕННЫМИ НАРУШЕНИЯМИ СЛУХА (по результатам преподавания генетики
-на дефектологическом факультете МПГУ)
+ГЕННАЯ ДИАГНОСТИКА ДЛЯ СТУДЕНТОВ С НАСЛЕДСТВЕННЫМИ НАРУШЕНИЯМИ СЛУХА (по результатам преподавания генетики на дефектологическом факультете МПГУ)
 В. П. Божкова, И. П. Николаев
 Статья посвящена анализу причин врожденных нарушений слуха у студентов, приехавших учиться в Москву в МПГУ. Сделано наблюдение, что около половины студентов с глухотой/ тугоухостью из европейской части РФ имеют мутации в одном и том же гене – гене кон-нексина-26. Это означает: 1) коннексиновые нарушения слуха чрезвычайно распространены в центральной России, 2) генная диагностика, направленная на этот ген, может быть эффективной в предсказании того, будут ли молодые семьи иметь глухих или нормально слышащих детей.
 Ключевые слова: обучение, слух человека, нарушения слуха, наследственность, гены.
@@ -161,6 +157,7 @@ V. P. Bozhkova, I. P. Nikolaev
 The paper is devoted to the analysis of inherited hearing loss among students who came to Moscow to study at MSPU. We have concluded that almost 50% of the students from European region of the Rus-sian Federation showing hearing loss have mutations in the same gene: connexin-26 gene. This means:
 1) connexin-caused hearing loss is quite widespread in Central Russia; 2) gene diagnostics aimed at this gene can be efficient for predicting whether a young family is going to have deaf or well-hearing kids.
 Keywords: education, human hearing, hearing loss, heredity, genes.
+
 ПРИНЦИПЫ, ПОЛОЖЕННЫЕ В ОСНОВУ АДАПТАЦИИ ХИМИЧЕСКИХ ОПЫТОВ К УСЛОВИЯМ БОЛЬНИЧНО-СТАЦИОНАРНОГО ОБУЧЕНИЯ
 А. Ю. Жадаев
 В статье рассмотрены специфические подходы к проведению адаптированных химических опытов как средства обучения в больнично-стационарных условиях на основе принципов современной теории дидактики.
@@ -228,6 +225,7 @@ THE “NEW RUSSIAN SCHOOL OF MUSIC” AND THE MODERN PEDAGOGY OF ART
 A. P. Yudin
 The article is devoted to the history of Russian professional musical education in the light of the known polemic of “Conservatory’s party” and the New Russian School of Music, the most prominent repre-sentative of which was M.A. Balakirev. M.A. Balakirev asserted the idea of the national character at struggle with routine and dogmatism. His pedagogical views also retain their value today.
 Keywords: history of Russian music culture and pedagogy, New Russian School of Music.
+
 О СТИХЕ ДРАМАТУРГИИ А. К. ТОЛСТОГО
 Л. В. Тодоров
 В статье анализируются особенности поэтической речи в драматургических произведениях
@@ -237,8 +235,8 @@ ABOUT VERSE OF A. K. TOLSTOY’S DRAMATIC WORKS
 L. V. Todorov
 The article deals with the peculiarities of poetic speech in A. K. Tolstoy’s dramatic works. The author of the article shows that all parts of the trilogy are characterized by a tense dramatic force, acuity of collisions, scenic and natural liveliness of poetic speech.
 Keywords: trilogy, dramatic art, poetic speech, national history.
-О ПОЛЬЗЕ ЧТЕНИЯ ИЗУЧАЕМЫХ ТЕКСТОВ
-(На примере повести М. А. Булгакова «Собачье сердце»)
+
+О ПОЛЬЗЕ ЧТЕНИЯ ИЗУЧАЕМЫХ ТЕКСТОВ (НА ПРИМЕРЕ ПОВЕСТИ М. А. Булгакова «Собачье сердце»)
 Е. А. Яблоков
 Основное содержание статьи – полемика с некоторыми тезисами современной учебно-методической литературы по поводу интерпретации повести М. А. Булгако-ва «Собачье сердце». В пособиях для учителей и учащихся встречаются утверждения, что профессор Преображенский изначально стремится превратить собаку в человека, поэтому его эксперимент противоестествен и осуждается автором повести; что именно на профессора возложена вина за произошедшее – повесть якобы направлена против излишней «любознательности» ученых и против интеллигенции в целом.
 Однако анализ приводит к выводу, что акценты в «Собачьем сердце» расставлены совершенно иначе. Булгаков поднимает вопрос о судьбе научных достижений в условиях тоталитарного государства; восходящая к «Фаусту» тема поисков бессмертия реализована на фоне политических проблем 1920-х гг. Как убеждает текст повести, Преображенский отнюдь не стремился к созданию «новой человеческой единицы»; к тому же она и не создана. В ходе эксперимента воскресает персонаж вполне «традиционный» – существо аморальное и асоциальное, уголовник и «волк» Клим Чугункин, которого, однако, большевистские идеологи провозглашают полноправным членом общества и «гегемоном».
