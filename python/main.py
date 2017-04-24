@@ -80,7 +80,7 @@ for file_name in os.listdir():
 
 print(len(data), 'papers found')
 
-res_file = open('../data.txt','w', encoding='utf-8')
+res_file = open('../titles.txt','w', encoding='utf-8')
 rusdata = []
 for block in data:
     if block[3]=="Rus":
@@ -88,7 +88,7 @@ for block in data:
         content = block[2].split("Ключевые слова: ")
         if len(content) < 2:
             content.append("---")
-        title = block[0].strip()
+        title = block[0].strip().upper()
         authors = block[1]
         abstract = content[0].replace("Аннотация.","")
         keywords = content[1].upper()
@@ -96,6 +96,7 @@ for block in data:
         year = volume.split("-")[0]
         data_unit = [title, authors, keywords, year, volume, abstract]
         rusdata.append(data_unit)
-        #res_file.write('\n' + block[4] + ' ' + block[3] + ':\n' + block[1] + '\n')
-        res_file.write('\n#'.join(data_unit)+'\n\n#')
+        res_file.write(volume + ": " + title+'\n')
+        #res_file.write(volume + ": " + keywords+'\n')
+        #res_file.write(volume + ": " + abstract+'\n\n')
 res_file.close()
