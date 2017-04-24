@@ -2,8 +2,8 @@ import os
 
 os.chdir('../data/Nauka_i_shkola/')
 print(os.getcwd())
-infile = open("2015-3.txt", 'r', encoding='utf-8')
-outfile = open('2015-3new.txt','w', encoding='utf-8')
+infile = open("2014-3.txt", 'r', encoding='utf-8')
+outfile = open('2014-3new.txt','w', encoding='utf-8')
 
 lines = infile.readlines()
 for line in lines:

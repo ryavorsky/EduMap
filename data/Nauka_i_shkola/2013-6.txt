@@ -36,12 +36,12 @@ Keywords: differentiated approach, bilingualism, a bilingual student, multicultu
  
 ПРОФЕССИОНАЛЬНАЯ МУЛЬТИМЕДИЙНАЯ ЯЗЫКОВАЯ КОМПЕТЕНЦИЯ УЧИТЕЛЯ ИНОСТРАННОГО ЯЗЫКА
 Кащук С. М.
-Objectives of modern language formation should answer those political, social and especially technological changes which have occurred in the start of third millennium. Russian education system is in need of teacher training allowing them to obtain multimedia language professional competence. It makes possible to integrate modern multimedia technologies into the process of foreign language teaching more effectively.
-Ключевые слова: education, multimedia, ICT, methods, foreign languages
+Цели современного языкового образования должны соответствовать тем политическим, социальным и особенно технологическим изменениям, которые произошли в начале третьего тысячелетия. В области отечественного образования назрела необходимость подготовки педагогов, обладающих мультимедийной языковой профессиональной компетенцией, позволяющей им эффективно интегрировать современные мультимедиа технологии в процесс обучения иностранному языку
+Ключевые слова: образование, мультимедиа, ИКТ, лингводидактика, иностранные языки
 PROFESSIONAL MULTIMEDIA LINGUISTIC COMPETENCE OF FOREIGN LANGUAGE TEACHER
 Kashchuk S. M.
-Цели современного языкового образования должны соответствовать тем политическим, социальным и особенно технологическим изменениям, которые произошли в начале третьего тысячелетия. В области отечественного образования назрела необходимость подготовки педагогов, обладающих мультимедийной языковой профессиональной компетенцией, позволяющей им эффективно интегрировать современные мультимедиа технологии в процесс обучения иностранному языку
-Keywords: образование, мультимедиа, ИКТ, лингводидактика, иностранные языки
+Objectives of modern language formation should answer those political, social and especially technological changes which have occurred in the start of third millennium. Russian education system is in need of teacher training allowing them to obtain multimedia language professional competence. It makes possible to integrate modern multimedia technologies into the process of foreign language teaching more effectively.
+Keywords: education, multimedia, ICT, methods, foreign languages
  
 РАЗВИТИЕ КРЕАТИВНОСТИ БУДУЩИХ УЧИТЕЛЕЙ ФИЗИКИ В МОДЕЛИРУЕМОЙ СИСТЕМЕ ПРОФЕССИОНАЛЬНОГО ОБУЧЕНИЯ: ПРОБЛЕМА И МЕХАНИЗМЫ ЕЕ РЕШЕНИЯ
 Карев Б. А., Горбанева Л. В.
@@ -63,12 +63,12 @@ Keywords: competence, interdisciplinary communication, principles of teaching of
  
 THE PROSPECTS OF CONTEMPORARY RUSSIAN EXPERIENCE IN PROFESSIONAL TRAINING OF FUTURE TEACHERS IN PHYSICAL CULTURE IN THE UKRAINE
 Леоненко А. В.
-The article deals with the following aspects of training of specialists of physical education and sport: interdisciplinary communication in the training of future teachers, development and continuous development of professional competence of future specialists, critical analysis of professional work in preparing teachers of physical education.
-Ключевые слова: training of future teachers of physical culture, integration of academic disciplines and professional competence of a teacher, critical analysis of teaching
+В статье рассматриваются такие аспекты подготовки специалиста по физическому воспитанию и спорту, как интеграция учебных дисциплин в обучении будущего учителя и ее связь с организацией педагогической практики студентов; формирование и непрерывное развитие профессиональной компетентности будущего специалиста; критический анализ профессиональной деятельности в процессе подготовки педагогов по физическому воспитанию.
+Ключевые слова: профессиональная подготовка будущего учителя физической культуры, интеграция учебных дисциплин, профессиональная компетентность педагога, критический анализ педагогической деятельности
 ПЕРСПЕКТИВЫ ИСПОЛЬЗОВАНИЯ СОВРЕМЕННОГО РОССИЙСКОГО ОПЫТА ПРОФЕССИОНАЛЬНОЙ ПОДГОТОВКИ БУДУЩЕГО УЧИТЕЛЯ ФИЗИЧЕСКОЙ КУЛЬТУРЫ В УКРАИНЕ
 Leonenko A. V.
-В статье рассматриваются такие аспекты подготовки специалиста по физическому воспитанию и спорту, как интеграция учебных дисциплин в обучении будущего учителя и ее связь с организацией педагогической практики студентов; формирование и непрерывное развитие профессиональной компетентности будущего специалиста; критический анализ профессиональной деятельности в процессе подготовки педагогов по физическому воспитанию.
-Keywords: профессиональная подготовка будущего учителя физической культуры, интеграция учебных дисциплин, профессиональная компетентность педагога, критический анализ педагогической деятельности
+The article deals with the following aspects of training of specialists of physical education and sport: interdisciplinary communication in the training of future teachers, development and continuous development of professional competence of future specialists, critical analysis of professional work in preparing teachers of physical education.
+Keywords: training of future teachers of physical culture, integration of academic disciplines and professional competence of a teacher, critical analysis of teaching
  
 ВЗАИМОДЕЙСТВИЕ СЕМЬИ И ШКОЛЫ В ПРОЦЕССЕ ПОЛИКУЛЬТУРНОГО ОБРАЗОВАНИЯ УЧАЩИХСЯ: АМЕРИКАНСКИЙ ОПЫТ
 Логвинова О. К.
@@ -118,11 +118,10 @@ Keywords: children press, information-communicative interaction, integration, in
 ФОРМИРОВАНИЕ ПОЗНАВАТЕЛЬНОЙ САМОСТОЯТЕЛЬНОСТИ КАК УСЛОВИЯ УСПЕШНОГО ОБУЧЕНИЯ В ШКОЛЕ
 Шульга В. В.
 В статье рассматриваются взгляды ученых на определение понятия «самостоятельность» и значение формирования познавательной самостоятельности школьников в условиях реализации новых образовательных стандартов
-Ключевые слова: cognitive self-consistency, pupils, self-guided work, Federal State Educational Standard, universal studying actions
 THE FORMING OF THE COGNITIVE SELF-CONSISTENCY AS A CLAUSE OF SUCCESSFUL STUDYING AT SCHOOL
 Shulga V. V.
 In the article there is an overview of different scientists views on the definition of self-consistency and the meaning of the forming of the cognitive self-consistency of pupils in the context of the realization of the new educational standards.
-Keywords:
+Keywords: cognitive self-consistency, pupils, self-guided work, Federal State Educational Standard, universal studying actions
  
 АНАЛИЗ ОБЛАСТЕЙ РЕШЕНИЙ УЧЕБНЫХ ЗАДАЧ В ПРОБЛЕМНОМ ОБУЧЕНИИ
 Лобашев И. В., Лобашев В. Д.

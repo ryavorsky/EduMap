@@ -100,11 +100,11 @@ Keywords: syntax, sentence, detachment, a detached part of a sentence, modality,
 СОДЕРЖАНИЕ И СЕМАНТИЧЕСКАЯ СТРУКТУРА КОНЦЕПТА ТЕМПОРАЛЬНОСТЬ В МИФОЛОГИЧЕСКОМ И ВЕТХОЗАВЕТНОМ МИРОСОЗЕРЦАНИИ
 Малыгина Г. Е.
 Исследована семантическая структура концепта темпоральность в мифологической культуре Древнего Ближнего Востока и ветхозаветном миросозерцании. Выявлены различия в содержании данного концепта, обусловленные развитием монотеизма в древнеизраильском обществе. Установлена двуплановость ветхозаветного концепта и ее зависимость от теократического миросозерцания.
-Ключевые слова: Old Testament, mythology, sacral, profane, symbolism, semantics, time, concept, theocratic world view
+Ключевые слова: Ветхий Завет, мифология, сакральное, профанное, символика, семантика, время, концепт, теократическое миросозерцание
 CONTENT AND SEMANTICS OF \'TEMPORALITY\' CONCEPT STRUCTURE IN MYTHOLOGICAL OLD TESTAMENT WORLD VIEW
 Malygina G. E.
 There has been investigated the semantic structure of a temporality concept in mythological culture of the Ancient Near East and Old Testament world view. There have been revealed the differences in the content of the given concept, determined by the development of the monotheism in the Ancient Israel society. The double-planned character of the Old Testament concept and its dependence on theocratic world view has been established.
-Keywords: Ветхий Завет, мифология, сакральное, профанное, символика, семантика, время, концепт, теократическое миросозерцание
+Keywords: Old Testament, mythology, sacral, profane, symbolism, semantics, time, concept, theocratic world view
  
 КУЛЬТУРНАЯ СЕМАНТИКА РУССКИХ И ПЕРСИДСКИХ ФРАЗЕОЛОГИЗМОВ С КОМПОНЕНТОМ
 Мехди Нассири 
@@ -180,12 +180,12 @@ Keywords: profile teaching, the elective courses, stochastics
  
 ИЗ ОПЫТА ОРГАНИЗАЦИИ ОБУЧЕНИЯ МАТЕМАТИКЕ СТУДЕНТОВ ПЕРВОГО КУРСА ЭКОНОМИЧЕСКИХ НАПРАВЛЕНИЙ
 Товарниченко Л. В., Кенжалиева С. З., Данилова Н. А.
-The paper refers to the question of mathematical disciplines training organization for the 1st year students, directed to the elimination of school blanks and to the question of fast and without serious consequences adaptation to the HEE educational process.
-Ключевые слова: freshmen, experiment, practice in mathematics, tasks decision algorithm, adaptation
+В статье рассматривается вопрос организации обучения математическим дисциплинам первокурсников, направленного на ликвидацию школьных пробелов, и связанный с ним вопрос быстрой и наиболее безболезненной адаптации их в вузовский образовательный процесс.
+Ключевые слова: первокурсник, эксперимент, практикум по математике, алгоритм решения задачи, адаптация
 FROM THE EXPERIENCE OF MATHEMATICAL TRAINING ORGANIZATION FOR THE 1ST YEAR STUDENTS OF THE ECONOMICAL SPECIALTIES
 Tovarnitchenko L. V., Kenzhalieva S. Z., Danilova N. А.
-В статье рассматривается вопрос организации обучения математическим дисциплинам первокурсников, направленного на ликвидацию школьных пробелов, и связанный с ним вопрос быстрой и наиболее безболезненной адаптации их в вузовский образовательный процесс.
-Keywords: первокурсник, эксперимент, практикум по математике, алгоритм решения задачи, адаптация
+The paper refers to the question of mathematical disciplines training organization for the 1st year students, directed to the elimination of school blanks and to the question of fast and without serious consequences adaptation to the HEE educational process.
+Keywords: freshmen, experiment, practice in mathematics, tasks decision algorithm, adaptation
  
 НЕКОТОРЫЕ УСЛОВНЫЕ СОГЛАШЕНИЯ В КУРСЕ АЛГЕБРЫ
 Гасанов Р. А.
@@ -272,11 +272,11 @@ Keywords: TV reportage, pragmatic aspect, expressive function, impact, cultural 
 ОРГАНИЗАЦИЯ ВОССТАНОВЛЕНИЯ В ПРОЦЕССЕ ТРЕНИРОВКИ
 Кулемин А. С.
 В статье рассматриваются методы оценки и воздействия на восстановление, его роль в тренировочном процессе. Автор приводит результаты исследования по проблеме организации восстановления в процессе тренировки.
-Ключевые слова: каратэ; мониторинг; восстановление; организация, karate, monitoring, relaxation, organization
+Ключевые слова: каратэ; мониторинг; восстановление; организация, 
 ORGANIZATION OF RELAXATION DURING TRAINING
 Kulemin A. S.
 In this article author analyses estimation methods of relaxation and ways of influence on it. Author uses results of research about relaxation process during training.
-Keywords:
+Keywords:karate, monitoring, relaxation, organization
  
 ВЛИЯНИЕ ЗАНЯТИЙ ФИЗИЧЕСКИМИ УПРАЖНЕНИЯМИ НА ФИЗИЧЕСКУЮ ПОДГОТОВЛЕННОСТЬ МЛАДШИХ ШКОЛЬНИКОВ С ИЗБЫТОЧНЫМ ВЕСОМ
 Поцелуев А. А., Юдин Б. Д.
@@ -290,11 +290,11 @@ Keywords: childhood obesity, physical culture, physical preparedness, physical q
 ИЕРАРХИЯ И КЛАССИФИКАЦИЯ МОТИВОВ УЧАСТИЯ ПОДРОСТКОВ В ТРЕНИРОВОЧНО-СОРЕВНОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ
 Кухтерина А. Н.
 В статье приведены результаты исследования мотивационной сферы подростков. Раскрываются перечень, иерархия и структура мотивов подростков к участию в тренировочно-соревновательной деятельности.
-Ключевые слова: motivation, training-competitive activities, teenagers
+Ключевые слова: мотивация
 HIERARCHY AND CLASSIFICATION OF MOTIVES PARTICIPATION TEENAGERS IN TRAINING-COMPETITIVE ACTIVITIES
 Kukhterina A. N.
 The results of the research of teenagers motivation have been analyzed in this article. The article contains a description of the list, the hierarchy and structure of teenagers motives to training-competitive activities as well.
-Keywords:
+Keywords: motivation, training-competitive activities, teenagers
  
 ПСИХОЛОГО-ПЕДАГОГИЧЕСКИЕ ОСНОВЫ ОРГАНИЗАЦИИ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ДЕВЯТИКЛАССНИКОВ НА ОСНОВЕ ЛИЧНОСТНО ОРИЕНТИРОВАННОГО ПОДХОДА
 Демиденко Р. И.

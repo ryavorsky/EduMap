@@ -56,6 +56,7 @@ Keywords: qualifications levels, qualification, learning outcomes, national qual
 Завалишина Л. В.
 В преподавании, которое достигает наивысшего уровня, выполняются высокие требования в отношении ориентации на учеников, внутренней дифференциации и индивидуализации обучения. Ученики получают возможность самостоятельно выбирать фидбэк-техники и работать с ними. Эффективность преподавания заключается в благоприятном воздействии учителя на успеваемость учеников, мотивацию, социальное поведение и личную независимость
 Ключевые слова: школьная инспекция, критерии успешного преподавания, культура обратной связи
+NO TITLE
 Zavalishina L. V.
 In teaching which reaches the highest level, high requirements for orientation of pupils, internal differentiation and a training individualization are fulfilled. Pupils have an opportunity independently to choose feed-back-technicians and to work with them. Efficiency of teaching consists in favorable impact of the teacher on progress of pupils, motivation, social behavior and personal independence.
 Keywords: school inspection, criteria of successful teaching, culture of feedback
@@ -69,7 +70,7 @@ Xie Yong Hui
 The article describes the main challenges of teaching art in modern China.
 Keywords: art and culture, aesthetic education, comprehensive development, nature as the teacher of the wonderful and great
  
- 
+NO TITLE
 Любимов А. К., Кузнецов Ю. А., Семенов А. В.
 В статье анализируется роль международных образовательных проектов в создании в Нижегородском государственном университете им. Н. И. Лобачевского инновационной системы профессиональной подготовки в области математических методов в экономике и бизнес-информатике.
 Ключевые слова: международные образовательные проекты, качество образования, педагогические технологии, самостоятельная работа
@@ -297,11 +298,11 @@ Keywords: the situational chemistry tasks, the cognitive interest, the universal
 ФОРМИРОВАНИЕ КУЛЬТУРОВЕДЧЕСКОЙ И КОММУНИКАТИВНОЙ КОМПЕТЕНЦИЙ КИТАЙСКИХ СТУДЕНТОВ-ФИЛОЛОГОВ СРЕДСТВАМИ ИСТОРИЧЕСКОЙ ЖИВОПИСИ
 Ходякова Л. А., Ян Чуньлэй
 Статья содержит описание некоторых предпосылок формирования культуроведческой и коммуникативной компетенций китайских студентовфилологов: подробный анализ результатов анкетирования китайской аудитории в России и Китае и методическую разработку урока по картине В. И. Сурикова «Утро стрелецкой казни».
-Ключевые слова: culture, visual image, questionnaires, crosscultural study, communicative competence, historical painting, triptych \"Alexander Nevsky\", picture by V. I. Sourikov \"Morning of Strelets\' Execution\"
+Ключевые слова: 
 FORMATION OF CROSS-CULTURAL STUDY AND COMMUNICATIVE COMPETENCE OF THE CHINESE STUDENTS-PHILOLOGISTS BY MEANS OF HISTORICAL PAINTINGS
 Khodyakova L. A., Yang Chunlei
 The article describes some of the prerequisites for the formation of competence and cultural studies of Chinese students-philologists and provides a detailed analysis of the survey results of the Chinese audience in Russia and China and methodological development of the lesson on the painting by V. I. Sourikov Morning of Strelets Execution.
-Keywords:
+Keywords:culture, visual image, questionnaires, crosscultural study, communicative competence, historical painting, triptych \"Alexander Nevsky\", picture by V. I. Sourikov \"Morning of Strelets\' Execution\"
  
 СОПОСТАВИТЕЛЬНЫЙ АНАЛИЗ РУССКОЙ И ГОЛЛАНДСКОЙ ЛЕКСИКО-ТЕМАТИЧЕСКИХ ГРУПП «ВЕЩЕСТВА, ИСПОЛЬЗУЕМЫЕ В ЖИВОПИСИ»
 Хадидже Таваколи

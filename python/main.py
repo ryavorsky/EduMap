@@ -78,7 +78,14 @@ data = []
 for file_name in os.listdir():
     data = data + text2table(file_name)
 
+print(len(data), 'papers found')
+
 res_file = open('../data.txt','w', encoding='utf-8')
 for block in data:
-    res_file.write('\n' + block[4] + ' ' + block[3] + ':\n' + block[1] + '\n')
+    if block[3]=="Rus":
+        #print(block)
+        content = block[2].split("Ключевые слова: ")
+        if len(content) < 2:
+            content.append("---")
+        res_file.write('\n' + block[4] + ' ' + block[3] + ':\n' + content[1].upper() + '\n' + content[0] + '\n')
 res_file.close()
