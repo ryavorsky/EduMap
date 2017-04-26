@@ -1,0 +1,973 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+
+<meta http-equiv="Content-Language" content="ru">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="keywords" content="Директор школы, журнал, руководитель системы образования, Сентябрь, образование, управление образованием, архив журнала">
+<meta name="description" content="Журнал «Директор школы» № 10 (173), 2012 год: содержание номера">
+
+<!-- <link href="font.css" rel="stylesheet" type="text/css"> -->
+<link href="main.css" rel="stylesheet" type="text/css">
+<link href="button.css" rel="stylesheet" type="text/css">
+
+<!-- FANCY BOX -->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+<link rel="stylesheet" href="style.css" />
+	<script type="text/javascript">
+		$(document).ready(function() {
+
+			$("#face_cover").fancybox({
+				'width'				: '75%',
+				'height'			: '75%',
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe'
+			});
+
+		});
+	</script>
+
+
+<!-- END Fancybox -->
+
+<!-- Feature Carousel -->
+
+	<link rel="stylesheet" href="js/featureCarousel.css" charset="utf-8" />
+	<script src="js/jquery.featureCarousel.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+                $("#featureCarousel").featureCarousel({
+                    smallFeatureWidth: 0.8,
+                    smallFeatureHeight: 0.8,
+                    sidePadding: 20, //смещение мелких картинок от левой и правой границ фрейма
+                    smallFeatureOffset: 25, //смещение мелких картинок относительно верхней границы
+                    startingFeature: 1,
+                    carouselSpeed: 1000,
+                    autoPlay: 0, //3,
+                    counterStyle: 1, //без счетчика
+                    preload: true,
+                    animationEasing: 'swing' // linear
+                });
+            });
+	</script>
+
+<!-- Feature Carousel END -->
+
+<title>Журнал «Директор школы» № 10 (173), 2012 год</title>
+
+</head>
+
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PC2599"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PC2599');</script>
+<!-- End Google Tag Manager -->
+
+<table width="100%" height="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td valign="top">
+		<!--webbot bot="Include" U-Include="include_blocks/main_header.htm" TAG="BODY" startspan -->
+
+		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#A31911" height="90">
+			<tr>
+				<td background="images/top_menu/background.gif">&nbsp;</td>
+				<td width="440" background="images/top_menu/background.gif">
+				<p class="right_no_shift">
+				<a href="index.htm">
+				<img border="0" src="images/top_menu/logo_magazine.png" width="400" height="95"></a></td>
+				<td width="555" background="images/top_menu/background.gif" valign="bottom">
+				<table border="0" width="500" cellspacing="0" cellpadding="0" align="right" style="margin-right: 8px;">
+					<tr>
+						<td>
+							<!-- АВТОРИЗАЦИЯ -->
+									<form method="POST">
+		<div align="right">
+			<table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td>&nbsp;</td>
+					<td valign="bottom" width="120">
+					<p class="top" align="left" style="margin-bottom: 0px; margin-right: 5px;">Логин или email</p></td>
+					<td valign="bottom" width="90">
+					<p class="top" align="left" style="margin-bottom: 0px; margin-right: 5px;">Пароль</p></td>
+					<td width="10">&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td align="left" width="120"><b>
+					<input type="text" name="userName" value="" class="top_text" style="margin-top: 0px; margin-right: 5px; width: 95%"></td>
+					<td align="left" width="90"><b>
+					<input type="password" name="userPass" size="15" value="" class="top_text" style="margin-top: 0px; margin-right: 5px;"></td>
+					<td width="10"><b>
+					<input type="submit" value=" Войти " name="B1" class="top_button" style="margin-top: 0px; "></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td colspan="3">	<p class="top" align="left"><b>
+					<input type="hidden" name="action" value="login">
+					<a href="reg.htm">Регистрация</a>&nbsp;&nbsp;&nbsp;<a href="reg.htm?mode=restorePassword ">Напомнить&nbsp;пароль</a></p></td>
+				</tr>
+			</table>
+		</div>
+
+	</form>
+
+							<!-- АВТОРИЗАЦИЯ END -->
+
+						</td>
+					</tr>
+				</table>
+				</td>
+				<td background="images/top_menu/background.gif">&nbsp;</td>
+			</tr>
+		</table>
+
+<!--webbot bot="Include" i-checksum="23753" endspan --><!--webbot bot="Include" U-Include="include_blocks/main_top_menu.htm" TAG="BODY" startspan -->
+
+		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#A31911" background="images/top_menu/background.png">
+			<tr>
+				<td>&nbsp;</td>
+				<td width="800">
+		<p>
+<img src="images/top_menu/divider.gif" border="0" height="37" width="1"><a href="index.htm"><img src="images/top_menu/home.png" name="m0" onmouseover="document.m0.src='images/top_menu/home_a.png'" onmouseout="document.m0.src='images/top_menu/home.png'" border="0" width="37" height="37"></a><img src="images/top_menu/divider.gif" border="0" height="37" width="1"><a href="magazine.htm"><img src="images/top_menu/magazine.png" name="m1" onmouseover="document.m1.src='images/top_menu/magazine_a.png'" onmouseout="document.m1.src='images/top_menu/magazine.png'" border="0" width="86" height="37"></a><img src="images/top_menu/divider.gif" border="0" height="37" width="1"><a href="article.htm"><img src="images/top_menu/material.png" name="m2" onmouseover="document.m2.src='images/top_menu/material_a.png'" onmouseout="document.m2.src='images/top_menu/material.png'" border="0" width="111" height="37"></a><img src="images/top_menu/divider.gif" border="0" height="37" width="1"><a href="blog.htm"><img src="images/top_menu/blog.png" name="m3" onmouseover="document.m3.src='images/top_menu/blog_a.png'" onmouseout="document.m3.src='images/top_menu/blog.png'" border="0" width="69" height="37"></a><img src="images/top_menu/divider.gif" border="0" height="37" width="1"><a href="interview.htm"><img src="images/top_menu/inter.png" name="m4" onmouseover="document.m4.src='images/top_menu/inter_a.png'" onmouseout="document.m4.src='images/top_menu/inter.png'" border="0" width="102" height="37"></a><img src="images/top_menu/divider.gif" border="0" height="37" width="1"><a href="opinion.htm"><img src="images/top_menu/expert.png" name="m5" onmouseover="document.m5.src='images/top_menu/expert_a.png'" onmouseout="document.m5.src='images/top_menu/expert.png'" border="0" width="128" height="37"></a><img src="images/top_menu/divider.gif" border="0" height="37" width="1"><a href="podpiska.htm" target="_blank"><img src="images/top_menu/podpiska.png" name="m6" onmouseover="document.m6.src='images/top_menu/podpiska_a.png'" onmouseout="document.m6.src='images/top_menu/podpiska.png'" border="0" width="100" height="37"></a><img src="images/top_menu/divider.gif" border="0" height="37" width="1">
+</td>
+<!--				<td width="190"><div class="ya-site-form ya-site-form_inited_no" onclick="return {'action':'http://direktor.ru/search.htm','arrow':false,'bg':'transparent','fontsize':12,'fg':'#000000','language':'ru','logo':'rb','publicname':'Поиск по direktor.ru','suggest':true,'target':'_self','tld':'ru','type':2,'usebigdictionary':true,'searchid':2142341,'webopt':true,'websearch':false,'input_fg':'#000000','input_bg':'#ffffff','input_fontStyle':'normal','input_fontWeight':'normal','input_placeholder':null,'input_placeholderColor':'#000000','input_borderColor':'#bd5953'}"><form action="http://yandex.ru/sitesearch" method="get" target="_self"><input type="hidden" name="searchid" value="2142341"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="text" name="text" value="" style="width: 140px;"/>&nbsp;&nbsp;<img src="../images/top_menu/divider.gif" border="0" height="37" width="1"><img src="../images/top_menu/search.png" name="m0" onmouseover="document.m0.src='images/top_menu/search_a.png'" onmouseout="document.m0.src='images/top_menu/search.png'" onclick="submit();" border="0" width="40" height="37"><img src="../images/top_menu/divider.gif" border="0" height="37" width="1"></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script></td>-->
+				<td width="190"><div class="ya-site-form ya-site-form_inited_no" onclick="return {'action':'http://direktor.ru/search.htm','arrow':false,'bg':'transparent','fontsize':12,'fg':'#000000','language':'ru','logo':'rb','publicname':'Поиск по direktor.ru','suggest':true,'target':'_self','tld':'ru','type':2,'usebigdictionary':true,'searchid':2142341,'webopt':false,'websearch':false,'input_fg':'#000000','input_bg':'#ffffff','input_fontStyle':'normal','input_fontWeight':'normal','input_placeholder':null,'input_placeholderColor':'#000000','input_borderColor':'#bd5953'}"><form action="http://yandex.ru/sitesearch" method="get" target="_self"><input type="hidden" name="searchid" value="2142341"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="text" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script></td>
+				<td>&nbsp;</td>
+			</tr>
+		</table>
+
+<!--webbot bot="Include" i-checksum="46830" endspan --><table border="0" width="100%" height="10" cellspacing="0" cellpadding="0">
+				<tr>
+					<td>
+
+		<!--webbot bot="Include" u-include="include_blocks/magazine_top_menu.htm" tag="BODY" startspan -->
+
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#E4E4E2" background="images/main_table/middle_divider_shadow.gif" height="47">&nbsp;</td>
+				<td width="995" bgcolor="#E4E4E2" background="images/main_table/middle_divider_shadow.gif" height="47" valign="top">
+
+				<p class="right_block" style="text-align: left">
+				<a class="dotted" href="about.htm">О журнале</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="dotted" href="office.htm">Редакция</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="dotted" href="authors.htm">Авторам</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="dotted" target="_blank" href="http://reklama.direktor.ru/magazines.htm">Рекламодателям</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="podpiska.htm">Подписка</a>&nbsp;&nbsp;&nbsp;<a class="dotted" href="archive.htm">Архив
+				номеров</a></p>
+								</td>
+				<td bgcolor="#E4E4E2" background="images/main_table/middle_divider_shadow.gif" height="47">&nbsp;</td>
+			</tr>
+		</table>
+
+		<!--webbot bot="Include" i-checksum="48424" endspan --><table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#E4E4E2">&nbsp;</td>
+				<td width="995" bgcolor="#E4E4E2" valign="top">
+
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="726" bgcolor="#E4E4E2" valign="top">
+
+				<table border="0" width="99%" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="199">
+
+				&nbsp;<table border="1" style="border-collapse: collapse" bordercolor="#C1BFBF" cellpadding="5" bgcolor="#FFFFFF" cellspacing="0">
+					<tr>
+						<td>
+		<a href="issue.htm?id=26">
+		<img border="0" src="data/covers/201210.jpg" width="162" height="232" alt="Журнал «Директор школы» 
+№ 10 (173), 2012 год">
+		</a>						</td>
+					</tr>
+				</table>
+						</td>
+						<td width="524" valign="top">
+				<p class="main">
+				<img border="0" src="images/headers/direktor_shkoly.gif" width="236" height="25" alt="Журнал «Директор школы»"></p>
+		<p class="main">№ 10 (173),  2012</p>
+		<p class="main">Выход в свет: 25.11.2012</p>
+		<p class="main">&nbsp;</p>
+		<p class="main">&nbsp;</p>
+
+		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp; <span style="font-weight: 400">Лицо с обложки</span>&nbsp; </span></font></h2>
+		<p class="fio" style="text-align: left">
+		<a id="face_cover" href="popups/cover_face.htm?id=26">
+		<b>Качан Надежда Николаевна<br></b>
+		Мэр города Канска.</a>&nbsp;&#8594;
+
+				</td>
+					</tr>
+				</table>
+
+				</td>
+				<td valign="top">
+				<p class="main_tagline">&nbsp;</p>
+				<div align="right">
+					<table border="0" width="250" cellspacing="0" cellpadding="0">
+						<tr>
+							<td height="5" width="5" background="images/frames/right_white_rubber/top_left.png"></td>
+							<td height="5" background="images/frames/right_white_rubber/top.png"></td>
+							<td height="5" width="5" background="images/frames/right_white_rubber/top_right.png"></td>
+						</tr>
+						<tr>
+							<td width="5" background="images/frames/right_white_rubber/left.png" valign="top">
+							&nbsp;</td>
+							<td bgcolor="#FFFFFF">
+							<table border="0" width="100%" cellspacing="0" cellpadding="10">
+								<tr>
+									<td>
+									<div>
+										<object style="width:220px;height:180px">
+											<param name="movie" value="http://static.issuu.com/webembed/viewers/style1/v1/IssuuViewer.swf?mode=embed&amp;layout=http%3A%2F%2Fskin.issuu.com%2Fv%2Fcolor%2Flayout.xml&amp;backgroundColor=FFFFFF&amp;autoFlip=true&amp;autoFlipTime=4000&amp;pageNumber=2&amp;documentId=101122085428-d657f54397004bab92932badff329dcf&amp;docName=direktor_10_2010&amp;username=september&amp;loadingInfoText=%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8B%20%E2%84%9610%2C%202010&amp;et=1290419297325&amp;er=47">
+											<param name="allowfullscreen" value="true">
+											<param name="menu" value="false">
+											<embed src="http://static.issuu.com/webembed/viewers/style1/v1/IssuuViewer.swf" type="application/x-shockwave-flash" allowfullscreen="true" menu="false" style="width:220px;height:180px" flashvars="mode=embed&amp;layout=http%3A%2F%2Fskin.issuu.com%2Fv%2Fcolor%2Flayout.xml&amp;backgroundColor=FFFFFF&amp;autoFlip=true&amp;autoFlipTime=4000&amp;pageNumber=2&amp;documentId=101122085428-d657f54397004bab92932badff329dcf&amp;docName=direktor_10_2010&amp;username=september&amp;loadingInfoText=%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%20%D1%88%D0%BA%D0%BE%D0%BB%D1%8B%20%E2%84%9610%2C%202010&amp;et=1290419297325&amp;er=47">
+					</object>
+									</div>
+									<p class="right_block_small" style="text-align: center">
+									<br>
+									Щелкните по журналу, чтобы полистать
+									страницы...</td>
+								</tr>
+							</table>
+							</td>
+							<td width="5" background="images/frames/right_white_rubber/right.png">&nbsp;</td>
+						</tr>
+						<tr>
+							<td height="5" width="5" background="images/frames/right_white_rubber/bottom_left.png"></td>
+							<td height="5" background="images/frames/right_white_rubber/bottom.png"></td>
+							<td height="5" width="5" background="images/frames/right_white_rubber/bottom_right.png"></td>
+						</tr>
+					</table>
+				</div>
+<!--
+&nbsp;<div align="right">
+						<table border="0" width="250" cellspacing="0" cellpadding="0">
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/top.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_right.png"></td>
+							</tr>
+							<tr>
+								<td width="5" background="images/frames/right_white_rubber/left.png" valign="top">
+								&nbsp;</td>
+								<td bgcolor="#FFFFFF">
+				<p class="right_block" style="text-align: center">
+				<a href="podpiska_ebook.htm">
+				<img border="0" src="images/pc_and_iphone.gif" width="114" height="40"></a></p>
+				<p class="right_block" style="text-align: left">
+				Этот номер журнала можно приобрести в электронном виде в
+				различных форматах.</p>
+				<p class="right_block" style="text-align: left">
+				Подходит для чтения чтения на компьютере, устройствах для чтения
+				электронных книг, смартфонах, iPhone и iPad.</p>
+				<p class="right_block" style="text-align: left">
+				<a href="podpiska.htm">Купить этот номер</a> &#8594;<br>
+				<a href="podpiska_ebook.htm">Подписаться на электронную версию журнала</a> &#8594;</td>
+								<td width="5" background="images/frames/right_white_rubber/right.png"></td>
+							</tr>
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/bottom.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_right.png"></td>
+							</tr>
+						</table>
+						</div>
+<!--
+				&nbsp;<div align="right">
+						<table border="0" width="250" cellspacing="0" cellpadding="0">
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/top.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_right.png"></td>
+							</tr>
+							<tr>
+								<td width="5" background="images/frames/right_white_rubber/left.png" valign="top">
+								&nbsp;</td>
+								<td bgcolor="#FFFFFF">
+				<p class="right_block" style="text-align: center">
+				<a target="_blank" href="http://shop.direktor.ru/product_info.php?products_id=13">
+				<img border="0" src="images/archive_disk.jpg" width="117" height="150"></a></p>
+				<p class="right_block" style="text-align: left">
+				Этот и другие вышедшие в свет номера журнала в электронном виде можно приобрести
+				на компакт-диске.</p>
+				<p class="right_block" style="text-align: left">
+				<a target="_blank" href="http://shop.direktor.ru/product_info.php?products_id=13">
+				Купить <span lang="en-us">CD </span>Электронный архив журнала
+				«Директор школы»</a> &#8594;</td>
+								<td width="5" background="images/frames/right_white_rubber/right.png"></td>
+							</tr>
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/bottom.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_right.png"></td>
+							</tr>
+						</table>
+						</div>
+-->
+				</td>
+			</tr>
+		</table>
+
+				</td>
+				<td bgcolor="#E4E4E2">&nbsp;</td>
+			</tr>
+		</table>
+
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#E4E4E2" background="images/main_table/middle_divider_shadow.gif" height="47">&nbsp;</td>
+				<td width="995" bgcolor="#E4E4E2" background="images/main_table/middle_divider_shadow.gif" height="47">
+
+				&nbsp;</td>
+				<td bgcolor="#E4E4E2" background="images/main_table/middle_divider_shadow.gif" height="47">&nbsp;</td>
+			</tr>
+		</table>
+
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td bgcolor="#E4E4E2">&nbsp;</td>
+				<td width="995" bgcolor="#E4E4E2" valign="top">
+
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="195" valign="top">
+
+				<p class="main_tagline">&nbsp;</p>
+				<div align="left">
+						<table border="0" width="180" cellspacing="0" cellpadding="0">
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/top.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_right.png"></td>
+							</tr>
+							<tr>
+								<td width="5" background="images/frames/right_white_rubber/left.png" valign="top" rowspan="2">
+								&nbsp;</td>
+								<td bgcolor="#FFFFFF">
+				<table border="0" width="100%" cellspacing="0" cellpadding="5">
+					<tr>
+						<td>
+				<p class="main_blog_author" style="text-align: left">
+				<img border="0" src="images/magazine_logo.gif" width="154" height="225"></p>
+				<p class="main" style="text-align: left">
+				Научно-методический журнал для руководителей учебных заведений и
+				органов образования.</p>
+				<p class="main" style="text-align: left">
+				Выходит 10 раз в год. Издается с 1993 года.</p>
+				<p class="main" style="text-align: left">
+				Главный редактор<br>
+				<b>К.М. Ушаков<br>
+				</b><br>
+				Зам. гл. редактора<br>
+				<b>В.Я. Гринберг<br>
+				</b><br>
+				Шеф-редактор<br>
+				<b>Е.Е. Терешатова<br>
+				</b><br>
+				Ответственный секретарь<br>
+				<b>М.Г. Драмбян<br>
+				</b><br>
+				Технический редактор<br>
+				<b>Е.С. Воронова<br>
+				</b><br>
+				Редакция<br>
+				<b>Е.А. Александрова<br>
+				Е.А. Кучеренко<br>
+				Л.Н. Панина<br>
+				Е.М. Ушакова<br>
+				</b><br>
+				Эксперты-консультанты<b><br>
+				Аникеев М.В.<br>
+				Великов А.В.<br>
+				Ермилова Т.Ю.<br>
+				Иванов А.Ю.<br>
+				Качан Н.Н.<br>
+				Комиссаров И.В.<br>
+				Кошелев А.А.<br>
+				Куркова Н.В.<br>
+				Лещев В.А.<br>
+				Щербо И.Н.<br>
+				Ликсанова А.Е.<br>
+				Литвинов А.В.<br>
+				Маркова Л.Н.<br>
+				Пономарев Н.И.<br>
+				Рычкова П.А.<br>
+				Сисина Е.А.<br>
+				Скурихин Д.А.<br>
+				Хворов Н.Е.<br>
+				Чижков В.А.<br>
+				Чичурко В.В.<br>
+				</b><br>
+				Учредитель и издатель:<br>
+				<b>Издательская <br>
+				фирма «Сентябрь»</b></p>
+				<p class="fio" style="text-align: left">
+				&nbsp;</p>
+				<p class="fio" style="text-align: left">
+				Журнал зарегистрирован Министерством печати и информации РФ<br>
+				рег. ПИ №77-1214</p>
+
+
+						</td>
+					</tr>
+				</table>
+								</td>
+								<td width="5" background="images/frames/right_white_rubber/right.png" rowspan="2"></td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF" height="5">
+				</td>
+							</tr>
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/bottom.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_right.png"></td>
+							</tr>
+						</table>
+						</div>
+
+				<p class="main_tagline">&nbsp;</p>
+				<div align="left">
+						<table border="0" width="180" cellspacing="0" cellpadding="0">
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/top.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_right.png"></td>
+							</tr>
+							<tr>
+								<td width="5" background="images/frames/right_white_rubber/left.png" valign="top" rowspan="2">
+								&nbsp;</td>
+								<td bgcolor="#FFFFFF">
+				<table border="0" width="100%" cellspacing="0" cellpadding="5">
+					<tr>
+						<td>
+				<p class="main" style="text-align: center">
+				<a target="_blank" href="http://shop.direktor.ru/product.htm?id=1030">
+				<img border="0" src="images/archive_disk.jpg" width="117" height="150"></a></p>
+				<p class="main" style="text-align: left">
+				Все материалы журнала «Директор школы» с 1993 года на одном
+				компакт-диске.</p>
+				<p class="main" style="text-align: left">
+				Удобная система поиска и работы со статьями.</p>
+				<p class="main" style="text-align: left">
+				<a target="_blank" href="http://shop.direktor.ru/product.htm?id=1030">Купить CD Электронный архив журнала «Директор школы»</a> &#8594;</td>
+					</tr>
+				</table>
+								</td>
+								<td width="5" background="images/frames/right_white_rubber/right.png" rowspan="2"></td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF" height="5">
+				</td>
+							</tr>
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/bottom.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_right.png"></td>
+							</tr>
+						</table>
+						</div>
+						<p>&nbsp;</p>
+						<p>&nbsp;</p>
+						</td>
+						<td width="53%" valign="top">
+				<p class="main">
+				<img border="0" src="images/headers/magazine_contents.gif" width="173" height="25" alt="Содержание номера"></p>
+
+		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp;<span style="font-weight: 400">Письмо редактора</span>&nbsp;</span></font></h2>
+		<p class="main" style="text-align: left"><b>Пожелание</b></p>
+		<p class="main_tagline"><b>Ушаков Константин Михайлович<br></b>Этим летом я был на  семинаре, который проводился Высшей школой экономики. Он был посвящен точности сделанных когда-то прогнозов. </p>		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp;<span style="font-weight: 400">Конкурс</span>&nbsp;</span></font></h2>
+		<p class="main" style="text-align: left"><b>Картина управленческой жизни</b></p>
+		<p class="main_tagline"><b>Качан Надежда Николаевна<br></b>«Задайте вопрос, какой управленец нужен сегодня школе, и я с глубоким убеждением скажу: нужен управленец, безусловно, знающий, умеющий нестандартно мыслить, обладающий управленческими компетентностями, тактичный по отношению к коллегам по профессиональному цеху и, конечно, преданный своему делу». Так говорит о профессии директора Качан Надежда Николаевна, на момент участия во Всероссийском конкурсе «Директор школы — 2011» — руководитель лицея № 1 города Канска Красноярского края, а с декабря 2011 года — мэр города Канска. В своем конкурсном эссе она создала целое «художественное полотно» жизни школы.</p>		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp;<span style="font-weight: 400">Образовательная политика</span>&nbsp;</span></font></h2>
+		<p class="main" style="text-align: left"><b>Педагогическое образование: есть ли шанс?</b></p>
+		<p class="main_tagline"><b>Болотов Виктор Александрович<br></b>Что сегодня происходит в системе педагогического образования? Существуют ли профессиональные стандарты для обучения будущих учителей? Что дает объединение вузов в системе педобразования? Ответы на эти и другие вопросы в интервью с вице-президентом Российской академии образования Виктором Александровичем Болотовым.</p>		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp;<span style="font-weight: 400">Искусство управления</span>&nbsp;</span></font></h2>
+		<p class="main" style="text-align: left"><b>ФГОС в школе: риски и проблемы реализации</b></p>
+		<p class="main_tagline"><b>Губанова Елена Владимировна<br></b>Анализируя факторы успешного применения стандартов нового поколения, мы предлагаем комплекс мероприятий, который может стать основой для деятельности руководителя по реализации ФГОС и для эффективного обучения школьников в соответствии с этими стандартами. </p>		
+		<p class="main" style="text-align: left"><b>Самоидентификация личности</b></p>
+		<p class="main_tagline"><b>Сальникова Людмила Сергеевна<br></b>В предыдущей статье разговор шел о том, как создать образ директора школы, который оказался бы позитивным и запоминающимся, но при этом отражающим реальные достоинства руководителя учебного заведения. В таком случае имидж становится 
+важной составной частью деловой репутации и помогает завоевать доверие и авторитет. Однако репутация не является «бронзовым памятником» самому себе, который не предполагает никаких изменений. Как сделать так, чтобы личностное развитие шло в 
+нужном направлении, укрепляя тем самым авторитет лидера?</p>		
+		<p class="main" style="text-align: left"><b>Какие рейтинги школ нам нужны</b></p>
+		<p class="main_tagline"><b>Ту Алий Халидович<br></b>Делая небольшой экскурс в историю рейтингов школ, автор вскрывает механизмы этого явления и выдвигает обоснованное мнение, почему абсолютное большинство школ пока не заинтересовано в такой оценке своей деятельности.</p>		
+		<p class="main" style="text-align: left"><b>История одного опыта, или Путь к самопониманию</b></p>
+		<p class="main_tagline"><b>Рябцев Максим Сергеевич<br></b>Взаимодействие директора и руководителя психологической службы школы в рамках развития учебного заведения — способ не только наладить работу по тем направлениям, которые раньше «хромали», «разглядеть» людей, которым можно доверить решение самых сложных вопросов, но и повысить свою значимость в коллективе как управленца. Пример такого взаимодействия — в материале директора одной из красноярских гимназий.</p>		
+		<p class="main" style="text-align: left"><b>Технология маркетингового исследования</b></p>
+		<p class="main_tagline"><b>Трегубова Любовь Борисовна<br></b>Еще далеко не каждый директор готов взглянуть на деятельность своей школы через призму маркетинга: как на учреждение, предоставляющее образовательные услуги. Но таких становится все больше. Им в первую очередь и адресована эта статья. Она, по мнению наших экспертов, является прекрасной консультацией по вопросу, что такое маркетинговое исследование и зачем оно нужно.</p>		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp;<span style="font-weight: 400">Организация учебного процесса</span>&nbsp;</span></font></h2>
+		<p class="main" style="text-align: left"><b>Освоение языков при взаимном обучении в парах</b></p>
+		<p class="main_tagline"><b>Громыко Григорий Олегович, Рязанов Вячеслав Александрович<br></b>Продолжаем серию статей по технологии парного обучения. В очередной, десятой, авторы справедливо утверждают, что за долгие школьные годы мы так и не осваиваем даже одного иностранного языка. «Секрет» этого загадочного явления знают все: в наших 
+школах отсутствует общение на изучаемом неродном языке. Но что интересно: создать нужные условия совсем легко, стоит только использовать на уроке работу учащихся в парах. Статья знакомит с основными и всем доступными приемами этой работы. </p>		
+		<p class="main" style="text-align: left"><b>Человек пишущий</b></p>
+		<p class="main_tagline"><b>Лобок Александр Михайлович<br></b>В материале описана методика обучения чтению и письму, стимулирующая самостоятельный поиск учащихся. В этом смысле она вполне отвечает требованиям ФГОС. Кроме того, она легко применима на практике. Наши эксперты характеризуют автора публикации как новатора и экспериментатора с большой буквы. И сожалеют, что 
+интересная и полезная новация, как правило, так и не получает у нас распространения. Но, может, все-таки не перевелись еще у нас талантливые и смелые педагоги, а то и целые школы, способные к настоящему поиску, открытиям и к их воплощению в жизнь? </p>		
+		<p class="main" style="text-align: left"><b>О возможности иного отношения к словесности</b></p>
+		<p class="main_tagline"><b>Максименко Павел Юрьевич<br></b>Русская литература, которая так высоко ценится в мире, для наших школьников один из самых нелюбимых предметов. Ни интереса к нему, ни уважения, только скука и боязнь двойки. Но авторы утверждают, что может быть и по-другому.</p>		
+		<p class="main" style="text-align: left"><b>Как потолок влияет на обучение</b></p>
+		<p class="main_tagline">По данным компании Armstrong, подвесной потолок сегодня установлен примерно в 30% российских школ, и это число день ото дня растет. Но установить первый попавшийся на рынке подвесной потолок тоже не представляется возможным — как известно, все, 
+что делается для детей, должно быть таким же, как для взрослых, только лучше.</p>		
+		<p class="main" style="text-align: left"><b>Как обучать детей с ОВЗ в массовой школе? </b></p>
+		<p class="main_tagline"><b>Науменко Юрий Владимирович<br></b>С 1 сентября 2011 года все школы России начали реализовывать (по крайней мере в 1-м классе) ФГОС начального общего образования, в соответствии с которым в общеобразовательном учреждении должна появиться программа коррекционной работы при наличии в этом учреждении детей с ОВЗ. Мы предлагаем ряд методических рекомендаций для написания обобщенной программы коррекционной работы, в которой могут быть учтены особенности взаимодействия и обучения таких учащихся.</p>		
+		<p class="main" style="text-align: left"><b>Поиск смыслов работы учителя</b></p>
+		<p class="main_tagline"><b>Робский Владимир Владимирович<br></b>Кризис творчества в современной школе, размышления о судьбе российского образования, поиск смыслов работы учителя, директора школы, чиновника. . . Задумываясь обо всем этом, скорее всего, большинство руководителей школ подписались бы под каждым словом в данной статье. </p>		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp;<span style="font-weight: 400">Воспитание  и дополнительное образование</span>&nbsp;</span></font></h2>
+		<p class="main" style="text-align: left"><b>Социальный педагог в школе: его возможности и проблемы</b></p>
+		<p class="main_tagline"><b>Фролова Татьяна Васильевна, Ямковая Людмила Сергеевна<br></b>Социальный педагог в школе — явление нового времени, и затруднения, возникающие в его деятельности, также отражают проблемы сегодняшнего дня. В начале 90-х годов, когда в процессе реформирования политической, социальной и экономической 
+жизни России проблемы детства резко обострились, возникла необходимость введения такой должности в учреждениях образования.</p>		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp;<span style="font-weight: 400">Школа и родители</span>&nbsp;</span></font></h2>
+		<p class="main" style="text-align: left"><b>Тепло и сила отцовского влияния на воспитание ребенка</b></p>
+		<p class="main_tagline"><b>Энусова Эльвира Наилевна<br></b>В условиях разрушения семьи как социального института данный материал кому-то может показаться несколько наивным и упрощенным, хотя в рамках традиционного взгляда на взаимоотношения внутри семьи — «правильно ориентированным». Попробуйте взглянуть на него не как на нотацию, а как на начало серьезного разговора о роли мужчины в воспитании.</p>		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp;<span style="font-weight: 400">Экономика и право</span>&nbsp;</span></font></h2>
+		<p class="main" style="text-align: left"><b>Нюансы комплектования библиотечного фонда</b></p>
+		<p class="main_tagline"><b>Астапенко Елена Леонидовна<br></b>Как укомплектовать школьный библиотечный фонд в соответствии с требованиями ФГОС? Какие нормативно-правовые акты регулируют этот процесс?</p>		<h2 class="main"><font color="#FFFFFF"><span style="background-color: #423E35">&nbsp;<span style="font-weight: 400">Уроки здоровья</span>&nbsp;</span></font></h2>
+		<p class="main" style="text-align: left"><b>Здоровье школьников: светодиодное освещение</b></p>
+		<p class="main_tagline"><b>Ушакова Екатерина Михайловна<br></b>Вопрос организации хорошего и правильного освещения рабочего места школьника всегда актуален. До последнего времени в образовательных учреждениях использовались люминесцентные лампы. Сегодня на рынке приборов освещения появились светильники на основе светодиодов. Но разрешения на их использование в школах пока нет. Какие опасения вызывает такое освещение и в чем его преимущества? </p> <br>
+&nbsp;</td>
+						<td width="27%" valign="top">
+				<p class="main_tagline">&nbsp;</p>
+				<div align="right">
+						<table border="0" width="250" cellspacing="0" cellpadding="0">
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/top.png" colspan="2"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_right.png"></td>
+							</tr>
+							<tr>
+								<td width="5" background="images/frames/right_white_rubber/left.png" valign="top" rowspan="4">
+								&nbsp;</td>
+								<td bgcolor="#FFFFFF" colspan="2">
+				<p class="right_block" style="text-align: left">
+				<img border="0" src="images/headers_right/issue_archive.gif" width="112" height="25"></p>
+								</td>
+								<td width="5" background="images/frames/right_white_rubber/right.png" rowspan="4"></td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF" width="48%">
+			<p class="right_block" style="text-align: center">
+				<a href="issue.htm?id=38"><img border="0" src="data/covers/thumb201209.jpg" width="90" height="129" alt="09 "></a>
+			</p>
+			<p class="right_block" style="text-align: left">&#8592;
+			<a href="issue.htm?id=38">№09, 2012</a></p>				</td>
+				<td bgcolor="#FFFFFF" width="48%">
+			<p class="right_block" style="text-align: center">
+				<a href="issue.htm?id=24"><img border="0" src="data/covers/thumb201301.jpg" width="90" height="129" alt="01 "></a>
+			</p>
+			<p class="right_block" style="text-align: right">
+			<a href="issue.htm?id=24">№01, 2013</a>&nbsp;&#8594;</p>
+				</td>
+							</tr>
+							<tr>
+								<td bgcolor="#C1BFBF" colspan="2" height="1">
+				</td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF" colspan="2">
+				<p class="right_block" style="text-align: left">
+				<a href="archive.htm">Полный архив журнала</a> &#8594;</p></td>
+							</tr>
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/bottom.png" colspan="2"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_right.png"></td>
+							</tr>
+						</table>
+						<div align="right">
+				<p class="main_tagline">&nbsp;</p>
+						</div>
+						</div>
+				<div align="right">
+						<table border="0" width="250" cellspacing="0" cellpadding="0">
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/top.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_right.png"></td>
+							</tr>
+							<tr>
+								<td width="5" background="images/frames/right_white_rubber/left.png" valign="top" rowspan="5">
+								&nbsp;</td>
+								<td bgcolor="#FFFFFF">
+				<p class="right_block" style="text-align: left">
+				<img border="0" src="images/headers_right/podpiska_zhurnal.gif" alt="Подписка на журнал" width="152" height="25"></p>
+				<p class="right_block" style="text-align: left">Подписку на
+				журнал можно оформить в любом почтовом отделении Почты России.
+				Наши издания представлены в главных общероссийских каталогах:</p>
+				<p class="main" style="text-align: center">
+				<a href="podpiska.htm">
+				<img border="0" src="images/podpiska/catalogues_all_small.jpg" width="222" height="128"></a></p>
+				<p class="right_block" style="text-align: left">
+				<a href="podpiska.htm">Подробнее о подписке</a> &#8594;</td>
+								<td width="5" background="images/frames/right_white_rubber/right.png" rowspan="5"></td>
+							</tr>
+							<tr>
+								<td bgcolor="#C1BFBF" height="1">
+				</td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF">
+				<p class="right_block" style="text-align: left">
+				<img border="0" src="images/headers_right/podpiska_redakzia.gif" alt="Редакционная подписка" width="178" height="25"></p>
+				<p class="right_block" style="text-align: left">Не только экономит деньги,
+				<br>
+				но и позволяет получать свежий номер одним из
+				первых.</p>
+				<p class="right_block" style="text-align: left">Низкую цену редакционной подписки гарантирует
+				отсутствие организационных и транспортных издержек. </p>
+				<p class="right_block" style="text-align: left">
+				<a href="podpiska.htm">Подробнее о редподписке</a> &#8594;</p>
+								</td>
+							</tr>
+							<tr>
+								<td bgcolor="#C1BFBF" height="1">
+				</td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF">
+				<p class="right_block" style="text-align: left">
+				<img border="0" src="images/headers_right/podpiska_alternativa.gif" alt="Региональные агентства подписки" width="178" height="25"></p>
+				<p class="right_block" style="text-align: left">Оформить
+				подписку на наши издания можно и через региональные агентства
+				подписки. Зачастую это выгоднее и удобнее, чем использование
+				федеральных подписных агентств.</p>
+				<p class="right_block" style="text-align: left">
+				<a href="podpiska.htm">Региональные агентства</a> &#8594;</p>
+								</td>
+							</tr>
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/bottom.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_right.png"></td>
+							</tr>
+						</table>
+				<p class="main_tagline">&nbsp;</p>
+				<div align="right">
+						<table border="0" width="250" cellspacing="0" cellpadding="0">
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/top.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/top_right.png"></td>
+							</tr>
+							<tr>
+								<td width="5" background="images/frames/right_white_rubber/left.png" valign="top">
+								&nbsp;</td>
+								<td bgcolor="#FFFFFF">
+				<p class="right_block" style="text-align: left">
+				<img border="0" src="images/headers_right/podpiska_ebook.gif" alt="Электронная подписка" width="166" height="25"></p>
+				<p class="right_block" style="text-align: left"><b>Начиная с
+				2011 года мы предлагаем оформление электронной подписки.</b></p>
+				<p class="right_block" style="text-align: left">У электронной
+				подписки есть несколько преимуществ:</p>
+				<p class="right_block" style="text-align: left">— Вы получаете
+				свежий журнал в электронном виде раньше всех, как только он
+				подписан в печать. <br>
+				— Никаких проблем с почтой<br>
+				— Цена ниже классического, бумажного варианта издания</p>
+				<p class="right_block" style="text-align: left">Подписчики
+				электронной версии получают журнал в любом удобном для них
+				формате&nbsp; —<span lang="en-us"> </span>для чтения на
+				компьютере, с помощью электронной книги, смартфона и даже
+				<span lang="en-us">iPhone </span>и <span lang="en-us">iPad!</span></p>
+				<p class="right_block" style="text-align: left">
+				<a href="podpiska_ebook.htm#podpiska">Электронная подписка</a> &#8594;<br>
+				<a href="podpiska_ebook.htm">Демонстрационная версия</a> &#8594;</td>
+								<td width="5" background="images/frames/right_white_rubber/right.png"></td>
+							</tr>
+							<tr>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_left.png"></td>
+								<td height="5" background="images/frames/right_white_rubber/bottom.png"></td>
+								<td height="5" width="5" background="images/frames/right_white_rubber/bottom_right.png"></td>
+							</tr>
+						</table>
+						<div align="right">
+				<p class="main_tagline">&nbsp;</p>
+						</div>
+						</div>
+						<div align="right">
+						<p align="left">&nbsp;</p>
+						</div>
+						</div>
+						</td>
+					</tr>
+				</table>
+
+				</td>
+				<td bgcolor="#E4E4E2">&nbsp;</td>
+			</tr>
+		</table>
+					</td>
+				</tr>
+			</table>
+		<div align="center">
+			<table border="0" width="100%" height="5" cellspacing="0" cellpadding="0">
+				<tr>
+					<td height="11"></td>
+				</tr>
+			</table>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#423E35" height="20">
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+
+<!--			<tr>
+				<td bgcolor="#EFBC15">&nbsp;</td>
+				<td width="995" bgcolor="#EFBC15" valign="top">
+				<p class="main">
+				<a class="news_popup" target="_self" href="popup.htm">Переподготовка
+				учителей по курсу &quot;Духовно-нравственное воспитание&quot; начнется
+				зимой – министр образования и науки РФ Андрей Фурсенко &#8594;</a></p>
+				<p class="main_tagline">&nbsp;</p>
+				</td>
+				<td bgcolor="#EFBC15">&nbsp;</td>
+			</tr>
+-->
+			<tr>
+				<td>
+		<!--webbot bot="Include" U-Include="include_blocks/main_footer_menu.htm" TAG="BODY" startspan -->
+
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td height="66" background="images/footer/background.png">&nbsp;</td>
+				<td width="995" height="66" background="images/footer/background.png">
+				<a target="_blank" href="http://www.september.ru">
+				<img border="0" src="images/footer/logo.png" width="320" height="66" alt="Издательская фирма «Сентябрь» "></a></td>
+				<td height="66" background="images/footer/background.png">&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td width="995">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="35%" valign="top">
+						<h1 class="bottom">Журналы</h1>
+				<p class="bottom">
+				<a target="_blank" href="http://obr.direktor.ru/">Журнал руководителя управления образованием</a>
+				&#8594;</p>
+				<p class="bottom">
+				<a target="_blank" href="http://www.direktor.ru">Директор школы</a> &#8594;</p>
+				<p class="bottom">
+				<a target="_blank" href="http://praktika.direktor.ru">Практика административной работы в школе</a>
+				&#8594;</p>
+				<p class="bottom">
+				<a target="_blank" href="http://law.direktor.ru">Юридический журнал директора школы</a>
+				&#8594;</p>
+				<p class="bottom">
+				<a target="_blank" href="http://doy.direktor.ru">Практика
+				управления ДОУ</a>&nbsp;&#8594;</p>
+				<h1 class="bottom">Книги</h1>
+						<p class="bottom">
+						<a target="_blank" href="http://shop.direktor.ru/catalog.htm?carrier=2">Библиотека журнала «Директор школы»</a>
+						&#8594;</p>
+						<p class="bottom">
+						<a target="_blank" href="http://shop.direktor.ru/catalog.htm?carrier=5">Электронные книги</a>
+						&#8594;</p>
+				<h1 class="bottom">Компакт-диски</h1>
+						<p class="bottom">
+				<a target="_blank" href="http://shop.direktor.ru/catalog.htm?section=1&prof=0&series=0&carrier=0&sort=new&showcarrier=1">Управленческий опыт</a> &#8594;</p>
+						<p class="bottom">
+				<a target="_blank" href="http://shop.direktor.ru/catalog.htm?section=7&prof=0&series=0&carrier=0&sort=new&showcarrier=1">Нормотворческая деятельность</a> &#8594;</p>
+						<p class="bottom">
+				<a target="_blank" href="http://shop.direktor.ru/catalog.htm?section=2&prof=0&series=0&carrier=0&sort=new&showcarrier=1">Методическая поддержка</a> &#8594;</p>
+						<p class="bottom">
+				<a target="_blank" href="http://shop.direktor.ru/catalog.htm?section=3&prof=0&series=0&carrier=0&sort=new&showcarrier=1">
+				Педагогика и психология</a> &#8594;</p>
+				<h1 class="bottom">Интернет-проекты</h1>
+						<p class="bottom">
+				<a target="_blank" href="http://direktoria.org/">
+				<span lang="en-us">Direktoria.Org</span> &#8594;</a></p>
+						</td>
+						<td width="16" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						<td width="33%" valign="top">
+
+						<h1 class="bottom">
+				Интернет-магазин</h1>
+						<p class="bottom">Первый в России специализированный
+						интернет-магазин для школьной администрации, методистов&nbsp;
+						и педагогов.<br>
+&nbsp;</p>
+						<p class="bottom">
+						<a target="_blank" href="http://shop.direktor.ru">
+						<img border="0" src="images/main_table/ico_bottom_hand.gif" width="22" height="18" align="left"><b>http://shop.direktor.ru</b></a></p>
+						<p class="bottom">
+						<br>
+						&#9679;
+						<a target="_blank" href="http://shop.direktor.ru/catalog.htm?prof=1">
+						Директору</a><br>
+				&#9679; <a target="_blank" href="http://shop.direktor.ru/catalog.htm?prof=2">
+						Завучу</a><br>
+				&#9679; <a target="_blank" href="http://shop.direktor.ru/catalog.htm?prof=3">
+						Педагогу</a><br>
+				&#9679; <a target="_blank" href="http://shop.direktor.ru/catalog.htm?prof=4">
+						Воспитателю</a></p>
+						<p class="bottom">
+						&nbsp;</p>
+
+						<p class="bottom">Заказ товаров через интернет и по
+						телефону. Доставка почтой по России. Любые формы
+						наличной и безналичной оплаты,
+						наложенный платеж, платежные системы.</p>
+
+						<h1 class="bottom">Новостные рассылки</h1>
+						<p class="bottom">Выберите интересные вам темы и
+						подпишитесь на них, перейдя по ссылке:</p>
+						<p class="bottom">
+						<a target="_blank" style="color: #EEEBE2" href="http://news.direktor.ru/subscribe.htm">
+						Рассылки для руководителей образования</a>&nbsp;&#8594;</td>
+						<td width="19" valign="top">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						<td width="28%" valign="top">
+
+						<h1 class="bottom">Контакты</h1>
+									<p class="bottom">
+				Телефон: (495) 710-30-01</p>
+						<p class="bottom">
+				Факс: (495) 710-30-02</p>
+						<p class="bottom">
+				Электронная почта: <a href="mailto:info@direktor.ru" target="_blank">
+				<span lang="en-us">info</span>@direktor.ru</a></p>
+						<p class="bottom">
+				<a target="_self" href="contacts.htm">Адрес и схема проезда</a> &#8594;</p>
+									<p class="bottom">
+				&nbsp;</p>
+									<p class="bottom">
+				<a target="_self" href="authors.htm">Авторам</a> &#8594;</p>
+									<p class="bottom">
+				<a target="_blank" href="http://reklama.direktor.ru/magazines.htm">Рекламодателям</a> &#8594;</p>
+				<p class="bottom">
+				<a target="_self" href="podpiska.htm">Распространителям</a>
+				&#8594;</p>
+				<p class="bottom">
+				<a target="_self" href="podpiska.htm">Подписным агентствам</a>
+				&#8594;</p>
+						<p class="bottom">
+				&nbsp;</p>
+						<p class="bottom">
+				&nbsp;</p>
+						<p class="bottom">
+				&nbsp;</p>
+						<p class="bottom">
+				&nbsp;</p>
+						<p class="bottom">
+				В социальных сетях:</p>
+						<p class="bottom">
+				<a target="_blank" href="http://pedsovet.org/forum/index.php?autocom=blog&blogid=880">
+				<img border="0" src="images/icons/social_small/pedsovet.gif" alt="Блог «Директора школы» на pedsovet.org" width="16" height="16"></a><span lang="en-us">
+				</span>
+				<a target="_blank" href="http://community.livejournal.com/direktor_shkoly/">
+				<img border="0" src="images/icons/social_small/lj.gif" alt="Сообщество «Директор школы» в Живом Журнале" width="16" height="16"></a><span lang="en-us">
+				</span><a target="_blank" href="http://twitter.com/ru_direktor">
+				<img border="0" src="images/icons/social_small/twitter.gif" alt="Твиттер «Директора школы»" width="16" height="16"></a><span lang="en-us">
+				</span>
+				<a target="_blank" href="http://vkontakte.ru/club15521953">
+				<img border="0" src="images/icons/social_small/vk.gif" alt="Группа «Директор школы» Вконтакте" width="16" height="16"></a><span lang="en-us">
+				</span>
+				<a target="_blank" href="https://www.facebook.com/Sentyabr">
+				<img border="0" src="images/icons/social_small/facebook.png" alt="Сообщество для руководителей сферы образования в Фейсбуке" width="16" height="16"></a><span lang="en-us">
+				</span>
+				<a target="_blank" href="http://professionali.ru/GroupInfo/8784">
+				<img border="0" src="images/icons/social_small/pro.gif" alt="Группа «Директор школы» на Профессионалы.ru" width="16" height="16"></a><span lang="en-us">
+				</span>
+				<a target="_blank" href="http://my.mail.ru/community/direktor_shkoly/">
+				<img border="0" src="images/icons/social_small/mail.gif" alt="Сообщество «Директор школы» в МойМир" width="16" height="16"></a><span lang="en-us"><br>
+&nbsp;</span></p>
+						<p class="bottom">
+				&nbsp;</p>
+						<p class="bottom">
+<script language="javascript">
+hotlog_js="1.0";
+hotlog_r=""+Math.random()+"&s=53301&im=134&r="+escape(document.referrer)+"&pg="+
+escape(window.location.href);
+document.cookie="hotlog=1; path=/"; hotlog_r+="&c="+(document.cookie?"Y":"N");
+</script><script language="javascript1.1">
+hotlog_js="1.1";hotlog_r+="&j="+(navigator.javaEnabled()?"Y":"N")</script> <script
+            language="javascript1.2">
+hotlog_js="1.2";
+hotlog_r+="&wh="+screen.width+'x'+screen.height+"&px="+
+(((navigator.appName.substring(0,3)=="Mic"))?
+screen.colorDepth:screen.pixelDepth)</script> <script language="javascript1.3">hotlog_js="1.3"</script> <script
+            language="javascript">hotlog_r+="&js="+hotlog_js;
+document.write("<a href='http://click.hotlog.ru/?53301' target='_top'><img "+
+" src='http://hit3.hotlog.ru/cgi-bin/hotlog/count?"+
+hotlog_r+"&' border=0 width=88 height=31 alt=HotLog></a>")</script> <noscript><a href="http://click.hotlog.ru/?53301" target="_top"><img
+            src="http://hit3.hotlog.ru/cgi-bin/hotlog/count?s=53301&amp;im=134" border="0" width="88"
+            height="31" alt="HotLog"></a></noscript>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter20277379 = new Ya.Metrika({id:20277379,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/20277379" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</p>
+						</td>
+					</tr>
+				</table>
+				</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td width="995">
+						<p class="bottom_small" style="text-align: left">
+				<br>
+				<br>
+				© <a target="_blank" href="http://www.september.ru">ООО
+				«Издательская фирма «Сентябрь»</a>.<span lang="en-us"> <br>
+				</span>Коммерческое использование материалов<span lang="en-us"> </span>
+				сайта запрещено. Некоммерческое использование допускается только
+				при наличии ссылки на сайт.<br>
+				&nbsp;</p>
+				</td>
+				<td>&nbsp;</td>
+			</tr>
+		</table>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td>
+				<table border="0" width="100%" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top">
+						&nbsp;</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+
+<!--webbot bot="Include" i-checksum="52422" endspan --></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
