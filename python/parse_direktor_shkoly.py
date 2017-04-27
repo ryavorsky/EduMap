@@ -6,9 +6,17 @@ os.chdir('../data/Direktor_Shkoly/html/')
 file_names = os.listdir()
 print(os.getcwd(), os.listdir())
 
+res_data = []
+
 for file_name in file_names:
+
     f_in = open(file_name, "r", encoding="cp1251")
     source_text = f_in.read()
+    f_in.close()
+
+    year = file_name.split(".")[0].split("_")[0]
+    issue = file_name.split(".")[0].split("_")[1]
+
     source_text = source_text.split('alt="Содержание номера"></p>')[1]
     source_text = source_text.split('</td>')[0]
     source_text = source_text.replace('\t\t<p class="main_tagline"><b>',"Authors:")
@@ -19,7 +27,6 @@ for file_name in file_names:
 
     lines = source_text.split("\n")
 
-    f_out = open("../content/" + file_name, "w", encoding="utf-8")
     #f_out.write(source_text)
     #f_out.close()
     #sys.exit("Done so far")
@@ -43,8 +50,7 @@ for file_name in file_names:
             else:
                 authors = ""
                 abstract = ""
-                block = [title, authors, abstract]
-                f_out.write("\n".join(block) + "\n\n")
+                res_data.append([title, authors, abstract, year, issue])
                 last_line_type = "Space"
 
         elif last_line_type == "Authors":
@@ -54,13 +60,11 @@ for file_name in file_names:
                 pos_b = abstract.find("<")
                 if pos_b > -1:
                     abstract = abstract.split("<")[0]
-                    block = [title, authors, abstract]
-                    f_out.write("\n".join(block) + "\n\n")
+                    res_data.append([title, authors, abstract, year, issue])
                     last_line_type = "Space"
             else:
                 abstract = ""
-                block = [title, authors, abstract]
-                f_out.write("\n".join(block) + "\n\n")
+                res_data.append([title, authors, abstract, year, issue])
                 last_line_type = "Space"
 
         elif last_line_type == "Abstract":
@@ -68,10 +72,22 @@ for file_name in file_names:
             pos_b = abstract.find("<")
             if pos_b > -1:
                 abstract = abstract.split("<")[0]
-                block = [title, authors, abstract]
-                f_out.write("\n".join(block) + "\n\n")
+                res_data.append([title, authors, abstract, year, issue])
                 last_line_type = "Space"
 
-    f_out.close()
+f_titles = open("../titles.txt", "w", encoding="utf-8")
+f_authors = open("../authors.txt", "w", encoding="utf-8")
+f_abstracts = open("../abstracts.txt", "w", encoding="utf-8")
+f_titles_and_abstracts = open("../titles_and_abstracts.txt", "w", encoding="utf-8")
 
-    f_in.close()
+for block in res_data:
+    f_titles.write(block[4] + ":" + block[0] + "\n")
+    f_authors.write(block[4] + ":" + block[1] + "\n")
+    f_abstracts.write(block[4] + ":" + block[2] + "\n")
+    f_titles_and_abstracts.write(block[0] + "\n" + block[2] + "\n\n")
+
+f_titles.close()
+f_authors.close()
+f_abstracts.close()
+f_titles_and_abstracts.close()
+
