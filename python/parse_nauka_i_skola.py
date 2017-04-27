@@ -20,7 +20,7 @@ def is_mainly_upper(line):
 
 # convert raw text file into the four columns table (title, author, content, language)
 def text2table(fname):
-    res = list()
+    res = []
 
     f = open(fname, 'r', encoding='utf-8')
     lines = [line.strip() for line in  f.readlines()]
@@ -33,7 +33,7 @@ def text2table(fname):
     previous_line_type = "TITLE" # type of the previous line
 
     for line in lines:
-        if len(line.rstrip()) > 2:
+        if len(line.rstrip()) > 2: # ignore small lines
 
             # after TITLE could be TITLE or AUTHORS
             if previous_line_type == "TITLE":
@@ -56,7 +56,8 @@ def text2table(fname):
             elif previous_line_type == "CONTENT" :
                 if is_mainly_upper(line):
                     # the previous block has finished
-                    res.append([title,authors,content.replace("- ",''), languages[language_id], fname])
+                    abstract_and_keywords = content.replace("- ",'')
+                    res.append([title,authors, abstract_and_keywords, languages[language_id], fname])
                     title, authors, content = '', '', ''
                     language_id = 1 - language_id
                     print("TITLE:", line)
@@ -66,37 +67,52 @@ def text2table(fname):
                     print("CONTENT:", line)
                     content += " " + line
                     previous_line_type = "CONTENT"
-    res.append([title, authors, content.replace("- ", ''), languages[language_id], fname])
+
+    abstract_and_keywords = content.replace("- ", '')
+    res.append([title, authors, abstract_and_keywords, languages[language_id], fname])
     return res
 
-
-os.chdir('../data/Nauka_i_shkola/')
+# main part
+os.chdir('../data/Nauka_i_shkola/source/')
 file_names = os.listdir()
-print('Hello', os.getcwd(), os.listdir())
+print(os.getcwd(), os.listdir())
 
+# Unite data from all files in one list
 data = []
 for file_name in os.listdir():
     data = data + text2table(file_name)
 
 print(len(data), 'papers found')
 
-res_file = open('../titles.txt','w', encoding='utf-8')
-rusdata = []
+# extract Russian part of the content
+res_data = []
 for block in data:
     if block[3]=="Rus":
-        #print(block)
-        content = block[2].split("Ключевые слова: ")
-        if len(content) < 2:
-            content.append("---")
+        abstract_and_keywords = block[2].split("Ключевые слова: ")
+        if len(abstract_and_keywords) < 2:
+            abstract_and_keywords.append("")
         title = block[0].strip().upper()
         authors = block[1]
-        abstract = content[0].replace("Аннотация.","")
-        keywords = content[1].upper()
+        abstract = abstract_and_keywords[0].replace("Аннотация.","")
+        keywords = abstract_and_keywords[1].upper()
         volume = block[4].split(".")[0]
         year = volume.split("-")[0]
-        data_unit = [title, authors, keywords, year, volume, abstract]
-        rusdata.append(data_unit)
-        res_file.write(volume + ": " + title+'\n')
-        #res_file.write(volume + ": " + keywords+'\n')
-        #res_file.write(volume + ": " + abstract+'\n\n')
-res_file.close()
+        data_unit = [title, authors, abstract, keywords, year, volume]
+        res_data.append(data_unit)
+
+# create the summary files
+f_titles = open("../titles.txt", "w", encoding="utf-8")
+f_authors = open("../authors.txt", "w", encoding="utf-8")
+f_abstracts = open("../abstracts.txt", "w", encoding="utf-8")
+f_titles_and_abstracts = open("../titles_and_abstracts.txt", "w", encoding="utf-8")
+
+for block in res_data:
+    f_titles.write(block[5] + ": " + block[0] + "\n")
+    f_authors.write(block[5] + ": " + block[1] + "\n")
+    f_abstracts.write(block[5] + ": " + block[2] + "\t" + block[3] + "\n")
+    f_titles_and_abstracts.write(block[0] + "\n" + block[2] + "\t" + block[3] + "\n\n")
+
+f_titles.close()
+f_authors.close()
+f_abstracts.close()
+f_titles_and_abstracts.close()

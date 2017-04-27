@@ -81,10 +81,11 @@ f_abstracts = open("../abstracts.txt", "w", encoding="utf-8")
 f_titles_and_abstracts = open("../titles_and_abstracts.txt", "w", encoding="utf-8")
 
 for block in res_data:
-    f_titles.write(block[4] + ":" + block[0] + "\n")
-    f_authors.write(block[4] + ":" + block[1] + "\n")
-    f_abstracts.write(block[4] + ":" + block[2] + "\n")
-    f_titles_and_abstracts.write(block[0] + "\n" + block[2] + "\n\n")
+    if len(block[2]) > 0:
+        f_titles.write(block[4] + ":" + block[0] + "\n")
+        f_authors.write(block[4] + ":" + block[1] + "\n")
+        f_abstracts.write(block[4] + ":" + block[2] + "\n")
+        f_titles_and_abstracts.write(block[0] + "\n" + block[2] + "\n\n")
 
 f_titles.close()
 f_authors.close()

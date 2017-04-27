@@ -1,11 +1,16 @@
-file_name = "dir_shk_words"
-excluded = ["без", "быть", "все", "вот", "где", "для", "даже", "его", "еще", "или", "как", "какой", "который", "кто", "куда",
-            "мой", "над", "наш", "она", "они", "оно", "при", "сам", "свой", "так", "также", "такой", "только", "тот", "уже", "что", "чтобы",
+#path = "../data/Direktor_shkoly/"
+path = "../data/Nauka_i_shkola/"
+file_name = "titles_and_abstracts_words.txt"
+
+excluded = ["автор", "без", "быть", "весь", "все", "вот", "где", "данный", "для", "даже", "его", "еще", "если",
+            "или", "как", "какой", "когда", "который", "кто", "куда",
+            "мой", "над", "наш", "она", "они", "оно", "при", "сам", "самый", "свой", "себя",
+            "статья", "так", "также", "такой", "только", "тот", "уже", "чем", "что", "чтобы",
             "это", "этот"]
 
-def step1_clean():
+def word_count():
 
-    f_in = open(file_name + ".txt", "r", encoding="utf-8")
+    f_in = open(path + file_name, "r", encoding="utf-8")
 
     data = f_in.readlines()
     data = [line.rstrip().replace("?","").split("|")[0] for line in data]
@@ -30,10 +35,11 @@ def step1_clean():
     res_list_numbers.append([k, prev_line])
     res_list_numbers.sort(key=lambda tup: tup[0], reverse=True)
 
-    f_out = open(file_name + "_clean.txt", "w", encoding="utf-8")
+    file_res_name = path + file_name.split(".")[0] + "_numbers.txt"
+    f_out = open(file_res_name, "w", encoding="utf-8")
     for (k,l) in res_list_numbers:
         f_out.write(str(k) + " " + l + "\n")
     f_out.close()
 
 
-step1_clean()
+word_count()
