@@ -110,7 +110,7 @@ for block in res_data:
     f_titles.write(block[5] + ": " + block[0] + "\n")
     f_authors.write(block[5] + ": " + block[1] + "\n")
     f_abstracts.write(block[5] + ": " + block[2] + "\t" + block[3] + "\n")
-    f_titles_and_abstracts.write(block[0] + "\n" + block[2] + "\t" + block[3] + "\n\n")
+    f_titles_and_abstracts.write(block[4] + "\t" + block[5] + "\n" + block[0] + "\n" + block[2] + "\t" + block[3] + "\n\n")
 
 f_titles.close()
 f_authors.close()
