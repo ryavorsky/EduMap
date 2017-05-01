@@ -1,15 +1,18 @@
-path = "../data/Direktor_shkoly/"
-#path = "../data/Nauka_i_shkola/"
+#path = "../data/Direktor_shkoly/"
+#years = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]
+path = "../data/Nauka_i_shkola/"
+years = [2013, 2014, 2015, 2016, 2017]
 json_file_name = "titles_and_abstracts.json"
-#top_file_name = "titles_and_abstracts_words_numbers.txt"
+
+trend_threshold = 1.3
 
 import json
 
 excluded = ["автор", "без", "быть", "ваш", "ведь", "весь", "все", "вот", "вряд", "где", "данный", "для", "даже",
             "его", "еще", "если",
-            "зато", "зачастую", "или", "как", "каков", "какой", "когда", "который", "кто", "кто-то", "куда",
-            "между", "многие", "мой", "над", "наш", "нет", "обо", "однако", "она", "они", "оно", "очень",
-            "передо", "пока", "после", "почему", "почти", "при", "про",
+            "зато", "зачастую", "или", "именно", "как", "каков", "какой", "когда", "который", "кто", "кто-то", "куда",
+            "между", "многие", "мой", "над", "наиболее", "насколько", "наш", "нет", "никто", "обо", "однако", "она", "они", "оно", "очень",
+            "передо", "пока", "после", "поскольку", "потому", "почему", "почти", "при", "про",
             "сам", "самый", "свой", "себя", "сей", "сейчас", "среди",
             "статья", "так", "также", "такой", "тогда", "только", "тот", "уже", "хотя", "чем", "через", "что", "что-то", "чтобы",
             "это", "этот"]
@@ -42,7 +45,7 @@ def parse_json(fname):
     f = open(path + json_file_name, "r", encoding="utf-8")
     lines = f.readlines()
 
-    # Calculate the number of pairs in each block
+    # extract set of normalized words for each paper
     current_line = 0
     while current_line < len(lines):
 
@@ -64,6 +67,17 @@ def parse_json(fname):
     return res
 
 
+def trend(list_of_values): # just a heuristics
+    l = len(list_of_values)
+    start_part = list_of_values[0] + list_of_values[1] + list_of_values[2]
+    end_part = list_of_values[l-1] + list_of_values[l-2] + list_of_values[l-3]
+    if start_part > trend_threshold * end_part:
+        return "down"
+    elif start_part * trend_threshold < end_part:
+        return "up"
+    else:
+        return "no"
+
 def count_pairs(data):
     N = len(words)
     for i in range(N-1):
@@ -80,38 +94,32 @@ def count_pairs(data):
                             res[pair] = 1
 
 
-data = parse_json(path + json_file_name)
+# initialize
+years_count = dict()  # total for each year
+word_count = dict()   # statistics for each normalized word
+data = parse_json(path + json_file_name)  # array of pairs [year, set of words]
+frequent_word_min = 15
 
-all_words = set()
-for block in data:
-    all_words = all_words.union(set(block[1]))
-
-print(len(data), "papers")
-print (len(all_words), "words\n")
-
-word_count = dict()
-for w in all_words:
-    word_count[w] = {"all":0, "2010":0, "2011":0, "2012":0, "2013":0, "2014":0, "2015":0, "2016":0, "2017":0}
+# calculate the number of papers for each word, total and per year
+for year in years:
+    years_count[str(year)] = 0
 
 for block in data:
     for w in block[1]:
+        if w not in word_count:
+            word_count[w] = {"all": 0, "2010": 0, "2011": 0, "2012": 0, "2013": 0, "2014": 0, "2015": 0, "2016": 0,
+                             "2017": 0}
         word_count[w]["all"] += 1
         word_count[w][block[0]] +=1
+        years_count[block[0]] += 1
 
-top_words_cont = dict()
+# get the most frequent words
+top_words = dict()
 for w in word_count:
-    if word_count[w]["all"] > 15:
-        if (word_count[w]["2015"] + word_count[w]["2016"] + word_count[w]["2017"]) * 2 > word_count[w]["all"]:
-            top_words_cont[w] = word_count[w]
+    if word_count[w]["all"] >= frequent_word_min:
+        top_words[w] = [word_count[w][str(year)] for year in years]
 
-top_words = top_words_cont.keys()
-print(len(top_words_cont), top_words_cont)
-
-low_words_cont = dict()
-for w in word_count:
-    if word_count[w]["all"] > 20:
-        if (word_count[w]["2010"] + word_count[w]["2011"] + word_count[w]["2012"]) * 2 > word_count[w]["all"]:
-            low_words_cont[w] = word_count[w]
-
-low_words = low_words_cont.keys()
-print(len(low_words_cont), low_words_cont)
+# trend
+for w in top_words:
+    if trend(top_words[w]) == "up":
+        print(w, top_words[w])
