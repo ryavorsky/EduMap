@@ -9,15 +9,15 @@ number_of_trending = 50
 import json
 import math
 
-excluded = ["автор", "без", "быть", "ваш", "ведь", "весь", "все", "вот", "вряд", "где",
-            "данный", "для", "даже", "его", "еще", "если", "зато", "зачастую", "или", "именно",
-            "как", "каков", "какой", "когда", "который", "кто", "кто-то", "куда",
-            "между", "многие", "мой", "над", "наиболее", "насколько", "наш", "нет", "никто",
-            "обо", "однако", "она", "они", "оно", "очень",
-            "передо", "пока", "после", "поскольку", "потому", "почему", "почти", "при", "про",
-            "раз", "рассматриваться", "сам", "самый", "свой", "себя", "сей", "сейчас", "среди", "статья",
+excluded = ["автор", "без", "быть", "важно", "ваш", "ведь", "весь", "все", "вот", "вряд", "где",
+            "далее", "данный", "для", "даже", "его", "еще", "если", "зато", "зачастую", "или", "именно",
+            "как", "каков", "какой", "касаться", "когда", "который", "кто", "кто-то", "куда",
+            "между", "многие", "мой", "наверняка", "над", "наиболее", "насколько", "наш", "неизбежно", "немало", "нет", "никто",
+            "нужный", "обо", "однако", "она", "они", "оно", "очень",
+            "передо", "пока", "после", "поскольку", "потому", "почему", "почти", "поэтому", "при", "про",
+            "раз", "рассматриваться", "сам", "самый", "свой", "себя", "сей", "сейчас", "сразу", "среди", "статья", "столь",
             "так", "также", "такой", "тогда", "только", "тот", "уже", "хотя",
-            "чем", "через", "что", "что-то", "чтобы", "это", "этот"]
+            "часто", "чем", "через", "что", "что-то", "чтобы", "это", "этот", "являться"]
 
 
 # order and glue two words
@@ -69,8 +69,8 @@ def parse_json(fname):
 
 
 def trend(list_of_values): # just a heuristics
-    start_part = list_of_values[0] + list_of_values[1] + list_of_values[2]
-    end_part = list_of_values[-1] + list_of_values[-2] + list_of_values[-3]
+    start_part = sum(list_of_values[:3])
+    end_part = sum(list_of_values[-4:])
     return int(100 * math.log2((1 + end_part)/(1 + start_part)) * math.log2(1 + sum(list_of_values)))
 
 
@@ -113,28 +113,27 @@ top_words = []
 for w in word_count:
     year_by_year = [word_count[w][str(year)] for year in years]
     top_words.append([w, trend(year_by_year), year_by_year])
+
 top_words.sort(key=lambda x: x[1])
+top_words = top_words[:number_of_trending] + top_words[-number_of_trending:]
 
-top_words_data = top_words[:number_of_trending] + top_words[-number_of_trending:]
-top_words_list = [e[0] for e in top_words_data]
-print(top_words)
-
-top_words_pairs_count = count_pairs(top_words_list)
-top_words_pairs = list(top_words_pairs_count.keys())
-top_words_pairs_count = [[k,top_words_pairs_count[k]] for k in top_words_pairs_count]
-top_words_pairs_count.sort(key = lambda e: e[1], reverse=True)
-print(top_words_pairs_count)
-
-graph_file = open(path + "trend_words.tgf", "w", encoding="windows-1251")
-
-for d in top_words_data:
-    if d[1] > 0:
-        graph_file.write(d[0] + " " + d[0]+ "-up\n"  )
+# write nodes and edges data into json file
+nodes = dict()
+for word_data in top_words:
+    nodes[word_data[0]] = dict()
+    if word_data[1] > 0:
+        nodes[word_data[0]]["trend"] = "up"
     else:
-        graph_file.write(d[0] + " " + d[0]+ "-down\n"  )
-graph_file.write("#\n"  )
-for pair in top_words_pairs_count:
-    graph_file.write(pair[0].replace("_", " ") + "\n")
+        nodes[word_data[0]]["trend"] = "down"
+    year_by_year = [word_count[word_data[0]][str(year)] for year in years]
+    nodes[word_data[0]]["years"] = year_by_year
+    nodes[word_data[0]]["count"] = sum(year_by_year)
 
+edges = count_pairs([word_data[0] for word_data in top_words])
+
+graph_file = open(path + "trend_words_and_pairs.json", "w", encoding="utf-8")
+json.dump(nodes, graph_file, ensure_ascii=False, indent = None)
+graph_file.write("\n")
+json.dump(edges, graph_file, ensure_ascii=False, indent = None)
 graph_file.close()
 
