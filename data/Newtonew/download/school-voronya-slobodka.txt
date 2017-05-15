@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>О школе, подожжённой сразу с шести концов / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Вы ещё не заметили этого? Школа умерла. Умерла как институт, как важная и необходимая часть нашей жизни."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/school-voronya-slobodka"/>
+            
+    <meta property="og:title" content="О школе, подожжённой сразу с шести концов"/>
+    <meta property="og:description" content="Вы ещё не заметили этого? Школа умерла. Умерла как институт, как важная и необходимая часть нашей жизни."/>
+    <meta property="og:url" content="https://newtonew.com/school/school-voronya-slobodka"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/37062cec0e4aeecfd457d59eedbb1421.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/37062cec0e4aeecfd457d59eedbb1421.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/37062cec0e4aeecfd457d59eedbb1421.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="active">        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li class="active">        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">О школе, подожжённой сразу с шести концов</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/school-voronya-slobodka">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(6)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="775">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: &gt;15 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 6</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>О школе, подожжённой сразу с шести концов</h1>
+                        <div class="n2-post-header__annotation"><p>Вы ещё не заметили этого? Школа умерла. Умерла как институт, как важная и необходимая часть нашей жизни.</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Нет, формально она ещё работает. Миллионы учителей первого сентября придут на работу. Десятки миллионов учеников с ранцами и букетами цветов придут в классы. Но это они сделают только по инерции.</p><p>Потому что никакой нужды в институции, именуемой «школа» уже нет. Забудьте. И, если вы планируете обучение своих детей, не рассчитывайте на школу. Потому что от школы осталась одна видимость, да и та растает, как дым, через пару-тройку лет.</p><p>Не верите? Давайте проанализируем. Для чего мы отдаем ребенка в школу? Чтобы выучился? Увольте, тысячи способов самообразования — начиная от модных массовых дистанционных курсов а-ля «Академия Хана» и заканчивая репетиторами, которые подготовят в сто миллионов раз лучше, быстрее и эффективнее, чем школа во дворе.</p><p>Социализация, общение со сверстниками? Помилуйте, один нормальный летний лагерь сделает для социализации ребенка больше, чем одиннадцать лет бесцельной толкотни в школьных коридорах.</p><div class="important-text important-text_type02">Нет, правда, объясните мне, зачем нужна школа сегодня? Что она может дать такого, чего не могут дать родители, переведя ребенка на семейное обучение? Или на заочное, экстернат или дистант? Да, в общем, ничего.</div><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/1892_PutnamSchool_Boston.jpg"><div class="image-caption"><p class="image-descr">Путнамская школа, Бостон, 1892 г.</p></div></div><p class="img-source">Источник: <a target="_blank" href="http://upload.wikimedia.org/wikipedia/commons/0/0e/1892_PutnamSchool_Boston.jpg">Википедия</a></p></div><p>Сегодня у массовой школы есть только одно преимущество: она «бесплатна». Потому что любая другая форма образования связана с серьёзными затратами. И не только финансовыми. Она «бесплатна» ещё и тем, что снимает всякую ответственность. Отдав ребёнка в школу, среднестатистический родитель может не думать о результате. «Пусть думают профессионалы. Им за это деньги платят. Пусть учат. Чему надо».</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/why-our-system-is-so-drastic">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/d044fae6f208060f0f6d8eded08846ee.jpg" alt=""></span>
+                Российская школа — нервные дети
+    </a>
+</div></div><p>А чему надо? И кому надо? Об этом не принято задумываться. Построенная по фабричной модели индустриального общества, наша школа по инерции тащит в XXI век разделение предметов, классно-урочную систему и балльную аттестацию. Это те священные коровы, на которые невозможно покуситься, потому что «так было при бабушке».</p><p>Помните, какие нешуточные страсти возникли, когда всех возмутил проект стандарта, разделившего все школьные предметы на обязательные и необязательные. Причём в первую группу попали физкультура, «Основы безопасности жизнедеятельности» (ОБЖ), курс «Россия в мире» и индивидуальный проект, а математика, русский и литература — в необязательные. По сути, это была попытка революционных изменений в школе.</p><div class="important-text important-text_type02">Не хочу сейчас оценивать тот проект, но возмущение было настолько мощным, что большинство недовольных даже не удосужились прочитать проект стандарта. Школа покачнулась, но устояла. Всё должно быть так, «как при бабушке».</div><p>Мне иногда наша школа напоминает машину, сделанную в стиле стимпанка. Кто не знает, это направление научной фантастики, моделирующее цивилизацию, в совершенстве освоившую механику и технологии паровых машин.</p><p>Вспомним фильм «Сибирский цирюльник» и изобретателя Дугласа МакКрэкена. Его гигантская машина поражала воображение. Вот такая и наша школа. Огромная, неповоротливая, пыхтящая паром и сверкающая золотом.</p><p>Стимпанк во многом жанр «визуальный» — клубы пара, блестящие медные детали, викторианские костюмы… Всё это смотрится очень зрелищно. Вот только КПД у паровоза — 4%.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B8%D1%80%D1%8E%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%20%D1%81%D1%82%D0%B8%D0%BC%D0%BF%D0%B0%D0%BD%D0%BA.jpg"><div class="image-caption"><p class="image-descr">Кадр из кинофильма «Сибирский цирюльник»</p></div></div><p class="img-source">Источник: <a target="_blank" href="http://steampunker.ru/blog/1158.html">steampunker.ru</a></p></div><p>Наша школа во многом похожа на эту машину. Созданная в век пара, она до сих пор носится по российским (и не только) дорогам, увязая в их непролазной грязи и методично рубит дерево за деревом. Новый лес нарастает позади, но машину это не останавливает.</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/d7d65bb4deadcf84d4458f8a878c71e3a4faccde_8.jpg"></div><div class="person-of-interview__name"> </div><div class="person-of-interview__descr">Вот выдержка из манифеста <a href="http://passionar.ru/kakie-znaniya-vparivaet-massovaya-shkola">«Какие «знания» впаривает нам массовая школа» Домашней школы семейного типа на Россошанке:</a></div></div><p>«Современная школа возникла более 300 лет назад как реакция на новые требования машинного производства и по своему существу не изменилась с тех пор. Первые владельцы шахт, мануфактур, заводов и фабрик обнаружили, что людей, миновавших период полового созревания и занимавшихся ранее сельскохозяйственным трудом или каким-либо ремеслом, почти невозможно превратить в полезные производству рабочие руки. Ветер буржуазных революций принёс массовое обучение. Естественно, такая массовая школа была скроена по фабричной модели. Учебный план предполагал обучение чтению, письму и счету, к которым могли быть добавлены чуть-чуть истории, немножко географии и другие предметы. Это преподносилось и преподносится как величайшее благо, порожденное индустриальным обществом. В отсталой России всеобщая ликвидация безграмотности началась вместе с большевистской индустриализацией в 20-е годы ХХ века. Конечно же, это не было благотворительностью нового порядка — разговоры о благах просвещения служили и служат лишь красивой оберткой того настоящего товара, каковой впаривает нам массовая школа. Помимо явного учебного плана всегда существовал и скрытый, настоящий, обстоятельный и главный план образования, а именно: научить послушанию (как послушна хорошая машина), научить пунктуальности и корректности (как точен, к примеру, штамповочный станок) и научить выполнению однообразной, монотонной работы (чем, собственно, и сильна машина)».</p><p>Впрочем, стимпанка на наш век хватит. Потому что, как говорится в старом анекдоте, «во-первых, это красиво». И всё же школе приходит конец. Школа, как «Воронья слободка» из романа И.Ильфа и Е. Петрова, обречена. Помните?</p><blockquote><p>Дом был обречен. Он не мог не сгореть. И действительно, в двенадцать часов ночи он запылал, подожженный сразу с шести концов.</p></blockquote><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/168032.jpg"><div class="image-caption"><p class="image-descr">Коммунальное хозяйство рано или поздно сгорает.</p></div></div><p class="img-source">Источник: <a target="_blank" href="http://i.obozrevatel.ua/14/1540695/168032.jpg">i.obozrevatel</a></p></div><p>Давайте разберем несколько этих самых концов.</p><hr><h2>Конец первый. Деньги</h2><p>Первым концом, пожалуй, являются деньги. Я писал уже выше, что массовая государственная школа бесплатна. Бесплатна она, конечно, условно, ибо в последние годы родителям приходится оплачивать из своего кармана всё больше и больше «дополнительных услуг», которые оказываются вынесеными за основные функции школы. В принципе, к этому мы уже привыкли, и родители готовы платить школе за хорошее образование. Но колокол, как всегда, грянул неожиданно. Потому что в последний год мы начали говорить уже не об оплате за дополнительные услуги, а о «тотальном безденежье» школы. Частные случаи превратились в систему и стали её ядром. Денег у государства на школу нет. И, похоже, не будет.</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/d7d65bb4deadcf84d4458f8a878c71e3a4faccde_9.jpg"></div><div class="person-of-interview__name"> </div><div class="person-of-interview__descr">Лучше всех об этом написал Александр Адамский в своей статье <a href="http://vogazeta.ru/ivo/info/14626.html">«На краю»</a>:</div></div><p>«На школу надвигается тотальное безденежье.<br>Об этом не принято говорить в кабинетах власти и на совещаниях, и всё-таки поразительно, что даже на сборе региональных министров во Владивостоке в начале июля надвигающаяся финансовая школьная катастрофа официальными ораторами не упоминалась.<br>А министров именно это волновало больше всего.<br>Потому что в ряде регионов ситуация близка к критической, а остальные со страхом ждут 2016 года.<br>Все расходы, кроме зарплаты, урезаются по максимуму. Свернуты региональные программы развития образования. Отменяются служебные командировки. Даже на строительство детских садов для сокращения очереди денег уже не хватает.<br>Больше того — во Владивостоке федеральный министр объявил о намерении рекомендовать отмену нормы в 25 человек в классе, при этом деликатно умолчав о причинах этой меры.<br>Что ж, назовем их сами: с одной стороны, чиновникам необходимо отчитаться о ликвидации второй смены в школах, с другой — это поможет увеличить зарплату (поскольку очевидно, что увеличится нагрузка). А под шумок можно будет уволить пару-тройку строптивых учителей в школе, что тоже улучшит показатели.<br>Постыдная гонка за исполнением показателей дорожных карт реализации майских указов превратилась в полное безумие, в подлинную финансовую истерику.<br>Можно подвести «промежуточный итог»: «шагренизация» денег, запредельная централизация их распределения плюс безумно жёсткий — даже жестокий — контроль за исполнением мелочных предписаний привёл систему на грань хаоса».</p><div class="important-text important-text_type02">Вы думаете, я сгущаю краски? Ничуть. Прочитайте <a href="http://vogazeta.ru/ivo/info/14626.html">статью Адамского</a>. Она звучит, как реквием по школе.</div><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Ещё по этой теме<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/opinion/russia-kremlin-fallen-education">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/cdd92c56304565f351ca33a8677ad3ee.jpg" alt=""></span>
+                «Россия, Кремль, природа, Путин», или где живут пингвины
+    </a>
+</div></div><p>Готова ли школа работать без денег? Вслед за Александром Изотовичем я тоже готов вспомнить гораздо более худшие времена, когда учителя готовы были работать без зарплаты. Но тогда, в середине девяностых, «свобода и раскованная инициатива придавали сил и уверенности в себе. Сегодня же все взоры и мольбы обращены исключительно вверх, и эти чаяния могут смениться возмущением и агрессией в том же направлении.</p><p>Кроме того, резко наступившее ухудшение выглядит дико и необъяснимо: зачем и по какой причине вдруг надо было разрушить уравниловкой и бессмысленной погоней за «средней зарплатой» формирующуюся систему финансирования и оплаты труда по результату, из-за чего вдруг вместо открытости и вариативности принялись насаждать унификацию и изоляцию от всего мира?</p><div class="important-text">Необъяснимость перемен к худшему, помноженная на невиданный, почти тюремный административный контроль и надзор, бесконечные проверки и с ужасом ожидаемый финансовый кризис создали в школьной среде удушливый моральный климат».</div><p>И вот тут мы подошли ко второму концу, который тоже оказался подожженным.</p><hr><h2>Конец второй. Надзор</h2><p>Сверхцентрализованная авторитарная система контроля и мелочного надзора убивают учителя.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/trial_7-large-1.jpg"><div class="image-caption"><p class="image-descr">Кадр из кинофильма «Процесс», 1962 г.</p></div></div></div><p> </p><p>И это очень серьезно. Потому что очень обидно, когда тебе не доверяют. Когда проверяют каждую мелочь и следят за каждым росчерком пера. Главное качество, которое замечаешь, глядя на большинство учителей — усталость. Усталость от чрезмерной нагрузки, от очередных идиотских указаний, от постоянных проверок, подозрений и указаний. А главное желание усталого человека — чтобы от него все отвязались, чтобы он не обязан был ни о чем думать и ни за что отвечать.</p><p>«Пришел–отчитал–опросил–расставил оценки–заполнил документацию. Удобно? Удобно. Не ищешь путей достичь результата, а честно исполняешь ритуал. Не работаешь, а служишь.</p><p>Школа-служба подкатывает к учителю в минуты упадка сил. Она лукаво нашёптывает:</p><div class="important-text important-text_type02">«Тебе что, больше всех надо? Есть программа, есть расчасовка, есть система требований к ученикам, и если ты во всём следуешь методическим рекомендациям, то какие к тебе претензии?»</div><p>Школа-служба неимоверно добра к учителю. Она снимает с него ответственность и перекладывает её на ребенка и на государство. Результаты будут заведомо неудовлетворительны, но за них отвечает не учитель, а авторы программ и неисполнительные ученики. А ты можешь спокойно сетовать на глупое начальство, дурных детей и упадок нравственности.</p><p>Заколдованный круг. Если ты в него вошел и отдался течению, он засасывает. Чем чаще ты перекладываешь ответственность с себя на объективные обстоятельства, тем хуже обстоят дела; чем хуже обстоят дела, тем больше твоя усталость и раздраженность, тем больше ты склонен покорно следовать заведенному механизму...»</p><p>Это я процитировал <a href="http://ps.1september.ru/view_article.php?ID=201401246">старую (1998 года) статью</a> замечательного педагога и исследователя современного образования Андрея Русакова. Тогда, почти двадцать лет назад, Андрей предупреждал о развилке, в которой оказалась российская школа. Развилку ту мы давно прошли. Усталый учитель не только не отдохнул, но стал центральной фигурой.</p><p>Сегодня усталость учителя может сыграть роковую роль в жизни школы. Усталый учитель не может учить по-настоящему. Потому что учение — это всегда индивидуальный подход, это всегда игра на стороне ребенка.</p><p>Мелочный же контроль заставляет учителя работать с оглядкой. Учителю не доверяют. Учитель всегда под подозрением. Шаг в сторону от выполнения календарного плана расценивается как профнепригодность. Кого волнует, что дети не успели освоить тему и ситуация требует дать ещё урок сверх положенных? Нельзя. Нарушение. Сотни параметров, по которым проходит аттестация. Бумажки, дипломы. Там есть всё, кроме детей. Никого не интересует, как ты проводишь уроки. Ты выдай положительную динамику.</p><div class="important-text important-text_type02">Хуже всего, что бездумные проверки проводят органы, не понимающие специфики образовательного процесса, но следящие за соблюдением буквы закона.</div><p>Сергей Фомичев из г. Заречного Пензенской области рассказал мне пару лет назад на педагогической конференции Школьной лиги Роснано очень показательную историю: оказывается, учителя теперь могут повышать квалификацию только за свой счет. Причём во вред, и очень серьезный для школы.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Это может быть интересно<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/tech/e-journal-in-russia">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/f7f52c334bcc1742a9bdb4286c9c3279.jpg" alt=""></span>
+                Зачем министерству надуманные проблемы?
+    </a>
+</div></div><p>Объясняю ситуацию: Учебная программа должна быть выполнена на 100 процентов. Это инвариант. Если у вас уроки выпадают на 8 марта, 1 мая — их нужно провести в другое время. Их лицей Прокуратура оштрафовала на 50 тысяч рублей за то, что на момент проверки записи в журнале отставали от учебных планов. Конечно, это решается сравнительно просто приписками. Но что, если директор встает на принципиальную законопослушную позицию?</p><p>Теперь о сути: Учителя Ф. направляют на курсы. Если он идёт на курсы в областной центр, то всё нормально: считается, что он во второй половине дня возвращается в школу и проводит уроки. Их по крайней мере можно записать.</p><p>Если же он едет к нам на конференцию в Петербург, то, естественно, в эти дни записывать уроки нельзя — у него командировка. Школа может поставить замену, но он единственный предметник в школе. Сделать адекватную замену невозможно. Варианта два: поставить «липовые часы» и нарваться на проверку прокуратуры, которая поднимает все документы, в том числе и о нахождении учителя в это время в другом городе, либо к концу года недосчитаться часов по программе и снова нарваться на проверку прокуратуры.</p><p>Рассказанная история случилась три года назад. Стала ли с тех пор ситуация в школе лучше?</p><p>Между тем, хороший учитель знает, что иногда из педагогических соображений он просто обязан нарушить инструкцию. Не буду больше рассказывать истории из своей жизни, а дам слово летчику-космонавту Алексею Леонову. Эту историю <a href="http://www.rg.ru/2015/07/15/kosmos-site.html#/9120_592080a1/1/">он рассказал журналисту «Российской газеты»</a> на днях, когда отмечался тридцатилетний юбилей знаменитого полета «Союз-Аполлон».</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2.jpg"><div class="image-caption"><p class="image-descr">Участники космической компании «Союз–Аполлон»</p></div></div><p class="img-source">Источник: <a target="_blank" href="http://ria.ru">РИА Новости</a></p></div><p><strong>— Алексей Архипович, остались ли еще нераскрытые секреты полета «Союз-Аполлон»?</strong></p><p><strong>— Алексей Леонов:</strong> Нет. Хотя об одном я не рассказывал долгие годы. Это был научный эксперимент, связанный с облётом корабля «Аполлон» кораблём «Союз», которым я управлял. Была жёсткая инструкция: расстояние между кораблями — минимум 150 метров.</p><p>Специалисты считали: чем больше, тем безопаснее. Но из практики полетов авиации и мне, и Тому Стаффорду, командиру «Аполлона», было ясно: такое расстояние неприемлемо из-за повышенного расхода топлива. Парные полеты лучше всего выполнять на удалении 40 метров.</p><p>И вот обсуждается этот вопрос. Том доказывает: надо летать на расстоянии 35-40 метров. Стоит насмерть. Специалисты тоже. Обстановка накалена до предела. Меня срочно вызывают с тренажера. Сообразив, в чем дело, я занял позицию руководства, чем вызвал гнев Тома. Позиция Стаффорда может только навредить. Вытащил его с заседания в коридор. Говорю: «Успокойся. Мы ведь будем в космосе одни. Сделаем так, как нужно».</p><p><strong>— И сделали?</strong></p><p><strong>— Алексей Леонов:</strong> Конечно! Я облетывал «Союз» в 40 метрах от «Аполлона». Прекрасно видел в иллюминаторе лицо пилота Вэнса Бранда. И до сих пор никому даже в голову не пришло узнать, а как же мы летали? На каком расстоянии?</p><p>Я выступал недавно на космическом саммите в Хьюстоне. Там присутствовал и технический директор проекта от НАСА Гленн Ланни. Говорю: «Я вам открою тайну: извините, мы нарушили все инструкции. Но зато выполнили блестяще эксперимент». Надо иногда принимать такие действия, которые невозможно описать инструкциями. Которые рождаются только в процессе эксплуатации».</p><div class="important-text">Готов ли сегодняшний учитель «принимать такие действия, которые невозможно описать инструкциями»? Наверное, пока ещё да. Но как только из школы уйдет последний учитель, готовый «взять управление на себя», школа умрёт.</div><hr><h2>Конец третий. Отношения</h2><p>Третий конец, с которого школа оказалась подожжена, очень связан со вторым. Информационные технологии показали, что образование совсем не про то, что мы думали: не про информацию и даже не про знания-умения. Оказалось, сущность образования — в отношениях особого рода. Именно за ними ребенок приходит в школу. Ради них он готов терпеть весь этот бедлам в школе.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/1340130652_shot0035.jpg"><div class="image-caption"><p class="image-descr">Кадр из кинофильма «Республика ШКИД», 1966 г.</p></div></div></div><p> </p><div class="important-text important-text_type02">Ребенок приходит к Учителю. Так за чем же он будет приходить, если в школьном здании останутся только усталые люди, выполняющие сотни циркуляров и инструкций?</div><p>В то же время ребенку доступен Интернет, в котором он может зажечься от спикеров конференции TED, проникнуться идеями программирования на акциях типа «Час кода», выполнить совместно со сверстниками из разных стран учебный проект в GlobalLab.</p><p>Эти вещи несут в себе драйв, заряжают тем, что дети называют fun. И это то, чего не может дать современная школа.</p><p>Школа вытесняет ярких людей, они не вписываются в ту самую мелочную систему, в которой нет места творческой инициативе. Да они и сами сбегут из места, в котором царит, по выражению А. Адамского, «удушливый моральный климат».</p><p>В своё время один-единственный урок в 10 классе у меня провёл замечательный учитель Е. Н. Ильин. Так сложилось, что он пришёл к нам в школу вести литературу, но его что-то не устроило, и он «передоверил» нас сначала своей жене, а потом ученице. Но тот урок я запомнил на всю жизнь. Потому что скучнейший (для меня) предмет вдруг заиграл, засверкал всеми красками. Оказалось, что литература — это не зазубривание критических статей о скучных «образах нового человека» и «лучах света в темном царстве». Оказалось, что эти скучнейшие тома из школьной программы — вовсе не тоска и тлен, как мне казалось все прошедшие 10 лет учебы. Да, представьте себе, я умудрился дожить до выпускного класса и не почувствовать вкуса русской литературы. Но тут всё перевернулось.</p><blockquote><p>Когда я пришёл на его урок в первый раз, я смеялся. Мне было весело глядеть на этого человека, который, бурно жестикулируя, ходил по классу. Его голос то взрывался, то утихал, для того чтобы опять взлететь над классом. Но именно это меня в нём привлекает. Он заставляет слушать, даже когда ты не хочешь.</p></blockquote><p>Это выдержка из сочинения «Уходя из школы, что я могу сказать об уроках литературы?».</p><p>Вся его жизнь — это борьба за внимание. Не за дисциплину, не за тишину на уроке — за внимание. Но разве и во всей школе, и в искусстве, и во всём мире не идёт сегодня борьба за внимание людей — за людей? Ильин говорит только о своём классе, но попадает в самый нерв современности.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/movie/discuss-freedom-writers">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/9e86c7c4619c5c815e8a02508cab0805.jpg" alt=""></span>
+                Чему нас учит фильм «Писатели свободы»
+    </a>
+</div></div><p>На этот поразительный по точности и простоте вопрос — как завоевать внимание учеников — Ильин отвечает с такою же неожиданной простотой. Он говорит, что урок литературы надо строить точно теми же средствами, какими строится художественное произведение. Ребята внимательны и активны, «когда с ними разговаривают языком неожиданных приемов, метких деталей, жгучих вопросов… — словом, языком искусства». Приём, деталь и вопрос — в этих трех словах весь Ильин. Книги, которые изучают в классе, разные. Могут ли уроки литературы быть одинаковыми даже по форме? Нет, учитель литературы — как Плюшкин с огромной связкой ключей. На каждый урок, для каждого писателя, героя, к каждой теме — свой приём, свой ключ. Открывать дверь, а не ломиться в неё! Творческий приём — «стержень современного урока, главный его инструмент, то, чем запоминается всякий урок, во всём его объёме и — всеми».</p><p><em>Это выдержка из <a href="http://1001.ru/articles/post/8337">статьи Симона Соловейчика «Словесник Ильин»</a>, опубликованной в «Комсомольской правде» в 1977 году.</em></p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/%D0%B8%D0%BB%D1%8C%D0%B8%D0%BD.jpg"><div class="image-caption"><p class="image-descr">Знаменитая фотография педагогов-новаторов, запечатлевшая их в Переделкино в 1986 году.</p></div></div><p class="img-source">Источник: <a target="_blank" href="http://upr.1september.ru/2001/17/1_2.jpg">1september.ru</a></p></div><p>Цитата, приведённая вначале, не из моего сочинения. Но я мог бы написать об Учителе точно такими же словами. Потому что один урок с Е. Н. Ильиным перевернул мне жизнь. Один урок.</p><p>Пришёл бы Ильин в школу сегодня? «Он может уделить урок картошке, которую ели Пьер и Каратаев, охватить, только об этой картошке и говоря, самые глубинные проблемы «Войны и мира», и я, наверное, непростую задачу дам читателю, даже если он преподает литературу, когда спрошу: могли бы вы минут двадцать рассказывать о том, почему у Раскольникова петля для топора — с левой стороны пальто?»</p><p>Не знаю, как у вас, а у меня где-то рядом замаячила тень прокурорской проверки.</p><p>Но тогда, видимо, в стране были иные времена.</p><p>«Я опаздывал на поезд и потому увёз с собой сочинения выпускников. В сегодняшнем номере газеты учитель прочитает их впервые. «О, какое счастье для меня и для всех нас, что учит нас литературе Евгений Николаевич!» — сказано в одном сочинении. «Встречу с таким учителем литературы я считаю просто счастливым случаем в моей жизни», — сказано в другом. «Уходя из школы, я остаюсь доволен своим учителем литературы», — сказано в третьем». Это – снова Симон Соловейчик. Про нашу ли школу он пишет?</p><hr><h2>Концы оставшиеся</h2><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Это может быть интересно<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/online-courses-for-school-teachers">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/d660a456efe48cbb57e5a97de8db5033.jpg" alt=""></span>
+                Учитель не должен быть «говорящей головой»
+    </a>
+</div></div><p>Я перечислил три конца, с которых подожжена сегодня наша школа. Про другие три писать не буду. Назову их конспективно.</p><p>Это, прежде всего, зарегулированность школы как институции. Уже сейчас в школе не может работать человек без педагогического образования. Хорошо ли это? Руководитель Летней школы журналистики Григорий Тарасевич на вопрос: «Смогу ли я работать журналистом, не имея специального образования?», очень любит отвечать:</p><blockquote><p>Это очень трудно, почти невозможно, нужно очень много учиться и переучиваться для того, чтобы стать журналистом, если у вас уже есть специальное журналистское образование.</p></blockquote><p>Это важный момент. Нам не нужны дилетанты. Но только дилетанты могут сделать прорыв. Ковчег построил любитель, профессионалы построили «Титаник». Мы строим «Титаники».</p><p>Следующее — это уверенность в том, что, совершив определенные действия, мы неминуемо получим на выходе образованного человека. Механистичный подход к процессу обучения сгубил многих. Мы уверены, что единожды найденная практика будет работать везде и всегда. Что удачный урок можно повторять снова и снова. Но дети — не болванки. Что прекрасно ложится в голову одного, может спокойно отлетать от другого.</p><div class="important-text important-text_type02">И, наконец, последнее. Мы часто уверены, что школа — это наше всё. Что она стопроцентно владеет умом учеников, что слово учителя отливается в граните и запоминается навсегда. Это — миф.</div><p>Приведу небольшой отрывок из книги Тубельского «Школа будущего, построенная вместе с детьми».</p><p><strong>Корчак:</strong></p><p>Я, конечно, не могу из березы сделать дуб, из дуба лозу виноградную. Так же и с детьми. Единственное, что мне по силам, это создать вокруг них почву, чтобы они что-то поняли про себя, для того, чтобы менялись. Но переделать одного в другого я не смогу.</p><p><strong>Ушинский:</strong></p><p>Ни один воспитатель, как бы ни была неусыпна и обширна его деятельность, положительно не может руководить всею душевной деятельностью даже немногих воспитанников. Поэтому он должен окружать их такой сферой, в которой они легко могли бы найти деятельность, если не полезную, то по крайней мере не вредную.</p><p><strong>Тубельский:</strong></p><p>Это очень важное замечание. Учитель, воспитатель ни в коем случае не должен стремиться заполнить собой всё пространство развития ребенка. Он должен заботиться о том, чтобы школа была системой максимально насыщенных, сообразных культурным традициям пространств, где бы ребенок мог познавать самого себя и взаимодействовать с другими людьми. Особенно важно пытаться создать такую школу для подростков.</p><p>(подсмотрено автором <a href="https://www.facebook.com/pointlog/posts/1125817830766902">в Фейсбуке</a>, на странице директора «Елизаветинской гимназии» Владимира Погодина)</p><p>Но, пожалуй, я не буду раскрывать эти три тезиса. Пока. Потому что есть у меня надежда, что школа всё-таки выстоит.</p><p>Иначе я сам не стал бы работать в школе. А я всё же 1 сентября вместе с 1,86 миллионами других учителей снова встречу у школьного порога учеников и скажу им: «Здравствуйте, соскучились?».</p><p>И, даже если они солгут в ответ, я знаю правду. Школа никуда не исчезнет. Потому что школа — это не стены и не идиотские инструкции. Школа — это учитель. Как <a href="http://funofteaching.tumblr.com/post/119762370821">пишет Иван Травкин</a>, «школа там, где учитель — в этом и заключается его роль».</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0.jpg"><div class="image-caption"><p class="image-descr">Н. П. Богданов-Бельский. «Сельская школа», 1890-е годы.</p></div></div><p class="img-source">Источник: <a target="_blank" href="http://upload.wikimedia.org/wikipedia/commons/7/76/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0.jpg">Википедия</a></p></div><p>Школьные стены могут сгореть, рухнуть или раствориться. Но всегда будет возникать потребность в учителе. И вокруг учителя неминуемо возникнет школа.</p><p>Самым главным недоразумением нашего времени является вера в то, что школа — эта та самая стимпанковская машина. Здание, уроки, расписание, оценки. Учителя и завучи, чиновники и проверяющие. Нам кажется, что именно это и есть школа.</p><p>Но это не так. Пространством школы на самом деле служит всё пространство города, в котором мы живем. «Школа есть место для обучения — место, где обучают, а не просто учатся», отмечает И. Травкин. То есть школа вовсе не привязана к месту, к инфраструктуре.</p><div class="important-text important-text_type02">Учитель может превратить в школу любое место, важно только превратить опыт взаимодействия с окружающим пространством в содержание учебной ситуации.</div><p>«Перевод опыта в содержание учебной ситуации — одна сторона роли учителя в медийном городе, вторая — это поддержка социальных практик, создающих места для обучения, т.е. места, где он мог бы воспроизводить и развивать учебные ситуации. Мобильность не означает, что школа везде, но что школа следует за учителем: используя медийные сервисы и учитывая контекст «граничащих» мест, он может влиять на информационные потоки, внедряя учебный процесс, либо создавать возможность для такого внедрения».</p><p>Но из сказанного следует, что и любой ученик может стать учителем. И, более того, должен им становиться. Для своих родных, друзей, коллег. Все мы — и учителя, и ученики — звенья одной цепи. Узлы сети, которые в зависимости от ситуации могут и учить, и учиться.</p><p>Нет никого, кто умнее всех. Кто мудр? Тот, кто учится у каждого.</p><p>Но, кажется, это может означать только одно. Школа всё-таки не обречена?</p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">16 июля 2015, 13:00
+                            <br>
+                                                            Мнение автора может не совпадать с позицией редакции.<br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /school/school-voronya-slobodka " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=О школе, подожжённой сразу с шести концов от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/school/school-voronya-slobodka"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                                    <div class="n2-post__author">
+            <div class="n2-post__author__label n2-author-label"><a href="/columns/anatoly-shperk">АВТОРСКАЯ КОЛОНКА</a></div>
+            <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/columns/5d6ff43f518f52d91591e5f464d2eee1.png" alt=""></div>
+            <div class="n2-post__author__name io-author">Анатолий Шперх</div>
+            <div class="n2-post__author__descr">Мы живем в удивительное время. Учёба наших детей давно выплеснулась за стены классной комнаты и происходит везде. Учитель уже не единственный светоч знания. Как учиться и как учить в этой новой для всех ситуации &nbsp;&mdash; размышляет &nbsp;Анатолий Шперх, учитель-исследователь, отец четверых детей. Человек, который умеет всё объяснить просто.</div>
+        </div>
+    
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/school"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                                    <a href="/opinion"
+                                       class=" n2-tag n2-tag_grey n2-tag_opinion">мнения</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/775/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/school-as-nazareth"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/opinion" class="n2-tag n2-tag_opinion"
+   style="background-color: #7583c9">мнения</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Школа как тухлое место</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/learn-google-learn"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/opinion" class="n2-tag n2-tag_opinion"
+   style="background-color: #7583c9">мнения</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Учить нельзя гуглить</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/instant-school"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/opinion" class="n2-tag n2-tag_opinion"
+   style="background-color: #7583c9">мнения</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Растворимая школа</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/school-voronya-slobodka">
+                    <input type="hidden" name="post-id" value="775">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 80046166;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

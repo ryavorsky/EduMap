@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Стартапы как новый школьный предмет / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Как научить подрастающее поколение трудиться, принимать решения, брать на себя ответственность? Возможно, проверка стартапом сработает."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/startups-at-schools"/>
+            
+    <meta property="og:title" content="Стартапы как новый школьный предмет"/>
+    <meta property="og:description" content="Как научить подрастающее поколение трудиться, принимать решения, брать на себя ответственность? Возможно, проверка стартапом сработает."/>
+    <meta property="og:url" content="https://newtonew.com/school/startups-at-schools"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/ee4219e56fceaed43cd68637c7e306cf.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/ee4219e56fceaed43cd68637c7e306cf.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/ee4219e56fceaed43cd68637c7e306cf.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="active">        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li class="active">        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Стартапы как новый школьный предмет</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/startups-at-schools">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(6)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="1196">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: 14 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 6</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Стартапы как новый школьный предмет</h1>
+                        <div class="n2-post-header__annotation"><p>Как научить подрастающее поколение трудиться, принимать решения, брать на себя ответственность? Возможно, проверка стартапом сработает.</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Идея создания нового школьного предмета пришла ко мне после того, как я познакомился с курсом <a href="https://newtonew.com/overview/iidf-entrepreneurship">«Интернет-предпринимательство»</a>, разработанным ФРИИ, на котором студентов фактически обучают тому, как сделать свой стартап.</p><p>Проводить такие занятия со студентами весьма логично — ведь именно в студенческой среде в своё время родилось большое количество успешных проектов. Самый очевидный пример — Facebook.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/mark-zuckerberg-als-student-in.jpg"><div class="image-caption">Марк Цукерберг в студенчестве, Кэмбридж, 2004 г.</div></div><p class="img-source">Источник: <a target="_blank" href="http://media0.faz.net/ppmedia/aktuell/2642497274/1.2976146/width610x580/mark-zuckerberg-als-student-in.jpg">faz.net</a></p></div><p>В последнее время стартапы становятся своего рода профессией. Конечно, это не предпринимательство в чистом виде, ведь предпринимательство подразумевает наличие какой-то законченной бизнес-модели: нужно иметь чёткий финансовый план, который позволяет понять, окупятся ли наши идеи; понимать, когда и какие ресурсы нужны для их воплощения и так далее. Создавая бизнес, мы достаточно чётко планируем его будущее. Стартап же — это венчурная история: задача состоит не столько в построении прибыльного бизнеса, сколько в демонстрации экспоненциального роста определённого набора метрик. Если при этом стартап начинает себя окупать — замечательно, если нет — не страшно.</p><p>В чём основная идея стартапа? Если мы делаем некий бизнес, а все заработанные деньги тратим на его расширение, то такой бизнес растёт аналогично стартапу. Если в определённый момент в этот бизнес «влить» ещё больше финансовых средств и дать ему новые возможности для роста, то расти он сможет существенно быстрее. По похожей модели развивалась в свое время «Евросеть».</p><p>Расширяемость и взрывной рост характерны для стартапа. Другими словами, стартап — это тоже бизнес, обладающий рядом особенностей.</p><hr><h2>Так почему же надо изучать стартапы в школе?</h2><p>Чем раньше молодой человек поймёт, что у него есть возможность создать и запустить свой проект, тем больше вероятность, что он сможет успешно развиваться в этой области. Одно дело, когда о существовании стартапов узнаёт 25-летный выпускник вуза, а другое — если то же самое происходит со школьником 14-16 лет. Для такого молодого человека знание трудностей этого пути, когда многим надо рисковать, тратить на развитие проекта своё время, не спать ночами, и различных историй успеха (Цукерберга, Дурова и многих других), может стать тем необходимым элементом, благодаря которому он определится со своим будущим.</p><p>Более того, очень многие вещи, о которых обязательно нужно рассказать в рамках курса по стартапам, будут актуальны для любого бизнеса. Если посмотреть на опыт <a href="http://generation-startup.ru/">Generation S</a>, одного из наиболее массовых онлайн/офлайн акселераторов, там в процессе обучения эксперты рассказывают в том числе и про рынок и его характеристики: как определить объём рынка, что такое бизнес-модель, какие существуют типовые бизнес-модели, как и когда их можно применять, как найти свою целевую аудиторию, разработать MVP, как определиться с партнёрами и ресурсами и многое другое.</p><p>Всё это важно для любого бизнеса, а не только для стартапов. Например, умение сделать финансовый анализ проекта дорогого стоит. Поэтому, когда мы говорим о введении такого предмета в школе (хотя бы на факультативной основе), мы прежде всего говорим об умении анализировать и проектировать различные процессы.</p><hr><h2>Эксперимент на живых школьниках</h2><p>В качестве эксперимента мы в прошлом году попробовали на базе обычной средней школы №184 в Санкт-Петербурге сделать свой стартап с учениками 10 и 11 классов, то есть пройти путь от полной неосведомлённости до создания простейшего лэндинга с описанием концепции придуманного стартапа.</p><p>Курс строился по очень простому принципу: сначала теоретическая, а потом уже практическая часть. Теория включала в себя 4 лекции, посвящённые основным понятиям — бизнес-модель, анализ рынка, ключевые роли в проекте… А вот уже в качестве практики ученикам предстояло разбиться на команды, занимающиеся разработкой своей собственной идеи.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/1_4.jpg"><div class="image-caption">Процесс защиты своего проекта.</div></div><p class="img-source"></p></div><p> </p><p>Идеи стартапов были очень разные и, надо сказать, часто весьма актуальные (мы даже встречали потом некоторые из этих идей реализованными во вполне себе «взрослых» стартапах). Например, ребята озвучили свою собственную проблему, связанную с профориентацией: до сих пор в России, к сожалению, нет централизованного ресурса, который позволял бы подростку или его родителям получить ответы на вопросы, связанные с выбором профессии и вуза. Вот они и предложили создать такую платформу, которая в итоге решила бы насущные проблемы профориентации для школьников.</p><p>Ещё одна возникшая у учеников идея была связана с краудфандингом (по аналогии с известными и активно действующими площадками вроде Boomstarter или Planeta.ru или зарубежным Kickstarter), ориентированным исключительно на сбор средств для выступления музыкантов. Существуют «нишевые» группы, которые не выступают на крупных площадках или дают концерты только в столице. Однако даже в небольших городах есть сотни людей, которые бы с удовольствием пришли на концерт любимой группы, заплатив за это разумную сумму. Идея проекта заключалась в создании специального ресурса, на котором можно было бы скидываться на приезд какой-либо группы в твой город, в то время как все организаторские заботы взял бы на себя сам этот ресурс. Если собранных денег достаточно, вложившиеся люди автоматически получают билеты на концерт. Если нет — деньги возвращаются отправителям.</p><p>Приведём несколько других интересных примеров. Одна команда юных стартаперов предложила создать приложение с дополненной реальностью для экскурсий по городу: с его помощью можно было бы давать сведения о различных достопримечательностях. Другая выдвинула идею о гостинице для домашних питомцев: человек, которому на время нужно пристроить, например, своего кота, мог бы разместить соответствующее объявление, а потом выбрать кого-то из откликнувшихся, опираясь на предложенную цену или отзывы других людей. Такой проект был бы особенно актуален для западного рынка.</p><p>Очень интересным нам показался и проект анонимной психологической помощи для подростков и взрослых — аналог телефона доверия. Работать в таком проекте могли бы студенты медицинских вузов, изучающие психологию. Здесь есть обоюдная польза: одни получают хорошую практику, другие — качественную помощь.</p><p>Безусловно у всех этих идей есть свои недостатки и множество непонятных моментов. Скорее всего, если их реализовать, то далеко не все из них «выстрелят», что, впрочем, характерно и для более зрелых команд. Однако мы не остановились только на идеях.</p><p>В рамках нашего курса все «стартаперы» провели опросы и собрали мнения о том, насколько интересна окружающим их идея. Каждая команда опросила от 50 до 200 человек, и в среднем более 50% оценивали предложенные идеи положительно. В некоторых случаях люди даже были готовы платить за предлагаемый продукт. Очень много времени было уделено и публичным выступлениям (например, в формате «круглых столов» с целью защитить свой проект перед другими учениками и улучшить его на основе полученной обратной связи). Здесь важно отметить, что публичные выступления — одно из самых слабых мест у современных школьников, они очень тяжело даются детям, которые, тем не менее, прекрасно общаются в Сети и между собой. С некоторыми учениками мы тренировали их трёхминутное выступление по 30-40 минут. Однако одним из позитивных результатов курса можно считать то, что ребята научились выступать хотя бы перед знакомой аудиторией. Это тоже прекрасный сопутствующий эффект.</p><p>Полностью реализовывать ученические стартапы мы не стали, так как это очень трудоёмкая задача. Дети просто не готовы вместо сна и развлечений заниматься развитием проекта. Поэтому в качестве финальной части своей работы они подготовили лэндинги, на которых красочно объясняли суть своей идеи, её актуальность, способы монетизации и особенности реализации. Вот, например, результат работы команды, которая предложила свою реализацию идеи <a href="http://project17608.tilda.ws/">вдохновляющего будильника</a>. Все остальные лэндинги также делались при помощи сервиса Tilda.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/%D0%B1%D1%83%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.png"><div class="image-caption">Пробная версия лендинга пробуждающего сервиса.</div></div><p class="img-source"></p></div><p>После создания страницы школьники защищали свой проект, рассказывая о своей идее, основном потребителе, предполагаемых способах заработка и необходимых ресурсах.</p><hr><h2>Что получилось и что не получилось</h2><p>Позитивный опыт заключается в том, что учениками приобретается много полезных навыков, включая навык публичных выступлений, умение работать с информацией и визуализировать её, проведение опросов, умение отталкиваться от мнения потребителей. Дети учатся культуре дискуссии, умению объективно оценивать свои идеи, критическому мышлению. Более того, работать над стартапами школьникам действительно интересно из-за отсутствия рутины и возможности проявить творческие способности.</p><p>Однако и негативных аспектов тоже достаточно.</p><div class="important-text">Современная образовательная система в школе не приучает детей к труду. В школе занимаются все хорошо, а дома практически никто не работает. Когда же мы говорим о стартапах, то нужно понимать, что первое время проект держится только на личности и труде основателей. Школьники к этому не готовы. Стартап нельзя заставить делать — это должно идти изнутри. То, что мы наблюдали у школьников, говорит совсем о другом подходе: они привыкли, что за них подумают, им напишут план и расскажут, что делать. Так, к сожалению, это не работает.</div><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/Chelsea,_England,_Spelling_Lesson,_1912.JPG"><div class="image-caption">Разбиться на команды и разработать идею самостоятельно, без помощи учителя — сложная задача.</div></div><p class="img-source">Источник: <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/3/34/Chelsea,_England,_Spelling_Lesson,_1912.JPG">Википедия</a></p></div><p>Надо сказать, что это беда не только российских школьников. Их зарубежные ровесники в массе своей также не склонны проявлять инициативу при обучении. Фредерик Ору, основатель французского стартап-акселератора NUMA, <a href="https://newtonew.com/discussions/frederik-oru-numa-interview">отмечает</a>, что нужно учить наших детей тому, что даже если они и не создадут свою компанию (в конце концов, не все рождены предпринимателями), им нужны творческие навыки, им нужны междисциплинарные связи, им нужно умение применить свои знания в жизни. В обучении предпринимательству есть действительно большой педагогический потенциал.</p><blockquote class="with-pic"><div class="author"><div style='background: transparent url("https://newtonew.com/media/cache/resolve/thumb_author_quote/uploads/ckeditor/Fred-2015-2_1_1.jpg") repeat scroll 0% 0%;' class="pic"> </div><div>Фредерик Ору<div> </div></div></div><div class="body"><p class="quote-content">У нас существует гигантский разрыв между образованием и профессией; это проблема типична для сегодняшнего мира — как говорится в одном известном высказывании, образование готовит людей для будущего, о котором нам ничего не известно. Поэтому молодёжь необходимо как можно раньше включать в профессиональную систему, в карьеру.<br><br>Я бы предложил всем в рамках школьной программы изучать дизайн-мышление. Это прекрасный способ понять одну простую вещь: что бы ты ни делал, чему бы ни учился, ты это делаешь не только для себя, но и для других, для кого-то по ту сторону стола, экрана или границы. Понимание того, что ты работаешь для кого-то, ведёт тебя к необходимости разобраться, что нужно этому «кому-то», будет ли твоя работа полезна этому «кому-то». Дизайн-мышление поможет и учителям поднять мотивацию своих учеников, очень многие из которых не очень понимают смысл учёбы.</p></div></blockquote><p>Продолжая мысль французского предпринимателя, можно сказать, что стартапы — это хороший эксперимент, который нужно ставить сегодня в школах, чтобы показать, как знания из совершенно разных дисциплин (математики, физики, психологиии…) собираются в одной точке для создания единого продукта.</p><p>Мы спросили ведущих экспертов в области стартап-образования, нужно ли сегодня вводить в школьное обучение предпринимательские курсы.</p><hr><h2>Нужен ли школе факультативный курс по созданию собственного стартапа?</h2><blockquote class="with-pic"><div class="author"><div style='background: transparent url("https://newtonew.com/media/cache/resolve/thumb_author_quote/uploads/ckeditor/zobnina.JPG") repeat scroll 0% 0%;' class="pic"> </div><div>Маргарита Зобнина<div><span class="descr">руководитель департамента исследований ФРИИ, доцент НИУ ВШЭ, автор курса «Интернет-предпринимательство»</span></div></div></div><div class="body"><p class="quote-content">Как показывает опыт лицея ВШЭ, школьники вполне способны придумывать стартапы и прорабатывать бизнес-модели. Чем раньше привить навыки предпринимательства, тем раньше школьник сможет увидеть различные варианты его дальнейшей карьеры и, соответственно, сможет лучше определиться с выбором вуза, факультета.<br><br>Курс по созданию стартапа, при условии его серьёзной и качественной проработки, мог бы привить такие нужные во взрослой жизни качества и навыки, как ответственность, умение работать в команде, управление проектом, планирование, представление результатов своей работы. Это пригодится в любой отрасли, куда бы они потом ни пошли.</p></div></blockquote><blockquote class="with-pic"><div class="author"><div style='background: transparent url("https://newtonew.com/media/cache/resolve/thumb_author_quote/uploads/ckeditor/%D0%B7%D0%B0%D0%BC%D0%B8%D1%80%20%D1%88%D1%83%D1%85%D0%BE%D0%B2.jpg") repeat scroll 0% 0%;' class="pic"> </div><div>Замир Шухов<div><span class="descr">директор инновационной программы развития бизнеса GVA LaunchGurus</span></div></div></div><div class="body"><p class="quote-content">Предпринимательству необходимо начинать учить со школьной скамьи — это моё твёрдое убеждение. Необходимые навыки возможно идентифицировать в достаточно раннем возрасте. Сейчас молодые ребята в возрасте 15-16 лет начинают создавать свои проекты и даже зарабатывать на них деньги. Это сплошь и рядом видно на различных конференциях, которые проходят за рубежом: в Европе, США, Азии.<br><br>Я считаю, что талантливым ребятам нужно дать возможность выбрать специализацию предпринимательства раньше, как они выбирают техническое или гуманитарное направление в 9-10 классе, и начать получать навыки в возрасте, когда их мозг наиболее восприимчив к этой информации. Обучаться по данному курсу могли бы те, кто в будущем видят себя создателями собственного бизнеса.</p></div></blockquote><hr><h2>Какие знания, навыки и умения необходимо «прививать» в школе, чтобы поднять российские стартапы на качественно иной уровень?</h2><blockquote class="with-pic"><div class="author"><div style='background: transparent url("https://newtonew.com/media/cache/resolve/thumb_author_quote/uploads/ckeditor/zobnina.JPG") repeat scroll 0% 0%;' class="pic"> </div><div>Маргарита Зобнина<div><span class="descr">руководитель департамента исследований ФРИИ, доцент НИУ ВШЭ, автор курса «Интернет-предпринимательство»</span></div></div></div><div class="body"><p class="quote-content">Для качественных стартапов в будущем, как и для жизни в целом, школьников надо учить критическому мышлению, логике, умению работать с информацией, причём не только искать, но и отсеивать, анализировать, осмыслять её, навыкам коммуникаций и представления своих идей, управлению проектами. Важно прививать позитивное мышление: видеть во всём возможности, рассматривать трудности, как вызов, делать выводы из ошибок и не бояться их совершать. И, наконец, самое главное, чего не хватает большинству взрослых: желания сделать мир лучше, строить большие корабли, брать на себя ответственность за себя и хотя бы часть мира вокруг себя.</p></div></blockquote><blockquote class="with-pic"><div class="author"><div style='background: transparent url("https://newtonew.com/media/cache/resolve/thumb_author_quote/uploads/ckeditor/%D0%B7%D0%B0%D0%BC%D0%B8%D1%80%20%D1%88%D1%83%D1%85%D0%BE%D0%B2.jpg") repeat scroll 0% 0%;' class="pic"> </div><div>Замир Шухов<div><span class="descr">директор инновационной программы развития бизнеса GVA LaunchGurus</span></div></div></div><div class="body"><p class="quote-content">Конечно, необходимы базовые знания о том, как функционирует экономика: человек, который хочет управлять собственным бизнесом, должен уметь в первую очередь считать цифры. Для успешного управления людьми нужно понимание особенностей коммуникации, постановки задач, управления собственным временем. Все эти навыки, конечно, развиваются лучше на практике, но успешность молодых предпринимателей будет гораздо выше, если в теории давать базис в старших классах.</p><p>Сейчас мы наблюдаем, что, выходя даже из вуза, выпускники не имеют навыков управления собственным бизнесом: у них хорошая креативная база, многие владеют навыками программирования, научными знаниями, но не имеют навыков управления людьми, умением их мотивировать, объединять вокруг идеи. Этому может способствовать преподавание так называемых soft skills: ораторского мастерства, умения вести переговоры, развития навыков лидерства и управления командой. К примеру, можно создавать ещё в школе проектные группы, работающие командой над общими заданиями или реализующие несложные проекты школьного, муниципального масштаба.</p><p>Обучаться созданию стартапа должны те, кто нацелен стать предпринимателями и имеют задатки предприимчивости. Важно сначала объяснить перспективы предпринимательства – это тяжёлый труд, бессонные ночи, потраченные 5-7 лет на старт новой компании до того, как она станет успешной, нестабильность и некий риск. После того, как у учеников есть понимание и возможность взвесить «за» и «против», они должны сами выбрать, пойти ли им по пути начинающего стартапера.</p><p>Учить нужно тех, кто хочет этому учиться – это добровольное направление.</p></div></blockquote>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">10 февраля 2016, 15:00
+                            <br>
+                                                            Мнение автора может не совпадать с позицией редакции.<br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /school/startups-at-schools " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Стартапы как новый школьный предмет от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/school/startups-at-schools"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                            <div class="n2-post__materials">
+        <h3>По материалам:</h3>
+        <ul>
+                                                                                                    <li>Впервые статья была опубликована на Cossa.ru<br>
+                    <a href="http://www.cossa.ru/152/118964/">cossa.ru</a>
+                </li>
+                    </ul>
+    </div>
+
+
+                                    <div class="n2-post__author">
+            <div class="n2-post__author__label n2-author-label"><a href="/columns/evgeniy-smirnov">АВТОРСКАЯ КОЛОНКА</a></div>
+            <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/columns/f4f6d9056766d610fa23c63555d62600.jpg" alt=""></div>
+            <div class="n2-post__author__name io-author">Евгений Смирнов</div>
+            <div class="n2-post__author__descr">Наше образование сейчас переживает не самый лучший период. Но, как говорил Альбус Дамблдор: &quot;Счастье можно найти даже в тёмные времена, если не забывать обращаться к свету&quot;.</div>
+        </div>
+    
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/school"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                                    <a href="/opinion"
+                                       class=" n2-tag n2-tag_grey n2-tag_opinion">мнения</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/1196/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/interview-teacher-for-russia"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/hero" class="n2-tag n2-tag_hero"
+   style="background-color: #f25c5c">герои</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">«Мы верим в то, что педагогика — дело творческое и прикладное»</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/higher/iidf-entrepreneurship"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/higher" class="n2-tag n2-tag_higher"
+   style="background-color: #f2c627">вуз</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">О вузовской программе «Интернет-предпринимательство»</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/hero/frederik-oru-numa-interview"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/hero" class="n2-tag n2-tag_hero"
+   style="background-color: #f25c5c">герои</a>                            <a href="/opinion" class="n2-tag n2-tag_opinion"
+   style="background-color: #7583c9">мнения</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Фредерик Ору: «Образование должно давать не знания, а опыт»</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/startups-at-schools">
+                    <input type="hidden" name="post-id" value="1196">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 991820273;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

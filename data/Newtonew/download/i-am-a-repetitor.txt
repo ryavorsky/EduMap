@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Погонщики сизифов, или пара слов о репетиторах / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Репетитор английского делится своими сакральными знаниями о том, откуда есть пошла стезя репетиторская, и что нужно сделать, чтобы репетитором стать."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/opinion/i-am-a-repetitor"/>
+            
+    <meta property="og:title" content="Погонщики сизифов, или пара слов о репетиторах"/>
+    <meta property="og:description" content="Репетитор английского делится своими сакральными знаниями о том, откуда есть пошла стезя репетиторская, и что нужно сделать, чтобы репетитором стать."/>
+    <meta property="og:url" content="https://newtonew.com/opinion/i-am-a-repetitor"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/1974aeedbd0c452f7b7b8689116f2f18.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/1974aeedbd0c452f7b7b8689116f2f18.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/1974aeedbd0c452f7b7b8689116f2f18.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Погонщики сизифов, или пара слов о репетиторах</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/opinion/i-am-a-repetitor">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(5)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="1662">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: 15 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 5</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Погонщики сизифов, или пара слов о репетиторах</h1>
+                        <div class="n2-post-header__annotation"><p>Репетитор английского делится своими сакральными знаниями о том, откуда есть пошла стезя репетиторская, и что нужно сделать, чтобы репетитором стать.</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Наказанный богами, несчастный Сизиф изо дня в день выполняет одну и ту же работу — закатывает на высокую гору тяжёлый камень. Но как только он добирался до самого верха, камень вырывается из его ослабевших рук и скатывается вниз. Сизиф возвращается к подножью горы и снова принимается за монотонную работу.</p><p>Он до сих пор живёт в миллионах людей, которые выполняют бесконечную и мучительную работу, называя её «сизифов труд». Например, ученики, совершающие героические подвиги самоотречения от многих жизненных радостей во имя мифической вершины заоблачных знаний. Помогают им на этом пути не только родители и школьные учителя, но и «частные педагоги», которых называют репетиторами.</p><p>Само слово «репетитор» по сравнению с тем же словом «педагог» возникло не так давно. В латинском языке оно звучало как «repetitor» и означало «человек, который повторяет». В закрытых учебных заведениях России до 1917 года репетитором называли учителя, под руководством которого живущие в интернатах учащиеся выполняли домашние задания после уроков. На сегодняшнем школьном языке это — «учитель продлёнки». В настоящее время «репетитор» тоже имеет отношение к школе и системе образования. Подавляющее большинство репетиторов — это студенты, выпускники педвузов, а также действующие и бывшие преподаватели школ и вузов. Однако свою «трудовую деятельность» они осуществляют вне рамок государственной системы образования.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/1f76177fc6300f2dee1afff02f69fc255a9b19a6.jpg"><div class="image-caption">В закрытых учебных заведениях России до 1917 года репетитором называли учителя, под руководством которого живущие в интернатах учащиеся выполняли домашние задания после уроков.</div></div><p class="img-source">Источник: <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TheGovernessRebeccaSolomon.jpg/300px-TheGovernessRebeccaSolomon.jpg">Википедия</a></p></div><h2>Кто такой репетитор?</h2><p>Словарь Ушакова даёт следующее определение: «домашний учитель, помогающий неуспевающему ученику в прохождении школьного курса». Можно ещё добавить, что на дом к ученикам приходят, в основном, начинающие репетиторы, а опытные, имеющие свою «клиентскую базу», работают у себя дома.</p><p>Рынок труда в сфере репетиторства разделён на две части: педагогов и потребителей их услуг. На рынке школьного образования целевая группа потребителей — это родители. Их объединяют общие задачи:</p><ol><li>помочь детям сдать экзамены;</li><li>подтянуть по предметам в школе, повысить оценку;</li><li>подготовить к поступлению в вуз;</li><li>подготовить к поездке, учёбе, проживанию за границей.</li></ol><p>Также существует скромная часть родителей, которые начали нанимать репетиторов для «освоения предмета или предметов» с целью дать ребёнку межпредметные знания. В этом сегменте начинает сейчас развиваться сегмент «гувернёров», которые преподают сразу несколько предметов.</p><p>Хотя репетиторы существуют в России давно, такого количества, как сейчас, их не было никогда. И в таких масштабах, как в России, это явление не наблюдается нигде. Только на одном сайте репетиторов PROFI.RU сегодня насчитывается 15 749 зарегистрированных репетиторов английского языка! При этом количество сдающих ЕГЭ превышает это число в 4 раза.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/d5da0d0207446d7bcf1d49ef4ed66e1f20a75ad9.jpg"><div class="image-caption">Сейчас начинает развиваться сегмент «гувернёров», которые преподают сразу несколько предметов.</div></div><p class="img-source">Источник: <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/b/b6/Johann_Friedrich_August_Tischbein,_Portrait_of_the_Soltykov_Family_(1782,_Hermitage).JPG">Википедия</a></p></div><h2>Зачем нужны репетиторы?</h2><p>Спрос порождает предложение — это закон текущей экономической ситуации. Спрос вырастает при дефиците. Дефицит в системе образования возникает на основе несоответствия того, что требует система, тому, что показывает ученик.</p><p>Уровень качества образования просто не даёт возможности сдать экзамены.</p><p>Ученик не может учиться на «пять», не может сдать ЕГЭ, не может поступить в вуз и всё прочее — всё это внешние мотивы, которые дёргают родителей «за ниточки самолюбия и страха», и те готовы платить деньги, лишь бы их дети:<br>1. не были хуже других;<br>2. были лучше других.</p><p>Мысль о том, что стандарты образования могут не соответствовать реальному положению дел в стране, городе, районе и конкретно их семье, редко приходит кому-либо в голову. Причём у подавляющего большинства понимание «быть лучше» связано только с количеством денег. Тот факт, что система образования обслуживает экономику государства, выполняя, по сути, заказ на специалистов в разных сферах производства, родители не учитывают.</p><p>Работы, например, связанных исключительно с английским языком, нет, но знать его на всякий случай надо! Каждый считает, что его ребёнку повезёт больше других. В связи с этим можно предположить, что рынок репетиторов ещё долго будет процветать, обслуживая спрос на «латание дыр» и «натаскивание». Исходя из этого, основная задача репетитора — компенсировать у ученика недостаток информации. Именно информации, а не знаний.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/c10ea3254982a19b5b0cc323d85c782f228789e9.jpg"><div class="image-caption">Приезд гувернантки в купеческий дом. В. Перов, 1866 г.</div></div><p class="img-source">Источник: <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Perov_guvernanka_kupe.jpg/250px-Perov_guvernanka_kupe.jpg">Википедия</a></p></div><p>Какова же цель репетитора? Она очень проста — сформировать те навыки, которые не сформировали школа или вуз. Говорить об умениях не имеет смысла, так как умение — это применение навыков, а без практики это невозможно.</p><div class="important-text important-text_type03">На этом же основании нельзя говорить о получении знаний, так как знание — это информация, подтверждённая на практике.</div><p>Вторым условием, ограничивающим набор приёмов и творческую деятельность репетитора, является время работы с учеником. Родители приводят ребёнка на год или два, в связи с чем репетитор может применять только методику «натаскивания». При изучении английского языка, это, например, большое количество упражнений, переводов и заучивание слов/текстов наизусть.</p><p>Естественно, репетитор стремится к тому, чтобы при минимальных усилиях со своей стороны получить максимальную сумму от заказчика/родителей. И если в точных дисциплинах критерием «успешной» работы репетитора являются формальные оценки и тесты, то гуманитарные предметы проверить труднее. Например, ЕГЭ по английскому языку, с одной стороны, могут сдать только очень подготовленные ученики, занимающиеся не год и не два. Его сдают 5-7% от общего количества выпускников школ. Для этого они обычно все занимаются с репетиторами. Тогда зачем всем остальным знание английского языка?</p><h2>Как выбрать репетитора</h2><p>Исходя из такой неутешительной картины, у родителей возникает вопрос, что же делать? Не заниматься у репетиторов? Не помогать ребёнку? Бросить всё на самотёк?</p><p>Конечно, нет. Заниматься и помогать надо. И, к сожалению, без репетиторов сейчас не обойтись. Однако при выборе репетитора необходимо следовать нескольким практическим советам. Первое: обязательно посетить первый урок. На этом уроке необходимо обратить внимание только на один момент: как репетитор проверяет у ученика усвоение материала.</p><p>Если репетитор спрашивает: «Понял?» и, получив утвердительный ответ, говорит: «Пошли дальше!», надо вежливо распрощаться. Единственным критерием проверки задания является следующий приём: «Понял? Приведи свой пример!» Это касается любого предмета.</p><p>Второй совет: мнение ребёнка после нескольких занятий. Дети редко врут, поэтому «так себе, неплохо, нормально» сразу можно отличить от «классно, интересно, а ты знаешь, что я узнал…!»</p><p>Ребёнок должен делиться и выражать положительную эмоциональную оценку своих занятий. Если ему скучно, он ничего не выучит. Это приговор. К сожалению, половина «заказчиков услуг» не удосуживаются проверить эти элементарные моменты, чем обрекают своих детей или себя на штурм невидимой вершины и борьбу с тяжёлым камнем знаний под присмотром погонщиков-репетиторов. В итоге через год или два всё начинается сначала, но уже со следующим педагогом.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/30dcd6e2b7ffcc9ab82f347c2fe401bbf611b1fb.jpg"><div class="image-caption">Ребёнок должен делиться и выражать положительную эмоциональную оценку своих занятий. Если ему скучно, он ничего не выучит.</div></div><p class="img-source">Источник: <a target="_blank" href="http://annuaire-fr.narod.ru/images/Governess.jpg">annuaire-fr</a></p></div><p>Третий совет касается иностранного языка, потому что многие родители ожидают невероятных успехов за невероятно короткие сроки. Половина просит «научить говорить», не имея представления, что это значит. При этом все забывают, что с рождения до активного, слитного речепорождения на родном языке их дети учились 6-7 лет в семье и детском саду. В вузе программа иностранного языка рассчитана на 10 000 часов обучения. Считается, что после этого выпускник должен уметь говорить на иностранном языке.</p><p>Ещё один совет родителям: будьте реальны в своих запросах! Ставьте маленькие, но достижимые задачи. За год или два при одном занятии в неделю репетитор может только компенсировать пробелы школьной программы, но научить ребёнка говорить и распознавать иностранную речь он не сможет. Это физически невозможно, так как в силу возрастной физиологии и психологии ученики школы ещё не способны самостоятельно контролировать себя после урока. Их навыки формируются только во время занятия с репетитором и очень быстро дезактивируются, когда они попадают в «родную среду», слышат родную речь, говорят на родном языке.</p><p>Практика для них — это родной язык, а иностранный — имитация, тренажёр и не более. Поэтому при необходимости выучить иностранный язык в школьном возрасте надо рассчитывать на четыре-пять лет постоянных занятий и однозначно иметь план практического применения этих навыков в будущем. Иначе всего один год отсутствия занятий сведёт все усилия на нет.</p><p>Очень часто приходится слышать от родителей и псевдонаучных сотрудников различных госучреждений вопрос, почему репетитор не может преподавать по «коммуникативной методике». Однако никто не задаётся вопросом, что это такое и где это можно применить. «Метод погружения, разговор только на английском языке, поощрение ученика к самостоятельному речепорождению на английском языке» и тому подобные описания изучения иностранного языка в среде, максимально приближенной к естественной, вызывают у специалистов улыбку, но отвечать родителям всё равно надо.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/a66c918fab31ed8413b72f5f49bb6085ee91f0c4.jpg"><div class="image-caption">Ещё один совет родителям: будьте реальны в своих запросах!</div></div><p class="img-source">Источник: <a target="_blank" href="http://forum.materinstvo.ru/uploads/1269116858//post-221-1269181380.jpg">forum.materinstvo.ru</a></p></div><p>Коммуникативная методика и все вышеперечисленные приёмы предполагают наличие большого количества уроков на иностранном языке в течение дня, большую частоту уроков в неделю и, самое главное, базу для отработки речевых навыков в бытовых, учебных ситуациях. Это системный подход, который можно реализовать только в школах, лицеях и платных образовательных учреждениях, которые могут позволить себе за счёт родителей создать такие условия.</p><p>Сидя в комнате за столом, раз или два в неделю, обычно после школы, коммуникативной методикой «не побалуешься», а результат нужен. Более того, это противоречит основной задаче репетитора — сформировать минимум навыков за минимальное время и за фиксированную плату.</p><h2>Как стать репетитором?</h2><p>Растущий спрос на репетиторские услуги заставляет всё больше и больше специалистов из разных сфер задумываться о возможности попробовать свои силы в этой деятельности. И недавняя рекомендация премьер-министра студентам педвуза идти в бизнес, если не получается преподавать, является наглядным тому подтверждением. Тем не менее, прежде чем это сделать, необходимо сначала ответить на многие не всегда приятные вопросы и проверить себя на соответствие «нормам, тяготам и лишениям» рыночной экономики.</p><p>Так как чаще всего таким вопросом задаются студенты и учителя, то им сразу надо посчитать, сколько они смогут прожить без зарплаты, если у них не будет учеников в первый месяц самостоятельной деятельности, затем второй, третий… И это далеко не преувеличение. На примере репетиторов английского языка можно сказать, что они стараются совмещать работу в госучреждениях с нерабочей деятельностью, а также ищут источники дополнительного дохода, например, в виде переводов. И далеко не все из них процветают.</p><h2>Рассчитываем доходы и расходы</h2><p>Итак, вы решили стать репетитором. Что вам надо знать?</p><p>Первое. Вы начинаете собственное дело в рамках рыночной экономики. Это значит, что любой бизнес вы обязаны рассматривать как проект, у которого есть конечная цель, промежуточные задачи, срок реализации, средства реализации, стоимость (расходы) и предполагаемый доход.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/1a2bf0cce09f58d90f47e28cea278b6d400916f5.jpg"><div class="image-caption">С самого начала надо посчитать, сколько денег вам необходимо иметь на первый год для обеспечения вашей жизни.</div></div><p class="img-source">Источник: <a target="_blank" href="http://rceliamendonca.files.wordpress.com/2013/12/the-governess-alexandre-cabanel-c-1865-1870.jpg">rceliamendonca.wordpress.com</a></p></div><p>Например, вы планируете за год наработать базу учеников, которые позволят вам безбедно существовать во второй год своего репетиторства и планировать третий. Для этого с самого начала надо посчитать, сколько денег вам необходимо иметь на первый год для обеспечения вашей жизни: еда, социальные выплаты, сопутствующие расходы. Это будут ваши расходы, они будут неизбежно уменьшать количество заработанных вами денег.</p><p>Допустим, чтобы не умереть и выглядеть нормально для работы с учениками, вам одному необходимо 20 000 рублей в месяц. Зная, сколько будет стоить ваше занятие, легко посчитать, сколько учеников могут обеспечить эту сумму: при стоимости одного занятия в 1 000 рублей, вам надо найти пять учеников. Пять учеников будут приносить вам доход в размере 5 000 рублей в неделю, т. е. 20 000 в месяц.</p><p>При желании увеличить эту сумму и стать успешным бизнесменом, вам придётся задуматься над:<br>1. увеличением стоимости занятия, и<br>2. увеличением количества учеников.</p><p>Увеличение стоимости занятия потребует от вас оценки своего профессионального уровня, своей компетенции и конкурентного преимущества по сравнению с другими репетиторами на рынке.</p><p>Для этого придётся на листочке выписать свои плюсы и минусы, регалии и награды, публикации и звания, размещения на сайтах услуг или выдумать что-то настолько ценное, что сможет привлечь дополнительных учеников и заставить их платить больше, чем другим.</p><p>Если преимуществ нет, надо понять, за что «дорогие» репетиторы берут больше. Тогда можно будет принять решение, что делать дальше: сможете ли вы позволить себе приобретение этих преимуществ в виде научной степени, должности в престижном вузе, связей, гарантирующих поступление в вуз, опыт работы за границей, дипломы о курсах и т. п., или их придётся выдумывать?</p><p>Если вы просто «хороший педагог» и ничего не будете делать для любой саморекламы, вам придётся полагаться только на «сарафанное радио», которое реально покажет, кто вы есть на самом деле. Снижение цены в данном случае не помогает. Репетитор может быть бедным, но он не может быть дешёвым. В любом случае, придётся запастись терпением и найти источник альтернативного дохода (супруг, родители, сдача квартиры на год, переводы, работа дворником по утрам), который поможет вам дождаться увеличения клиентской базы до нужного уровня.</p><p>В такой ситуации легче всего начинать студентам. Однако родители, которые нанимают таких репетиторов, обязаны чётко понимать, что серьёзной оценки уровня ребёнка и составления индивидуального плана обучения ждать в этом случае не стоит.</p><p>Второй немаловажной особенностью любого бизнеса является его психологическая составляющая. Это означает только одно: любой основатель бизнеса по натуре авантюрист, а не профессиональный исполнитель. Он во всём стремится быть первым, его больше интересует быстрый успех, чем долгосрочное планирование, его больше ведёт по жизни любопытство, чем прагматический интерес, он склонен рисковать и не любит осторожничать. Поэтому начинающему репетитору стоит обратить внимание на эту известную во всём мире особенность.</p><p>Полезно знать, что по статистике из десяти открывающихся компаний девять закрываются в течение года, а из десяти видов бизнеса или проектов, которые начинает уже состоявшийся бизнесмен, восемь оказываются убыточными. Поэтому, если педагог не обладает этими качествами и у него нет для старта начального финансового капитала, стоит отложить свой «поход в репетиторство» и подумать над другими видами деятельности.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/9ff681b0f34dce86e4878d43b3371936a3e0d7e5.jpg"><div class="image-caption">Если у педагога нет для старта начального финансового капитала, стоит отложить свой «поход в репетиторство» и подумать над другими видами деятельности.</div></div><p class="img-source">Источник: <a target="_blank" href="http://materinstvo.ru/skins/default/public/images/articles/s8266_1360841365_3.jpg">materinstvo.ru</a></p></div><h2>Думаем о налогах</h2><p>Третьей составляющей являются <a href="https://www.nalog.ru/rn25/news/smi/4884558/">налоги</a>.</p><p>Платить их придётся однозначно. Схема простая:</p><ol><li>регистрация индивидуального предприятия;</li><li>выбор формы отчётности.</li></ol><p>По формам отчётности выбираем из двух:</p><p>А. упрощенная схема = 6% от дохода, плюс налоги в взносы в ПФ и ФОМС и возможность работать по всей территории РФ;<br>Б. покупка патента (~18 000 р. в Москве), взносы в ПФ и ФОМС (~25 000 р.) и дополнительные расходы на открытие счёта и электронную форму налоговой декларации. При доходе от 40 000 рублей в месяц выгодней брать патент.</p><p>Таким образом, начинающему репетитору необходимо добавить эти цифры в колонку расходов своего бюджета на первый год проекта. К тому же, даже самые опытные и известные репетиторы не могут обеспечить себе занятость в летние месяцы, когда необходимость в их работе временно отпадает и они обязаны откладывать деньги в течение года на эти три месяца «вынужденного безделья».</p><p>Также надо учитывать время на общение с госучреждениями (налоговой, банком и фондами), потому что репетитору надо самому вести учёт и отчитываться за него, что будет отнимать самый ценный его ресурс — время. Всё это объясняет, почему многие педагоги предпочитают не выходить на «поле боя с открытым забралом» и продолжают совмещать работу в любом стабильном учреждении с подработкой на стороне.</p><p>Для родителей это означает только одно: активно использовать «сарафанное радио» или надеяться на собственную интуицию, так как критериев проверки работы в этом случае очень мало. При этом с их стороны теряется точно такой же бесценный ресурс — время.</p><p>А ученики? А для учеников подобное времяпровождение с репетиторами остаётся тем же «сизифовым трудом» по покорению заоблачных вершин под присмотром погонщиков-репетиторов, нанятых родителями.</p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">13 сентября 2016, 19:00
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /opinion/i-am-a-repetitor " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Погонщики сизифов, или пара слов о репетиторах от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/opinion/i-am-a-repetitor"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                                                <div class="n2-post__author">
+                                    <div class="n2-post__author__label n2-author-label n2-author-label_nonstaff">Внештатный автор</div>
+                                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/473c4e55f8bcc924287e5ab241fde692.jpg" alt=""></div>
+                <div class="n2-post__author__name io-author">Игорь Евтишенков</div>
+                <div class="n2-post__author__descr"></div>
+            </div>
+            
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/opinion"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_opinion">мнения</a>
+                                                                    <a href="/school"
+                                       class=" n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/1662/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/parenting/small-planes-for-education"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/parenting" class="n2-tag n2-tag_parenting"
+   style="background-color: #f58d25">дети</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Чем авиамоделирование лучше LEGO?</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/trainer-tips"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Совет самим себе: 7 качеств хорошего наставника</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/different-school-traditions"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/culture" class="n2-tag n2-tag_culture"
+   style="background-color: #f5a525">культура</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Школьная культура: от чопорной Англии до виноватой Японии</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/opinion/i-am-a-repetitor">
+                    <input type="hidden" name="post-id" value="1662">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 1571278237;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

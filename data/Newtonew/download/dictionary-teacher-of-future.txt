@@ -1,0 +1,1180 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Словарик учителя XXI века / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Мы много пишем о современных цифровых инструментах и технологиях, которые изменяют образовательную среду. Но беда в том, что не все знакомы даже с их названиями. "/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/dictionary-teacher-of-future"/>
+            
+    <meta property="og:title" content="Словарик учителя XXI века"/>
+    <meta property="og:description" content="Мы много пишем о современных цифровых инструментах и технологиях, которые изменяют образовательную среду. Но беда в том, что не все знакомы даже с их названиями. "/>
+    <meta property="og:url" content="https://newtonew.com/school/dictionary-teacher-of-future"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/927d4645afe9a08be9536ab008f38dc2.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/927d4645afe9a08be9536ab008f38dc2.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/927d4645afe9a08be9536ab008f38dc2.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Словарик учителя XXI века</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/dictionary-teacher-of-future">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(12)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="525">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: &gt;15 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 12</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Словарик учителя XXI века</h1>
+                        <div class="n2-post-header__annotation"><p>Мы много пишем о современных цифровых инструментах и технологиях, которые изменяют образовательную среду. Но беда в том, что не все знакомы даже с их названиями.&nbsp;</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Очень часто в наших материалах употребляются термины и сокращения, к которым мы сами настолько привыкли, что нам кажется — все же понимают, о чём речь. А вот если мы спросим любого нашего читателя, выбранного наугад, что такое MOOC или, скажем, «гибридное обучение», нет никакой уверенности, что он ответит. Нужно это срочно исправлять. Поэтому мы составили небольшой словарик терминов образования XXI века, на который и будем ссылаться в последующих статьях. Многие из них уже будут вам знакомы — просто потому, что современное образование не отрицает педагогической мысли прошлого, а лишь развивает её в условиях цифровой среды. Расположим их по алфавиту, а сам материал подкрепим фотографиями из школ со всего мира.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/%D0%BF%D0%B5%D0%BA%D0%B8%D0%BD%20%D1%83%D1%80%D0%BE%D0%BA%20%D1%84%D0%B8%D0%B7%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B.jpg"></p>
+
+<p style="text-align:right"><em>Урок физкультуры и гражданской обороны в школе Пекина. Источник: <a href="http://a.abcnews.com/images/ABC_Univision/gty_israel_school_130702_wmain.jpg">npr.com</a></em></p>
+
+<p><a href="#1:1">1:1</a><br><a href="#BYOD">BYOD</a><br><a href="#e-learning%20(eLearning)">e-learning (eLearning)</a><br><a href="#LMS">LMS</a><br><a href="#MOOC">MOOC</a><br><a href="#OER">OER</a><br><a href="#%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Активное обучение</a><br><a href="#%D0%90%D0%BD%D0%B4%D1%80%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0">Андрагогика</a><br><a href="#%D0%90%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Асинхронное обучение</a><br><a href="#%D0%93%D0%B5%D0%B9%D0%BC%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20(%D0%B8%D0%B3%D1%80%D0%BE%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F)">Геймификация (игрофикация)</a><br><a href="#%D0%94%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Дистанционное обучение</a><br><a href="#%D0%94%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4">Дифференцированный подход</a><br><a href="#%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20(%D1%8D%D0%B4%D1%8C%D1%8E%D1%82%D0%B5%D0%B9%D0%BD%D0%BC%D0%B5%D0%BD%D1%82)">Игровое обучение (эдьютейнмент)</a><br><a href="#%D0%98%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4">Индивидуальный подход</a><br><a href="#%D0%98%D0%BD%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5">Инклюзивное образование</a><br><a href="#%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C">Интерактивность</a><br><a href="#%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Когнитивное обучение</a><br><a href="#%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC">Конструкционизм</a><br><a href="#%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Мобильное обучение</a><br><a href="#%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20(%D1%81%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F)">Моделирование (симуляция)</a><br><a href="#%D0%9D%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5">Неформальное образование</a><br><a href="#%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D1%91%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81">Перевёрнутый класс</a><br><a href="#%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4">Персонализированный подход (адаптивное обучение)</a><br><a href="#%D0%9F%D0%BE%D1%82%D0%BE%D0%BA">Поток</a><br><a href="#%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Проблемно-ориентированное обучение</a><br><a href="#%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Проектно-ориентированное обучение</a><br><a href="#%D0%A1%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Самообучение</a><br><a href="#%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Синхронное обучение</a><br><a href="#%D0%A1%D0%B8%D1%82%D1%83%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20(%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B5)%20%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5">Ситуативное (контекстное) познание</a><br><a href="#%D0%A1%D0%BC%D0%B5%D1%88%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20(%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5)%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Смешанное (гибридное) обучение</a><br><a href="#%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC">Социальный конструктивизм</a><br><a href="#%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F">Таксономия</a><br><a href="#%D0%A5%D1%8C%D1%8E%D1%82%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0">Хьютагогика</a><br><a href="#%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE">Цифровое гражданство</a></p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/gty_mali_school_130702_wmain.jpg"></p>
+
+<p style="text-align:right"><em>Начальная школа г. Гао, Мали, самопровозглашённое государство Азавад. Источник: <a href="http://a.abcnews.com/images/ABC_Univision/gty_mali_school_130702_wmain.jpg">abcnews</a></em></p>
+
+<h2><a name="1:1">1:1</a></h2>
+
+<p>«Один ученик — один компьютер». Образовательная среда, в которой каждому учащемуся предоставлено одно устройство (компьютер, ноутбук, планшет, смартфон).</p>
+
+<h2><a name="BYOD">BYOD</a></h2>
+
+<p>Дословно — «принеси своё устройство» (Bring Your Own Device). Политика использования собственных устройств на уроке. Из плюсов — сокращение бюджетных расходов и родная привычная среда для обучения; из минусов — проблемы с контролем безопасности и соблюдения учебных требований.</p>
+
+<div class="important-text">Интересный совместный проект Samsung, Ростелеком и Орфограф, который делает технологию BYOD доступной — <a href="https://newtonew.com/news/proekt-elektronnaja-shkola-budushchego-delaet-tehnologiju-byod-dostupnoj">«Электронная школа будущего»</a>.</div>
+
+<h2><a name="e-learning%20(eLearning)">e-learning (eLearning)</a></h2>
+
+<p>Всё, что помогает учиться в сети: онлайн-курсы, цифровые ресурсы, веб-сервисы, мобильные приложения. Цифровое образование, электронное образование, digital-образование — это всё о нём, об elearning. Близкий по духу термин — EdTech (Education Technology). Ещё его могут называть сетевым обучением или онлайн-обучением. В основе этой свежей педагогической парадигмы лежит открытость образовательных ресурсов, децентрализация учебной деятельности и использование в этих целях информационных технологий. Сетевое обучение предполагает создание массовой общей цифровой среды для образования и самообразования.</p>
+
+<div class="important-text">У нас есть небольшая <a href="https://newtonew.com/collections/web-services">подборка обзоров на образовательные продукты</a>. А об истории образовательных технологий можно почитать трилогию «Монстры образовательных технологий»: <a href="https://newtonew.com/discussions/monstry-obrazovatelnyh-tehnologij-istorija-edtech">история</a>, <a href="https://newtonew.com/discussions/monstry-obrazovatelnyh-tehnologij-ideologija-edtech">идеология</a>, <a href="https://newtonew.com/discussions/monstry-obrazovatelnyh-tehnologij-frankenshtejn-i-edtech">проблемы</a>.</div>
+
+<h2><a name="LMS">LMS</a></h2>
+
+<p>Система управления обучением (Learning Management System). Это цифровая среда для учителя, которая используется для разработки и распространения учебных материалов — для публичного или совместного доступа. LMS-системы позволяют создавать задания, назначать их отдельным ученикам или группам, работать над проектами и следить за ходом их выполнения, создавать малые рабочие группы для общения и обсуждения. Наиболее известный пример — <a href="https://newtonew.com/news/vvedenie-v-google-classroom">Google Classroom</a>.</p>
+
+<div class="important-text">Из российских LMS-проектов можно упомянуть <a href="https://newtonew.com/overview/cifrovoj-universitet-onlajn-ploshchadka-dlja-studentov-i-prepodavatelej">«Эдстер»</a>.</div>
+
+<h2><a name="MOOC">MOOC</a></h2>
+
+<p>Обычно, когда говорят об elearning, сразу думают о MOOC. MOOC — это массовые открытые онлайн-курсы (Massive Open Online Courses), один из форматов цифрового обучения, ставший популярным как раз из-за своей массовости. Характерные особенности: асинхронность процесса обучения; учебный материал доставляется в видеоформате; сам курс запускается только после того, как набралось достаточное количество участников.</p>
+
+<div class="important-text">Про MOOC у нас написано много, основное можно найти <a href="https://newtonew.com/collections/mooc">в отдельной подборке</a>.</div>
+
+<h2><a name="OER">OER</a></h2>
+
+<p>Открытые образовательные ресурсы (Open Educational Resources). Это цифровые учебные материалы, выкладываемые в публичный доступ и распространяющиеся по открытой лицензии. Это могут быть и материалы для учителей, и контент для учеников: конспекты лекций, содержание видеокурсов, коллекции учебных научных журналов и публикаций. Сам факт предоставления своих наработок в открытый доступ — это большой шаг и плюс к репутации для любого образовательного учреждения.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/gty_france_school_130702_wmain.jpg"></p>
+
+<p style="text-align:right"><em>Начальная школа г. Бетюн, Франция. Источник: <a href="http://a.abcnews.com/images/ABC_Univision/gty_france_school_130702_wmain.jpg">abcnews</a></em></p>
+
+<h2><a name="%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Активное обучение</a></h2>
+
+<p>Отнюдь не новый подход; но сегодня у него появились новые смыслы. Активное обучение предполагает практическое применение навыков, полученных в процессе учебно-познавательной деятельности — в форме игр и тренингов, решения прикладных задач реального мира, проведения собственных исследований и создания коллективных проектов. Сейчас активное обучение осуществляется гораздо проще и эффективней благодаря распространению обучающих веб-технологий, сервисов презентаций и создания видео, блогов и социальных сетей.</p>
+
+<h2><a name="%D0%90%D0%BD%D0%B4%D1%80%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0">Андрагогика</a></h2>
+
+<p>Педагогика взрослых — область научного знания в системе педагогических наук, которая занимается теорией и практикой образования взрослых на протяжении всей жизни.</p>
+
+<h2><a name="%D0%90%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Асинхронное обучение</a></h2>
+
+<p>MOOC — идеальный пример асинхронного онлайн-обучения, когда всю ответственность за прохождение курса берёт на себя пользователь, а преподаватель в большинстве случаев остаётся за кадром. Ещё примеры асинхронного обучения — подкасты.</p>
+
+<div class="important-text"><a href="https://newtonew.com/overview/russkojazychnye-materialy-v-universitete-itunes">Курсы в онлайн-университете iTunes U</a> — типичный и популярный пример асинхронных образовательных сервисов.</div>
+
+<h2><a name="%D0%93%D0%B5%D0%B9%D0%BC%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20(%D0%B8%D0%B3%D1%80%D0%BE%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F)">Геймификация (игрофикация)</a></h2>
+
+<p>Применение подходов, использующихся в компьютерных играх для повышения вовлечённости игроков, в неигровых процессах: награды, бейджики, уровни мастерства, создание единой истории. Геймификация часто применяется в реализации коммерческих продуктов; а в образовании некоторыми элементами такого подхода пользовались уже давно учителя младших классов и дошкольных учреждений.</p>
+
+<div class="important-text">Геймификация — тоже целый философский пласт в elearning, и ему мы посвятили <a href="https://newtonew.com/collections/gamification">целый раздел на сайте</a>.</div>
+
+<h2><a name="%D0%94%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4">Дифференцированный подход</a></h2>
+
+<p>Это не столько целостная стратегия преподавания, а методология процесса. Дифференцированный подход предполагает разработку специального образовательного контента, практик и продуктов (учебников, приложений, сервисов), учитывающих уровень подготовки и достижения групп учащихся. Этот подход не предполагает, что для каждой категории учеников будут составляться различные задачи — но задачи различного вида и сложности будут поставляться им тогда, когда они будут к этому готовы. Этот подход очень близок к персонализированному и индивидуальному подходам.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/gty_sudan_school_130702_wmain.jpg"></p>
+
+<p style="text-align:right"><em>Начальная школа в Южном Судане. Источник: <a href="http://a.abcnews.com/images/ABC_Univision/gty_sudan_school_130702_wmain.jpg">abcnews</a></em></p>
+
+<h2><a name="%D0%94%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Дистанционное обучение</a></h2>
+
+<p>Этот термин был известен задолго до появления информационных технологий и возможности обмена информацией в вебе. Вообще дистанционное обучение предполагает взаимодействие ученика и учителя на расстоянии. Раньше это было возможно сделать по почте — ещё в XVIII веке в Европе студенты могли получать по почте учебные материалы и переписываться с педагогом. Появление радио, телевидения, а потом и веб-технологий вызвало всплеск популярности дистанционной формы обучения. Сейчас обучающие теле- и радиопередачи сменились онлайн-курсами и подкастами.</p>
+
+<div class="important-text">У нас была интересная статья о том, <a href="https://newtonew.com/discussions/opyt-ulicy-sezam-kak-sozdat-idealnyj-obrazovatelnyj-produkt">как создавался эталон образовательных детских передач «Улица Сезам»</a>.</div>
+
+<h2><a name="%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20(%D1%8D%D0%B4%D1%8C%D1%8E%D1%82%D0%B5%D0%B9%D0%BD%D0%BC%D0%B5%D0%BD%D1%82)">Игровое обучение (эдьютейнмент)</a></h2>
+
+<p>Тут всё просто: обучение с использованием игр (не только компьютерных, любых — ролевых, деловых, подвижных, настольных...). Активное обучение во многом строится на игровом.</p>
+
+<h2><a name="%D0%98%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4">Индивидуальный подход</a></h2>
+
+<p>Основа основ гуманистической педагогики. Подход, учитывающий особенности личности, уровня развития, социальных условий ученика. Крайне важны принципы индивидуального обучения в коррекционной педагогике.</p>
+
+<h2><a name="%D0%98%D0%BD%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5">Инклюзивное образование</a></h2>
+
+<p>Система обучения детей, которая ставит перед собой благородную цель развития доступности образования для всех учеников, в том числе и для детей с особыми потребностями. Принципы инклюзивного образования ценны для коррекционной педагогики, создания дистанционных методов обучения, реализации адаптивного и персонализированного подходов. Инклюзивное образование — это теория реструктуризации школ и образовательной системы, их переосмысления. Это наши мечты о неунифицированной школе, принимающей всё многообразие учеников, учитывающей возможности каждого, позволяющей учиться так, как удобно, а не так, как принято.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/%D1%88%D1%80%D0%B8-%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0.jpg"></p>
+
+<p style="text-align:right"><em>Шри-Ланка, сельская школа. Источник: <a href="http://varlamov.me/img/srl_school/14.jpg">zyalt</a></em></p>
+
+<h2><a name="%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C">Интерактивность</a></h2>
+
+<p>Сейчас каждый первый появляющийся на рынке цифровых образовательных технологий сервис обязательно говорит о своей интерактивности. Интерактивность — это такое условное понятие, раскрывающее двусторонний характер взаимодействия между элементами системы. Интерактивная игра — это игра, предоставляющая игроку немедленный отклик. Любая подвижная игра интерактивна. Игра с компьютером в шахматы — тоже. Разгадывание кроссворда — неинтерактивно.</p>
+
+<h2><a name="%D0%9A%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Когнитивное обучение</a></h2>
+
+<p>Такой вид обучения строится на применении теорий сознания и мышления современной психологии — с их помощью выстраивается такая модель педагогического процесса, которая развивает не только интеллектуальные навыки, но и способы познания через эмоциональную сферу и интуицию, ассоциативные механизмы, сенсорно-перцептивные каналы. Главное в этом обучении — понимание собственной способности выполнить задачу и построить стратегию решения проблемы.</p>
+
+<h2><a name="%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC">Конструкционизм</a></h2>
+
+<p>Не путать с социальным конструктивизмом! Подход конструкционизма развил Сеймур Пейперт, выдающийся педагог, математик и программист. Конструкционизм — это обучение в сообществах, где каждый пришедший новичок сразу становится участником совместной деятельности; так стирается грань между учащимися и учителями; а в целом такой подход помогает группе точнее формулировать свои цели и задачи, а всем участникам осознавать и оценивать свой вклад в общее дело.</p>
+
+<p>Сеймур Пейперт, помимо всего прочего, ещё создал язык программирования Logo, который помогал детям освоить азы программирования.</p>
+
+<h2><a name="%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Мобильное обучение</a></h2>
+
+<p>Всего лишь вид дистанционного электронного обучения, характерный именно использованием именно мобильных устройств (планшетов, смартфонов, игровых приставок, мультимедийных гидов). Мобильные устройства открывают доступ к сетевым образовательным ресурсам из любой точки мира (при наличии подключения к интернету, естественно), возможность общаться с другими и создавать свой собственный контент или проекты. А ещё мобильные устройства прекрасно дополняют те же LMS, предоставляя площадку для быстрой коммуникации между учениками, учителями, преподавателями, студентами и родителями.</p>
+
+<p>У нас есть <a href="https://newtonew.com/collections/educational-mobile-apps">небольшая подборка образовательных приложений для мобильных устройств</a>.</p>
+
+<h2><a name="%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20(%D1%81%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F)">Моделирование (симуляция)</a></h2>
+
+<p>Принципы моделирования и симуляции (интерактивного воссоздания ситуаций реальной жизни) используются давно в медицинском образовании и бизнес-тренингах. Применение симуляции в образовании прекрасно подходит для развития навыков принятия решений, оценки последствий своих действий, а преимущество такого подхода состоит прежде всего в получении немедленного отклика.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/0_25885_daee3bfa_XL.jpg"></p>
+
+<p style="text-align:right"><em>Школа села Романово, Россия. Источник: <a href="http://img-fotki.yandex.ru/get/4003/bolshoymike.2d/0_25885_daee3bfa_XL.jpg">bolshoymike</a> </em></p>
+
+<h2><a name="%D0%9D%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5">Неформальное образование</a></h2>
+
+<p>Это всё, что выходит за рамки деятельности официальных образовательных учреждений — местный детский кружок лепки из глины, клуб любителей Бродского для взрослых, курсы компьютерной грамотности при администрации района. Иными словами, всё, что создаётся силами энтузиастов для того, чтобы сделать знания и опыт одних доступными другим. Основные отличия неформального образования от формального — гибкая учебная программа, явная прикладная направленность, и, как правило, широкие возможности удалённого обучения.</p>
+
+<h2><a name="%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D1%91%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81">Перевёрнутый класс</a></h2>
+
+<p>Попросту говоря, концепция «перевёрнутого класса» предполагает учёбу наоборот: обычно в школу и в аудиторию приходят послушать учителя, а дома выполняют задание; в этой концепции ученики дома знакомятся с учебным материалом (обычно в видеоформате), а в аудитории вместе работают над заданиями и участвуют в обсуждении.</p>
+
+<div class="important-text">Вот <a href="https://newtonew.com/discussions/chetyre-shaga-k-perevernutomu-klassu">четыре шага, чтобы перевернуть класс</a>, и <a href="https://newtonew.com/overview/dajte-mne-paru-prilozhenij-i-ja-perevernu-ves-klass">обзор приложений для перевёрнутой модели обучения</a>.</div>
+
+<h2><a name="%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4">Персонализированный подход (адаптивное обучение)</a></h2>
+
+<p>В отличие от индивидуального подхода, где учитель подстраивает учебную программу под личностные особенности ученика, и от дифференцированного подхода, где разные подходы реализуются для групп учеников, персонализированный подход идёт ещё дальше. В зависимости от потребностей и способностей каждого ученика меняется учебный материал, модель обучения, модель оценки и применения знаний. Такой подход стал возможен благодаря масштабному сбору данных о поведении обучающихся и прогрессе их обучения — в тех же MOOC и игровых приложениях.</p>
+
+<h2><a name="%D0%9F%D0%BE%D1%82%D0%BE%D0%BA">Поток</a></h2>
+
+<p>Состояние потока наблюдалось и практиковалось ещё в восточных духовных традициях, но особую популярность в современном обществе этот термин приобрёл благодаря американскому психологу Михаю Чиксентмихайи. Теперь «поток» стараются поймать представители почти всех профессий, связанных с интеллектуальным и творческим трудом — учёные, писатели, художники, дизайнеры, инженеры и разработчики... Если вкратце, состояние потока — это состояние полной включённости в процесс деятельности, психоэмоционального удовлетворения от неё. В потоке работа и учёба становятся эффективней, а мотивация повышается.</p>
+
+<div class="important-text">Об искусстве овладения «потоком» написана автобиографическая книга <a href="https://newtonew.com/overview/kak-ovladet-poleznym-iskusstvom-uchitsja">«Искусство учиться. Как стать лучшим в любом деле»</a>.</div>
+
+<h2><a name="%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Проблемно-ориентированное обучение</a></h2>
+
+<p>Педагогическая стратегия, которая позволяет овладеть предметом изучения через решение реальных жизненных ситуаций с помощью самостоятельного использования достоверных источников и групповых обсуждений. Учитель при этом выступает в роли наставника-консультанта. Почти во всех медицинских вузах США, Канады и Австралии используется именно такой подход.</p>
+
+<h2><a name="%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Проектно-ориентированное обучение</a></h2>
+
+<p>Метод проектов, основы которого заложил влиятельнейший американский философ-прагматик и педагог Джон Дьюи. Проектная методика предполагает не просто назначение проектов к выполнению и собственно их исполнение, а создание ситуаций, которые будут стимулировать исследовательский и творческий дух учеников. Учитель здесь выступает в роли научного руководителя.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%20%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%20130.jpg"></p>
+
+<p style="text-align:right"><em>Лицей № 130 г. Новосибирск. Источник: <a href="http://nios.ru/sites/default/files/images/cbdb07a01f9fd98412782c8b43141732.jpg">nios.ru</a></em></p>
+
+<h2><a name="%D0%A1%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Самообучение</a></h2>
+
+<p>Всё то, что обычно делается учителем за ученика в традиционном обучении, в системе самообучения берёт на себя ученик — постановку образовательных целей, задач, путей их достижения, выбор учебных материалов. Самообучение с нами на всём протяжении жизни — и в школе, и в вузе, и на работе, и на отдыхе. А разработками методов и теории самообучения занимается направление педагогической мысли под названием хьютагогика.</p>
+
+<h2><a name="%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Синхронное обучение</a></h2>
+
+<p>Разновидность онлайн-обучения, в котором взаимодействие между слушателями и преподавателями происходит в режиме реального времени. Вебинары, совместная работа над документами, видеоконференции — примеры синхронного обучения.</p>
+
+<h2><a name="%D0%A1%D0%B8%D1%82%D1%83%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20(%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B5)%20%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5">Ситуативное (контекстное) познание</a></h2>
+
+<p>Именно это понятие когнитивной науки лежит в основе когнитивного обучения. Здесь познание рассматривается как процесс, который в полной мере запускается только в реальной среде, в контексте конкретной ситуации или комплекса событий. Иными словами, контекстное познание проводит связь между тем, что вы знаете, и тем, что вы можете с этим знанием сделать.</p>
+
+<h2><a name="%D0%A1%D0%BC%D0%B5%D1%88%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20(%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5)%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Смешанное (гибридное) обучение</a></h2>
+
+<p>Образовательная модель, совмещающая цифровую и традиционную формы обучения. При смешанном обучении студенты, помимо привычного посещения учебного заведения, с частью материала работают онлайн. Пока никому неизвестно, какой процент от общего объёма образовательного процесса должен осуществляться в цифровом виде, чтобы иметь право называться «смешанным».</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/gty_israel_school_130702_wmain.jpg"></p>
+
+<p style="text-align:right"><em>Дети в школьном бомбоубежище, Иерусалим. Источник: <a href="http://a.abcnews.com/images/ABC_Univision/gty_israel_school_130702_wmain.jpg">abcnews</a></em></p>
+
+<h2><a name="%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC">Социальный конструктивизм</a></h2>
+
+<p>В рамках этой социопсихологической теории процесс обучения является социальной активной личности, и именно в процессе межличностного взаимодействия происходит индивидуальное обучение. Основная ценность — личный вклад каждого в общую базу знаний. Кстати, в основу этой теории легли идеи великого советского психолога Льва Выготского.</p>
+
+<h2><a name="%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F">Таксономия</a></h2>
+
+<p>Самая известная из таксономий в образовательной среде — таксономия Блума. Вообще «таксономия» — это такое дерево классификаций. Таксономия Блума структурировала педагогические цели и задачи, разбив их на три основные сферы: когнитивную (о знаниях и мышлении), аффективную (о чувствах и эмоциях) и психомоторную (о работе руками и инструментами).</p>
+
+<div class="important-text">О таксономии Блума и вообще о проблемах сбора и структурирования данных об учениках мы писали в статье <a href="https://newtonew.com/discussions/pochemu-uchitelju-ne-nuzhny-big-data">«Почему учителю не нужны BigData»</a>.</div>
+
+<h2><a name="%D0%A5%D1%8C%D1%8E%D1%82%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0">Хьютагогика</a></h2>
+
+<p>Отдельная ветвь педагогической мысли, развившаяся из андрогогики, только хьютагогика изучает процесс самостоятельного и непрерывного самообразования в течение всей жизни.</p>
+
+<div class="important-text">О непрерывном самообразовании мы писали в статье <a href="https://newtonew.com/discussions/ot-obrazovanija-xx-veka-k-samoobrazovaniju-xxi-veka">«Образование XXI века»</a>.</div>
+
+<h2><a name="%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE">Цифровое гражданство</a></h2>
+
+<p>Термин красивый, а означает всего лишь возможность участвовать в онлайн-сообществе. Мы все — граждане глобального интернет-сообщества, которое уже давно перестало быть группой энтузиастов, а превратилось в полноценное глобальное общество.</p>
+
+<p style="text-align:right">В составлении словарика нам очень помог <a href="http://www.teachthought.com/learning/learning-models-learning-theories-index/">материал TeachThought</a>.</p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer "> 3 марта 2015, 19:00
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /school/dictionary-teacher-of-future " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Словарик учителя XXI века от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/school/dictionary-teacher-of-future"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                            <div class="n2-post__author">
+                    <div class="n2-post__author__label n2-author-label n2-author-label_editors"><a href="/author/shirshova">Редакция Newtonew</a></div>
+                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/9d77f652f96b35bf7d056463160ee6c3.jpg" alt=""></div>
+        <div class="n2-post__author__name io-author">Люся Ширшова</div>
+        <div class="n2-post__author__descr">В детстве выводила мелом на старом бабушкином комоде заветные слова «Классная работа» и зачитывалась Макаренко. Училась в провинциальном педагогическом, вела английский у лодырей-ровесников из медицинского колледжа, репетиторствовала у подростков, продавала знания командировочным. Поняла, что внутри системы образования могут остаться либо очень святые, либо очень равнодушные люди. Теперь пишет о ней, находясь снаружи.</div>
+    </div>
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/school"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                                    <a href="/higher"
+                                       class=" n2-tag n2-tag_grey n2-tag_higher">вуз</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/525/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/higher/higher-discount"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/higher" class="n2-tag n2-tag_higher"
+   style="background-color: #f2c627">вуз</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">«А скидочку дадите?», или частичные стипендии за рубежом</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/parenting/small-planes-for-education"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/parenting" class="n2-tag n2-tag_parenting"
+   style="background-color: #f58d25">дети</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Чем авиамоделирование лучше LEGO?</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/higher/programming-neurotech"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/higher" class="n2-tag n2-tag_higher"
+   style="background-color: #f2c627">вуз</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Где учиться нейротех-программированию</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/dictionary-teacher-of-future">
+                    <input type="hidden" name="post-id" value="525">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 321725655;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Как вести себя молодому учителю?</title>
+
+    <meta name="description" content="Борьба со страхом и неуверенностью, демонстрация уважение, стойкость при скандалах и другие ценные навыки."/>
+
+    <meta name="keywords" content="учитель, молодой+учитель, скандал, страх, неуверенность, навыки, стойкость, уважение"/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/young-teacher-problems"/>
+            
+    <meta property="og:title" content="6 правил для молодого учителя"/>
+    <meta property="og:description" content="Как вести себя молодому специалисту, чтобы избежать досадных ошибок и грамотно выстроить отношения с учениками?"/>
+    <meta property="og:url" content="https://newtonew.com/school/young-teacher-problems"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/90831105334604ce2cd452c533b1c62b.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/90831105334604ce2cd452c533b1c62b.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/90831105334604ce2cd452c533b1c62b.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">6 правил для молодого учителя</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/young-teacher-problems">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(2)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="2175">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: 11 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 2</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>6 правил для молодого учителя</h1>
+                        <div class="n2-post-header__annotation"><p>Как вести себя молодому специалисту, чтобы избежать досадных ошибок и грамотно&nbsp;выстроить&nbsp;отношения с учениками?</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Отшумели последние празднования выпускников педагогических вузов, и самые смелые студенты, выбравшие стезю преподавательской деятельности, ринулись на покорение учительских вершин. Они молоды, энергичны, полны энтузиазма и ещё не ушедшего максимализма. С радостью берутся за сложные задачи, стараются вникнуть в особенности устройства выбранного образовательного учреждения.</p><p>Однако с началом нового учебного года течение рабочей деятельности становится всё более бурным. В это сложное время молодой преподаватель может совершить ошибки, которые в будущем способны обернуться достаточно большими неприятностями.</p><h2>1. Не нужно бояться детей</h2><p>Начинающие преподаватели, как правило, не имеют опыта общения с учениками разных возрастов. Поэтому очень важно заранее выбрать определённую манеру поведения с детьми. Нужно иметь чёткое представление, каким педагогом вы хотели бы выглядеть в глазах учеников. Не нужно стесняться или лепетать — речь должна быть чёткой с ясными акцентами. Нельзя прятать или отводить взгляд — зрительный контакт необходим для более успешного налаживания связей. Не рекомендуется сутулиться, прятать руки в карманы или проявлять другие аспекты неуверенного поведения. Если ученики почувствуют ваш страх с первых занятий, то это может послужить началом весьма сложных отношений между учениками и учителем.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/5b7af237c0179a236dbb7a2fcf0066f4990ab1b1.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption"><div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://uploads0.wikiart.org/images/norman-rockwell/teachers0-birthday-1956.jpg">WikiArt</a>)</div></div></div></div><p>Когда я пришла в школу, завуч по воспитательной работе дала именно этот совет: «не дай им почувствовать свой страх». Звучит немного странно и утрированно, но он мне очень пригодился. Я отчетливо помню свои первые уроки: сердце стучало, голос осип, ладони были влажными от волнения. Из головы вылетело даже собственное имя. Но именно фраза опытного педагога про страх не позволила мне позорно дезертировать из кабинета. Я выпрямила спину, откашлялась,подняла голову, глубоко вздохнула и запустила первую партию учеников в класс. Они расселись, с любопытством уставившись на меня. </p><div class="important-text">Их глаза внимательно сканировали каждое мое движение. Дети, к слову, отличные, но очень жестокие психологи.</div><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Это может быть интересно<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/story/i-am-18-year-old-teacher">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/739aed2ef4cdf08c756628dc00463b85.png" alt=""></span>
+                Как я работал учителем второй смены в 18 лет
+    </a>
+</div></div><p>Я вздохнула и начала уверенно говорить. В голову упорно лезла аналогия о переговорщике с террористами — я тоже вежливо, но непреклонно выдвигала требования. Мы сразу установили правила: не тестировать мое терпение на прочность. От трёх замечаний по поводу их поведения — дневник на стол. Ещё два предупреждения — пишу комментарий для родителей. Если дальше продолжается веселье на уроке — то я ставлю «пару» после контрольного вопроса о рассказанном материале. И ни у кого из учеников никогда не было претензий, если я осуществляла в дальнейшем подобные действия — ведь они сначала с ними сами согласились.</p><p>Но я не ограничивалась только требованиями — это было бы деструктивно. Мы пришли к компромиссу: они всегда смогут ко мне прийти и пересдать материал, исправив свои оценки. Более того, я пообещала, что в любое время в школе смогу им объяснить материал, если они чего-то не поняли. Спрос существенно возрастал в конце четверти, но обид практически не было.</p><h2>2. Не бойтесь ошибиться</h2><p>Учитель — это не робот и не машина. Не надо сразу стараться убедить учеников в своей полной правоте и непогрешимости. В момент знакомства в классом и зачитывания фамилий заранее извинитесь перед детьми за то, что можете произнести их неправильно. Также нельзя воспринимать «в штыки», если кто-то из ваших подопечных делает вам замечание по преподаванию материала. Научите их обосновывать свою точку зрения.</p><div class="important-text">Если долго гнуть свою линию, получится полный параллелепипед.</div><p>Молодому учителю и так хватает стрессов — не надо усугублять это тем, что репутация будет испорчена чьими-то обиженными рекомендациями, в стиле «да какой это учитель — сама ничего не знает!». Не нужно упрямо показывать ученикам, что вы старше и знаете больше них. Это вызовет негативное и совершенно естественное желание доказать обратное.</p><p>Если вдруг вас кто-то начинает задирать во время урока по поводу материала, вежливо его выслушайте и попросите отстоять свою точку зрения. Ребенок почувствует, что к нему относятся как к равному и у него впредь не возникнет желания к конфронтации.</p><h2>3. Проявляйте уважение</h2><p>Вас не будут уважать, если вы будете себя вести неуважительно. Не проявляйте пренебрежение или высокомерие, не кричите до хрипоты — вас не услышат. Только чёткая вежливая и аргументированная речь, как если бы вы говорили со взрослым. Не забывайте о таких чудесных словах, как «спасибо» и «пожалуйста». Не следует облекать все свои просьбы в приказную форму.</p><p>Был у меня Артём, ученик пятого класса. Он был новеньким, который пропустил по семейным обстоятельствам две первых недели учёбы. Соответственно, когда он пришел в школу, это был стресс. Для всех. Артём выглядел крупнее своих сверстников, но в умственном развитии немножко уступал остальным. Он отчаянно хотел, чтоб его приняли одноклассники и учителя. Когда же этого не случилось, бедный мальчик нашел весьма радикальные методы для привлечения к себе внимания: от полного игнорирования замечаний до закидывания однокашников своей рвотой.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/uploads/ckeditor/9a16b6fda8035e2f9d09c75812d9ef1e965644ea.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption"><div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://s-media-cache-ak0.pinimg.com/564x/ba/30/2c/ba302c20da717faaf4a2f86cc03b6d09.jpg">Pinterest</a>)</div></div></div></div><p>Учителя поставили на нём крест, родители Артёма практически поселились в школе, а одноклассники всё старательнее его избегали. Признаюсь, сначала мне тоже было сложно с ним говорить на уроках и объяснять, что делать можно, а что нельзя. Повинуясь порыву, я срывалась на крик. Но интуитивно поняла, что это только укрепляет стену недопонимания. И я начала с ним говорить как со взрослым: «Артём, будь так добр, пересядь на другое место, пожалуйста».</p><div class="important-text">Вежливость действительно творит чудеса. Ребёнок послушно вставал и пересаживался.</div><p>«Артём, пожалуйста, будь немного потише, я очень устала и у меня болит голова», — он кивал и замолкал. Потом он начал дарить мне свои рисунки, был всегда вежлив и не боялся подходить что-то спрашивать. Я была единственным учителем в школе, кто никогда не вызывал его родителей и не жаловался на него завучу или другим учителям.</p><h2>4. Соблюдайте дистанцию</h2><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/opinion/teachers-bad-habits">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/f44361e5e857237d6fa58a67762c8399.jpg" alt=""></span>
+                6 самых вредных учительских привычек
+    </a>
+</div></div><p>Не стоит слишком сближаться с учениками. Сразу после института, как правило, разница в возрасте небольшая, особенно это касается старшеклассников. Помните, что многие ваши действия и слова могут быть переиначены и переданы другим учителям, администрации или родителям в совершенно извращённом виде. Нельзя закрываться с учениками в кабинете, дверь лучше держать открытой. </p><div class="important-text">Избегать учеников тоже не стоит — это может оттолкнуть детей. Знайте меру и выбирайте золотую середину.</div><p>Сейчас в школах учатся самые разные дети из самых разных семей. Есть среди них и очень верующие люди, у которых своё восприятие норм морали. Был среди моих учеников Гриша, который был сыном прихожанки местной церкви. Мальчик в школу ходил с библией и вместо повторения материала предпочитал молитвы, чему мама всячески потакала. В результате у Гриши стабильно выходило по 5-6 двоек в каждой четверти. Но мама не верила тому, что молитвы работают хуже выполненного домашнего задания, поэтому, по её мнению, виноваты во всём были учителя.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/uploads/ckeditor/a7fff68ca51140cf6c3a58a42da8d6df58403d8a.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption"><div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://s-media-cache-ak0.pinimg.com/564x/f5/4c/9e/f54c9e881006eb82dd80d4f891bb71e1.jpg">Pinterest</a>)</div></div></div></div><p>Досталось и мне за... ключицы! Я не позволяла себе носить слишком открытые вещи, но вырез «лодочкой» казался Гришиной маме слишком глубоким. Оценки своего отпрыска она директору школы аргументировала так: «улыбочки, шуточки и ключицы нашей новой учительницы разжигают огонь в чреслах сына и он не может сосредоточиться». Разговор передавался из уст в уста, породив массу сплетен и не очень адекватных суждений, истрепав нервы изрядно.</p><h2>5. Не стоит верить всему на слово</h2><p>Какими бы симпатичными, милыми и невинными ни были ученики на первый взгляд, нельзя им верить на слово. Любые свои действия подстраховывайте записями в дневнике, дублируя их в электронном журнале. Особенно когда дело касается исправления оценок. При выявлении проблемы с тем или иным ребёнком немедленно оповещайте родителей о его «успехах».</p><div class="important-text">В дальнейшем это убережёт вас от разного рода претензий со стороны родителей и администрации школы.</div><p>Была у меня ученица шестого класса Сашенька. Тихая скромная девочка, которая всегда застенчиво опускала глазки, когда я её спрашивала. Я долго списывала невразумительные ответы по поводу не сделанного домашнего задания на гиперстеснительность, пока моя подопечная не начала наглеть прямо на глазах. Скромность не мешала ей переговариваться на уроках и писать записки, а тетрадь оставалась практически девственно чистой.</p><p>К концу второй четверти у Сашеньки выходила двойка. Недели за три до окончания полугодия, я начала ей назначать время для пересдач. Давала дополнительные задания на дом. Получив одну четверку, Сашенька успокоилась и продолжила ничего не делать. До последнего тянула с выставлением оценки, веря, что завтра она точно-точно придёт сама. Так и не пришла. А паре мама очень удивилась.</p><p>История имела продолжение, поэтому мы переходим к следующему пункту.</p><h2>6. Ведите учёт</h2><p>Не забывайте вбивать <em>все</em> данные в электронный журнал, ставьте оценки в дневник и бумажный журнал, не выдавайте на руки детям их проверочные и контрольные работы. Заведите отдельные папки для каждого класса и складывайте туда листочки с работами. На родительском собрании раздайте их родителям.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/schoolboy-tells">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/cdbf84a03cdcbb84122263254bcceeee.jpg" alt=""></span>
+                Взгляд ученика: учение или мучение?
+    </a>
+</div></div><p>Иногда кажется, что соблюдение пунктов 5 и 6 немного граничит с паранойей, ведь очень тяжело совместить искренность, энтузиазм, кипучую энергию и такой бюрократический контроль. Но в наше время, когда в самой абсурдной ситуации оказывается виноват учитель, лучше перестраховаться лишний раз.</p><p>Вернёмся к истории о Сашеньке. После моих безуспешных попыток заставить ребёнка хоть как-то учиться, общения с классным руководителем и разговоров о том, как важно прилагать усилия, девочка по-прежнему предпочитала ничего не делать дома и писать проверочные работы транслитом (для примера: она вместо простого английского слова «milk» писала тяжеловесное «moloko»). Когда все сроки вышли, я не без сожалений поставила ей двойку в четверти.</p><p>Что тут началось... Мама ученицы превратила мою третью четверть в кромешный ад. Как выяснилось, Сашенька упорно выкидывала все листочки с «проверочными», выдирала страницы из дневника, всегда говорила матери, что всё в порядке и она со всем справляется. Для мамы явилось полным сюрпризом то, что у её дочери пара в четверти. С праведным негодованием она пошла к директору требовать пересмотра оценки, моей квалификации и рассмотрения варианта об увольнении.</p><div class="important-text">В силу своей неопытности я предпочитала не решать проблемы только с родителями, а договариваться с учениками лично.</div><p>Помимо этого, электронный журнал получалось заполнять раз в неделю, потому что доступ у нему был только в кабинете информатики, куда не всегда удобно было приходить. Теперь администрация школы требовала пересмотра оценки, опасаясь за статистику и репутацию. На мои уроки начали приходить комиссии из РОНО, директор решила взять под контроль учебный процесс. Мне приходилось перед входом в школу при всех учениках сдавать ей на проверку планы уроков, расписанных до самых мелочей. За своё прохладное отношение к бюрократии я расплатилась сполна.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/uploads/ckeditor/363fbe1fc126f8590c766be3297d16e9b483d8a1.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption"><div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://s-media-cache-ak0.pinimg.com/564x/e1/68/c9/e168c93fe0ca684fe3daf9ec28fc4049.jpg">Pinterest</a>)</div></div></div></div><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Это может быть интересно<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/story/no-money-but-we-stay-there">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/9361c076b85118dd7d035fececa8d11b.jpg" alt=""></span>
+                «Заплатим рубль, но спой на тысячу»: монолог учителя без прикрас
+    </a>
+</div></div><p>Не помню, сколько таблеток валерьянки было съедено, но это научило меня скрупулезному сбору каждого листочка со словарным диктантом, каждой тетрадки с контрольными, выставлению всех отметок в электронный журнал, даже тех, что стоят карандашом в журнале. Пришлось выработать иммунитет к обидам учеников, которым приходилось объяснять родителям, почему «двойка карандашом» стоит в электронном журнале.</p><p>Я закончила педагогический университет всего 3 года назад и у меня очень свежи воспоминания о первом годе учительской деятельности. Если бы мне кто-то сказал об этих простых правилах, я бы сумела избежать многих проблем, что существенно облегчило бы начало моей преподавательской жизни.</p><hr><p>За соблюдением всех этих правил искренне желаю вам не переборщить и сохранить любовь к преподавательской работе. Не черствейте душой раньше времени, детям во все времена нужны те, кто сможет привить любовь к знаниям и научить их элементарным навыкам этичного поведения. Удачи!</p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">13 апреля 2017, 17:00
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /school/young-teacher-problems " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=6 правил для молодого учителя от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/school/young-teacher-problems"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                                                <div class="n2-post__author">
+                                    <div class="n2-post__author__label n2-author-label n2-author-label_nonstaff"><a href="/author/verakirushina">Внештатный автор</a></div>
+                                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/d2d6c0b55783492aa541cda27a40780a.png" alt=""></div>
+                <div class="n2-post__author__name io-author">Вера Кирюшина</div>
+                <div class="n2-post__author__descr">«Все с 9-го этажа прыгнут, и ты прыгнешь?», «А голову ты дома не забыл?», «Выйди и зайди нормально» и многое другое от маэстро креативного преподавания.</div>
+            </div>
+            
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/school"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                                    <a href="/opinion"
+                                       class=" n2-tag n2-tag_grey n2-tag_opinion">мнения</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/2175/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/good-teacher-good-businessman"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/opinion" class="n2-tag n2-tag_opinion"
+   style="background-color: #7583c9">мнения</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Хороший учитель — это почти как хороший бизнесмен</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/how-i-became-a-teacher"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/hero" class="n2-tag n2-tag_hero"
+   style="background-color: #f25c5c">герои</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Как я стал учителем: пять учительских историй</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/story/my-first-lectures"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/story" class="n2-tag n2-tag_story"
+   style="background-color: #f26650">истории</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">«Твои лекции должны быть для тёти Шуры!»</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/young-teacher-problems">
+                    <input type="hidden" name="post-id" value="2175">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 1986032135;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

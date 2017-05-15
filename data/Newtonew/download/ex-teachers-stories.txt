@@ -1,0 +1,1024 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Истории бывших преподавателей / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Чему преподавание учит преподавателей? Почему педагоги уходят из школы? И хотят ли они туда вернуться? "/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/story/ex-teachers-stories"/>
+            
+    <meta property="og:title" content="Истории бывших преподавателей"/>
+    <meta property="og:description" content="Чему преподавание учит преподавателей? Почему педагоги уходят из школы? И хотят ли они туда вернуться? "/>
+    <meta property="og:url" content="https://newtonew.com/story/ex-teachers-stories"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/8b07f8589542d991652db932d601b641.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/8b07f8589542d991652db932d601b641.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/8b07f8589542d991652db932d601b641.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Истории бывших преподавателей</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/story/ex-teachers-stories">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(2)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="1687">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: &gt;15 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 2</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Истории бывших преподавателей</h1>
+                        <div class="n2-post-header__annotation"><p>Чему преподавание учит преподавателей? Почему педагоги уходят из школы?&nbsp;И хотят ли они туда вернуться?&nbsp;</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Не так давно мы попросили наших читателей, которые в прошлом работали учителями, поделиться своими жизненными историями. Нас интересовало, что им больше всего нравилось и не нравилось в их работе, чему она их научила, на каких условиях они бы согласились вернуться в систему образования и какие советы могли бы дать ныне работающим преподавателям и их ученикам.</p><div class="important-text important-text_type02">На нашу просьбу откликнулись не только бывшие школьные педагоги: похоже, любой опыт преподавательской работы оставляет след, о котором хочется рассказать.</div><p>Спасибо всем, кто отозвался и вступил с нами в диалог. Публикуем пять характерных историй бывших учителей, преподавателей вузов и даже педагога дополнительного образования.</p><hr><h2><strong>Наталья</strong></h2><h3><strong>2 года работала преподавателем в вузе — ассистент кафедры международного права. Сейчас — администратор в отеле.</strong></h3><p>Работать преподавателем я никогда не хотела. Мне казалось, что учитель или преподаватель — это самое плохое, что может случиться с человеком, ибо находить общий язык и пытаться «вдолбить» мало-мальски полезную информацию только начинающим формироваться детям — дело неблагодарное. Я не заканчивала пединститут, моё образование ограничилось 4 годами юридического института одного из сибирских университетов. И сразу после окончания и поступления в магистратуру меня позвали работать на выпускную кафедру ассистентом.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Это может быть интересно<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/story/my-first-lectures">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/1d830a5a122718d9269cecbadceafe81.jpg" alt=""></span>
+                «Твои лекции должны быть для тёти Шуры!»
+    </a>
+</div></div><p>Моя работа должна была быть ограничена ведением семинаров. Фактически же я часто подменяла преподавателей с лекциями и грешила тем, что вместо своих семинаров читала лекции, так как мне казалось, что другой преподаватель что-то им недодал. Плюс к этому я писала статьи, руководила курсовыми работами, коих было от 28 до 40 в семестр.</p><p>Так как я была полна энтузиазма и абсолютно уверена, что научу студентов, как жить нужно, я тщательно подходила к проверке всех работ, исправляла орфографию и пунктуацию, проверяла все факты и указывала на грубые недочёты, разжёвывала, как нужно писать. Оказалось, что «бывалые» преподаватели только прогоняют курсовые на «Антиплагиате» и, если оригинальность выше 60%, читают выводы по каждой статье, этим и ограничиваются.</p><p>Мне было 22-23 года, поэтому частенько у нас на кафедре, состоящей на 90% из профессоров и кандидатов наук бальзаковского возраста, случались диспуты на тему патриотизма, отношения к государству, жизненных ценностей, мечты и стремлений.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/e0ffb61594a5637881ff695549f2c5d64c6749af.jpg"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://www.flickr.com/photos/uicdigital/15602555575/in/photolist-pLKbbT-boM21V-bQHH4v-btmnkf-bBP3m7-bxwLzD-9R9Cgw-dyKFe-bQHKZ2-bQHHRX-bQHHnv-bBP3As-pLKbpi-bxwLTH-5AK9QZ-bQHGMZ-pLPv3Q-bQHLkp-4cZNdr-oPTK8C-bQHKjB-9R9tVL-sGHeQB-bAKCts-pLKbB2-pukYpJ-bQHKzc-bBP5ss-pukYvW-8m49S4-4p2jDU-7EsvZ8-rQn8VE-pLKbp8-4DVXiJ-Bc1BFh-6kdUC-ypf5Bb-rKHmR3-sGHkR4-rw6YB6-rueFsk-rw6Zwx-rvYsvC-rKHvPU-rLgp97-qRyobY-rKHqqC-t88Vno-g1ZtsN/">Digital Collections, UIC Library</a></p></div><p>Я преподавала дипломатию, теорию международных отношений, международное право и ещё много смежных с ними предметов, а до преподавания 4 года изучала международные отношения. Положение нынешней России мне мало импонировало (хотя тётеньки с кафедры пытались меня всячески убедить в моей неправоте, сыпля фактами из новостей «Первого канала»), поэтому мне хотелось донести до студентов основную мысль: анализируйте и сравнивайте, не нужно слепо любить своё государство, даже если вы учитесь на дипломатов. Эту мою идею кафедра не одобряла и много раз пыталась научить меня родину любить.</p><div class="important-text important-text_type02">Иногда я думала, что возненавижу студентов, однако работа с ними была лучшей частью преподавания.</div><p>Очень интересно наблюдать, как разнятся потоки, чем отличаются студенты разных возрастов. Я старалась разнообразить учебный процесс и психологическими тестами, пыталась выяснить, какие взаимоотношения в группе, и предлагала руководству что-то поправить, кого-то куда-то перевести (ни одно моё предложение не рассмотрели всерьёз).</p><p>Мне нравилось писать статьи и публиковать, руководить научными работами студентов, помогать им, мне нравилось рассказывать им то, что знаю я, нравилось, когда мне задавали вопросы, на которые я не знаю ответа. В этот момент у меня от неопытности дрожали коленки, но я либо предполагала, либо искала ответ после занятий и потом сообщала. То, что мне задавали вопросы, ответы на которые я не знала — это здорово, значит, студенты соображают, значит, они заинтересованы.</p><p>Мне нравилось проводить экзамены и тесты, я давала списывать, но при условии, что они действительно поймут и запомнят хоть что-то, я завышала оценки, потому что оценки ничего не значат для будущей жизни человека, но почему-то студенты очень переживали за реакцию родителей на 3 и иногда 4, в прямом смысле слова падали на колени и умоляли не ставить плохих отметок, иначе дома им несдобровать.</p><div class="important-text important-text_type02">Мне не нравилось, что коллектив очень болезненно относится к внешнему виду преподавателя: студентам было всё равно, даже если бы я пришла в пижаме.</div><p>Старое же поколение преподавателей настаивало на необходимом строгом внешнем виде для соблюдения профессиональной субординации.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/3ae8e61db256132b8b1343ad1a6ea4ce8d7c6c2c.jpg"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://www.flickr.com/photos/rich701/7711562892/">Richard</a></p></div><p>Моя зарплата была 11 тысяч в месяц с учетом северного коэффициента, а это было немало. При этом в неделю я вела в среднем 5-6 занятий. Примерно раз в полгода делали надбавку за руководство победителями олимпиад, за опубликованные статьи. Зарплатой я была довольна и здесь могу только поддержать слова Медведева о заработке преподавателей: молодой и энергичный найдёт, как заработать. Можно было преподавать курс на английском языке, и это была бы хорошая прибавка, можно было взять часы в других институтах, время позволяло.</p><p>Перестала работать, так как зарплату обещали сократить, и в этот же период времени я собиралась переезжать в другой город.  Плюс к этому я всё-таки понимала, что у меня «профнепригодность». У меня были свои твёрдые политические взгляды, которые я старалась не афишировать, но студенты постоянно выпытывали. Всё сводилось к тому, что они пытались угодить преподавателю и выражали скорее мою точку зрения, нежели личную, за что я их ругала. Но в головах студентов напрочь засело представление об институте как о месте, где нужно понравился преподавателю, зазубрить на «5» и забыть.</p><div class="important-text important-text_type02">Эта работа научила меня терпению. Научила воспринимать всех людей непредвзято. И дала понять, что нельзя научить чему-либо человека, который совсем этого не хочет.</div><p>Однако не все так уж не хотят учиться, многим просто не нравится нудный процесс. По возможности я старалась вплетать в учебный процесс современные фильмы, сериалы, персонажей книг, устраивала занятия в неклассической форме, например, в виде заседания суда или совета безопасности ООН, в виде пресс-конференции, вплетала игры по типу «Крокодила» или «Кто я?», когда нужно было объяснить термин без помощи слов и т.д.. Иногда это привлекало тех студентов, которые, казалось, уже не включатся в учебный процесс.</p><p>Я бы с радостью вернулась в профессию, если бы можно было приходить на работу в рваных джинсах и если бы зарплата ассистента была 20 тысяч, тогда это было бы волшебно.        </p><p>Что касается советов, я бы пожелала преподавателям: заставляйте студентов и учеников мыслить, сделайте всё, чтобы развить у них логическое мышление, чтобы они всё прогоняли через призму скепсиса. Не зацикливайтесь только на предмете, не бойтесь выходить за его рамки.</p><p>Совет студентам: не бойтесь не учить то, что вам не нравится, и уходить оттуда, где вам учиться не хочется. Многие студенты попусту тратят время, когда явно видно, что эта специальность им не нужна.</p><hr><h2><strong>Алексей</strong></h2><h3><strong>10 лет преподавал в вузе на кафедре экономической теории. Сейчас — руководитель проектов.</strong></h3><p>После защиты моей диссертации, посвящённой предпринимательству, ко мне подошла профессор, член совета, и сказала такую фразу: «Не бросайте преподавать, это дар, вы должны его реализовать». Неожиданная реплика запала мне в душу. Так я стал рядовым преподавателем провинциального вуза, прошёл путь от ассистента до доцента. Это были насыщенные 10 лет, наполненные трудом и творчеством, встречами с удивительными людьми, общением с коллегами и студентами.</p><p>Работал я на кафедре экономической теории, читал лекции для студентов первых курсов, в том числе и неэкономических специальностей. Нагрузка «горловая» — работа тяжёлая, но и закалку даёт мощную. После поточных лекций страха большой аудитории нет, да и в целом это хорошая выучка лектора.</p><div class="important-text important-text_type02">В университете учишься работать на длинную дистанцию: читаешь лекции, ведёшь семинары, руководишь курсовыми работами.</div><p>Система устроена так, что преподавателя не щадят — действует принцип конвейера и говорящей головы. Однако и тут бывают проблески. Например, когда устанешь, настроения нет, ведёшь занятие на автопилоте, и вдруг неожиданный вопрос тебя заводит — и ты уже в полёте! Такие дни остаются в памяти.</p><p>Меня сильно раздражала система оценивания — это трудоёмкие процедуры и бессмысленные. Часто представлял себя школьной учительницей с кипой тетрадок. Балльная система — одна из мнимостей университетской жизни (по деле всё сводится к традиционным двойкам/тройкам/пятёркам), как и контрольные тестирования — я застал первые шаги в этом направлении. При отсутствии достаточного количества компьютеров эти дни превращались в адский марафон нажимания на кнопки.</p><div class="important-text important-text_type02">Вообще допотопная материально-техническая база и обшарпанные классы не скрашивают будни преподавателя. В основном всё держится на влюблённости в предмет, влюблённости в группу, с которой работаешь.</div><p>Я человек темпераментный, на первых порах испытывал сильные эмоциональные нагрузки, когда всё пропускаешь через сердце, но постепенно удалось найти верный тон во взаимодействии с ребятами. Для меня личное общение, включённость в жизнь моих студентов всегда были очень важны — я много занимался научными и социальными проектами, подготовкой докладов, выступлений, материалов для студенческих конференций, конкурсов, грантов. Постоянно таскал из дома ребятам книги, журналы — научная библиотека в вузе бедная и неудобная. Читали вслух, обсуждали. </p><div class="important-text important-text_type02">Первый звонок, что пора уходить, прозвучал, когда я понял, что в аудитории сидит только 10% мотивированных, интересных студентов-личностей.</div><p>А раньше это было 30-40%, взаимодействие с ними давало результат и вытягивало группу в целом, да и сам ты развивался. Я решил, что с двумя-тремя студентами смогу работать самостоятельно и вне стен университета — толку будет больше! Площадка для этого уже существовала, вместе с коллегами мы организовали методологическую мастерскую в областной библиотеке. Так я «спрятался» от студентов сначала в докторантуре, а потом уволился вовсе.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/9408a5db1e2b60c608d53580ea902daa7c518715.jpg"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://www.flickr.com/photos/nicemichael/7049480553/in/photolist-n6zsYj-buLPk8-bCYdnX-qsfaiU-5Kyhbb-oyoqVN-52wxaN-m16StF-r2QoBg-rsxwL5-adYvdp-e4D2w4-kn2Ko7-e4pdpJ-nBwuhp-7Jv6MQ-e9maDD-o7sUNH-awyt41-bUe8se-dSuxAA-oGMX5a-ehmsa3-pLgmqt-eZcAqd-ehgDem-qPAk59-phRZG7-q5MZif-E2KmqT-r6S1rk-qPKwd2-qaejDq-iZyQsd-8rjmcS-oLEAdR-iTRYDA-bJWqYa-scKMm9-ci9hB7-rBoTUZ-bSHFUF-o3AGZj-aURhti-bUY2b2-rRL4zc-jgQoCu-cF8i8J-pb52dB-dH6Chr">Michael Yan</a></p></div><p>Решение было тяжёлым: получалось, что в родном университете я провёл полжизни — студентом, аспирантом, потом преподавателем. Но интенсивность труда выросла в два раза при прежней зарплате. Времени на науку и проекты не оставалось, платили гроши. Поток бессмысленных бумаг нарастал. Мы превращались в настоящих рабов.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Это может быть интересно<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/educational-consumerism">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/55b6478c657741fa6d55513ec61f68e4.jpg" alt=""></span>
+                Получить образование или получить от системы образования?
+    </a>
+</div></div><p>Перспектива профессионального роста исчезла, любые методические новшества и другие инициативы воспринимались безразлично. Все механизмы управления и принятия решений непрозрачны. Ключевые посты заняло поколение людей, через должности решающих только свои личные проблемы. Административные службы преподавателей презирали. Любой поход в бухгалтерию, отдел кадров, методический отдел вызывал у меня внутренние содрогания, поскольку столько непрофессионализма, хамства, неприкрытой агрессии и неуважения я мало где встречал. Например, чтобы выбить крохи на оплату проезда на конференцию, надо было пройти настоящую мясорубку унижения. Кстати, такое отношение стало главенствующим и в среде студентов: преподаватели — обслуживающий персонал.</p><p>Самым больным стало расставание с родной кафедрой — для меня это было гнездо. Удивительные люди окружали и сформировали меня — профессора В.А. Петрищев, Л.А. Карасева, Е.А. Спасская, В.А. Кунтыш, Н.В. Костюкович. Перечисляю фамилии, поскольку от них я получил знания, секреты мастерства, несгибаемый нравственный стержень.</p><p>Работа в университете — это фундамент моего успеха сегодня. Это, конечно, и формальное наследство — звание, запись в трудовой, связи. Но главное — это навыки творчества, исследовательской работы, общения в команде.</p><div class="important-text important-text_type02">Уйти из преподавательской профессии невозможно, это внутри тебя — происходит профессиональная деформация.</div><p>Единственная сфера, где мне приходится себя сдерживать, — это семья. С первых дней моя жена предупредила меня: «Выключи преподавателя!»</p><p>Что должно измениться в системе, чтобы я захотел туда вернуться? Наверное, преподаватель должен быть поставлен во главу угла.</p><hr><h2><strong>Алёна</strong></h2><h3><strong>Работала 4 года старшим преподавателем в вузе, 4 года педагогом дополнительного образования. Сейчас — методист в учреждении допобразования.</strong></h3><p>Кратко о своем отношении к труду Учителя. В профессию должны приходить по призванию, увлечённые люди. Это, безусловно, творческая работа. В то же время очень ответственная. Я сама с детства хотела быть учителем, но свою карьеру я начала с университета, в школе никогда не работала, хотя по образованию учитель технологии. Как ни странно, в школу хочу и постоянно рассматривала такой вариант. Однако не требуются у нас учителя технологии в школе.</p><p>4 года я работала в вузе в должности старшего преподавателя («старший» звучит устрашающе, хотя самый низкий чин среди преподавательского сообщества). Поначалу всё нравилось: условия работы, зарплата, нагрузка, коллеги. На кафедре ценили, студенты уважали. Но в последний год моей работы мне дали нагрузку 0,25 ставки, это для старшего преподавателя 2 500 рублей в месяц (на дворе был 2011 год). И догрузили общественными работами в роли секретаря ГЭК и ГАК. Ввиду такой занятости становилось сложно найти подработку. Вот я и плюнула на всю эту научную работу.</p><p>После этого мне посчастливилось работать в сфере дополнительного образования детей. И снова 4 года. Я успела побыть и педагогом, и методистом, и занимала руководящую должность. Поэтому мне на собственной шкуре пришлось испытать не только все трудности работы педагога, но и сложность административной работы вперемежку с постоянными жалобами подчинённых, этакой обратной связью.</p><p>Трудность работы педагога дополнительного образования в том, что в обществе сложился определённый стереотип в отношении кружков. И не только у детей, но и у самих педагогов.</p><div class="important-text important-text_type02">Я столкнулась здесь с диссонансом мнений чиновников, родителей, детей. Многие привыкли думать, что работать педагогом в кружке — плёвое дело, сиди себе, учи вязать крючком.</div><p>И мне во сто раз сложнее было перестроиться мыслить по-другому. Потому что это в институте к преподу студенты идут за знаниями, за дипломом или не идут на скучные лекции, потому что такие они студенты. Это в школу дети придут обязательно, потому что в школу ходить обязательно по закону. А в кружок, если ребёнок не пришёл, значит, ему неинтересно (мне кажется, какой другой педагог об этом когда-то задумывался). И ты из юбки выпрыгиваешь, чтобы, блин, заинтересовать их.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/fdd4643f8728197bfbadf95d304a3e204687522d.jpg"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://www.flickr.com/photos/rachelrusinski/88082790/in/photolist-8MrWN-9nXyUo-agLaCS-enG3Ni-eMjqA7-azEmHn-6rSXhu-H596Mr-6rNPPc-nQdqkN-qon2Ng-qk9ddE-gScH7S-smgwsh-dqXK3-rjQ8e6-bndx9T-aSiycZ-rmesc8-8vEXHS-6rNQX8-atqAnt-CPfgZy-aTF6ET-c5SKK7-9dsPvL-dXVPjK-fM1LfV-rgdWrJ-6rSXQY-apsjjF-rhHhSf-qjPB8f-enDWke-qYP3Vf-61WAWN-boLVrB-nPZ14e-eMjqrj-ocmtUg-r5uh7P-pQuThx-rhyZKW-qYKMd9-m2KHz6-bUcXZK-evRYHx-7qwzcs-evWv8u-eqPEqq">Rachel Gardner</a></p></div><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Это может быть интересно<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/science/fun-and-science-russia">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/dd38bc05ad5838a406ef9217ee3987bb.jpg" alt=""></span>
+                Пойдём гулять в научный парк: научно-развлекательные центры России
+    </a>
+</div></div><p>А у каждого ребёнка своя мотивация к посещению кружка. И у каждого своё расписание в школе и в других кружках. А требуют группы по 15 человек, хотя в кабинет больше 5 не вмещается. А потом ещё чиновник или кандидат наук из местного института повышения квалификации какую-нибудь блажь придумает и иди выполняй, потому что потом отчёт нужно делать и фотографию приложить. Это реально!</p><p>В прошлом году мы праздновали День сердца! (А вы разве нет?) Нас обязали праздновать День сердца и мы, вместо того, чтобы развивать в детях инженерную смекалку, прыгали с ними на скакалках. Самое позорное, что дети сами понимают, где есть профанация. А мы, учителя, продолжаем им головы дурить...</p><p>Сложнее педагогом допобразования еще и потому, что нет стандартов, нет программ, каждый должен сам себе программу писать и планировать работу. У некоторых для этого не хватает опыта и образования. В то время как зарплата у них ниже, чем у школьных учителей (по крайней мере, в нашем городе).</p><div class="important-text important-text_type02">Не скажу, что отчётами завалили. Вся отчётность педагога — заполнять журнал. Сложнее всего обеспечить присутствие детей на занятиях, ведь за 0 человек в группе грозятся урезать зарплату, а это всегда напрягает.</div><p>Обида возникает ещё и потому, что некоторые педагоги очень старательны во всём: вовремя пишут программы, заполняют журналы, всегда у них дети есть и результативность, а каким-то коллегам всё это трын-трава, сижу, мол, себе на тёплом месте, зарплата идёт, а будете возникать — уволюсь, и выполняйте свою программу сами (знает, паразит, на что давить).</p><p>Все эти обстоятельства вскрываются и во время ежегодных проверок со стороны городского Управления образования. И тут начинается разнос. Попадает всем, от мала до велика. Могут в лицо молодому педагогу сказать, что он никто, ничем не занимается и должен быть уволен. Каково, а?</p><p>«Вы организовали городской конкурс технического творчества, а у вас 14 участников, это не конкурс, а междусобойчик. Где участники от школ?» — спрашивают меня во время очередной проверки. «Хорошо, мы организуем конкурс детского рисунка и у нас будет сотня участников», — отвечаю я. «Что вы такое говорите! Вы же ЦЕНТР технического творчества! Кстати, что это от вас в конкурсах всероссийского уровня нет участников?» — продолжает свою работу проверяющий. «Потому что конкурсы всероссийского уровня с дистанционным участием — это конкурсы рисунков, а чтобы участвовать «техникам», нужно выезжать за пределы республики, далеко. Предлагали. Родители отказываются», — снова с оправданием я. Вердикт: «Значит, так предлагаете!»</p><p>Это непонимание со стороны административных работников, их завышенные требования. Иногда они сами не могут понять, что требуют. А приводит это только к росту негативного отношения к работе, к увольнениям талантливых и по-настоящему незаменимых коллег. Основным мотивом моего увольнения была в этом случае вовсе не зарплата, а существующая нестабильность, непонимание, постоянное «довешивание» обязанностей и, самое главное, — это отношение чиновников к твоей работе.</p><p>В неоправданной критике развития не будет. Иногда после одного доброго слова горы свернёшь. Жаль, что эти слова мне приходилось слышать только от своих учеников и их родителей.</p><hr><h2><strong>Дарья</strong></h2><h3><strong>Работала 4 года в школе учителем английского языка. Сейчас — мастер по маникюру.</strong></h3><p>В школе я работала учителем английского языка. Предмет не самый лёгкий, поэтому проблем было немало. Классы были разные, начиная со вторых и заканчивая девятыми. Первое время было очень тяжело, но помогали коллеги-«англичане». Благодаря им я не уволилась через год.</p><p>Легче работать было с младшими классами, с дисциплиной проблемы редко возникали, а вот со старшей школой сложнее, так как в силу возраста (на тот момент мне было 22 года) мне иногда трудно было вести себя серьёзно с ними, хотелось пошутить, посмеяться. Но границы никогда не переходили.</p><p>У меня со школой не сложились отношения из-за начальства. Пока я совмещала работу с учёбой (я на вечернем училась), меня особо не трогали и давали ту нагрузку, какую я просила. Когда я закончила учиться, мнение особо не учитывалось. «Ты же молодая! Работай!».</p><p>Да, зарплата была немаленькая, но я не считаю, что школа — это то место, где надо строить карьеру, я хотела получать удовольствие от работы, а когда тебя загружают, удовольствия уже не испытываешь!</p><div class="important-text important-text_type02">Я попросила дать мне меньше часов, а мне отказали, да ещё и классное руководство дали. Я поняла, что это совсем не моё, так как начала срываться на детях, постоянно плакала и просыпалась с мыслью: «Почему я?»</div><p>Не помогли и уговоры коллег, которым было очень тяжело и обидно меня отпускать. Правда, я хотела доработать до конца первой четверти, но мне не дали, поэтому ушла в октябре, чему несказанно рада. Всё, что ни делается, всё к лучшему.</p><p>Не знаю, чему меня научила эта работа, честно! Одно я поняла: если хочется что-то изменить, то не надо бояться, и надо ценить и любить себя. Когда я уходила из школы, директриса сказала: «Вы можете работать и больше часов, вам просто себя жалко!». И я с ней полностью согласна, сейчас я работаю и по 12 часов в день, разница в том, что сейчас я получаю удовольствие от работы, я стала спать лучше и, как бы странно это не звучало, времени на себя стало больше!</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Ещё по этой теме<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/4-uroka-o-kotoryh-ne-rasskazhut-v-pedagogicheskom-kolledzhe">
+                4 урока, о которых не расскажут в педагогическом колледже
+    </a>
+</div></div><p>Хотела бы я при каких-то условиях вернуться в школу? На данный момент — нет! Ни на каких условиях! Ещё остался осадок после первого опыта. Но вообще, в будущем, когда будут дети, возможно, я бы пошла работать в школу. Условия: 18 часов в неделю (ставка учителя), никакого классного руководства и поменьше бы всяких бумажек. Не совсем понимаю, почему учитель должен писать программу на учебный год, когда этим должны заниматься методисты.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/3dee4872cddc63ea7d7ca00fd77286e850e1cad8.jpg"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://www.flickr.com/photos/bethscupham/7458624330/in/photolist-cn6pad-6JMMkb-H8uwvd-eeTLj9-dNXQ42-8vBWaH-gMmkV7-axQEac-8p2gsH-GPdH2r-9yp7TE-p6iLaS-4oxeiL-pqCmTh-b5Qf1H-azYXf8-dtcrF7-7B5ZWo-ax2PmM-bbF2vn-by3AXC-9gGtav-69kgAE-au2sFa-koV2eg-5SdLnj-p63qrV-8aFark-m6HZJv-acsMTN-3JDbWM-bdU7cx-58sF1n-ng3cmp-4XJsbd-7jMSXn-fVvkDz-prcdsx-HKwtAa-nWLxNS-69xdER-7exbEX-jfT5Dx-8BMPUP-p8kKrF-mmgfze-5BHxmK-8vBWbc-dyvBov-hv4dwS">Beth Scupham</a></p></div><p>Я вообще считаю, что в школе должны работать люди, которые любят своё дело, которым нравится работать с детьми, родителями, а не из-за зарплаты набирать побольше часов и создавать видимость, что они работают.</p><div class="important-text important-text_type02">Я ушла в тот момент, когда поняла, что становлюсь похожей на своего классного руководителя.</div><p>У нас был не самый спокойный класс, и к нашему выпуску она стала неврастеничной, вечно кричала, срывалась по пустякам и постоянно тряслись у неё руки. Я такой совсем не хотела быть!</p><p>Для советов я молода и неопытна, но одно могу сказать, что не всегда дети во всём виноваты, с ними всегда можно найти общий язык. Я с ними любила работать, хотя были и отвратительные детишки, которых хотелось придушить, если честно! Вся проблема в начальстве и вышестоящих инстанциях: первые не помогают и не поддерживают, вторые не знают, чего хотят.</p><hr><h2><strong>Оксана</strong></h2><h3><strong>Работала учителем математики в школе 20 лет назад, сейчас — главный администратор отдела продаж крупного завода.</strong></h3><p>Я работала учителем математики в средних классах сразу после окончания КГУ им. Т.Г. Шевченко.  Это была обычная школа на окраине Киева в обычные 90-е годы прошлого века. Вспоминаю эту школу как светлое и хорошее место, несмотря на трудности того времени.  </p><p>Мне нравилась эта работа, но я чувствовала, что мне не хватает именно педагогического образования и практики. Некоторое время я даже думала, каким образом могла бы заполнить эти пробелы, но потом пришла к выводу, что подобный формат работы мне не подходит. Прежде всего тем, что я была бы хорошим предметником, но не культ-массовым организатором всяких линеек, политинформаций... Я бы с удовольствием готовила «олимпиадников», недели математики, но меня напрягало всё то, что относилось к идеологической и воспитательной части процесса, навевало тоску и вводило в ступор. Сейчас я оглядываюсь назад и понимаю, что решение было правильным: 90-е годы нельзя даже сравнивать по силе давления с тем, что происходит сейчас.</p><p>Кроме того, в школу я пришла уже после того, как пять лет работала репетитором. Я привыкла к тому, что меня ждут: с одной стороны стоит папа с деньгами, с другой — мама с чашечкой кофе, и ребёнок, если не рад, то хотя бы понимает, зачем он учит и что будет сдавать.</p><div class="important-text important-text_type02">Представьте мой шок после этого, когда я услышала от ребят в классе: «А зачем мне эта ваша математика?» «Не нужна? — подумала я. — Да не вопрос. Тоже мне, проблема. Я всегда найду тех, кому нужна».</div><p>А преподаватель всё же должен быть уверен, что его предмет нужен и в том объёме, который он даёт согласно программе, и обоснованно требовать определённого уровня знаний.</p><p>Сейчас я бы уже смогла ответить ученикам, я понимаю, что, по большому счёту, программа как таковая — не суть вопроса. Главное — навыки, которые получают люди в процессе обучения. А эти навыки можно получать на разных наборах формул, тем, задач.</p><div class="important-text important-text_type02">Иногда думаю, что я должна была побывать в той школе ради одного отпетого хулигана, совершенно запущенного в математическом смысле.</div><p>Я приносила ему логические задачи, задачи с применением практики, задачи на внимание. Первоначально я это делала только для того, чтобы он просто сидел тихо: он ничего не понимал, так как не учился до этого, и от скуки шумел. Решение этих задач его увлекло, повысило его самооценку, и в результате это уже он следил, чтобы в классе не отвлекали. Если бы мы общались дольше, я уверена, он бы освоил школьный курс (если бы на это была его добрая воля, конечно — учиться летом) и смог бы претендовать на технический вуз.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/776a4d93f851f8c8319ca648c27290fb6ad9661c.jpg"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://www.flickr.com/photos/dok1/6433153625/in/photolist-aNtArP-7bhuYo-94fdxX-7AhW4C-8BWCYz-5Pp3kv-94fdGH-62sprp-9Lspui-9MUwkD-5svxbk-9aBVxw-9xUL8g-evTroT-7fTZRZ-6KeAyF-5tUaTz-7fXVuf-eZoskk-7FJVGY-qnRRUs-7EsAv2-6m9j22-4YTr8i-4YXGGw-6qnsn7-s7juE3-7EsEqa-aSyFce-gqWuQB-89w6F4-8FmSpn-9zgFvt-cTafEs-9umBBj-4T9bzs-J6LvJ7-bCyy9a-7BGvh1-7ySnvf-pLKpQr-8FmSpp-pLvBQn-s7jvV9-4825gt-9gV7Wg-nEzLvM-bAKCts-bFdGfq-oPTQuE">Don O'Brien</a></p></div><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/story/i-am-18-year-old-teacher">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/739aed2ef4cdf08c756628dc00463b85.png" alt=""></span>
+                Как я работал учителем второй смены в 18 лет
+    </a>
+</div></div><p>Неожиданно сложный вопрос — чему меня научила эта работа. Наверное, прежде всего тому, что всему нужно учиться. Наивно рассчитывать, что, если ты сам был в школе, учился предмету, то можешь зайти в класс и сразу стать учителем. Что за обычными вещами, которые кажутся простыми, стоит большой труд и опыт поколений. Что неразумно вклиниваться в новую область, не опираясь на опыт людей до тебя.</p><p>Вернуться в профессию я однозначно не хотела бы. Мне уже тогда было сложно подчиняться всей системе установок для учителя, хотя умом я понимаю, что такая система должна быть. Просто лично мне она не очень подходит. Мне до сих пор легче общаться с небольшим количеством людей сразу, а не с целым классом. Мне интересны вопросы образования, но нужна свобода выбора тем. И если я сейчас вернусь, то я даже не представляю, когда я смогу подняться до того уровня оплаты, который у меня есть сейчас.</p><div class="important-text important-text_type02">Я до сих пор верю в образование как в единственный надёжный способ преобразования жизни людей.</div><p>И я имею в виду не политические преобразования, а изменение жизни в целом. Образование — это единственное, что может изменить жизнь человека, сделав её ярче, осмысленнее, содержательней. </p><p>Все эти годы я продолжаю заниматься репетиторством: не размещая объявления, без особого заработка, так как работаю с детьми друзей и детьми друзей друзей, которые приходят по рекомендации. Время летит, и уже мои одноклассники приводили ко мне своих детей. Я заочно прошла обучение по методике Шаталова В.Ф., всё же добрала навыков по методологии преподавания математики.</p><p>В данный момент меня интересуют вопросы онлайн-образования. Ситуация в образовании, наш уровень жизни ухудшается, всё больше детей оказывается «за бортом». Онлайн-образование может быть для них выходом. Онлайн-образование может также дать те знания и те личностные компетенции, которые пока вообще не входят в программу школ, но жизненно нам необходимы, чтобы соответствовать запросам современного мира.</p><div class="important-text important-text_type02">Мне кажется, у меня нет морального права давать советы учителям. Они остались, а я ушла. Просто хотела сказать, что они делают большое дело, очень важное.</div><p>Мне бы очень хотелось, чтобы престиж и моральный авторитет учителей в обществе росли. Чтобы сам учитель ощущал, что у него есть миссия, как это ни высокопарно звучит. А человек с миссией уже практически непобедим.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Ещё по этой теме<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/vystuplenija-ted-kotorye-dolzhen-posmotret-kazhdyj-uchitel">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/a7f08cde283c9eca79dba88a6b6e682b.jpg" alt=""></span>
+                Выступления TED, которые должен посмотреть каждый учитель
+    </a>
+</div></div><p>На TEDе есть выступления учителей разных стран: от Пакистана до США, которые работали в обстоятельствах, которые нам даже сложно представить. Везде есть сложности. Поражаешься тому, насколько люди сильны своей верой. У нас тоже есть что сказать и чем гордиться.</p><p>Вряд ли государство само повернётся к учителям и быстро что-то изменит. Но и сами учителя могут многое, век интернета — это огромные возможности.</p><p>Учеников бы попросила беречь людей, которые проводят с ними больше всего времени. Можно сколько угодно ерепениться, бунтовать, критиковать систему, но в этой жизни они, если и нужны кому-то, то своим родителям и учителям.</p><p style="text-align:right"><em>В оформлении статьи использована работа <a title="Go to Sharon Hinchliffe's photostream" target="_blank" href="https://www.flickr.com/photos/delartful/7823576012/in/photolist-cVkSzA-bDpaoM-oPK1rV-payCai-nHyBG4-oPK1K1-p6XWTV-fSpao2-5q3n6F-MzDsj-5x2ao2-3g2i-5mu9Cy-oT5psD-8K6e8G-pawGnh-kmDR-djnD-fV2aKc-X35cD-d14wbN-6cQqtU-bxemSs-nQTGiR-a4uESg-dUAZEg-4aA52-e41zNd-nCMviE-oBGxZX-9M74Yg-ccuYch-quWfJa-s9NdWp-aiqmve-7LLZrC-aiqMD2-aisYBG-GXR32-aiq7bB-aisZMh-aiqNvX-5WmfTK-ait35w-aisXzj-awxjhu-oFFaYh-btwXx8-pai1Xv-fCXrhQ"><strong>Sharon Hinchliffe</strong></a></em></p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">27 сентября 2016, 12:00
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /story/ex-teachers-stories " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Истории бывших преподавателей от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/story/ex-teachers-stories"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                            <div class="n2-post__author">
+                    <div class="n2-post__author__label n2-author-label n2-author-label_editors"><a href="/author/tolkacheva">Редакция Newtonew</a></div>
+                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/36246fdf86e2ab3244cdbfc7b4641786.jpg" alt=""></div>
+        <div class="n2-post__author__name io-author">Екатерина Толкачева</div>
+        <div class="n2-post__author__descr">Журналист и фотограф. Сфера интересов: образование в регионах, частные инициативы и герои, которые их предпринимают, гуманитарные предметы в школе, альтернативное образование.</div>
+    </div>
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/story"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_story">истории</a>
+                                                                    <a href="/school"
+                                       class=" n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/1687/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/how-i-became-a-teacher"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/hero" class="n2-tag n2-tag_hero"
+   style="background-color: #f25c5c">герои</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Как я стал учителем: пять учительских историй</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/hero/wittgenstein-in-school"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/hero" class="n2-tag n2-tag_hero"
+   style="background-color: #f25c5c">герои</a>                            <a href="/story" class="n2-tag n2-tag_story"
+   style="background-color: #f26650">истории</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Витгенштейн в школе: может ли гений быть преподавателем</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/opinion/i-am-a-repetitor"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/opinion" class="n2-tag n2-tag_opinion"
+   style="background-color: #7583c9">мнения</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Погонщики сизифов, или пара слов о репетиторах</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/story/ex-teachers-stories">
+                    <input type="hidden" name="post-id" value="1687">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 2115255390;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Как сделать квест на уроке? / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Как самостоятельно создать квест, который можно использовать на уроке, чтобы превратить освоение учебного материала в миссию, а обычную тему — в увлекательную историю."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/live-quest-lesson"/>
+            
+    <meta property="og:title" content="Как сделать квест на уроке?"/>
+    <meta property="og:description" content="Как самостоятельно создать квест, который можно использовать на уроке, чтобы превратить освоение учебного материала в миссию, а обычную тему — в увлекательную историю."/>
+    <meta property="og:url" content="https://newtonew.com/school/live-quest-lesson"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/f3c7e3213d9fa36566a66183fc378de3.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/f3c7e3213d9fa36566a66183fc378de3.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/f3c7e3213d9fa36566a66183fc378de3.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Как сделать квест на уроке?</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/live-quest-lesson">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать </a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="1362">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: 12 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев нет</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Как сделать квест на уроке?</h1>
+                        <div class="n2-post-header__annotation"><p>Как самостоятельно создать квест, который можно использовать на уроке, чтобы превратить освоение учебного материала в миссию, а обычную тему &mdash; в увлекательную историю.</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Сегодня геймификация образования обзаводится своей теорией и своими <a href="https://www.rise.global/gurus">гуру,</a> студии <a href="https://newtonew.com/news/obrazovatelnye-igry-dlja-oculus-rift-ot-rossijskoj-studii-nival">создают</a> образовательные игры для шлемов виртуальной реальности, а одним из самых ярких общемировых образовательных событий весны обещает стать <a href="https://newtonew.com/news/minecraft-education-edition-2016">запуск образовательной платформы Minecraft Education Edition</a>. Специалисты и энтузиасты, которые успели рассмотреть вопрос с разных сторон, порой говорят, что тема геймификации в современном образовании уже перегрета.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/gejmifikacija-obrazovanija-iz-pervyh-ust-otvechaet-professor-mit">
+                Геймификация образования из первых уст: отвечает профессор MIT
+    </a>
+</div></div><p>Тем не менее, массовой российской школе геймификационная пресыщенность вовсе не свойственна. «Игры по станциям» становятся прерогативой школьных праздников и летних лагерей, и касаются, в первую очередь, учеников помладше, а обычные уроки от игр до сих пор далеки.</p><h2>Ничто не мешает нам играть</h2><p>Чаще всего учителя говорят, что массово внедрять игровые практики уже сейчас мешает отсутствие достаточного материального обеспечения. Игровые образовательные платформы — чаще всего на английском языке, а ВР-шлемов школы, как правило, в глаза не видели. Однако применение сложных и дорогих технологий вовсе не обязательно: видеоигры и кабинетные игры строятся по схожим принципам.</p><p>Другие помехи — отсутствие культуры игр и малая осведомлённость. Здесь можно обратиться не только к геймификаторам образования, но и к создателям бизнес-игр, видеоигр и живых квестов. Игра может поднять мотивацию и сделать школьные уроки действительно полезными и запоминающимися, а педагог с компетенциями игрового мастера ценится высоко — это направление в образовании называют в числе самых перспективных.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Epic_Empires5.jpg"><div class="image-caption">Сражение на ролевой игре Epic Empires в Германии.</div></div><p class="img-source">Источник: <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/1/11/Epic_Empires5.jpg">Wikimedia</a></p></div><h2>Что должно быть в квесте?</h2><ul class="ul-large"><li><strong>Цель для игроков. </strong>Это главная задача, актуальная для игрового мира. «Пройти учебную тему» — это не игровая цель, а пункт для вашей отчётности. Кто бы стал играть в шутер или стратегию, цель которых обозначается авторами как «пройти игру»? Формулировка «восстановить цивилизацию после апокалипсиса» звучит поинтереснее. Представьте себе, что мы попадаем в мир после глобальной катастрофы. Для молодого генетика здесь много работы! Конкретные действия в игре должны служить основной миссии. Например, на монстров, населяющих пустоши, можно воздействовать, только разобравшись в природе их мутаций (а заодно в том, что это вообще такое — мутация). Такой вот урок биологии в старшей школе. </li></ul><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Это может быть интересно<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/higher/hsbi-game-design">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/8352eb8a8a4eb57c347654dc46310c92.png" alt=""></span>
+                Где получить образование в сфере разработки игр
+    </a>
+</div></div><ul class="ul-large"><li><strong>Роли для игроков. </strong>Внутри игрового пространства ученики выступают в роли игровых персонажей. Учёные, которые строят МКС? Древние египтяне в попытках построить пирамиду? Группа астронавтов, которых забыли на Марсе, как персонажа фильма Ридли Скотта? Путешественники во времени? Всё зависит от сюжета и главной цели. А, вернее, только от вашей фантазии.</li><li><strong>Кооперативные действия. </strong>Усложняя игру, можно добавлять ролевые элементы. В этом случае класс нужно поделить на группы, добавить соревновательности, дать каким-то из игроков личные цели, сделать взаимную помощь необходимой по механике, усложнить систему взаимодействий. Такие методы будут не только способствовать усвоению предмета, но и улучшать социальные навыки. Ситуация, при которой каждый ученик делает свою часть работы и ждёт других, мало чем отличается от обычного решения примеров на уроке. Поэтому хорошо работает кооперация. Например, одни игроки владеют методом решения, а другие — данными.</li></ul><div class="bigimage-container"><div class="image-with-caption"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fort_boyard_aout_2006-5.JPG"><div class="image-caption">Знакомые многим с детства очертания Форта Боярд.</div></div><p class="img-source">Источник: <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fort_boyard_aout_2006-5.JPG">Wikimedia</a></p></div><ul class="ul-large"><li><strong>Загадки и головоломки. </strong>С этой частью у учителя-предметника не должно возникнуть проблем: любое задание из сборника задач можно поместить в интересный контекст. Сами по себе колебательный контур и электрическая цепь — абстрактные понятия. Но если тебе важно, куда течёт ток, и что именно произойдёт после изменения напряжения, задача сразу приобретает осмысленность. Бессмысленные вещи мы запоминаем куда хуже, чем те, от которых что-то зависит. Задачи на знание предмета полезно совмещать с загадками на сообразительность, которые задействуют смекалку. Важно: задача должна быть условием для того, чтобы двигаться дальше.</li><li><strong>Игровые механики. </strong>Это те правила, которые работают в игре и обеспечивают причинно-следственные связи. Поступив определенным образом, ты получаешь определенный результат. Придумайте, как работают те или иные элементы в вашем мире, каким правилам он подчинён. Например, чтобы двигаться дальше, нужно собирать ресурс. Или с каждым следующим шагом игроки получают дополнительные возможности.</li></ul><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Ещё по этой теме<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/tech/institute-of-play-obrazovanie-kak-kvest">
+                Institute of Play: образование как квест
+    </a>
+</div></div><ul class="ul-large"><li><strong>Сюжет и интерактивность. </strong>Микросюжет есть и в задачах учебников: «Сидоров пошёл собирать яблоки...» Однако учебники не дают обратной связи. Результатом контрольной работы становится оценка, а не знание о том, какое влияние было оказано на вымышленный мир. Ученик не узнаёт, будет ли плакать Сидоров, если по его вине останется без яблок. А вот интерактивная игра делает решения игроков необходимыми и реагирует на них.</li></ul><p>— Вы уменьшились и попали внутрь человеческого организма в микро-капсуле? Если вы не доставите действующее вещество (какое, кстати?) в определённую систему за определённое время, больному не поздоровится. </p><p>— Вы изменили климат целой планеты. Давайте посмотрим, какие это имеет эволюционные последствия.</p><p>— Вы решили платить захватчикам дань? Отлично, теперь они не разрушат ваш город. Но другие княжества от вас отвернутся. Какие ресурсы мы от этого потеряем?</p><p>— Поздравляем, вы плеснули летучее вещество в огонь. Хорошо, что этот опыт был полностью воображаемым.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/c1e718c80b9d7644d6056f5ca4dd443d0346bb9c"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://pixabay.com/ru/%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%BD%D1%8B%D0%B5-%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B-%D1%88%D1%82%D1%83%D1%80%D0%BC%D0%BE%D0%B2%D0%B8%D0%BA-lego-931946/">Pixabay</a></p></div><p>«Полтора землекопа», которым ты взглянешь в глаза, мотивируют куда больше, чем абстрактная фраза про «неверное решение». Все поступки игрока должны повлечь за собой какие-либо события. Лучше всего, если у игроков будет возможность делать выбор, как поступить. Это повышает эмоциональную вовлечённость и учит рассматривать разные варианты.</p><h2>Какие использовать инструменты?</h2><p>Всё зависит от того, какими средствами вы располагаете и какой квест хотите провести. В любом случае, главный инструмент — ваш разум и воображение учеников.</p><p>Поездка на природу даёт возможность включить в программу подвижные игры и элементы спортивного ориентирования. Однако за городом заниматься можно не только играми в «зарницу». Во многих нестандартных системах образования занятия по предметам проходят под открытым небом. Например, <a href="https://newtonew.com/discussions/valdorf-school-dialog">в одной из вальдорфских школ</a> в Иркутске ученики спускаются на берег Байкала и проводят опыты в рамках изучения астрономии.</p><p>Выездной урок-экскурсия по городу — тоже отличный способ сделать квест-приключение на большой территории. Здесь можно обратиться к приложениям для экскурсий. В коллекции <a href="https://izi.travel/ru">Izi Travel</a> можно найти маршрут по самым разным городам и музеям. Также сервис позволяет записать свой аудиогид, и здесь начинается самое интересное.</p><div class="important-text important-text_type02">Никто не мешает рассказать историю художественным языком, а в ключевых точках на карте (обозначены в приложении) могут быть спрятаны артефакты, необходимые для успешного прохождения квеста.</div><p>Конечно, сперва придётся несколько раз пройтись по маршруту самому, чтобы рассчитать тайминг и разложить конверты с заданиями и флэшки с материалами в укромные места.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/ffa59128228288c94e3a657bf9571d23f5414fc1"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://pixabay.com/ru/%D0%BA%D1%83%D1%81%D0%BE%D1%87%D0%BA%D0%B8-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B8-puzzle-%D0%B8%D0%B3%D1%80%D0%B0%D1%82%D1%8C-592780/">Pixabay</a></p></div><p>У 45-минутного урока в классе тоже есть свои преимущества — получается компактная кабинетная игра, в центре которой находится какая-то конкретная тема. Главное иметь в голове историю, правила мира и набор кейсов.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Ещё по этой теме<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/app/provodim-opros-vsego-klassa-za-30-sekund-s-pomoshchju-plickers">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/c5b4ab1b2f5c226eed19b1a1e3ae31be.jpg" alt=""></span>
+                Проводим опрос всего класса за 30 секунд с помощью Plickers
+    </a>
+</div></div><ul><li>Учителя химии и физики, у которых есть инструментарий для опытов, уже находятся в выигрышной позиции. Нужно просто придумать, какую практическую цель имеет опыт в рамках игрового мира. Выделяем ДНК банана, чтобы снарядить экспедицию с пробами земных растений. Иначе не видать на колонизированных планетах бананов! Преступника можно найти по типу микроорганизмов, которые остались на уликах. Лакмус позволяет читать зашифрованные послания — если сумеешь верно определить вид химической среды. </li><li>Для игровых целей можно ипользовать разные ресурсы и приложения для учителей. Например, чтобы пользоваться <a href="https://plickers.com/">Pliсkers</a>, нужны только телефон учителя с установленным приложением и набор распечатанных карточек у студентов. Это очень быстрый и простой способ для коллективных решений и голосований.</li><li>По классу можно расклеить распечатанные QR-коды, которые ведут на страницу с информацией. Для этого потребуется создать страницы, ссылки на которые будут преобразованы, и воспользоваться <a href="http://qrcoder.ru/">генератором кодов</a>. На смартфонах учеников должны стоять QR-ридеры — скачать такие бесплатные приложения не составляет труда. Карточки с такими кодами могут быть также игровой валютой, которую получаешь, выполняя задания. Или древними печатями на артефактах погибших цивилизаций, которые нужно просканировать.</li></ul><p>В качестве тренировки можно предложить ученикам создать их собственный квест. </p><div class="important-text important-text_type02">Правильно ставить вопросы и придумывать кейсы можно только когда сам ясно представляешь себе верные ответы.</div><p>Это поворачивает мышление совершенно в другую сторону, помогает представить себе, как рассуждают другие люди, оценить применимость знаний, развить логическое мышление и творческие способности.</p><ul></ul><h2>Советы разработчика живых квестов</h2><p>Разработчик игр Дмитрий Иоффе, рассказал нам, как появилась идея создать <a href="https://vk.com/clean_games">экологический квест «Чистые Игры»</a>, привлекающий внимание к проблемам окружающей среды, чем хороши игровые формы постижения мира и на что следует обратить внимание, придумывая свой сценарий.</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/fa3cc854f53108b1a4d70c17d8be7314add4d40e"></div><div class="person-of-interview__name">Дмитрий Иоффе</div><div class="person-of-interview__descr">специалист и организатор игр живого действия, основатель и лидер проекта «Чистые Игры», основатель сервиса «Расписание вузов»</div></div><p>— Идея «Чистых Игр» родилась на островах озера Вуокса. Мы были в походе на лодках, несколько дней, заметили много мусора на островах, и один из друзей предложил идею ролевой игры, где мусор мог бы быть ресурсом, который добывают. Типа золота в Варкрафте. Мне идея очень понравилась, мы стали думать, как это можно сделать. Решили, что игра должна быть не ролевой, а, скорее, напоминать соревнования по сбору мусора для всех, кто захочет. Победители должны получать призы. А главное — всё должно быть интересно. Игроки должны видеть не мусор, а ресурс для победы. Так все и пошло. Через два месяца сделали игру, получилось успешно.</p><p>До «Чистых Игр» я 12 лет занимался ролевыми играми живого действия. Участвовал в образовательных играх — например, помогал коллегам из проекта <a href="http://thenoon.ru/">«Полдень»</a>. Это игровой проект, направленный на социальную адаптацию детей из детских домов и состоящий в ассоциации «Игры Будущего».</p><div class="important-text important-text_type02">Образовательные игры служат для получения новых навыков и полезного опыта, который трудно заиметь в других условиях.</div><p>Городские квесты помогают взглянуть на город под другим углом, лучше его узнать. Играя в ролевые игры, можно примерить на себе много ролей и при этом обнаружить, что из них тебе больше по душе — профориентация, можно сказать.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/f1e194e8f5fff0790bd4b39975ccaccdc54e4bb8"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://www.flickr.com/photos/wwarby/11513503393">Flickr</a></p></div><p>Школьники лучше запоминают информацию в образовательных играх, а не на обычных уроках, потому что в первом случае получают знания, когда решают свою задачу. При этом вы относитесь к знаниям не как к «информации, которую надо запомнить», а как к вещам, без которых вы не сможете что-то осуществить. При этом, например, в Civilization вы можете взаимодействовать с вещами — то есть, не только прочитать и запомнить, а захватить или развивать страну, торговать, вести дипломатию. Конечно, после такого всё запомнится лучше.</p><p>Чтобы создать игру, технические средства не обязательны. Можно всё сделать на бумажках и со всем, что подвернется под руку. Но технические штуки помогают многое автоматизировать. И еще что важно: с ними удобнее упаковать игру в упаковку.</p><div class="important-text important-text_type02">В основе любой игры лежит принцип, паттерн.</div><p>Один из самых простых — соревновательность, то есть, у кого больше очков. Здесь нужно придумать, за что очки получать. Или какие действия, сколько очков можно давать. Игра обычно ограничена по времени, это стоит учитывать. Всех нужно ставить в разные условия. Игра может быть симуляционной, то есть, она симулирует какой-либо процесс. Ещё может быть принцип «кто первым вышел, тот и победил». Или один участник должен победить другого, как в камень-ножницы-бумага. Чем в большее количество игр вы играли, тем больше игровых паттернов вспомните.</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/6b6664b6b3c2890a71a0c48b885beeebf7176547"><div class="image-caption"> </div></div><p class="img-source">Источник: <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/4/46/A_Game_Of_Thrones_board_game_detail.jpg">Wikipedia</a></p></div><p>Если по душе игры на коммуникацию и в ролях, как «Мафия», то я бы предложил попробовать кабинетные ролевые игры, там тоже роли и много коммуникации. Календарь ролевых игр можно посмотреть на сайте<a href="https://vk.com/away.php?to=http%3A%2F%2Fkogda-igra.ru"> kogda-igra.ru</a> (там смотреть по типу игры «Павильонная»). Также рекомендую проект<a href="https://vk.com/away.php?to=http%3A%2F%2FQuestoria.ru"> Questoria.ru</a>, это улучшенная «Мафия».</p><p>Людям, желающим заниматься квестами, рекомендую играть самим и пробовать делать игры для своих друзей. Все с этого начинали. Если в вашем городе нет игр, то найдите игры в других городах и пробуйте делать их у себя. Свяжитесь с их создателями, расскажите о себе, попросите совета. Если у вас есть возможность, пойдите на стажировку к тем, кто проводит игры. Помогайте им бесплатно, учитесь на практике, больше спрашивайте. Необязательно проходить специальные курсы, чтобы научиться создавать игры. Игра — это одно из базовых явлений, даже животные играют, это у всех в крови.</p><hr><p>Итак, привлекать новинки техники, как и наряжаться в костюмы исторических героев, не обязательно. Чтобы превратить школьное занятие в образовательный квест потребуется, в первую очередь, понимание геймификационных принципов. А в качестве средств можно использовать только бумагу, содержимое школьных лабораторий и мобильные телефоны.</p><p>Главное в игре — интерес, вовлечённость, вдохновение и азарт. Эти переживания можно вызывать самыми разными способами.</p><ul></ul>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">28 апреля 2016, 20:00
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /school/live-quest-lesson " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Как сделать квест на уроке? от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/school/live-quest-lesson"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                            <div class="n2-post__author">
+                    <div class="n2-post__author__label n2-author-label n2-author-label_editors"><a href="/author/zagryadskaya">Редакция Newtonew</a></div>
+                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/2619a2fcb2abea964504f3faaebeebc8.jpg" alt=""></div>
+        <div class="n2-post__author__name io-author">Алиса Загрядская</div>
+        <div class="n2-post__author__descr">Философ, журналист и игровой сценарист. Одинаково сильно вдохновляется технологическим прогрессом и историческими событиями. Пишет о нейробиологии, виртуальной реальности, футурологии, современном искусстве, новых подходах в образовании и обо всём, что ломает сложившиеся стереотипы мышления.</div>
+    </div>
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/school"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                                    <a href="/school"
+                                       class=" n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/1362/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/perespor-sokrata-diskussionnaja-igra-ot-institute-of-play"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Переспорь Сократа: дискуссионная игра от Institute of Play</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/tech/gamification-dark-side"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/tech" class="n2-tag n2-tag_tech"
+   style="background-color: #5ca7cc">технологии</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Это вам не игрушки: тёмная сторона геймификации</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/science/citizen-science"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/science" class="n2-tag n2-tag_science"
+   style="background-color: #6297cc">наука</a>                            <a href="/web" class="n2-tag n2-tag_web"
+   style="background-color: #5eb7bf">веб-сервисы</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Гражданская наука в помощь специалистам</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/live-quest-lesson">
+                    <input type="hidden" name="post-id" value="1362">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 1638867745;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

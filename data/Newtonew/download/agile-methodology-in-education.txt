@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Выйти из тупика: принципы Agile для современного образования / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Как методология Agile поможет развернуть школу лицом к ученику, реформировать образовательную систему и вернуть мотивацию в школьное обучение."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/tech/agile-methodology-in-education"/>
+            
+    <meta property="og:title" content="Выйти из тупика: принципы Agile для современного образования"/>
+    <meta property="og:description" content="Как методология Agile поможет развернуть школу лицом к ученику, реформировать образовательную систему и вернуть мотивацию в школьное обучение."/>
+    <meta property="og:url" content="https://newtonew.com/tech/agile-methodology-in-education"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/1a8150515226cda9079b794d0d2fa70d.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/1a8150515226cda9079b794d0d2fa70d.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/1a8150515226cda9079b794d0d2fa70d.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Выйти из тупика: принципы Agile для современного образования</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/tech/agile-methodology-in-education">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(10)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="1512">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: &gt;15 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 10</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Выйти из тупика: принципы Agile для современного образования</h1>
+                        <div class="n2-post-header__annotation"><p>Как методология Agile поможет развернуть школу лицом к ученику, реформировать образовательную систему и вернуть мотивацию в школьное обучение.</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>С легкой руки Германа Грефа слово «эджайл» в одночасье <a href="http://www.bbc.com/russian/business/2016/05/160522_gref_skolkovo_lecture">превратилось</a> из узкоспециального термина в общеупотребимое понятие, применимое к управлению, обучению, экономике в целом. Все мы должны стать Agile. Но что конкретно это означает? Стоит ли переносить Agile-технологии в образование, и что это нам даст?</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/educational-consumerism">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/55b6478c657741fa6d55513ec61f68e4.jpg" alt=""></span>
+                Получить образование или получить от системы образования?
+    </a>
+</div></div><p>Agile-манифест <a href="http://agilemanifesto.org/iso/ru/">описывает</a> принципы «гибкой» методологии разработки и внедрения программного обеспечения: приоритет интересов клиента, открытость к изменениям, работающая система в каждый момент времени, мобильные совместные команды «заказчик — разработчик — пользователь» с высоким уровнем коммуникаций. Agile-образование применяет эти принципы при проектировании учебной программы и в ежедневной работе школы.</p><div class="important-text">Школа, ориентированная на госзаказ и закрытая турникетами, не устраивает современных родителей. Семья и учителя больше не могут находиться по разные стороны баррикад.</div><p>Все уже понимают, что эффективно усваиваются только знания и навыки, востребованные конкретным человеком именно сегодня. А кто как не родители лучше всего понимает ребенка, знает, что ему нужно и несет ответственность за результат? Необходимо также включить и самого ученика в постановку задач и оценку результатов образования. Ребенок, родители, учителя — вот команда, которая должна создавать образовательный процесс. Однако в современной педагогической практике нет инструментов, обеспечивающих такую командную работу. Этим инструментом и может стать Agile.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/124a08b05eb572e33a8c0313dbcc55269e8100bd"><div class="image-caption">Тетрадь с картинками «Что мы строим», 1930 г.</div></div><p class="img-source">Источник: <a target="_blank" href="http://pudl.princeton.edu/objects/7p88ck29d#page/22/mode/2up">princeton.edu</a></p></div><p>Кроме того, «гибкие» методологии наконец позволят школе стать живой саморазвивающейся системой, центром инноваций, а не пассивной площадкой для внедрения чьих-то концепций и идей.</p><p>На Западе о переносе Agile-подходов в школу говорят уже несколько лет. Мы перевели <a href="https://www.infoq.com/articles/agile-schools-education">статью</a> американского инноватора в области образования, написанную еще в 2011 году, но так актуальную для нас сегодня. И хотя автор говорит не меньше чем о новой национальной идее, не давайте читать этот материал чиновникам из Министерства образования. Agile нельзя внедрить «сверху» в качестве нормативного фундамента: гибкая методология по определению не может применяться таким способом. Но если по этим принципам перестроится работа конкретных маленьких и больших школ — глобальные изменения обязательно произойдут.</p><p><em>Как же выглядит Agile для школы и какие изменения он принесёт — читайте далее в сокращённом переводе Надежды Артемьевой и Татьяны Глухаревой из​ <a target="_blank" title="Открыть в новом окне" href="http://morningschool.ru/">«Утренней школы»</a>.</em></p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/cf338fa1ddc7ee971d268c3d236c64f1cfa10013_1.jpg"></div><div class="person-of-interview__name">Стив Пеха (Steve Peha) —</div><div class="person-of-interview__descr">президент Teaching That Makes Sense, консалтинговой компании в области образования, специализирующейся на грамотности, оценке и лидерстве в школе. Начиная с 1995 года он обучил тысячи классов и сотни школ по всем Соединенным Штатам и Канаде. До этого он занимался предпринимательством в области ПО.</div></div><hr><h2>Agile-школы: как технологии помогают спасти образование</h2><h3>Американская система образования зашла в тупик</h3><p>Даже незначительный рост успеваемости, который был достигнут за годы с момента старта программы <a href="https://en.wikipedia.org/wiki/No_Child_Left_Behind_Act">No Child Left Behind</a> («Ни одного отстающего ребенка», далее по тексту: NCLB), замедлился. Энтузиазм учителей низок как никогда. Федеральному правительству и правительствам штатов не хватает денег на образовательные программы. А тех из нас, кто работает в школах (если у нас ещё есть работа), просят потуже затянуть пояса.</p><p>Многие считают, что технологические инновации — это оптимальный путь к возрождению программы на благо детей и их семей. Но причинно-следственной связи между использованием новых технологий (аппаратного и программного обеспечения) или нового технологического контекста (онлайн-обучение или смешанное обучение) и существенным ростом успеваемости школьников всех ступеней обучения пока не выявлено.</p><p>Организовав сессии стратегического планирования с несколькими десятками директоров, поработав в сотнях школ и проведя тысячи уроков, я пришел к выводу, что система образования зашла в тупик, потому что у нас нет надёжной методологии для того, чтобы развивать её дальше.</p><p>После четверти века национальных реформ, беспрецедентного финансирования и тысяч исследовательских проектов мы так и не нашли масштабируемой, воспроизводимой, хорошо задокументированной и научно подтверждённой методологии управления существующей школой, создания новой школы или возрождения провальной школы.</p><div class="important-text">А между тем такая методология, похоже, существует. Я могу показаться безумцем, но у меня она действительно есть.</div><p>На протяжение последних шести месяцев я занимался адаптацией методологии Agile к использованию в школах. Какой бы принцип или конкретный прием я ни рассматривал, он на удивление легко переводится на язык образования, — и вообще, Agile отлично подходит для управления школой.</p><p>Некоторые учителя и директора школ, вероятно, сочтут, что я сошел с ума, перенося Agile через школьный порог. Некоторые инженеры и менеджеры тоже не в состоянии представить, как Agile мог бы работать в школе. А вот как:</p><p><strong>Основу Agile составляют три вещи — процесс обучения, люди и изменения. А это те самые вещи, которые сейчас важны для образования, и с которыми мы пока плохо справляемся.</strong></p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/1cb4118576f14a3f6f395161a506d707bc4da238"><div class="image-caption">Из книги «Юный политехник», 1931 г.</div></div><p class="img-source">Источник: <a target="_blank" href="http://pudl.princeton.edu/objects/t148fk880#page/1/mode/2up">princeton.edu</a></p></div><p>Говоря об образовании, мы часто говорим о создании культуры познания в наших школах. Но у нас нет проверенного способа создания такой культуры. А у Agile он есть.</p><hr><h2>Манифест на любое время года</h2><p>Некоторые идеологи реформы образования призывают к полной «реорганизации кода» (refactoring) современной школы. Приступая к своей миссии по реорганизации системы образования, я начал с <a href="https://ru.wikipedia.org/wiki/Agile_Manifesto">Манифеста Agile</a>.</p><p>Конечно, там говорится о разработке программного обеспечения, а не о школе. Но его положения настолько универсальны, что за это нельзя было не ухватиться. Заменив бизнес-терминологию понятиями из области образования, я пришел к следующему:</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/higher/motivation-in-blended-learning">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/121516ffd3c9551e2882a011b233d81d.jpg" alt=""></span>
+                Кризисы мотивации и смешанное обучение
+    </a>
+</div></div><h3>Манифест Agile-школы</h3><p>Мы постоянно открываем для себя более совершенные методы обучения детей, занимаясь обучением непосредственно и помогая в этом другим. Благодаря проделанной работе мы смогли осознать, что:</p><ul style="list-style-type:square"><li><em>Люди и взаимодействие важнее процессов и инструментов;</em></li><li><em>Осмысленное научение важнее формальных тестов;</em></li><li><em>Сотрудничество между участниками процесса важнее постоянных согласований/переговоров;</em></li><li><em>Готовность к изменениям важнее следования первоначальному плану.</em></li></ul><p>То есть, не отрицая важности того, что справа, мы всё-таки больше ценим то, что слева. Это не просто игра слов, это мощный инструмент эффективного управления школой.</p><p>Администрация любой школы сталкивается с противоречивыми требованиями. Ответственный за тестирование тонет в требованиях в части данных и отчётности. Заведующий учебной частью решает столько задач, что на оценку эффективности и планомерное изменение учебного плана у него не хватает времени. У директора школы может быть до 50 прямых подчиненных и не менее дюжины зон ответственности.</p><blockquote><div class="body"><p class="quote-content">Agile просто необходимо внедрить в школы. Государственной системе образования не хватает чётких ориентиров; у нас слишком много конфликтующих между собой приоритетов. Agile мог бы решить эту проблему</p></div><div class="author">— Гленн Кессинжер,<span class="descr">учитель средней школы и специалист по воспитательной работе</span></div></blockquote><p>Почти любой сотрудник школы ощущает себя менеджером среднего звена, на которого одновременно давят снизу и сверху. Манифест Agile-школы устанавливает чёткие приоритеты, помогая работникам системы образования принимать более взвешенные решения.</p><h3>Как Agile учит нас реформировать наши школы</h3><p>В четырех пунктах Манифест также объясняет, почему нам так тяжело даётся школьная реформа:</p><p><strong>1. Большинство школ зациклены на процессах и инструментах; потребности индивида отходят на второй план.</strong></p><p>В системе образования и любом образовательном учреждении занято множество людей с множеством потребностей, а вот ресурсов обычно не хватает. Поэтому те, кто работает над реформой образования, считают, что у этого уравнения нет решений.</p><p>В результате в ходе реформы сложился технократический стиль управления школой, в котором школа воспринимается как корпорация, действующая в соответствии с набором правил. Такой подход позволяет администрации школы хотя бы частично снять с себя личную ответственность за решения, касающиеся человеческих жизней.</p><p>Школьная администрация все меньше и меньше готова учитывать человеческий фактор при принятии того или иного решения и всё чаще прибегает к формальным процессам (процедурам) и инструментам (например, к программному обеспечению для анализа данных) для распределения ресурсов, управления взаимоотношениями между людьми, решения судеб детей и оперативного управления школой.</p><p>Если бы школы были фабриками, учителя шестеренками, а дети деталями, то это имело бы смысл.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/parenting/family-education-will-not-save-you">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/f193b5a5c30e3a438ab03438bb230061.jpg" alt=""></span>
+                Семейное образование так же бессмысленно, как и государственное
+    </a>
+</div></div><div class="important-text">Но школы — это сообщества, учителя — это люди, а потребности детей очень разнообразны и часто радикально меняются с течением времени.</div><p>Всё это делает Agile гибким и взвешенным решением для школьной администрации, потому что эта методология поддерживает достижение количественных и качественных целей образования посредством человекоориентированного подхода к организационному развитию и при этом повышает уровень организационной дисциплины.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/485246ff5b4021b3b7c915d4d3bb16d6f5903826"><div class="image-caption">Из книги «Пионеры в колхозе», 1931 г.</div></div><p class="img-source">Источник: <a target="_blank" href="http://pudl.princeton.edu/objects/q811km01t#page/1/mode/2up">princeton.edu</a></p></div><p><strong>2. Большая часть работников системы образования зациклена на методиках обучения, дидактических материалах и результатах тестов (это то, что они хотят «построить»); ценность того, что дети в результате усваивают (потребности «клиента») редко обсуждается, почти никогда не оценивается и не используется в качестве критерия положительных изменений.</strong></p><p>Пока школы были тесно связаны с местной общиной, работники системы образования были более склонны ориентироваться на потребности местных жителей. Это не всегда работало, потому что учителя не обязательно действовали согласованно, а также потому, что концентрация талантливых людей в разных частях системы неодинакова.</p><p>С приходом централизованного итогового тестирования многие школы стали — боясь наказания — рассматривать правительство штата как «заказчика». Так как интересы штата воплощены в стандартных учебных планах и единых итоговых тестах, многие учителя предпочли грубую реальность тестирования подлинной цели преподавания. Так быть не должно.</p><div class="important-text">Мы можем преподавать творчески, реагировать на индивидуальные потребности детей и одновременно получать высокие баллы на тестах.</div><p>Адаптировать программу или методику эмоционально легче, чем изменить привычный способ реагирования на постановления правительства. Несмотря на то, что почти все учителя считают детей и их семьи подлинными заказчиками образования как продукта, они всё реже выстраивают свою работу в соответствии с этим пониманием.</p><p><strong>3. Большая часть взаимодействий внутри школы неэффективна из-за бесконечных переговоров и компромиссов на разных уровнях; настоящего сотрудничества между участниками процесса почти не бывает.</strong></p><p>Мы живем в эпоху, когда необходимо принимать трудные решения. В тоже время культура школы подразумевает избегание конфликта любой ценой.</p><p>Решения принимают комитеты, результаты деперсонифицированы, а небольшие возражения от отдельных участников могут потопить даже самую многообещающую инициативу. В результате мы вынуждены довольствоваться наименьшим общим знаменателем или, если повезёт, регрессией к среднему значению.</p><p>Внедряются те идеи, которые оскорбляют чувства наименьшего количества людей. Почти все вопросы в школе решаются посредством таких вот компромиссов. Многие переговоры неочевидны, но избегание конфликта почти всегда становится решающим фактором при принятии решений. Лучшие примеры сотрудничества отходят на второй план, а на первые позиции выдвигаются худшие аспекты компромисса.</p><p><strong>4. Школьная культура подразумевает всеобъемлющее планирование и сопротивление изменениям.</strong></p><p>Тому много причин, но основных две: одна историческая, а вторая культурная. Исторически мы до сих пор действуем в соответствии с фабричной моделью, по которой изначально строились наши государственные школы в XIX веке. С точки зрения каких-то фундаментальных вещей школа почти не менялась после эры промышленной революции.</p><p>С культурной точки зрения, неизменность и невероятная предсказуемость школы (а также низкий порог входа в профессию и — до последнего времени — гарантия пожизненного найма) всегда привлекали людей, которым стабильность в работе важнее динамики.</p><p>Чтобы поддерживать морально устаревшую систему в условиях существенных подвижек в федеральном законодательстве и демографии, и стараясь при этом минимизировать изменения, работники системы образования пытаются усилить контроль посредством более детального планирования.</p><div class="important-text">Существует миф, что чем план больше и лучше, тем эффективней контроль. Как мы знаем из опыта работы с хаотическими системами, верно обратное: чем больше мы планируем, тем с большей степенью вероятности всё пойдет не так.</div><p>Мы путаем возможность предсказать будущее с возможностью на него повлиять. В результате мы сначала имеем впустую потраченное время, а потом серьезную фрустрацию и невероятную неэффективность, когда пытаемся реализовать формальные одобренные правительством планы по реформированию школ и видим, как наши проекты неизменно проваливаются, иногда по несколько лет подряд.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/d2c8254fd499cd04726ce0a6a458c1aeaedc80b5"><div class="image-caption">Тетрадь с картинками «Что мы строим», 1930 г.</div></div><p class="img-source">Источник: <a target="_blank" href="http://pudl.princeton.edu/objects/7p88ck29d#page/22/mode/2up">princeton.edu</a></p></div><p>Если вы уже давно чешете в затылке, пытаясь понять, почему нам так трудно даётся реформа образования, теперь у вас есть ответ: пытаясь понять, как должна работать современная школа, мы не следуем принципам Agile.</p><p>Быстрое маневрирование — единственно правильная реакция на изменения, а изменения — это то, чего мы, работники образования, боимся больше всего.</p><div class="important-text">Но перемены не должны нас так сильно пугать, если у нас есть проверенные принципы работы в изменяющихся условиях.</div><p>Agile предлагает набор проверенных принципов, определяющих культуру и поведение в организации, которая заинтересована в достижении выдающихся результатов, используя простые приемы, помогающие решить существенные проблемы в условиях непредсказуемой среды.</p><hr><h2>Двенадцать принципов Agile-школы</h2><p>Мы придерживаемся следующих принципов:</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/new-education-system-manifesto">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/c10c480593ba67141daef374a0a9166b.jpg" alt=""></span>
+                Манифест новой системы образования: от просвещения к образованию
+    </a>
+</div></div><ol><li>Нашим наивысшим приоритетом является удовлетворение потребностей детей и их семей посредством создания возможностей для непрерывного осмысленного обучения.</li><li>Изменение требований приветствуется даже на поздних стадиях образовательного процесса. Изменения необходимы и детям, и их семьям.</li><li>Циклы осмысленного обучения должны повторяться как можно чаще и длиться от пары недель до пары месяцев, причем предпочтение отдаётся более коротким интервалам.</li><li>Школа и члены семьи учащегося должны ежедневно работать вместе, чтобы сделать осмысленное обучение возможным для всех участников процесса.</li><li>Над учебным проектом должны работать мотивированные профессионалы. Чтобы работа была сделана, создайте условия, обеспечьте поддержку и полностью доверьтесь им.</li><li>Непосредственное общение является наиболее практичным и эффективным способом обмена информацией как с самой командой, так и внутри команды.</li><li>Осмысленное научение — основной показатель прогресса.</li><li>Процесс обучения выстроен так, чтобы оставаться устойчивым. Учителя, ученики и их семьи должны иметь возможность постоянно поддерживать ритм обучения.</li><li>Постоянное внимание к техническому совершенству и качеству проектирования повышает гибкость учебного проекта.</li><li>Простота — искусство минимизации лишней работы — крайне необходима.</li><li>Самые лучшие идеи и инициативы рождаются у самоорганизующихся команд.</li><li>Команда должна систематически анализировать возможные способы улучшения эффективности и в соответствии с этим корректировать своё поведение.</li></ol><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/777c8d68f9ff1f01eb3fa301bb76250a51055e1b"><div class="image-caption">А.А. Лабас — «В метро», 1935 г.</div></div><p class="img-source">Источник: <a target="_blank" href="https://vk.com/cultdays?w=wall-34892091_1893">vk.com</a></p></div><p>Здесь мы снова видим готовый рецепт удачной школьной реформы. Никто не спорит с тем, что школа должна обеспечивать «осмысленное обучение». Споры ведутся о том, чем именно это осмысленное обучение является.</p><p>Двенадцать принципов выводят этот вопрос на первый план, туда, где он и должен быть, и дают нам возможность решить, так ли важны результаты итогового тестирования, как некоторые утверждают, или есть дополнительные критерии, которые следует принимать во внимание.</p><p>Представьте, какую силу в себе несет принцип номер 7: «Осмысленное научение — основной показатель прогресса». Фокус непосредственно на обучении (и его ценности для «клиента»), а не на опосредованной и зачастую не заслуживающей доверия оценке посредством тестирования (которое нужно в первую очередь штату), способен радикально изменить систему образования к лучшему.</p><p>Без набора руководящих принципов работники сферы образования часто теряются. Поэтому школы зашли в тупик, реформа изжила себя, энтузиазм учителей на нуле, общественный цинизм растет, а взаимная неприязнь между станами реформаторов усугубляется и вот-вот перерастет в открытую вражду.</p><blockquote><div class="body"><p class="quote-content">В сфере образования явно есть склонность к планированию и нежелание действовать, и это препятствует изменениям. Мы страдаем от «паралича анализом», потому что считаем сбор информации и составление планов более важным, чем использование этой информации для конкретного действия. Внедрение Agile в школах решило бы обе эти проблемы. Любая школа, применяющая методы Agile, была бы более готова к изменениям.</p></div><div class="author">— Джастин Бедер,<span class="descr">директор начальной школы Olympic View Elementary School в Сиэттле</span></div></blockquote><p>Руководствуясь клиентоориентированным подходом и проверенной методологией, директора школ и учителя могли бы поставить интересы своих учеников выше требований системы — и, вероятно, решить заодно задачи системы, например, повысить средний балл по результатам итоговых тестов. Это стало бы побочным эффектом осмысленной, целенаправленной и ориентированной на действие работы.</p><p><em>© Copyright 2008 by Teaching That Makes Sense, Inc. Used by permission. For information contact Steve Peha at <a href="mailto:stevpeha@ttms.org">stevpeha@ttms.org</a>.</em></p><p><em>Оригинал статьи опубликован на английском в журнале <a href="https://www.infoq.com/articles/agile-schools-education">InfoQ</a>.</em></p><p><em>В оформлении статьи использована фотография инсталляции <a href="http://www.dezeen.com/2013/12/22/huge-fabric-cocoon-sophia-chang-extended/">«Suspense»</a> by Sophia Chang.</em></p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer "> 7 июля 2016, 10:30
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /tech/agile-methodology-in-education " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Выйти из тупика: принципы Agile для современного образования от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/tech/agile-methodology-in-education"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                                                <div class="n2-post__author">
+                                    <div class="n2-post__author__label n2-author-label n2-author-label_nonstaff">Внештатный автор</div>
+                                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/ff41d9ed3b9fdc0c9319883214f85496.JPG" alt=""></div>
+                <div class="n2-post__author__name io-author">Анна Турчанинова</div>
+                <div class="n2-post__author__descr"></div>
+            </div>
+            
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/tech"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_tech">технологии</a>
+                                                                    <a href="/tech"
+                                       class=" n2-tag n2-tag_grey n2-tag_tech">технологии</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/1512/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/parenting/alternative-education-in-russia"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/parenting" class="n2-tag n2-tag_parenting"
+   style="background-color: #f58d25">дети</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Школа — дело добровольное. Об альтернативном образовании в России</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/tech/if-school-was-like-programming-courses"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/tech" class="n2-tag n2-tag_tech"
+   style="background-color: #5ca7cc">технологии</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Чему курсы программирования могут научить обычную школу?</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/new-literature-ege"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Конец дрессировке, или о новом ЕГЭ по литературе</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/tech/agile-methodology-in-education">
+                    <input type="hidden" name="post-id" value="1512">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 1532593588;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

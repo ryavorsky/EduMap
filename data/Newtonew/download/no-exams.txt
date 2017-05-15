@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Кушнир об отмене экзаменов</title>
+
+    <meta name="description" content="ЕГЭ не плох и не хорош. Он морально устарел вместе с традицией экзаменов, аттестатов и дипломов."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/no-exams"/>
+            
+    <meta property="og:title" content="ЕГЭ — апофеоз образовательного конвейера"/>
+    <meta property="og:description" content="ЕГЭ не плох и не хорош. Он морально устарел вместе с традицией экзаменов, аттестатов и дипломов."/>
+    <meta property="og:url" content="https://newtonew.com/school/no-exams"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/99838005efbcc9514745460afe2373a7.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/99838005efbcc9514745460afe2373a7.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/99838005efbcc9514745460afe2373a7.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="active">        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li class="active">        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">ЕГЭ — апофеоз образовательного конвейера</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/no-exams">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(6)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="1454">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: 14 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 6</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>ЕГЭ — апофеоз образовательного конвейера</h1>
+                        <div class="n2-post-header__annotation"><p>ЕГЭ не плох и не хорош. Он морально устарел вместе с традицией экзаменов, аттестатов и дипломов.</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>C наступлением лета ожидаемо обострилась дискуссия про ЕГЭ: одни винят его в развале советской школы и требуют отмены, другие согласны с его недостатками и требуют его совершенствования. Парадокс этого конфликта в том, что правы обе стороны, но не могут договориться, потому что не могут подняться над технологической задачей «провести экзамен». Зачем его проводить?</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/opinion/platsh_yaroslavny_o_ege">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/58cb52877b9b981690c55a94051e399a.jpg" alt=""></span>
+                Плач школьников по ЕГЭ
+    </a>
+</div></div><p>Ярче всего эта вилка видна между двумя ранее опубликованными статьями <a href="https://newtonew.com/analytics/platsh_yaroslavny_o_ege">«Плач школьников по ЕГЭ»</a> и о <a href="https://newtonew.com/discussions/nauka-i-obrazovanie-noam-homskij-apple-i-ischezajushchee-detstvo">Ноаме Хомском</a>: «Если всё обучение сводится к подготовке к экзамену и его сдаче, никто ничему не научится».</p><p>ЕГЭ выявил не только уровень обученности по всей стране, но и направленность обучения: подавляющее большинство учится ради экзамена. Раньше учились для всяких разных экзаменов того времени, а теперь для одного на всех. Поэтому закономерность стала очевидна. Поэтому учителя плачут: когда учились для их экзамена, учителям казалось, что дети учат нужные вещи, а теперь чужой ЕГЭ. Но это самообман.</p><div class="important-text important-text_type02">После 25 лет в школе я абсолютно согласен с Хомским: кто учился у меня ради знаний, хорошо сдавал и хорошо знает; кто учился ради сдачи, хорошо сдавал, но…</div><p>Эпоху ЕГЭ застал мой старшенький и даже зацепила неудачным поступлением старшая дочь — уже на следующий год ей пришлось сдавать ЕГЭ. Можете мне не верить: специально к ЕГЭ она не готовилась, но сдала на высокий балл, позволивший поступить в МГУ на фундаментальную медицину, в которую не пробилась в предыдущем году. Уже благополучно закончила и продолжает погружаться в непростую врачебную долю.</p><h2>Немного ретро</h2><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/hero/nauka-i-obrazovanie-noam-homskij-apple-i-ischezajushchee-detstvo">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/e54d329fa58c6c6397d93adc6d394d10.jpg" alt=""></span>
+                Великий бунтарь-языковед Хомский о языке, школе и детях
+    </a>
+</div></div><p>Откатимся на 15-20 лет назад в эпоху «до ЕГЭ». Весна-лето убиты до середины августа намертво. Об одновременном поступлении в несколько вузов можно даже не мечтать. Максимум, на что можно рассчитывать — попытка вскочить в вузы высшей лиги, которые проводят экзамены чуть раньше основного потока вузов вскоре после выпускного бала. Некоторые проваливались «между стульев», когда непопадание в приказ о зачислении в вузы высшей лиги (по баллам был шанс) происходило позже даты последней сдачи документов в основную волну вузов.</p><div class="important-text important-text_type02">Несчастные дети ЕГЭ, как вам сдать за лето 10-12 экзаменов с разрывом в 1-3 дня?</div><p>Это без попытки поступления в вузы высшей лиги! Экзаменационный марафон из двух частей — в школе, где учителя могут припомнить старые грехи, и в вузе, где свои коррупционные тараканы. Не буду вспоминать издевательства при поступлении для особо отличившихся по <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%8F%D1%82%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B0">пятой графе</a> — не все об этом знают и не всех это касается.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/c04c23456914ef83c510e6d1a302194b40ce5bd7"><div class="image-caption">Выпускной экзамен по истории, 1985 г.</div></div><p class="img-source">Источник: <a target="_blank" href="http://22-91.ru/upload/images/photo/4d/43/662ca12b6254e446024229c0b0ab1401654145.jpg">http://22-91.ru</a></p></div><p>Было бы очень интересно сегодня почитать подборку истерических публикаций тех лет о выпускных и вступительных экзаменах, о мечтательных ожиданиях независимого от школ и вузов тестирования по единым для всех правилам. Может, кто из журналистов возьмется за такую историческую выборку? Думаю, она породит большой интерес и широкий отклик.</p><p>Во всех этих условиях «редкая птица» из регионов решалась залетать в столичные вузы. ЕГЭ разрушил этот барьер. И именно к этому факту апеллируют сторонники ЕГЭ. Я же к этому аспекту отношусь скептически: хорошо ли это, нужно ли это, кому, зачем?</p><p>Мне в ЕГЭ нравится, прежде всего, принцип «единой линейки», удаляющей все промежуточные варианты оценки. Это апофеоз модели индустриального образовательного конвейера! Конвейер, где единое образовательное пространство понимается как единая образовательная программа по единым учебникам для всей страны.</p><div class="important-text important-text_type02">Такой конвейер позволяет бесшовно закончить 5 «А» во Владивостоке и продолжить в 6 «Г» в Москве, Питере или Екатеринбурге.</div><p>От единого независимого экзамена ожидали избавления от местничества на экзамене, от идиотизма «как учу–так ворочу», от невозможности дать реальную оценку единому образовательному пространству, от убойной экзаменационной гонки «школа-вуз».</p><p>Старожилы не упомнят, но был ещё ограниченный эксперимент по финансовому подкреплению итогов ЕГЭ — <a href="http://ecsocman.hse.ru/text/17675618/">ГИФО</a>. Это ещё более апофеозное финансовое закрепление логики образовательного конвейера, но он логичным образом утонул. На мой взгляд, идея именных финансовых обязательств государства заслуживает внимания, но в другой реализации.</p><h2>ЕГЭфобы против ЕГЭфилов</h2><p>Итак, единая на всех линейка оценки обученности построена, от летнего экзаменационного марафона «школа-вуз» дети избавлены.</p><div class="important-text important-text_type02">Остался спринт, который многих тоже фрустрирует, но он несопоставимо легче.</div><p>И снова мы получаем крики недовольства вплоть до политических заявлений. Почему?</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/new-education-system-manifesto">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/c10c480593ba67141daef374a0a9166b.jpg" alt=""></span>
+                Манифест новой системы образования: от просвещения к образованию
+    </a>
+</div></div><p>Главный тезис <strong>противников ЕГЭ</strong> в том, что детей начали натаскивать на ЕГЭ вместо «разумного, доброго, вечного». Всех эта беда затронула? А раньше было иначе? У всех? Почему вы так решили? Тест на беременность раньше был отрицательный. Потом взяли новый тест — результат положительный. Так это тест виноват или что-то изменилось в жизни? Важен результат теста или жизненные процессы? Какую альтернативу предлагают сторонники отмены ЕГЭ?</p><p><strong>Сторонники совершенствования ЕГЭ</strong>, признавая наличие конкретных недостатков реализации, упирают на единство тестового пространства и на снятие региональных барьеров (закрывая глаза на утечку лучших выпускников из региона). Их главный тезис — «неча на зеркало пенять». Они готовы вкачать любые средства на полицейские задачи чистоты этого зеркала. Например, на борьбу с мошенническими способами сдачи экзаменов, хотя они всегда были, есть и будут. Этим вполне довольны технари, которые всегда будут иметь хлеб на решении этой убийственной задачи. Про эффективность такой нагрузки на бюджет критики ЕГЭ обычно не говорят: их больше образовательный престиж страны волнует. Якобы!</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/2a850345836d045edc158e5abee2edb924793406"><div class="image-caption">Выпускной экзамен по физике, Полтава, июнь 1986 г.</div></div><p class="img-source">Источник: <a target="_blank" href="http://photo-element.ru/competition/retro/seventh/23.jpg">photo-element.ru</a></p></div><p>Я славлю ЕГЭ за зеркало и ругаю как сторонников, так и противников за неспособность увидеть адекватно свое отражение:</p><ul class="ul-large"><li>одних — за ловлю блох в оценке «срока беременности»;</li><li>других — за готовность разбить зеркало, лишь бы эту «беременность» не замечать.</li></ul><p>ЕГЭ выявил гораздо больше, чем достоверную оценку состояния обученности по всей стране. И за это ему памятник нужно поставить:</p><div class="important-text important-text_type02">ЕГЭ выявил отсутствие цели образования у подавляющего большинства участников образовательного процесса!</div><p>Это логично! Это должно было быть выработано конвейерной моделью, но без ЕГЭ это было сложно увидеть. Даже сейчас многие этого не видят. Причём у разных участников образовательного пространства разные цели, а у системы образования должна бы быть цель обеспечить все эти цели. Но даже у системы образования нет внятных целей. Я знаю, о чём говорю — покопайтесь в нормативной базе, кто не верит и кому интересно.</p><h2>Откуда же те замечательные результаты СССР?</h2><p>Во-первых, не надо все успехи возлагать на заслуги советской школы. Была большая инерция от царской системы образования и её кадров. Многие советские достижения, как сегодня проясняется, были не только советскими: многое пришло из-за рубежа, в том числе по каналам разведки. Это не умаляет достижений советской школы, но снимает ореол с её исключительности.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/02700576fb698609fdd042d90f7120217782d496"><div class="image-caption">Из коллекции Льва Бородулина: «Это мои замечательные сверстники, снятые во время выпускных экзаменов за месяц до начала Отечественной войны. Я заканчивал десятилетку в другом классе, в другой школе, но также в Москве. Тема сочинения у нас была та же самая: «Наше счастливое будущее».</div></div><p class="img-source">Источник: <a target="_blank" href="http://www.borodulincollection.com/war/index.htm">borodulincollection.com</a></p></div><p>Во-вторых, для индустриальной экономики на массово необразованном пространстве индустриальная модель образовательного конвейера абсолютно адекватна и эффективна — по ней работал весь мир. Была цель индустриализации с понятными критериями подготовки. Была мотивация необразованных людей «выйти в люди». Советская система образования отвечала потребностям общества и была весьма эффективна, особенно на начальном этапе. Обращаю внимание: мотивация к обучению получала отклик в системе образования, поэтому система была эффективна.</p><p>Потребность общества в стандартных кадрах постепенно удовлетворялась, уровень образования всей страны постепенно повышался — естественно, это привело к новым потребностям, которым система образования не отвечала. Именно это стало причиной начала реформ.</p><p>Новая Россия 90-х получила новаторское министерство Днепрова, которое выпустило революционный закон «Об образовании» 1992 года с идеями гуманизации и личных образовательных целей. Но в массовом сознании эти идеи не успели закрепиться. Это привело к медленному откату на традиционные методы управления образованием, вопреки духу, а часто и букве закона.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/2fac4c37c8f3b6aefb11ec53e6a17027e1f8bd8e"><div class="image-caption">Дети 1990-х — дети распутья.</div></div><p class="img-source">Источник: <a target="_blank" href="http://radikal.ru/lfp/s39.radikal.ru/i086/0808/ea/f98754f8c1fc.jpg/htm">radikal.ru</a></p></div><p>Теперь мы на распутье: назад в советскую школу или вперёд к индивидуальным образовательным траекториям. Чёрт знает, как их строить, но многим это уже удалось. Страшно. Но и назад страшно. Особенно когда смотришь западные новости про стремительно развивающиеся научные и технические достижения.</p><p>Нас должно несколько утешить, что это всемирная проблема. «Это» — это формирование собственных образовательных целей, мотивация к обучению, система образования, отвечающая на индивидуальные образовательные запросы (когда они есть!).</p><p>Все страны, включая лидеров по итогам всяких-разных методик оценивания, озабочены поиском решения этих проблем. Но многие из них осознали проблему, им проще: правильный вопрос часто важнее ответа.</p><div class="important-text important-text_type02">Мы же всё ещё спорим, какая перед нами проблема.</div><p>Поэтому «поубывав бы» тех, кто ставит ЕГЭ впереди паровоза.</p><h2>Образовательная цель как цель</h2><p>Тот, у кого есть образовательные цели, рассматривает ЕГЭ как инструмент их достижения. У кого нет образовательной цели, хватается за ЕГЭ в качестве цели.</p><div class="important-text important-text_type02">Это как схватить термометр не для определения своего здоровья, а для доведения столбика ртути до отметки 36,6.</div><p>Утверждают, что именно ЕГЭ заставил учителей натаскивать на ЕГЭ. Это справедливо только отчасти: для тех, у кого родители и дети сформировали такой запрос «нам пофиг ваши предметные заморочки, нам бы ЕГЭ». Но многие учителя сами выбрали ЕГЭ к качестве цели и давят им детей и родителей — им так проще, чем ставить содержательные образовательные цели и даже чем разбираться с новыми ФГОС. И чиновники помогли со своей манией к числовым отчетам. KPI-мания, пёс бы её побрал.</p><h2>Куда же без экзамена?</h2><p>Экзамен по окончании обучения — логичный шаг в организации образовательного конвейера: изделие должно быть проверено на соответствие ТУ и помечено штампом ОТК.</p><p>А теперь подумаем все вместе. Если ученик является субъектом образовательного процесса, а образовательная организация оказывает образовательную услугу, кто кого должен проверять на экзамене? И должен ли? Не здесь ли весь идиотизм ЕГЭ?</p><div class="big-video-container"><div class="image-with-caption"><div class="video"><div class="video-container-wrap"><div class="video-responsive-container"><iframe type="text/html" src="https://www.youtube.com/embed/aYwVvZSb--M?enablejsapi=1&html5=1&autohide=1&showinfo=0&rel=0&vq=hd720" allowfullscreen="" frameborder="0"></iframe></div></div></div><div class="image-caption">На экзаменах всегда списывали и будут списывать. Металлоискатели и видеокамеры не помогут.</div></div><p class="img-source"></p></div><p>Зачем нужен экзамен? Какие задачи он решает? Нельзя ли иначе решить эти задачи? Ведь сам факт избыточных затрат на обеспечение честного экзамена говорит о его нелогичности и невостребованности. То, что реально нужно людям, не требует больших издержек.</p><div class="important-text important-text_type02">Совершенно очевидно, что выпускные экзамены себя изжили.</div><p>В противном случае, не было бы регулярного опускания планки по негативным итогам.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/educational-consumerism">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/55b6478c657741fa6d55513ec61f68e4.jpg" alt=""></span>
+                Получить образование или получить от системы образования?
+    </a>
+</div></div><p>Берусь утверждать, что и вступительные экзамены себя изжили. Современные технологии позволяют начальные курсы сделать электронными и принимать на них всех желающих без необходимости жить рядом с вузом. По мере освоения программы можно принимать решение о допуске на очные образовательные мероприятия. Это другая модель работы вуза, но вузы обязаны меняться сегодня, ибо они гораздо критичнее не отвечают своим задачам, чем ЕГЭ.</p><p>Полагаю, совершенно необходима структура независимых центров тестирования и квалификации, которые могли бы подтверждать уровень компетенций каждого по всем требуемым уровням и направлениям обучения. Это бы позволило построить заметно более адекватную модель соотнесения имеющихся у кандидата компетентностей с требуемыми компетенциями.</p><div class="important-text important-text_type03">Заодно отменим потерявшие смысл аттестаты и дипломы об образовании: они были актуальны тогда, когда компетенции были унифицированы и не слишком разнообразны.</div><p>Стремительное развитие науки и технологий делают и без того устаревшую систему квалификаций невозможной.</p><h2>Конфликт как части целого (© П.Сергоманов)</h2><p>Вспомню кое-что из конфликтологии:</p><div class="important-text important-text_type02">Лучшее решение любого конфликта — суметь подняться над ним и увидеть общее.</div><p>ЕГЭ неадекватен современным потребностям. ЕГЭ является высшим достижением конвейерной модели образования: он обеспечивает ей единый инструмент измерения «качества».</p><p>Самое удивительное, что призывающие к отмене ЕГЭ обычно тянут в «советскую школу», которая и есть такой конвейер. А сторонники ЕГЭ являются противниками конвейера — активно выступают за гибкость образовательной системы, за индивидуальные образовательные программы. Так и получается, что противники индустриальной модели образования поддерживают высшее её достижение.</p><div><p>Объясняется это недоразумение кавычками, в которые я поставил слово «качество», поскольку ЕГЭ не измеряет качество образования (можно ли его измерить?) — он строит рейтинг на основе способности решать задачи ЕГЭ. А экзамен традиционно стремился проверить качество освоения изученного материала. И вся негодующая от ЕГЭ масса хочет снова проверять качество обучения. Именно поэтому их не устраивают задачи ЕГЭ — они не могут закрыть гештальт конвейера: качество ученика-детали на выходе не проверяется столь же тщательно, как раньше! Достоверность и оправданность этой проверки вызывает у меня сомнение, но, если есть на эту процедуру спрос, его необходимо учитывать. </p><p>Сторонники ЕГЭ осознали изменение субъектности ученика — он уже не деталь на конвейере: он начал формировать собственные образовательные цели, предусмотренные в законе, поэтому экзамен для него инороден. Ему нужна понятная процедура перехода на следующий жизненный этап, а чему учиться, он сам решает. Далеко не все такие, но их уже довольно много.</p><p>Таким образом, конфликт между сторонниками и противниками ЕГЭ — это конфликт между субъектами образования, имеющими собственные образовательные цели, и объектами, предпочитающими исполнять образовательные цели других. Всех волнует успешное образование, но способы его реализации они видят по-разному в силу разного локуса контроля целей образования и, соответственно, своего места в процессе. </p><p>Отсутствие образовательных целей имеет место и в среде учеников, и в среде родителей, и в среде учителей. Есть и те, кто хочет диктовать свои образовательные цели другим. Именно поэтому много противников. Но без собственных образовательных целей нет позитивной мотивации к обучению. А без позитивной мотивации КПД обучения сопоставимо с КПД паровоза. </p><div class="important-text important-text_type02">Без отмены конвейерных моделей обучения Россия обречена на отставание.</div><p>Как минимум, имеющим образовательные цели нужна возможность выходить на образовательный простор, а не пробивать стены лбом. А тем, кто не готов пока самостоятельно их выстраивать, продолжать строить обучение проверенным путем под внешним целеполаганием. Только не надо загонять под него всех.</p></div><p>Вся образовательная система нуждается в коренных изменениях. Эта новая система образования должна обеспечить каждому его собственную, отвечающую его образовательным целям, образовательную траекторию. А выросшая из опыта независимого тестирования ЕГЭ новая система тестирования и квалификации всех уровней и направлений обучения обеспечит контур достоверности всей системы.</p><p><em>Подробнее о моём видении современной системы образования можно почитать <a href="http://medwk.blogspot.ru/2013/05/blog-post_29.html">в моём блоге</a>. </em></p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">10 июня 2016, 12:00
+                            <br>
+                                                            Мнение автора может не совпадать с позицией редакции.<br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /school/no-exams " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=ЕГЭ — апофеоз образовательного конвейера от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/school/no-exams"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                                    <div class="n2-post__author">
+            <div class="n2-post__author__label n2-author-label"><a href="/columns/mihail-kushnir">АВТОРСКАЯ КОЛОНКА</a></div>
+            <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/columns/c03f273e2b66dac4adc2160365a768b9.jpg" alt=""></div>
+            <div class="n2-post__author__name io-author">Михаил Кушнир</div>
+            <div class="n2-post__author__descr">Сфера образования &mdash; противоречивая вещь. В ней соединяются консерватизм и прогресс, бюрократия и эффективность, массовость и персонализация... После 25 лет в школе и нескольких лет экспертом в образовании накопил множество тем для обсуждения.</div>
+        </div>
+    
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/school"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                                    <a href="/opinion"
+                                       class=" n2-tag n2-tag_grey n2-tag_opinion">мнения</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/1454/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/my-way-to-ege"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Советы одиннадцатиклассника: как подготовиться к ЕГЭ</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/ege-history-24"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">ЕГЭ по истории: как научиться рассуждать?</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/opinion/essays-that-learn-you-to-think"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/opinion" class="n2-tag n2-tag_opinion"
+   style="background-color: #7583c9">мнения</a>                            <a href="/opinion" class="n2-tag n2-tag_opinion"
+   style="background-color: #7583c9">мнения</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Эссе: жанр, который учит мыслить</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/no-exams">
+                    <input type="hidden" name="post-id" value="1454">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 861084280;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

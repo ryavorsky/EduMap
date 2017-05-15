@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Детские качели и другой важный контекст / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Зачем учителю думать о жизни учеников вне школы? Разбираемся вместе с молодыми преподавателями, которые переехали из Москвы и Санкт-Петербурга в маленькие города и сёла."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/simple-complicated-social-context"/>
+            
+    <meta property="og:title" content="Детские качели и другой важный контекст"/>
+    <meta property="og:description" content="Зачем учителю думать о жизни учеников вне школы? Разбираемся вместе с молодыми преподавателями, которые переехали из Москвы и Санкт-Петербурга в маленькие города и сёла."/>
+    <meta property="og:url" content="https://newtonew.com/school/simple-complicated-social-context"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/3cacb8b0f3d3fa21f9fd707fb7569475.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/3cacb8b0f3d3fa21f9fd707fb7569475.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/3cacb8b0f3d3fa21f9fd707fb7569475.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Детские качели и другой важный контекст</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/simple-complicated-social-context">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(4)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="1943">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: &gt;15 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 4</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Детские качели и другой важный контекст</h1>
+                        <div class="n2-post-header__annotation"><p>Зачем учителю думать о жизни учеников вне школы? Разбираемся вместе с молодыми преподавателями, которые переехали из Москвы и Санкт-Петербурга в маленькие города и сёла.</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Весьма популярный киносюжет: интеллигентный учитель приходит работать в «неблагополучную» школу и, прорываясь сквозь недоверие учеников, вносит в их жизнь лучик света. Такие фильмы, даже если не обещают однозначный хеппи-энд, всегда вызывают некоторое воодушевление. Как вы думаете, почему?</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/movie/films-about-teachers">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/736f8011441e504d587c1bbea938fdc7.jpg" alt=""></span>
+                Фильмы об учителях, которые меняют мир
+    </a>
+</div></div><p>Учитель, будь то Эрин Грюэлл из «Писателей свободы» или Лидия Михайловна из «Уроков французского», выстраивает с детьми живое общение, диалог, основанный на жизни детей вне школы, а не на официальной школьной программе.</p><div class="important-text important-text_type02">Такой диалог был бы невозможен, если бы учитель не старался понять социальный контекст, в котором эти дети живут.</div><p>Любая школа работает в обстоятельствах, связанных с социально-экономической ситуацией, в которой растут её ученики. Эти обстоятельства находятся вне образовательного процесса и при этом оказывают на него существенное влияние.</p><p>Социальный контекст — он как воздух, которым мы дышим. Пока не происходит ничего необычного, мы его как будто не замечаем. Учителя из фильмов, несущие лучик света, чаще всего являются представителями другой социальной среды, нежели дети. Это помогает создать драматургический конфликт, столкнув «непохожести» и проявив тем самым качества среды. Так и в реальной жизни: мы лучше чувствуем значение контекста, когда оказываемся в незнакомой для себя обстановке.</p><hr><h2>Социальный контекст как поле для диалога</h2><p>Даже если социальная среда не попадает под категорию сложной, учителю всегда полезно помнить о её существовании. Хотя бы для того, чтобы не было соблазна воспринимать школу как единственное место, где ребёнок учится жизни, и для того, чтобы выстроить тот самый живой диалог. </p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/interview-teacher-for-russia">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/c3e547d3b2b9fcf05fc6f9f58dd9f109.jpg" alt=""></span>
+                «Мы верим в то, что педагогика — дело творческое и прикладное»
+    </a>
+</div></div><p>В этом на собственном опыте убеждаются участники программы <a target="_blank" href="http://choosetoteach.ru/">«Учитель для России»</a>. По условиям программы выпускники престижных вузов Москвы, Санкт-Петербурга и других мегаполисов на два года идут работать в обычные общеобразовательные школы. Некоторые из этих школ находятся в маленьких городах и удалённых сёлах Воронежской и Тамбовской области — можете себе представить, в какой непривычной для себя обстановке оказываются молодые «городские» учителя.</p><p>После первого года работы программы организаторы решили, что во время Летнего института — пятинедельной интенсивной подготовки ребят к работе в школе — нужно говорить не только о том, что происходит в классе во время урока, но и отдельно — о социальном контексте. Этим летом во время подготовки участники программы примерили на себя «оптику социологов». Они отправились в однодневное полевое исследование городов Обнинск и Белоусово.</p><p>Разделившись на команды, ребята общались с местными жителями о том, где те проводят досуг, какие места считают в своих городах самыми главными, какие проблемы их волнуют, чем заняты дети после школы и так далее. Полученную информацию затем оформили в виде красочных стендов и обсудили между собой, делясь эмоциями.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/042cb26b66b5b76887e37d8e029813f6bee5b69a.jpg"><div class="image-caption">«Обнинск — это вам не Альфа Центавра». Презентация результатов полевого исследования, Летний институт программы «Учитель для России»</div></div><p class="img-source"></p></div><p>Социолог Пётр Иванов, который сопровождал эту практику, отмечает, что её главный результат — не собранная информация, а полученный опыт задавания вопросов.</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/c8d2ce916b7b24f1c60fa9a26383b37c67a1df10.jpg"></div><div class="person-of-interview__name">Пётр Иванов</div><div class="person-of-interview__descr">социолог, преподаватель НИУ ВШЭ и Московской высшей школы социальных и экономических наук</div></div><p>— Есть две разные системы, связанные с поведением человека, который занимается менеджментом знания, будь то учитель или библиотекарь. Есть советская парадигма, модернистская, в рамках которой учитель или библиотекарь — это хранитель знания, и он в определённом формате это знание выдаёт. Тот, кто к нему не присоединяется, тот «книг не любит», «двоечник». Это абсолютно выбраковывающая система формирования человека: нам не интересно, как устроен человек, мы знаем, как он должен быть устроен.</p><p>Есть другой подход: «носитель знания» должен не отбраковать, а воспитать в человеке желание получать знания, понять, что хотят дети, которые пришли в школу. Они хотят знать 2+2, или гладить морских свинок, или сочинять стихи? К чему у них есть склонность, что можно поощрять?</p><div class="important-text important-text_type02">Современный подход — это понимать, что человеку классно быть самим собой. А для того, чтобы уметь людям позволять быть самими собой, нужно знать, что это за люди.</div><p>Дети приходят в школу сформировавшиеся, они находятся в контексте семьи, в контексте занятости, которая существует в этом городе. И глупо подходить к этому контексту с какими-то лекалами. Как говорил Макс Вебер, рациональность всегда трансформируется. Нет никакой универсальной рациональности. Что разумно для аборигенов Шатобрианских островов, в высшей степени неразумно для жителя спального района Москвы. А для жителя пригорода Обнинска рациональность совсем другая.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/09b3beb577c017c022801c908787e761ffd2a618.jpg"><div class="image-caption">Презентация результатов полевого исследования, Летний институт программы «Учитель для России»</div></div><p class="img-source"></p></div><p>С исследовательской точки зрения мы, конечно, ничего особенного не сделали, никакие новые научные данные не получили. Но главное, что участники «полевой работы» побывали в позиции спрашивающего, непонимающего, интересующегося, как устроен мир.</p><p>Кроме того, понимание социального контекста даёт темы для разговора. Речь не о том, что есть какие-то педагогические технологии, которые вырастают прямо из этого понимания. Но мы можем строить вокруг этого истории, которые способствуют формированию картины мира.</p><p>Ведь, в конечном счёте, задача учителя не в том, чтобы наделить ребёнка определёнными компетенциями. Задача — сформировать у ребёнка картину мира, релевантную текущей реальности, показать, что у него есть ходы по действиям в этой реальности.</p><div class="important-text important-text_type02">Тебе нужно быть просто юристом или юристом, который понимает градостроительное законодательство, чтобы решать в своём городе проблемы районов, которые имеют историческую ценность?</div><p>То есть быть юристом не потому, что это просто круто, а потому, что ты можешь пригодиться именно в этой среде.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/20dd05f536bca503e6157e8cc3fe059425bed541.jpg"><div class="image-caption"> </div></div><p class="img-source"></p></div><p>Советская модернистская парадигма «универсальности» тех знаний, которые передаёт учитель и должны воспринимать ученики, приводит к тому, что, как писал Мандельштам, «мы живем, под собою не чуя страны». Если учитель считает, что есть универсальное знание, но оно не соотносится с тем, что ученик видит — школа становится местом, где нужно формально отсидеть за партой. А если учитель понимает, куда встраивается знание, которым он наделяет учеников, это совсем другой разговор.</p><hr><h2>Безграничные возможности и город Бутурлиновка</h2><p>После первой четверти этого учебного года мы связались с участниками программы, которые преподают в школах небольших городов и сёл. Нам было интересно, как непривычный для «городских» социальный контекст влияет на работу и как они используют его особенности.</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/019c0bba679b16a25e9aa821b7cd67412463118d.jpg"></div><div class="person-of-interview__name">Ольга Корешева</div><div class="person-of-interview__descr">учитель географии в школе города Бутурлиновка Воронежской области</div></div><p>— Я участвую в проекте уже второй год, поэтому всё, что связано с бытовыми условиями и особенностями местного уклада, стало привычным. Хотя прошлой зимой мне казалось, что большая часть внутренних ресурсов расходуется просто на то, что я здесь живу. Из возможностей куда-то пойти — только газпромовский стандартный спорткомплекс, в этом году открыли ещё маленький кинотеатр. Школа в городе, на мой взгляд, — самое живое место, и это здорово.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/a076a4ebdbb2c901d3e9955b9dcf4ff889196ff3.jpg"><div class="image-caption">Бутурлиновка — город в Воронежской области, население 25 000 человек. В городе есть ликёро-водочный завод и предприятия пищевой промышленности. Рядом с городом находится военный аэродром, на котором базировался старейший авиаполк страны.</div></div><p class="img-source">Источник: <a target="_blank" href="https://www.google.ru/maps/place/%D0%91%D1%83%D1%82%D1%83%D1%80%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0,+%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB./@50.8269373,40.535032,23980m/data=!3m1!1e3!4m5!3m4!1s0x4122d6207edf273d:0x7605b62a1c0c9c5!8m2!3d50.8330077!4d40.6023866">Google Maps</a></p></div><p>Мне кажется, что слабая сторона таких населённых пунктов — это то, что дети здесь мало чего видят и мало представляют свои возможности. Поэтому главное, что могут сделать учителя — это показать им разные варианты, показать, что бывает по-другому, не как они привыкли.</p><p>Я веду географию в 7 классе и рассказываю им как можно больше про разные страны. Ресурсов для того, чтобы куда-то поехать, у них пока мало, а ресурсов, чтобы что-то узнать — больше, чем они представляют себе.</p><p>Дети сами не пойдут вместо игры или социальных сетей к образовательному контенту, которого очень много онлайн, если им его не показать.</p><div class="important-text important-text_type02">Я им показываю гугл-карты и панорамы, и они вдруг узнают, что можно «погулять» по Парижу. Потом они бесконечно просят на перемене «погулять» по городам, и это меня очень радует.</div><p>Вообще я стараюсь больше рассказывать об общественной географии, хотя этот блок в седьмом классе не такой большой. Хочется, чтобы они поняли, какой мир разнообразный, в каких непохожих условиях живут люди, как интересно узнавать что-то новое про других.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/04128fd563f696a2b7f3d4aa0ebd0fd2f0856517.jpg"><div class="image-caption">Фото Маруси Поляковой</div></div><p class="img-source"></p></div><p>В маленьких городах «патриотическая линия» очень сильная. У меня в одном классе был мальчик, который, когда мы проходили строение тектонических плит по физической географии, при упоминании Северной Америки начинал кричать: «Не надо мне про Америку, дайте мне про Россию». И я понимаю, что он транслирует то, что слышит вокруг.</p><p>Лучший способ избавиться от нетерпимости — расширять свои представления о мире. В том году мы провели такой фестиваль — «Лингво Весна». Пригласили в школу иностранных студентов, которые учатся в Воронеже, чтобы они рассказали о своей культуре. К нам приезжали представители Узбекистана, Таджикистана, были студенты из Эстонии, из африканских стран. У меня были опасения, что реакция на эти страны может быть разная, потому что в бытовых разговорах разное звучит. Но дети участвовали во всём с удовольствием и интересом. Одно дело, когда ты называешь нехорошими словами каких-то абстрактных людей, другое — когда ты слышишь, как конкретный человек увлекательно рассказывает про свою страну.</p><div class="important-text important-text_type02">Среди гостей был один африканец из Уганды, он очень здорово говорил по-русски, и дети были от него в восторге: «Вы видели, какой он зачётный» — говорили они.</div><p>Хотя на уроках они не могут без смеха прочитать название реки «Нигер».</p><p>Кроме географии я веду краеведение, и мне важно, чтобы мы делали что-то, что дети могут сами прожить, чтобы они понимали: это про мой город, про то, что я сам могу сделать. Поэтому я не просто рассказываю, как, например, перерабатывают мусор в Берлине, но мы ещё вместе пытаемся придумать, как можно решить проблемы с мусором в Бутурлиновке.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/15c82ba99793bc32328d69d5c7c0591086faa8a7.jpg"><div class="image-caption">Фото Маруси Поляковой</div></div><p class="img-source"></p></div><p>Дети любят свой город, но они уверены, что здесь «нечего смотреть». Об этом мы с ними тоже говорили — что у каждого места свои особенности. В Москве одно, а здесь, например, было бы интересно посмотреть, как на маслозаводе работают люди, как растёт сахарная свёкла — я никогда раньше об этом не задумывалась.</p><p>В прошлом году в рамках краеведения я решила, что выдавать детям факты про Бутурлиновку и Воронежскую область скучно. Поэтому мы вместе проводили соцопрос. Тем более что я сама имела множество вопросов к тому, как устроена жизнь в Бутурлиновке: что-то ты можешь понять, наблюдая, а что-то не узнаешь, пока не спросишь.</p><p>Например, у меня было предположение, что низкая мотивация детей учиться после 9 класса — следствие того, что они видят ограниченный набор примеров перед собой. Уже в седьмом классе дети говорят, что будут учиться только до девятого. У мальчиков популярный вариант — пойти в военное училище и стать военным, так как это понятная карьера с неплохим доходом. Многие просто не понимают, зачем учиться лишние два года. И это грустно. Я пытаюсь объяснить, что, если закончить 11 классов, то можно точно так же пойти получать средне-специальное образование, как и думали, а можно и на что-то другое посмотреть.   </p><p>Ещё мне хотелось знать про частный сектор, занимаются ли семьи огородом, кто мама и папа по профессии, кем дети хотят быть, часто ли бывают в Воронеже, в каких ещё городах они побывали, что планируют делать после школы — уехать или остаться. Все эти вопросы были отражены в анкете, мы с моими учениками опросили школьников с 5 по 11 классы.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/d2ab6fdd12d35fc16c4f7d53f17e70c87dcc2627.jpg"><div class="image-caption">Фото Маруси Поляковой</div></div><p class="img-source"></p></div><p>Я увидела, что большинство детей, действительно, живёт в частном секторе, их семьи имеют свой огород, держат животных. В Воронеже большинство детей бывает раз в год, кто-то чаще. Но они посещают там только торговые центры вместе с родителями, хотя Воронеж — большой город с театрами, музеями, кино.</p><div class="important-text important-text_type02">Что касается профессий родителей, большинство мам — бухгалтеры и продавцы, папы — строители, водители и охранники. У ребёнка вряд ли возникнет идея стать учёным, работником музея, геологом, если он перед собой не видит таких примеров.</div><p>Тема «Кем быть?», мне кажется, здесь очень важна. Мы с моей коллегой по проекту хотим сделать «Ярмарку профессий», чтобы показать ребятам, что вообще им есть, из чего выбрать: позвать из Воронежа и Москвы самых разных специалистов, чтобы они рассказали о своей работе и помогли нам расширить горизонты, как сделали это гости «Лингво Весны».</p><hr><h2>«Они рассказывают мне про посёлок, я им — про Москву»</h2><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/00e1017d1187bd444e3e378ac398d688d8cc1048.jpg"></div><div class="person-of-interview__name">Ксения Шошина</div><div class="person-of-interview__descr">учитель химии в школе посёлка Ферзиково Калужской области</div></div><p>— В моей школе учится 500 детей. Я считаю, здесь очень добрые дети. Это мой такой термин: добрые. Значит, воспитанные, знающие, где они находятся. Мне очень приятно с ними работать, нет грубости, дерзости.</p><p>Эта школа попала под программу государственного финансирования, её полностью обустроили. Например, в кабинете химии есть все необходимые реактивы, вытяжной шкаф. В кабинете информатики у каждого свой индивидуальный ноутбук и так далее.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/e5c18330ea4b2c29b701a15987f6ccb2f177117e.jpg"><div class="image-caption">Ферзиково — посёлок в 32 км от Калуги, население 5000 человек. В посёлке и рядом с ним находится несколько небольших промышленных предприятий.</div></div><p class="img-source">Источник: <a target="_blank" href="https://www.google.ru/maps/place/%D0%A4%D0%B5%D1%80%D0%B7%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE,+%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+249800/@54.5371013,36.6506967,26938m/data=!3m1!1e3!4m5!3m4!1s0x4134ec6e459a24c7:0x1085449d1c9e20b0!8m2!3d54.5178626!4d36.7649464">Google Maps</a></p></div><p>Но главное, что для директора этой школы важно двигаться вперёд. Вроде и так всё неплохо, можно было бы пустить на самотёк и радоваться, что не разваливается. Но она понимает, что может быть ещё лучше, и нужно двигаться.</p><p>В осенние каникулы наш коллектив впервые в районе организовал школу «Новое поколение» — это была профильная смена по трём направлениям. Мы проводили не только предметные занятия, но и обще-интеллектуальные, на развитие критического мышления, на развитие командного духа и так далее. Дети были в восторге, они такого ещё не видели. Дети приходили в школу на каникулах — для всех это было удивительно.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/fda661de17cb19eb858e325c99784d713916af47.jpg"><div class="image-caption">Занятие в школе «Новое поколение». Фото Ксении Шошиной</div></div><p class="img-source"></p></div><p>Как мне кажется, раньше школа здесь не воспринималась как центр притяжения детей, как место, где они могут с радостью находиться и после уроков. А я считаю, что она должна быть таким местом, потому что больше детям в Ферзиково пойти некуда.</p><p>Вообще мы с детьми много общаемся. Я у них спрашиваю про их посёлок, они меня — про Москву.</p><div class="important-text important-text_type02">С помощью детей я тут выбрала тренажёрный зал (один из двух), нашла красивый парк и репетитора по английскому.</div><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/e0253822c18dcd5b86e2a22aef3fd2c8fbeb5771.jpg"><div class="image-caption">Посёлок Ферзиково, фотография Ксении Шошиной.</div></div><p class="img-source"></p></div><p>В таких местах, как Ферзиково, отношения между детьми и учителями ближе, чем в городе. Я не представляю, как в огромной московской школе я бы могла позвать детей к себе в гости. А здесь у меня есть такой план — собрать ребят у себя в гостях и пообщаться. Мне кажется, важно рассказывать им о своих ценностях, обмениваться с ними мнениями и опытом.  </p><hr><h2>Зачем качаться на детских качелях</h2><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/ccdd6cd55a7d56715d86ae852a60493f06cacdda.jpg"></div><div class="person-of-interview__name">Ирма Деркач</div><div class="person-of-interview__descr">учитель биологии в школе города Козельск, Калужская область</div></div><p>— Во время наших полевых исследований в городе Белоусово самым ярким впечатлением для меня были разные-разные качели во дворах. Я покачалась на всех. И это осознание, что дети качаются на этих самых качелях каждый день, понимание, как они устроены, эти качели, какие там горки, под 75 градусов к земле — это всё рассказало о месте больше, чем разговоры с жителями.</p><p>Сейчас, когда я живу в Козельске — это районный центр, 17 тысяч население, — я понимаю, что жить в маленьком городе — совсем не то же самое, что приехать туда побеседовать с местными. Здесь совсем по-другому устроен быт.</p><div class="important-text important-text_type02">Например, у меня недавно был уникальный опыт: я выбирала пылесос, а в магазине электроники не было света. И мы ходили с продавцом вдоль полок с фонариком.</div><p>И такие вещи здесь — это то, к чему все привыкли.</p><p>Здесь совсем по-другому устроены школы. В Москве школы гораздо больше, поэтому больше разобщённость. Здесь все друг друга знают, дети из разных параллелей общаются между собой. Недавно один пятиклассник рассказывал мне, что в седьмом классе нашлась его троюродная сестра — не знаю, возможна ли такая встреча в большом городе.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/985581111e6460abd541fa023c633b7829e3c935.jpg"><div class="image-caption">Козельск — город Калужской области, в 72 км от Калуги. Население 16 000 человек. В городе работает несколько заводов, в том числе машиностроительный и деревообрабатывающий. Рядом находится военная часть ракетной дивизии, с которой связана большая часть населения города.</div></div><p class="img-source">Источник: <a target="_blank" href="https://www.google.ru/maps/place/%D0%9A%D0%BE%D0%B7%D0%B5%D0%BB%D1%8C%D1%81%D0%BA,+%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB./@54.0368688,35.7169203,22902m/data=!3m1!1e3!4m5!3m4!1s0x4133402b6b62ea0d:0xb6f2b778f93255cf!8m2!3d54.0354827!4d35.7756041">Google Maps</a></p></div><p>В Москве ребята даже в младших классах смотрят на педагогов-практикантов примерно так: «Ну что, смешной человечек, чем ты удивишь меня сегодня». На них постоянно пробуют новые методики, игры и тому подобное, и они ещё подумают, участвовать в этом или нет.</p><p>А в Козельске, хоть у ребят и так творческие учителя, мы привезли ещё что-то новое. И ребятам это очень интересно, они не пресыщены инновациями. А так как общение между классами происходит активнее, то даже те, у кого я не преподаю, приходят ко мне и спрашивают: а у нас будет система опыта? А почему у нас такого не введут?</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/3eab6c9386aa609dc66ca0ddef2dc0f35506cc2f.jpg"><div class="image-caption">Фото Ирмы Деркач</div></div><p class="img-source"></p></div><p>Когда я приехала в Козельск, я смотрела на город не просто как человек, который будет здесь жить, а с точки зрения того, что здесь живут «мои» дети. Я знала, что у меня будет классное руководство, и пыталась представить, куда мы с детьми сможем ходить, что делать. Наличие потрясающего детского парка со скульптурами, по которым можно лазать — это здорово. Вообще я вижу, что тут о детях заботятся. Есть детские площадки, фигуры животных; проходят разные активности, вроде фестиваля энергосбережения.</p><p>«Детской бесхозности» в Козельске очень мало. Почти все дети ходят в какие-либо кружки, много спортивных активностей. Дети бегают, ходят на борьбу, в «качалку». Внутри города происходит много интересных вещей, которые не мы сюда привезли — они здесь просто есть.</p><p>Но, конечно, чтобы понимать, чем живут дети, на качелях качаться недостаточно. Важно смотреть, задавать вопросы, и тогда многие вещи становятся проще и понятнее.</p><div class="important-text important-text_type02">Ребёнок получил «два» потому, что он меня ненавидит, или потому, что ему младшая сестра учебник порвала? Это две разные ситуации, на которые надо по-разному реагировать.</div><p>Я должна учитывать, что не у всех детей есть удобный доступ в интернет. А в этом году в библиотеку завезли не все учебники, и в начале года на всех не хватило. Я сказала, что по биологии можно не носить учебник, можно скачать его дома и читать с компьютера. Но не у всех есть такая возможность. И дети сами решили эту проблему! Дети, у которых с интернетом и компьютерами всё нормально, уступили учебники другим детям, кто не сможет читать с компьютера.</p><p>Вообще, дети неожиданно самостоятельны, они решают некоторые проблемы сами, видя, что я бываю в растерянности. И у них высокая степень взаимодействия и взаимопомощи.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/d1c37fd4b591ca331f68f6914616e26c56099a23.jpg"><div class="image-caption">Фото Ирмы Деркач</div></div><p class="img-source"></p></div><p>Если говорить о влиянии социального контекста на мои уроки биологии — то, что точно никогда не пошло бы в Москве, здесь отлично заходит, потому что многие дети живут в частном секторе. Я именно поэтому с удовольствием задавала сочинение о том, как лучше всего выращивать какое-либо культурное растение.</p><div class="important-text important-text_type02">В Москве дети распечатали бы мне что-то из интернета о гидропонике, а здесь реально писали от руки, какие у них семейные хитрости выращивания картошки и помидоров.</div><p>Честно говоря, когда я сюда собиралась, я ехала бороться с консервативной педагогической системой. Я ехала во всеоружии и готовилась к полномасштабной войне. Мои ожидания совершенно не оправдались. Мои коллеги очень открыты, очень нас поддерживают. Хочешь отменить оценки в десятом классе? Пожалуйста! Возможно, это не получится сделать сразу из-за организационных моментов, но саму идею директор принимает.</p><hr><h2>Русские и курды в посёлке, где больше нет совхоза «Заря»</h2><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/fa1c675cb3410a896eeaef4c01e570469598977f.jpg"></div><div class="person-of-interview__name">Олег Орлов</div><div class="person-of-interview__descr">учитель истории и обществознания и географии в школе посёлка Демьян Бедный, Тамбовская область</div></div><p>— Я и до этого представлял себе, что такое российская деревня, просто не жил в ней и не работал. Манера общения, менталитет людей здесь отличается от городского. Тут нужно всё время следить за собой. Местные жители изучают нас, молодых учителей, потому что для них волюнтаристсткие идеи совершенно непонятны. Зачем человек едет из Москвы в такой небольшой посёлок? Они постоянно ищут в этом выгоду. Я ещё не приехал, но они уже знали, что я разведён и у меня двое детей. Пошёл слух, что я бегу сюда от алиментов. Другой слух был — что мы все получим миллион, когда эта программа закончится. Я не уверен, что об этом говорится на полном серьёзе, до нас всё доходит косвенно.</p><p>Но это совершенно не влияет на процесс образования, и вообще местные жители нам очень помогают, например, справляться с бытом.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/a5162a4d703b8b5d453f51250a40112cfff71da8.jpg"><div class="image-caption">Демьян Бедный — посёлок в 120 км от Тамбова, население 500 человек.</div></div><p class="img-source">Источник: <a target="_blank" href="https://www.google.ru/maps/place/%D0%94%D0%B5%D0%BC%D1%8C%D1%8F%D0%BD+%D0%91%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9,+%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+393693/@51.8064735,41.7711954,17046m/data=!3m1!1e3!4m5!3m4!1s0x413c3b3ea5ee9505:0xd29ee8e31fef1847!8m2!3d51.8232746!4d41.8360119">Google Maps</a></p></div><p>В советское время здесь был совхоз с яблоневыми садами, он назывался «Заря». Люди до сих пор называют себя «мы из Зари», а название «Демьян Бедный» им не нравится. В посёлке живут курды, они из Киргизии, приехали сюда работать в конце 1980-х или в начале 1990-х, да так и остались, хотя совхозов уже нет. Тут у всех есть своё хозяйство. Есть недалеко агрокомплекс, но там мало человек работает. Взрослые здесь, в основном, работают вахтовым методом в Москве, за Уралом.</p><p>Меня в первую очередь интересуют дети, я их спрашивал, кем они хотят стать. У большинства нет чётких представлений о будущем, но многие идут в колледжи. Курдские дети могут никуда не идти после школы, девочки могут рано выходить замуж.</p><p>В школе учится 42 школьника и 18 детей-дошкольников. Классы очень маленькие, по 4-7 человек. Это «девятилетка», она считается филиалом школы посёлка в 20 километрах.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/4e31883feee6ad3fdbbc71b7148990ff05309619.jpg"><div class="image-caption">Фото Олега Орлова</div></div><p class="img-source"></p></div><p>Сейчас я пытаюсь понять, как устроен процесс взаимодействия с родителями: насколько они могут поддерживать детей с домашними заданиями, насколько дети включены в помощь по хозяйству. Пока я вижу, что в дети в домашнее хозяйство включены гораздо больше, чем родители в учёбу.</p><div class="important-text important-text_type02">Мне кажется, что у них нет ценности образования. Они понимают, что быть умным — это хорошо, но они не чувствуют в этом какой-то ресурс.</div><p>Когда я только начал участвовать в проекте, ориентир был один — чтобы дети поступали в вузы. Теперь он поменялся. Я понимаю, что не важно, станет ребёнок трактористом или пойдёт в университет. Главное, чтобы он поверил в себя, почувствовал себя нужным в этом обществе, понял, что можно к чему-то стремиться. Важно, чтобы они делали выбор, а не просто шли по инерции.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/690f56de50f8d57609992e5a9385ef0965b3b324.jpg"><div class="image-caption">Фото Олега Орлова</div></div><p class="img-source"></p></div><p>Курды в посёлке знают русский язык, но живут обособленно. Межнациональных конфликтов нет, но всё-таки, мне кажется, что у русских присутствует некоторое бытовое пренебрежение к курдам.</p><p>Иногда это проскальзывает и у детей, хотя вообще дети спокойно относятся к национальностям, играют все вместе. Я спокойно настраиваю их на уважительное отношение друг к другу.</p><p>Как-то у меня был урок, и ребята стали подшучивать над одноклассником-курдом. Я их спросил: «Сколько языков вы знаете?» Все ответили: «Один, русский». И этот мальчик тоже так ответил. Я говорю ему: «Только ли один?» — «Ну, ещё свой, курдский», — «Значит, — говорю, — ты уже знаешь два языка!» И все очень удивились этому открытию, в том числе и сам мальчик. Видно было, что он почувствовал себя очень успешным.</p><p>Было бы интересно сделать здесь фестиваль народных культур. Курды исповедуют ислам, отмечают свои праздники, соблюдают свои обычаи. Здесь не принято заводить родственные связи между русскими и курдами. Получается, что люди 20 лет живут бок о бок без диалога культур. Только новый год все празднуют вместе.</p><div class="important-text important-text_type02">Когда вместе учатся дети разных национальностей — это большое подспорье для того, чтобы развивать вещи, связанные с миром во всем мире, культурным обогащением друг друга.</div><p>В таком небольшом пространстве, как посёлок, с детьми взаимодействуешь постоянно. Они приходят к нам с коллегой домой после школы. Я могу с ними делать домашнее задание или пойти поиграть в футбол. Такая неформальная педагогика очень хорошо мне помогала первый месяц. На второй месяц, в октябре, дети начали нас на уроках проверять: как мы реагируем на разные непотребные вещи на уроках, что можно, что нельзя. Но потом и этот период прошёл, мы нашли баланс.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/ae47c76bd4b198d974d20bde2b2c61f89685fd5a.jpg"><div class="image-caption">Фото Олега Орлова</div></div><p class="img-source"></p></div><p>Когда я пришёл в эту школу, сразу сказал, что хочу с детьми ездить на экскурсии. Недавно ездили в прекрасное место в посёлке Ивановка — музей-усадьбу Рахманинова. Я и дальше хочу изучать окрестности. Купил себе велосипед и катался всю осень по округе. Тут очень красиво.</p><hr><h2>Прекрасные виды села Глазок</h2><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/dfa8eb727e9d7e1eb2a364683691e7e0684f35ca.jpg"></div><div class="person-of-interview__name">Арина Сачкова</div><div class="person-of-interview__descr">учитель русского языка и литературы, английского языка в школе села Глазок Тамбовской области</div></div><p>— Глазок — удивительное место. Есть трасса Москва — Ростов, в какой-то момент надо свернуть с трассы и ехать в поля — прямо, прямо, прямо. Ты едешь и едешь, тебе кажется, что тебя засасывает куда-то… в глубинку.</p><p>Школа тут одна, и это филиал другой сельской школы. Сюда приезжают ребята из села Махорсовхоз («Мы выращиваем махорку!» — говорят дети гордо). В школе около 100 учеников вместе с подготовительной группой. В старшей школе детей мало, все расходятся по колледжам («Чего в этой школе сидеть, ничему новому нас не научат»). Отчасти они правы: им нужны практические умения больше, чем логарифмы, интегралы и прочее. В одиннадцатом классе у нас одна девочка.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/76d4cbe1d081ea282cc1f4a319a68da4dc9b1d12.jpg"><div class="image-caption">Село Глазок находится в 90 км от областного центра, Тамбова. Население 1300 человек.</div></div><p class="img-source">Источник: <a target="_blank" href="https://www.google.ru/maps/place/%D0%93%D0%BB%D0%B0%D0%B7%D0%BE%D0%BA,+%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+393734/@53.0888174,40.6313999,27859m/data=!3m1!1e3!4m5!3m4!1s0x4139b9004f00e093:0xeb28a031512578ce!8m2!3d53.096249!4d40.701752">Google Maps</a></p></div><p>В Глазке мне помог опыт нашей летней практики — подходить, узнавать, спрашивать. Оказалось, что людям приятно, когда ты интересуешься их местом жительства. На самом деле, иногда даже не нужно задавать вопросы: они сами готовы рассказать о том, что у них было, что есть и чего никогда не будет.</p><p>Меня в хорошем смысле удивило, что здесь есть библиотека, которая была построена именно как библиотека, в 1970-е. Сейчас там швах, пыль, паутина и тоска. Но библиотека отчаянно работает. Правда, новых книжек почти нет. Поэтому мы сразу начали придумывать проекты типа «Пришли книжку в село», но пока это ограничилось идеями.</p><div class="important-text important-text_type02">Меня удивляет, что дети каким-то образом умеют занимать сами себя, не имея почти ничего.</div><p>У них есть дом культуры, где есть драмкружок. В школе кружки «Пой, твори в ритме танца», мы вот ведём рукоделие и такой «Поговорить-клуб». Больше у них нет ничего, но они остаются весёлыми, дружными детьми.</p><p>Здесь нет такого: «Дойдёшь до школы — позвони», «Перейдёшь дорогу — позвони». В городе опасностей, подстерегающих маленького человека, гораздо больше. Поэтому здесь у детей другое отношение к реальности, к окружающему миру — они спокойнее относятся к свободе.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/d224650a94948df143a97b4daf626ee114ec99c6.jpg"><div class="image-caption">Фото Арины Сачковой</div></div><p class="img-source"></p></div><p>У многих детей мамы — домохозяйки, занимаются младшими детьми и работами на своём участке. У некоторых мамы работают в магазинах. Мужчины работают вахтами в Москве — две недели там, две недели дома.</p><p>В целом здесь господствует такое представление: надо учиться, не чтобы получать удовольствие, а чтобы поступить куда-то. Если не учишься — надо заставлять и втолковывать им, что это в жизни пригодится. Хотя на самом деле непонятно, как им это в жизни пригодится — думаю я.</p><p>Я с интересом обнаружила, почему дети не делают домашние задание. Есть девочка в пятом классе, она говорила, что только в 12 ночи садится за уроки, потому что до этого надо делать разные работы по дому. Как я могу снижать ей оценку за грязь и ошибки? Один мальчишка пытался избежать дополнительного английского: «Мне надо козлов выгонять!»</p><p>Такие моменты очень «бьют по голове». Ты сразу понимаешь, что надо «притормозить» и внимательнее посмотреть по сторонам. То есть у них есть большая параллельная жизнь дома, о которой ты можешь только догадываться и которую надо узнавать. У кого-то семеро по лавкам дома, кто-то не приходит в школу, потому что надо посидеть с младшим. Они об этом не говорят, потому что это для них обычно.</p><p>Мне кажется, что детей нужно немного освобождать от домашней работы, а не программу перестаривать с учётом их домашней занятости. Может, поменьше давить на то, что надо «выгонять козлов». Хотя, это моё мнение как учителя. А вдруг эти козлы, и правда, важнее?</p><div class="important-text important-text_type02">В кружке по рукоделию я заметила, что все девчонки умеют шить. Когда мы делали те же самые фигурки из фетра с городскими детьми в детском лагере, многие из них смотрели на меня круглыми глазами и не знали, как взять иголку.</div><p>Они умеют больше практических вещей, они «рукастые». Но пока я не придумала, как это использовать.</p><p>Конечно, им кажется, что уроки русского языка и литературы не имеют отношения к их жизненной практике. Но литературу я всё-таки стараюсь подбирать такую, чтобы цепляло восьмиклассников в их 14 лет. Душа-то у всех одинаковая, не важно, программируешь ты за компьютером или за поросятами ухаживаешь. Все дети влюбляются, печалятся, боятся чего-то. В этом плане по своим потребностям, по переживаниям они не отличаются от городских. Если смотреть «Вконтакте», у них на страничках те же самые грустные фотографии, цитаты про расставания навсегда и так далее.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/306c56c76c7ab7eaae596d4b79a55707f09518dd.jpg"><div class="image-caption">Фото Арины Сачковой</div></div><p class="img-source"></p></div><p>Я с ними учу грустные стихи, планирую почитать что-нибудь из зарубежной литературы. Когда мы пройдём всё необходимое, что нужно пройти. Литература цепляет их. А русский — срабатывает авторитет «надо учиться». Городские дети скажут: «Да мы всё это в интернете прочитаем», — и будут, в общем-то, правы. Здесь они так не говорят и учатся, потому что пришли в школу учиться.</p><p>Другое дело, что они этого очень не хотят, и приходится придумывать какие-то увлекательные формы. Очень хочется не превратить русский язык в набор табличек. Я им объясняю, что, хорошо зная язык, можно очень классно шутить, потому что игра слов — это здорово. Когда им открываются какие-то неожиданные стороны языка, это их «цепляет».</p><p>К учителям здесь относятся очень уважительно. «Учитель же тебе сказал, значит, делай».</p><p>В Мичуринске, ближайшем городе, есть несколько колледжей — кулинарный, железнодорожный, педагогический. Про Москву о поступлении многие даже не зарекаются. Единственная девочка хочет в театральный. Здесь железная дорога — перспективное направление. Многие выбирают ту же профессию, что есть у родителей. Но в целом это происходит безынициативно: «Ну поступлю, ну буду…»</p><div class="important-text important-text_type02">Есть понятный жизненный сценарий: учился в школе, потом где-нибудь ещё, женился. Все «отклонения» от него воспринимаются без понимания: поехать в Москву? Не сразу поступать? Поехать куда-то волонтёром? Зачем?</div><p>Меня это расстраивает, хочется сказать: ребята, у вас миллион возможностей! Учёба — вообще не самое главное в жизни, она терпит, особенно сейчас. Давайте наслаждаться жизнью, путешествовать, смотреть вокруг.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/374cda268d87d8fe02e6293b2a0b49708de3584a.jpg"><div class="image-caption">Фото из архива Арины Сачковой</div></div><p class="img-source"></p></div><p>Мне кажется, что здесь время затормозилось в восьмидесятых. Мероприятия проходят в таком стиле, подходы к жизни не меняютя десятилетиями. В этом плане сложно — потому что в больших городах многие люди могут думать свободнее и шире. Здесь даже рассказывая просто о том, что можно быть волонтером, ты для них открываешь Луну.</p><hr><h2>Урбанистика в тесном сообществе</h2><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/9d115a8b069a760076a82ebc0f075c0d68e25c5d.jpg"></div><div class="person-of-interview__name">Дарья Кутейникова</div><div class="person-of-interview__descr">учитель русского языка и литературы в школе города Белоусово, Калужская область</div></div><p>— Ещё во время летнего полевого исследования я узнала, что жители делят Белоусово на две части. Основная часть, «городская» — здесь обычные пятиэтажные дома, обычные советские дворы, и считается, что здесь безопасно, все друг друга знают. Вторая часть, Горка — там преобладает частный сектор, там темно, плохие дороги и очень много приезжих из южных стран. Горка считается неблагополучным районом. Это деление города на два очень видно в разговорах, и когда ты понимаешь, о чём речь — ты свой человек.</p><div class="big-img-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/ad8cf7e09dabe4537e48968dbd69c6db24ce44e9.jpg"><div class="image-caption">Белоусово — город в Калужской области, в 3 км от «наукограда» Обнинска, в 104 км от Москвы. Население 9000 человек.</div></div><p class="img-source">Источник: <a target="_blank" href="https://www.google.ru/maps/place/%D0%91%D0%B5%D0%BB%D0%BE%D1%83%D1%81%D0%BE%D0%B2%D0%BE,+%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB./@55.0923572,36.5972081,15788m/data=!3m1!1e3!4m5!3m4!1s0x41352d5449ebbb75:0x212087be821fd7cb!8m2!3d55.0914347!4d36.6709545">Google Maps</a></p></div><p>В Белоусово много ребят, для которых русский — неродной. Возможно, это связано с тем, что трудовым мигрантам здесь недорого жить, при этом можно вахтой работать в других городах области или в Москве.</p><p>Я преподаю литературу в пятых классах, там 3-4 человека с неродным русским, в начальной школе 7-8 ребят. Мало того, что им сложно учиться, они попадают в класс, где их начинают считать глупыми: дети не понимают, почему им сложно даются простые задания.</p><div class="important-text important-text_type02">...И я вполне себе взрослому одиннадцатилетнему парню объясняю, что его одноклассник не тупой, а просто учится на неродном языке. Вот если тебя сейчас отправить учиться на английском — и тебе было бы сложно.</div><p>Я столкнулась с вещами, связанными с тем, что здесь очень тесное сообщество. То, что ты говоришь одному родителю, тут же знают все. Мнение одного родителя о тебе тоже моментально распространяется на всех. Если родитель открывает журнал и видит, что у всех одни пятёрки, он обязательно спросит, почему так. И родительское сообщество вспыхивает моментально. Это не хорошо и не плохо, это просто нужно учитывать.</p><p>У детей огромный запрос на то, чтобы чем-то заниматься и куда-то приходить, и пятиклассников просто не выгнать из школы, если они чувствуют хорошее к себе отношение и готовность общаться. Они участвуют во всём, что ты им можешь предложить. Пятые классы, русский и литература — я их вижу каждый день.</p><p>Я им сделала такую штуку, «Утренние чтения». В 8:10, нулевым уроком, я читаю им книжки не по программе, вторник — прозу, четверг — стихи. Как-то раз приносила детские стихи Веры Полозковой (сама не знала до этого, что они у неё есть). Ну кто им будет читать Веру Полозкову? А им интересно!</p><div class="important-text important-text_type02">Несмотря на то, что есть большой запрос на разные активности у детей и взрослых, люди здесь не чувствуют, что они могут влиять на ситуацию в городе.</div><p>Хотя, в отличие от мегаполисов, тут очень доступная администрация. Глава администрации — не кто-то там с мигалкой, а твой сосед.</p><p>Осенью я вела внеклассные занятия по урбанистике, мы начали с детьми исследование центрального сквера, и у ребят были очень здравые мысли о его преобразовании. Они сами набросали идеи по его улучшению, сами выделили проблемы с переполненными мусорками, с освещением. Мы разделили сквер на зоны, спланировали этапы работы, надеюсь, весной получится продолжить.</p><p>Я увидела, как меняется отношение ребят к городу. Они вдруг подумали: а ведь я могу сделать проект, и самое страшное, что со мной случится, если я отправлю свой проект в администрацию — мне откажут. Хуже ничего не будет. Очень надеюсь, что историю со сквером мы доведём до логического конца. Это не Москва — тут проще влиять на ситуацию, в которой живёшь, просто надо это почувствовать.</p><p style="text-align:right"><em>В оформлении статьи фотография Екатерины Толкачёвой</em></p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">28 декабря 2016, 16:30
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /school/simple-complicated-social-context " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Детские качели и другой важный контекст от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/school/simple-complicated-social-context"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                            <div class="n2-post__author">
+                    <div class="n2-post__author__label n2-author-label n2-author-label_editors"><a href="/author/tolkacheva">Редакция Newtonew</a></div>
+                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/36246fdf86e2ab3244cdbfc7b4641786.jpg" alt=""></div>
+        <div class="n2-post__author__name io-author">Екатерина Толкачева</div>
+        <div class="n2-post__author__descr">Журналист и фотограф. Сфера интересов: образование в регионах, частные инициативы и герои, которые их предпринимают, гуманитарные предметы в школе, альтернативное образование.</div>
+    </div>
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/school"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/1943/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/parenting/small-planes-for-education"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/parenting" class="n2-tag n2-tag_parenting"
+   style="background-color: #f58d25">дети</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Чем авиамоделирование лучше LEGO?</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/trainer-tips"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Совет самим себе: 7 качеств хорошего наставника</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/different-school-traditions"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/culture" class="n2-tag n2-tag_culture"
+   style="background-color: #f5a525">культура</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Школьная культура: от чопорной Англии до виноватой Японии</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/simple-complicated-social-context">
+                    <input type="hidden" name="post-id" value="1943">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 1548831689;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

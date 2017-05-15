@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Семь школьников о своей жизни, учёбе и будущем / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Семь разных подростков, семь разных школ, семь разных историй."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/schoolchildren-about-life"/>
+            
+    <meta property="og:title" content="Семь школьников о своей жизни, учёбе и будущем"/>
+    <meta property="og:description" content="Семь разных подростков, семь разных школ, семь разных историй."/>
+    <meta property="og:url" content="https://newtonew.com/school/schoolchildren-about-life"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/9e3175546b86cacd280b4ed8ba59688a.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/9e3175546b86cacd280b4ed8ba59688a.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/9e3175546b86cacd280b4ed8ba59688a.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Семь школьников о своей жизни, учёбе и будущем</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/schoolchildren-about-life">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(10)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="1227">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: &gt;15 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 10</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Семь школьников о своей жизни, учёбе и будущем</h1>
+                        <div class="n2-post-header__annotation"><p>Семь разных подростков, семь разных школ, семь разных историй.</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>О чём бы мы ни писали — об использовании гаджетов на уроках литературы, обучении навыкам программирования или блокировке интернета в школах — тема остаётся одна. Это те, для кого работают школы, учителя и вообще вся система образования, в чью защиту ломаются копья, кому опасаются давать свободу или, наоборот, требуют её предоставить. Это дети. О чём бы ни велись споры, в каждом из них проглядывает их образ. Какие они сегодня? Оливеры Твисты? Холдены Колфилды? Чарли, Сэм и Патрик из «Хорошо быть тихоней»? Жанны, Вики и Кати из «Все умрут, а я останусь»? Может, Алексы из «Заводного апельсина»?</p><p>Мы решили пойти простым путём. Связались с нашими будущими героями с помощью социальных сетей, которые, как многие боятся, превращают подростков в манипулируемых овощей. Герои подобрались случайно — кто-то учится в столичной школе, кто-то в регионах, кто-то в лицеях и гимназиях, кто-то — в обычных школах, кто-то в 8 классе, а кто-то — в 11. Объединяет их только одно: все они — сегодняшние подростки.</p><p>Мы получили семь разных ответов на вопросы об утреннем настроении, вечерних занятиях, бесполезных предметах, ЕГЭ и «постшкольных» планах. Ещё мы попросили героев описать свою жизнь тремя словами и посоветовать своим ровесникам одну книгу и один фильм. Орфография и пунктуация при публикации практически не пострадала. По крайней мере, никаких смайликов вырезать не пришлось — подростки их не использовали в переписке.</p><h2>Елизавета</h2><p><em>г. Москва, общеобразовательная школа, 8 класс</em></p><p><strong>Моя жизнь в трёх словах:</strong> рутина, скорость, обязанность</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%BC%D1%91%D1%80%D1%82%D0%B2%D1%8B%D1%85%20%D0%BF%D0%BE%D1%8D%D1%82%D0%BE%D0%B2.jpg"><div class="image-caption">Кадр из к/ф «Общество мёртвых поэтов»</div></div><p class="img-source">Источник: <a target="_blank" href="http://st-im.kinopoisk.ru/im/kadr/1/9/3/kinopoisk.ru-Dead-Poets-Society-1933318.jpg">kinopoisk.ru</a></p></div><p>У всех бывают и плохие, и хорошие оценки, я не исключение. Каждый предмет интересен по-своему, только не каждый учитель может поддержать в тебе интерес, а чаще всего они вселяют в тебя только отвращение к уроку.</p><p>Думаю, для моей мамы оценка не последняя вещь, но бить или отключать интернет, отбирать телефон (а я слышала, что некоторые так делают) она не станет. Она считает меня ленивой, может, так оно и есть.</p><p>Иногда очень не хочется идти в школу, но особого отвращения к ней я не испытываю, привыкла уже. В любом случае, это отличный опыт в плане социальных взаимоотношений.</p><p>Вечерами делаю уроки. Больше всего времени уделяю точным наукам, они тяжелее мне даются и проверка их жёстче. На это где-то час-два уходит обычно. Если честно, когда ты возвращаешься из школы, тебе особо ничего и не хочется, разве что поспать и поесть, а может, это со мной что-то не так.</p><p><strong>Не люблю:</strong> Наверное, самый часто прогуливаемый мной урок — физкультура. Даже не знаю почему, возможно, это снова моя Великая Лень. Есть уроки, на которые не хочется идти, например, история, обществознание или какая-нибудь география. Одна мысль о том, что завтра у меня будет какой-то из этих уроков, наводит на меня панику. Не нравятся мне они, и как ведут себя на них учителя. На истории и обществознании мы обычно весь урок пересказываем параграф, я не вижу в этом ничего интересного и полезного. Учительница географии — очень забавная женщина, которая любит поговорить с учениками не по теме, рассказывает о своих взаимоотношениях с другими учителями. У неё есть любимчики (что крайне непедагогично), с которыми она может спокойно вести диалог даже во время ответа другого ученика. Может, география и интересный предмет, но воспринимать информацию крайне тяжело, когда у тебя над ухом постоянно кто-то говорит.</p><div class="important-text">Учитель должен быть твоим старшим товарищем. Думаю, такие учителя — очень большая редкость, а может, это просто мифические существа.</div><p><strong>О ЕГЭ:</strong> Естественно, ни один тест не сможет оценить наши знания, но сдавать его нам приходится. Даже учителя признают, что главная наша задача — успешная сдача экзаменов. Как только ты выходишь из начальной школы, ты попадаешь в ужасный и жестокий мир, в котором тебя учат сдавать тесты. Конечно же, было бы лучше, если бы школа действительно давала ценные знания и подготавливала к взрослой жизни, но увы, перестраивать систему никто не будет.</p><p><strong>О будущем:</strong> Хочу найти себя, попробую разные вещи и остановлюсь на чём-то, что больше всего зацепило. Думаю, мама хочет того же, она не ограничивает меня в этом плане.</p><p><strong>Мы учимся для школы или для жизни?</strong> Дети рождаются любознательным, просто потом они идут в школу, где из них делают овощей. Почему детям так важны оценки? Многие родители хотят для детей лучшего, но в их понимании лучшее — это хорошие оценки в аттестате, они думают, что если ты закончил отлично школу, то все двери перед тобой открыты, а если и универ — то ты вообще царь и Бог. Это мнение заставляет детей даже унижаться перед учителем, выпрашивая хорошую оценку.</p><p><strong>Если бы не нужно было ходить в школу:</strong> Я бы в школу не пошла, лучше сидеть дома и изучать предметы самостоятельно, с людьми, которые действительно любят свое дело, пусть даже посредством научно-популярных фильмов, просмотром лекций или чтением книг. Каждый из этих вариантов — хорошая альтернатива школе. Я бы занималась как раз этими вещами.</p><p><strong>Советую книгу:</strong> <a href="http://www.alpinabook.ru/catalog/PopularScience/1904257/">«Мир, полный демонов»</a> Карла Сагана. Поможет развеять некоторые мифы.</p><p><strong>Советую фильм:</strong> <a href="http://www.kinopoisk.ru/film/4996/">«Общество мёртвых поэтов»</a>. Как раз о школе и очень душевный.</p><h2>Миша</h2><p><em>г. Обнинск, общеобразовательная школа, 9 класс</em></p><p><strong>Моя жизнь в трёх словах:</strong> сон, еда, интернет</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/kinopoisk.ru-Bridge-to-Terabithia-477358.jpg"><div class="image-caption">Кадр из к/ф «Мост в Терабитию»</div></div><p class="img-source">Источник: <a target="_blank" href="http://st-im.kinopoisk.ru/im/kadr/4/7/7/kinopoisk.ru-Bridge-to-Terabithia-477358.jpg">kinopoisk.ru</a></p></div><p>Так уж сложилось, что учусь я неважно, и это ещё мягко сказано. В итоговых оценках в большинстве преобладают тройки. Доволен ли я собой? Определённо нет, так как понимаю, что мог бы учиться хорошо, если бы не сильная леность и нежелание учиться за пределами школы. О довольности родителей говорить, наверное, и не стоит, любой родитель не будет рад, когда у его чада будут отрицательные оценки.</p><p>С утра понимаю, что нужно идти, хочу я этого или нет. Иногда очень не хочется, так как просто лень или не выспался; иногда настроение просто замечательное.</p><p>Очень часто я выполняю домашнюю работу в спешке, перед выходом в школу, чтобы хоть что-то было. Из-за этого после школы у меня предостаточно времени заняться своими делами. Хотя мои дела — это просто просиживание жизни за компьютером, и этим уж точно нельзя гордиться.</p><p><strong>Не люблю:</strong> Я прекрасно понимаю, что химиком мне не стать, так зачем мне тратить своё время на химию? Хорошо, когда учитель это тоже понимает и обучает только тех, кому это нужно, кто сдаёт данный предмет, а на остальных просто не обращает внимания — не мешают ученики вести урок, так пусть просто посидят. Но бывают такие учителя, которое не понимают этого, и не дают просто отсидеться на их уроках и поделать свои дела.</p><p>Хочется сказать о таком уроке, как физкультура. Не знаю, как дело обстоит в других школах, но по опыту общеобразовательной школы и гимназии могу сказать, что школьная физкультура не несёт в себе никакого смысла, а уж тем более пользы. Надо понимать, что просто беганье по залу, выполнение простеньких стандартных упражнений или какая-нибудь игра, в которой о такой вещи, как правила, и не слышали, нельзя назвать физической культурой.</p><div class="important-text">Зачем нужен урок, на котором твоё физическое развитие никак не будет развиваться, а после урока ты будешь чувствовать себя не в лучшей для учёбы форме?</div><p><strong>О ЕГЭ:</strong> ЕГЭ, как и ОГЭ в моём случае, нужно видоизменять или вообще отменить. Говорить о бессмысленности и необъективности данного экзамена не хочу и не буду, скажу лучше о том, что творится до него. Во-первых, уже за два года до экзамена тебе начинают втирать о всей его серьёзности и важности, а смысл-то? Смысл этим постоянно забивать голову? А вот то, что начинается в год экзамена, меня сильно раздражает: ученики готовятся не к будущей жизни — нет, они обучаются и готовятся, чтобы один раз сдать какой-то экзамен. И затем вся эта нервотрёпка, из-за этого же можно с ума сойти.</p><p><strong>О будущем:</strong> Хочу заняться чем-то, чем мне будет интересно заниматься. Фотограф, например, — великолепная профессия. Но родители предлагают идти на профессию, где много платят, и неважно, что я до конца жизни буду ненавидеть эту профессию, зато деньги же! Деньги!</p><div class="important-text">Кстати, почему бы не стать дворником? Дворники нужны, не будь их, мы бы сейчас ходили, окруженные грязью и мусором.</div><p><strong>Мы учимся для школы или для жизни?</strong> Большинство информации, которую ученики учат в школе, никогда им не пригодится. У меня к вам такой вот вопрос, были ли у вас в жизни моменты, когда вам пригодились знания в строении эвглены зелёной? Конечно,<br>если вы биолог, то да.</p><p><strong>Если бы не нужно было ходить в школу:</strong> Я бы ходил только на те предметы, которые мне нужны, и на которых мне давали бы действительно нужные для меня знания. А так, я бы, наверное, образовывался самостоятельно, ведь в жизни бы появилось достаточно свободного времени для этого.</p><p><strong>Советую книгу:</strong> Учебник русского языка. Зачастую люди моего возраста при письме вне школьных стен не уделяют должного внимания грамотности, это наводит меня на мысль о том, что им нужно хоть немного подучить великий и могучий.</p><p><strong>Советую фильм:</strong> Есть много хороших фильмов, достаточно открыть топ-250 на каком-нибудь кинопоиске. так что я даже не знаю, что и советовать. Поэтому пусть будет первое, что пришло в голову: <a href="http://www.kinopoisk.ru/film/78753/">«Мост в Терабитию»</a> довольно неплохой фильм.</p><h2>Никита</h2><p><em>г. Санкт-Петербург, общеобразовательная школа, 10 класс</em></p><p><strong>Моя жизнь в трёх словах:</strong> веселье, школа, лень</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/kinopoisk.ru-Scott-Pilgrim-vs-the-World-1261718_1.jpg"><div class="image-caption">Кадр из к/ф «Скотт Пилигрим против всех»</div></div><p class="img-source">Источник: <a target="_blank" href="http://st-im.kinopoisk.ru/im/kadr/1/2/6/kinopoisk.ru-Scott-Pilgrim-vs-the-World-1261718.jpg">kinopoisk.ru</a></p></div><p>В школе я учусь хорошо, в основном на 4 и 5. Больше всего из школьной программы интересует информатика. Родители мной недовольны, так же, как и я сам. Думаю, что я могу учится лучше.</p><p>Уроки занимают у меня примерно 2-3 часа. Больше всего времени занимают какие-либо творческие работы по гуманитарным предметам. По вечерам изучаю HTML и программирование в целом, иногда смотрю аниме или играю на гитаре.</p><p><strong>Не люблю:</strong> Некоторые элективы, на которых не получаю полезных мне знаний или же попросту слишком скучные. Электив по русскому, например, или по антикоррупции.</p><p><strong>О ЕГЭ:</strong> Ничего особенного, стараюсь не волноваться перед экзаменами.</p><p><strong>О будущем:</strong> После школы я намереваюсь поступить в вуз на компьютерные науки. Родители, думаю, хотят того же.</p><p><strong>Мы учимся для школы или для жизни?</strong> Конечно, не все знания, полученные в школе, окажутся полезными в дальнейшей жизни, но всё же полезнее знать как можно больше, ведь любознательность и тяга к саморазвитию делают нас людьми.</p><p><strong>Если бы не нужно было ходить в школу:</strong> Я бы всё равно ходил в школу. В школе можно узнать много нового, а также систематизировать имеющиеся знания.</p><p><strong>Советую книгу:</strong> <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD">«Заводной апельсин»</a> Энтони Берджесса. Отличная книга, в которой поднимаются проблемы с выбором жизненного пути.</p><p><strong>Советую фильм:</strong> <a href="http://www.kinopoisk.ru/film/105948/">«Скотт Пилигрим против всех»</a>. Комедия, олицетворяющая дух поколения.</p><h2>Илья</h2><p><em>г. Елец, гуманитарный класс гимназии, 11 класс</em></p><p><strong>Моя жизнь в трёх словах:</strong> созидание, любовь, успех</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/kinopoisk.ru-Titanic-1896272.jpg"><div class="image-caption">Кадр из к/ф «Титаник»</div></div><p class="img-source">Источник: <a target="_blank" href="http://st-im.kinopoisk.ru/im/kadr/1/8/9/kinopoisk.ru-Titanic-1896272.jpg">kinopoisk.ru</a></p></div><p>Я усердно учусь в школе. Мои оценки — четвёрки и пятёрки, бывают и тройки. Больше всего меня интересуют литература, русский язык, обществознание и английский язык. Мама мною полностью довольна. Она может меня похвалить, либо наоборот высказать пару нравоучительных слов. Папа отмалчивается частенько, но всё-таки высказывает своё мнение, особенно отрицательное, по поводу моей успеваемости. В некоторой степени и я доволен собой: у меня есть тяга к знаниям, трудолюбие, усидчивость, любознательность, однако над некоторыми сторонами моей личности надо ещё работать и работать.</p><p>В школу иду в хорошем расположении духа. Если что-то вдруг меня в утренний час не радует, я пытаюсь искусственно вызвать в голове положительные эмоции, так как с негативных мне не хочется начинать день и накапливать их до вечера и сна.</p><p>В будние дни на себя времени не остаётся. 30 минут на йогу. И всё… Я бы с удовольствием куда-нибудь походил бы. Но сейчас я с головой погружён в ЕГЭ и в школьные однообразные дни, не дающие мне простора для личных прихотей. В среднем домашняя работа отнимает у меня 4 часа. Больше всего я уделяю внимание русскому, обществу, литературе. Вечерами готовлюсь к ЕГЭ. Или читаю какую-нибудь внешкольную нехудожественную литературу. Сейчас читаю: «Искусство мыслить масштабно» Дэвида Шварца, «Как говорить с кем угодно, когда угодно и где угодно» Ларри Кинга, «Гипсосознание» Саласа Соммера.</p><p><strong>Не люблю:</strong> Химию, физику и алгебру. Несмотря на то, что я немного понимаю их, мне кажется их наличие неуместным. Мы то и делаем,что пишем, пишем, пишем, читаем нудные чёрно-белые учебники, делаем те задания, которые ну никак не связаны с реальной жизнью. Не урок, а царство серого уныния, где рассматривается сухая теория. Мне до сих пор остаются непонятными нужность и полезность в жизни обычного человека некоторых тем по алгебре. Ни в коем случаем не прогуляю урок, даже если он мне не нравится, так как это будет прямым нарушением школьной дисциплины и лишней тратой нервных сил, подставлением и неуважением к нашему классному руководителю. Если мне не нравится предмет, я пытаюсь находить хоть что-нибудь практически выгодное для моего разума.</p><p><strong>О ЕГЭ:</strong> В принципе, ЕГЭ — это нормальный стандарт для проверки знаний школьника, проучившегося 11 лет на государственные деньги. Я не назову это лучшим способом проверки знаний, но спорить с ФИПИ, конечно же, не стану. ЕГЭ — не самое страшное, что может быть в жизни.</p><p><strong>О будущем:</strong> У меня уже есть планы на ближайшие пять лет. После окончания школы собираюсь поступить в университет в другом городе на факультет журналистики и развивать себя как в интеллектуальной грани, так и в физической. Для меня главное — успешно реализовать свои способности и найти достойное место в жизни для применения этих способностей. Родители только и советуют: грамотно распределять время, задумываться о будущем, углублять знания в нужных областях. Мой выбор не одобряют.</p><p><strong>Мы учимся для школы или для жизни?</strong> С одной стороны, есть ряд предметов, которые я учу лишь для получения циферки, а есть те, которые мне нужны для собственного развития.</p><p><strong>Если бы не нужно было ходить в школу:</strong> Я бы не ходил на те предметы, которые я сам в силах изучать. Тогда бы, однозначно, я бы больше уделял внимание здоровью, общению с друзьями, больше бы проводил время на свежем воздухе. Тогда мой образ жизни поменялся бы в лучшую сторону. Я бы начал посещать бассейн, фитнес-клуб, кинотеатр.</p><p><strong>Советую книгу:</strong> Из книг я бы посоветовал Ф. М. Достоевского <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%BE_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE_%D0%B8_%D0%B5%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B8">«Село Степанчиково и его обитатели»</a>. Она очень интересная и эмоциональная, психологичная и философская. У любого из героев можно увидеть ту или иную черту. которая есть в нас самих, и либо изменить её в себе, либо развить дальше. Повествование ведётся в некоторых местах очень иронично, бывают и серьёзные моменты. Для меня эта книга была как обновление души, поднятие на новую ступень интеллектуального развития.</p><p><strong>Советую фильм:</strong> Из фильмов мне очень понравился <a href="http://www.kinopoisk.ru/film/2213/">«Титаник»</a>. История, показанная в нём, сильно цепляет. С первых минут увлекаешься просмотром, а к концу фильма и вовсе не хочешь расставаться с главными героями. Их любовь для меня — пример для подражания. Любовь жертвенная, возвышенная и вечная. Я до сих пор держу в себе те эмоции, которые захлестнули меня несколько лет назад — когда главная героиня бросила драгоценность в воду. Её любимого уже не вернуть, а драгоценность уже ничего для неё не представляет.</p><h2>Пелагея</h2><p><em>г. Вологда, гимназия № 2, 11 класс</em></p><p><strong>Моя жизнь в трёх словах:</strong> слово, ночь, свобода</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/kinopoisk.ru-The-Lord-of-the-Rings_3A-The-Fellowship-of-the-Ring-1530781.jpg"><div class="image-caption">Кадр из к/ф «Властелин колец: Братство кольца»</div></div><p class="img-source">Источник: <a target="_blank" href="http://st-im.kinopoisk.ru/im/kadr/1/5/3/kinopoisk.ru-The-Lord-of-the-Rings_3A-The-Fellowship-of-the-Ring-1530781.jpg">kinopoisk.ru</a></p></div><p>До 10 класса стабильно училась на оценку 4, после перехода в гуманитарный класс оценки по некоторым предметам снизились. Основной причиной, на мой взгляд, является смена учителей (новая система оценки, новая система преподавания). Больше всего мне интересен английский язык. Родители довольны мной, но недовольны школой в целом. Я со своими знаниями чувствую себя абсолютно комфортно.</p><p>Большую роль в моем утреннем настроении играет состояние моего здоровья, ответить однозначно на этот вопрос непросто. Когда я чувствую себя приемлемо, то и идти в школу утром мне нетрудно, и я нахожусь в хорошем расположении духа.</p><p>В этом году домашнюю работу я делаю только по двум предметам: обществознание и английский язык. Мне они необходимы для сдачи ЕГЭ. Отнимает это примерно 1-2 часа. У меня достаточно свободного времени, которое я провожу дома за компьютером, чтением книг, иногда гуляю с знакомыми.</p><p><strong>Не люблю:</strong> Самый бесполезный в школе предмет — литература. Существование собственного мнения, отличного от мнения учителя, просто невозможно.</p><div class="important-text">На словах «все вы имеете право на собственные взгляды», а на деле — «ты просто не понял произведение».</div><p>Очень тяжело в такой напряженной атмосфере учиться, а особенно писать сочинения (за которые и выставляется оценка). Чтобы получить 5, ты должен написать всё то, что говорил на уроке учитель. Оступишься — 4, оступишься дважды — 3, трижды — «ты не понял произведение/не читал».</p><p>Есть ещё один школьный предмет, который мне не нравится сам по себе — история. История мне неприятна. «Историю пишут победители». Я не верю в историю, как бы смешно это ни звучало. Никто не знает, насколько сильно там приукрашено и не дописано.</p><p><strong>О ЕГЭ:</strong> ЕГЭ — это один из способов демонстрации потенциала страны другим странам. В прошлом году ввели базовый и профильный уровень экзамена по математике. Чтобы среднее число сдавших экзамен было больше, проходной балл снизили до 3 из 20. Базовый уровень — уровень 9 класса. Да, там есть задания с темами из 10-11 классов, но 3 балла и без них получить легко. Другими словами, это лишь жалкая пародия на проверку знаний.</p><p><strong>О будущем:</strong> Я не люблю планировать, составлять расписания и тому подобное. По просьбе своей мамы (ради её душевного спокойствия) я собираюсь учится на инязе в своём городе. Хотелось бы найти то самое занятие, которое будет для меня не только приятным, но и прибыльным. Хоть я и инфантильна, но в денежные деревья не верю.</p><p><strong>Мы учимся для школы или для жизни?</strong> Школа сама по себе ни добро, ни зло.</p><div class="important-text">Кто знает, некоторые благодаря школе находят своё призвание. Иронично, конечно, что чаще всего этим призванием является педагогика.</div><p><strong>Если бы не нужно было ходить в школу:</strong> Я бы ходила в школу на те предметы, которые меня интересуют. Своё свободное время я бы посвящала более глубокому изучению предметов, рисованию и фотографии.</p><p><strong>Советую книгу:</strong> <a href="http://www.ozon.ru/context/detail/id/8789666/">«Лабиринты Хаоса»</a> Максима Шаттама. Тема — теории заговора. Проста в чтении, интересна сама по себе.</p><p><strong>Советую фильм:</strong> трилогия <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD_%D0%BA%D0%BE%D0%BB%D0%B5%D1%86_%28%D0%BA%D0%B8%D0%BD%D0%BE%D1%82%D1%80%D0%B8%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%29">«Властелин колец»</a>. Потрясающая и поучительная история.</p><h2>Елизавета</h2><p><em>г. Воронеж, лицей, 11 класс</em></p><p><strong>Моя жизнь в трёх словах:</strong> счастье, мысли, дорога</p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/%D1%91%D0%B6%D0%B8%D0%BA%20%D0%B8%20%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D0%BE%D0%BD%D0%BE%D0%BA.jpg"><div class="image-caption">Кадр из мультфильма «Как ёжик и медвежонок меняли небо»</div></div><p class="img-source"></p></div><p>Учусь на отлично. Любимые предметы — физика, математика. Родители мной довольны, а я — ещё больше.</p><p>В школу иду с грустным настроением — вставать рано, а я жуткая сова.</p><p>Домашку не делаю (кроме предметов, которые сдаю). Время свободное есть, но тратится оно на дополнительный занятия — занимаюст ТЮФом (турнир юных физиков) и музыкой.</p><p><strong>Не люблю:</strong> Часто прогуливаю английский. Абсолютно бесполезный предмет. Преподают у нас его жутко. Точнее, не преподают вообще — тупое заучивание старых текстов.</p><p><strong>О ЕГЭ:</strong> Ну есть оно, и ладно. Напишу и хорошо.</p><p><strong>О будущем:</strong> Поступлю в московский институт на физфак. Родители с моим выбором согласны.</p><p><strong>Мы учимся для школы или для жизни?</strong> Из нужного школа даёт процентов 5 — это выдержка, самообладание, терпение и увиливание.</p><p><strong>Если бы не нужно было ходить в школу:</strong> Ходила бы, но только на те предметы, на которые хочу. Ушла бы в исследования и подготовку к турнирам, изучала бы квантовую физику и физику полупроводников.</p><p><strong>Советую книгу:</strong> Русские народные сказки — в них собрано всё самое доброе и человечное.</p><p><strong>Советую фильм:</strong> Мультик про <a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%8F%D0%BC!_%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!">Ёжика и Медвежонка</a>.</p><h2>Дима</h2><p><em>г. Санкт-Петербург, общеобразовательная школа, 11 класс</em></p><div class="bigimage-container"><div class="image-with-caption"><img src="https://newtonew.com/uploads/ckeditor/%D0%BD%D0%B0%D0%B4%20%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D1%8C%D1%8E%20%D0%B2%D0%BE%20%D1%80%D0%B6%D0%B8.jpg"><div class="image-caption">Кадр из к/ф «Над пропастью во ржи»</div></div><p class="img-source">Источник: <a target="_blank" href="http://www.kinopoisk.ru/film/410979/">kinopoisk.ru</a></p></div><p>В школе я учусь средне, оценки — в основном четвёрки. Интересны информатика и алгебра. Мои родители не часто интересуются моими успехами, но ругают за плохие оценки. Я, конечно, доволен собой, но мог бы учиться и лучше.</p><p>Когда я иду утром в школу, я не испытываю ни радости, ни печали. Я просто иду в школу, чтобы получать знания.</p><p>Времени у меня на себя остается достаточно, но мне всегда кажется, что его мало. Домашние задания я почти не делаю, а если делаю, то по тем предметам, которые мне сдавать, и это плохо, потому что если я не могу заставить себя делать что-то сейчас, то как я буду жить дальше. И главная моя проблема, которая отнимает у меня больше всего времени — это компьютер, на котором я играю или просто лазаю в интернете. Домашнее задание тоже делаю на компьютере — учителя теперь задают его на сайтах, и получается, что я делаю что-то полезное, но при этом развиваю в себе отрицательную привычку.</p><div class="important-text">Я действительно считаю это проблемой, потому что от компьютера я становлюсь более ленивым и менее самостоятельным. Конечно, если сидеть в интернете с пользой, проблем нет, но если он тебя отвлекает от домашнего задания и других важных дел, то это плохо. Несамостоятельным я становлюсь, потому что не всегда могу заставить себя выключить компьютер.</div><p><strong>Не люблю:</strong> Нет таких уроков, на которые я бы не хотел идти, есть такие, на которых ты просто не проявляешь интереса. Хотя мои одноклассники часто прогуливают уроки, я же никогда так не делал, я считаю это не уважением к учителю. Конечно были такие моменты, когда я очень уставал и не хотел идти на урок, но я шёл на них, потому что такие правила.</p><p><strong>О ЕГЭ:</strong> Я считаю, что ЕГЭ лучше, чем те экзамены, которые были раньше. Я как не особо самостоятельная личность должен сам принимать решение, какие предметы сдавать, но ведь когда-нибудь нужно становиться самостоятельным.</p><p><strong>О будущем:</strong> После окончания школы я хотел бы поступить в институт и найти себе достойную работу. Я хотел бы работать программистом, но мои родители советовали мне пойти в пожарные, потому что начальная подготовка у меня уже есть, а также я буду работать возле дома и к 50 годам буду уже на пенсии. Я стремлюсь к тому, чтобы стать программистом, но если у меня не получится, я не знаю, что буду делать дальше.</p><p><strong>Мы учимся для школы или для жизни?</strong> Меня в детстве никто не научил тому, что учимся мы для себя. Думаю, большинство детей, как и я, учатся, чтобы не получить плохих оценок.</p><p><strong>Если бы не нужно было ходить в школу:</strong> Я бы все равно ходил в школу, просто потому что надо. Но если бы не ходил, то я не знаю, как построил бы свой день.</p><p><em>В оформлении материала использованы кадры из кинофильма <a href="http://www.kinopoisk.ru/film/43998/">«Сто дней после детства»</a> (1975 г.).</em></p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">24 февраля 2016, 13:00
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /school/schoolchildren-about-life " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Семь школьников о своей жизни, учёбе и будущем от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/school/schoolchildren-about-life"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                            <div class="n2-post__author">
+                    <div class="n2-post__author__label n2-author-label n2-author-label_editors"><a href="/author/shirshova">Редакция Newtonew</a></div>
+                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/9d77f652f96b35bf7d056463160ee6c3.jpg" alt=""></div>
+        <div class="n2-post__author__name io-author">Люся Ширшова</div>
+        <div class="n2-post__author__descr">В детстве выводила мелом на старом бабушкином комоде заветные слова «Классная работа» и зачитывалась Макаренко. Училась в провинциальном педагогическом, вела английский у лодырей-ровесников из медицинского колледжа, репетиторствовала у подростков, продавала знания командировочным. Поняла, что внутри системы образования могут остаться либо очень святые, либо очень равнодушные люди. Теперь пишет о ней, находясь снаружи.</div>
+    </div>
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/school"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                                    <a href="/story"
+                                       class=" n2-tag n2-tag_grey n2-tag_story">истории</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/1227/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/schoolboy-tells"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/opinion" class="n2-tag n2-tag_opinion"
+   style="background-color: #7583c9">мнения</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Взгляд ученика: учение или мучение?</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/culture/life-hacks-from-russian-authors"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/culture" class="n2-tag n2-tag_culture"
+   style="background-color: #f5a525">культура</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Правила жизни от русских писателей</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/story/i-am-18-year-old-teacher"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/story" class="n2-tag n2-tag_story"
+   style="background-color: #f26650">истории</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Как я работал учителем второй смены в 18 лет</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/schoolchildren-about-life">
+                    <input type="hidden" name="post-id" value="1227">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 469682636;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

@@ -1,0 +1,1085 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Тренды EdTech-2014: дорого и непредсказуемо / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Год подходит к концу; аналитики подводят итоги. На основе блога HackEducation и исследования компании J’son & Partners мы решили обозначить основные тренды EdTech в 2014 году. "/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/tech/trendy-edtech-2014-dorogo-i-nepredskazuemo"/>
+            
+    <meta property="og:title" content="Тренды EdTech-2014: дорого и непредсказуемо"/>
+    <meta property="og:description" content="Год подходит к концу; аналитики подводят итоги. На основе блога HackEducation и исследования компании J’son & Partners мы решили обозначить основные тренды EdTech в 2014 году. "/>
+    <meta property="og:url" content="https://newtonew.com/tech/trendy-edtech-2014-dorogo-i-nepredskazuemo"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/5547c9c055b9257ba5df167546544b1d.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/5547c9c055b9257ba5df167546544b1d.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/5547c9c055b9257ba5df167546544b1d.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Тренды EdTech-2014: дорого и непредсказуемо</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/tech/trendy-edtech-2014-dorogo-i-nepredskazuemo">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(2)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="407">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: 14 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 2</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Тренды EdTech-2014: дорого и непредсказуемо</h1>
+                        <div class="n2-post-header__annotation"><p>Год подходит к концу; аналитики подводят итоги. На основе блога HackEducation и исследования&nbsp;компании J&rsquo;son&nbsp;&amp;&nbsp;Partners мы решили обозначить основные тренды EdTech в 2014 году.&nbsp;</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Изначально мы вдохновились <a href="http://2014trends.hackeducation.com/">обширным разделом блога Одри Уотерс</a>, известной журналистки, пишущей о современном состоянии онлайн-образования. Одри уже пятый год подряд занимается подробным обзором событий в сфере EdTech, собирая воедино все факты, аргументы и собственные мысли как «за», так и «против» произошедших за год изменений.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/old%20school%20comp.jpg"></p>
+
+<p style="text-align:right"><em>Счастливые ученики школы г. Ньюкасл вместе со своей учительницей и гордостью школы — современным оборудованием, 1988 г. Источник: <a href="http://usvsth3m.com/wp-content/uploads/2013/07/opBeAmH.jpg">usvsth3m.com</a> </em></p>
+
+<p>В нашем небольшом обзоре мы пользовались информацией из блога HackEducation, дополнив данные об американском и глобальном рынке онлайн-образования доступной на данный момент информацией о российском рынке EdTech. К сожалению, <a href="http://json.tv/ict_telecom_analytics_view/rynok-onlayn-obrazovaniya-v-rossii-i-mire-segment-massovyh-onlayn-kursov-20141209065340">первое масштабное исследование российского сегмента онлайн-образования</a> было проведено не так давно — в декабре 2014 года консалтинговой компанией J’Son & Partners, поэтому конкретных данных о российской реальности не так много. Тем не менее, мы постараемся собрать общую картину, которая поможет осознать как глобальный уровень развития EdTech-сферы, так и понять темпы развития отечественного рынка.</p>
+
+<h2>Ключевые слова EdTech-сферы за 2010-2014 годы</h2>
+
+<p>Блог Одри Уотерс считается одним из самых авторитетных мировых изданий, обозревающих сферу EdTech, поэтому перечисленные ею тренды могут считаться вполне объективной оценкой ситуации. В каждой статье приведены многочисленные данные из разных источников, ссылаясь на материалы TechCrunch, Bloomberg, блоги основных игроков рынка, официальные отчёты (например, отчёты OECD, организации экономического сотрудничества и развития). Далее анализируется частота использования тех или иных терминов в данном блоге и составлен список из наиболее часто употребляемых в течение года.</p>
+
+<p>Если проследить историю трендов EdTech с 2010 года, картина получится приблизительно следующая:</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-2014-edtech_1.jpg"></p>
+
+<p>Как видим, некоторые тренды с 2012 года остаются неизменными: скажем, вопрос сбора, анализа, хранения и приватности данных не теряет свою актуальность. Массовые открытые онлайн-курсы MOOC и их эффективность также до сих пор остаются горячей темой. Под термином «EdTech-бизнес» прежде всего имеются в виду бизнес-модели образовательных проектов, модели монетизации и прибыльность. Об этом поговорим чуть ниже.</p>
+
+<p>Что касается трендов 2014 года, больше всего интернет-издания писали о смешанном (или гибридном) обучении, персонализированном обучении, геймификации (это заметно и <a href="http://newtonew.com/blog/search/%D0%B3%D0%B5%D0%B9%D0%BC%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F">по нашему блогу</a>) и адаптивности. Новый тренд этого года — тренировка мозга; появилось множество приложений и сервисов, предоставляющих игры и задания для улучшения мышления, внимательности, памяти и скорости реакции; хотя до сих пор не доказано, что подобные игры действительно положительно сказывается на когнитивных способностях. </p>
+
+<h2>Объём рынка онлайн-образования</h2>
+
+<p>Компания Docebo, специализирующаяся на услугах онлайн-образования в корпоративном сегменте, в марте этого года <a href="https://www.docebo.com/landing/contactform/elearning-market-trends-and-forecast-2014-2016-docebo-report.pdf">опубликовала анализ текущего объёма мирового рынка онлайн-образования</a>. По прогнозу компании, в 2016 году объём рынка вырастет на 25% и достигнет отметки в 50 миллиардов долларов. Точных данных по российскому сегменту EdTech нет, но из исследования J'son & Partners можно выделить информацию о том, что эксперты оценивают рынок российского онлайн-образования в 400 миллионов рублей, а объём онлайн-услуг обучения в корпоративном сегменте и в сегменте репетиторства достигнет к 2018 году 6-8 миллиардов рублей. Видно, что на российском рынке онлайн-образования прослеживается тенденция развития именно в сегменте подготовки к экзаменам (что обусловлено прежде всего политикой стандартизированных тестов ЕГЭ и ГИА)  и корпоративного обучения (что обусловлено более простой моделью монетизации курсов). </p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BC-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0.jpg"></p>
+
+<p style="text-align:right"><em>По данным компании Docebo и J'son & Partners</em></p>
+
+<h2>Инвестиции в сферу EdTech</h2>
+
+<p>Венчурные инвесторы долгое время игнорировали образовательный сегмент, но с зарождением сферы EdTech образовательные стартапы наконец начали получать поддержку. По данным TechCrunch, только в первой четверти 2014 года образовательно-технологические стартапы подняли более 500 миллионов долларов инвестиций, причём 44% инвестиций было вложено на ранних стадиях развития проектов. Самые инвестируемые компании предлагают сервисы по тренировке навыков и мышления, услуги репетиторства, подготовку к экзаменам, системы LMS. Наиболее инвестируемыми проектами на западном рынке, согласно <a href="https://www.cbinsights.com/blog/ed-tech-investment-report-2014/">данным аналитической фирмы CB</a>, стали Pluralsight, Desire2Learn, TutorGroup, OpenEnglish, Craftsy, Knewton, Lynda.com, Edmodo, Coursera и Kaltura.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B9-edetch_1.jpg"></p>
+
+<p style="text-align:right"><em>Источник данных: TechCrunch и J'son & Partners. Нетология Групп данные об инвестициях пока не разглашает.</em></p>
+
+<p>Конечно, вкладываются в EdTech-проекты не только венчурные фонды и инвесторы. Взять, к примеру, некоммерческую организацию <a href="http://code.org/">Code.org</a>, которая помимо финансирования от известных миллионеров Кремниевой долины (Марк Цукерберг, Джон и Анна Дорр и другие) в размере 12 миллионов долларов получила <a href="https://www.indiegogo.com/projects/an-hour-of-code-for-every-student">краудфандинговую поддержку на IndieGoGo</a>, где собрала 5 миллионов долларов.</p>
+
+<p>Что касается российского рынка, который стал активно развиваться только в 2013 (хотя первые проекты были запущены ещё в 2009 г. — тот же Лекториум), инвестиции в российские проекты за последние 2,5 года составили около 15 миллионов долларов. Зато петербургский проект Дневник.ру в этом году вошёл в двадцатку <a href="http://newtonew.com/blog/posts/78">самых влиятельных европейских EdTech-стартапов</a>. В любом случае, если американский EdTech-рынок Одри Уотерс называет <a href="http://hackeducation.com/2011/12/13/top-ed-tech-trends-of-2011-the-higher-education-bubble/">гигантским мыльным пузырём</a>, который скоро должен лопнуть, российский пока выглядит как маленький неуверенно дрожащий пузырик.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/-%D0%B2-edtech_1.jpg"></p>
+
+<p style="text-align:right"><em>По данным TechCrunch и J'son & Partners</em></p>
+
+<h2>Бизнес-модели EdTech</h2>
+
+<p>Логично, прочитав о миллионных инвестициях в сферу образовательных технологий, задуматься о прибыльности и бизнес-модели этих организаций. Большая часть стартапов в сегменте EdTech декларирует бесплатность своего продукта. Конечно, возникает вопрос, каким образом эти проекты, получив несколько миллионов долларов финансирования, планируют выводить свой бизнес хотя бы на самоокупаемость. К сожалению, большинство существующих зарубежных EdTech-площадок, даже очень популярных (включая Coursera и Udacity), имеют весьма расплывчатую бизнес-модель. Coursera, получив 30 миллионов долларов инвестиций в 2013 году, за год заработала на продаже сертификатов об обучении 1 миллион долларов. Udacity полностью исключил со своей платформы бесплатные сертификаты, заменив их на платные <a href="http://blog.udacity.com/2014/06/announcing-nanodegrees-new-type-of.html">«наносертификаты»</a> и перешёл на модель гибридного обучения, предлагая платное сопровождение — проверку заданий, обратную связь и последующее получение диплома; курсы при этом создаются при финансировании компаний, заинтересованных в выпускниках. Edmodo в этом году поднял 30 миллионов долларов инвестиций, но основной продукт до сих пор остаётся бесплатным.</p>
+
+<p>По данным J’Son & Partners, российская сфера EdTech пока не так сильно переживает кризис монетизации, поскольку изначально большинство проектов создавалось на основе платной модели обучения и явно ориентировано на b2b-рынок; по сравнению с западным рынком, число российских бесплатных онлайн-образовательных платформ не так велико. Стоимость целых курсов может доходить до нескольких десятков тысяч рублей (например, курсы менеджмента на Uniweb). При этом, <a href="http://json.tv/ict_telecom_analytics_view/rynok-onlayn-obrazovaniya-v-rossii-i-mire-segment-massovyh-onlayn-kursov-20141209065340">по словам основателя Uniweb Александра Оганова</a>, стоимость создания одного курса составляет от 10 до 150 тысяч долларов; чтобы окупился самый дешёвый длительный курс (стоимостью около 10 тысяч рублей), достаточно, чтобы хотя бы 60 пользователей приобрели подписку. Модель кажется не самой убыточной, если учесть, что на площадке Uniweb около 3 300 человек пользуются платными курсами. Модель подписки популярна и на рынке b2c, которая полностью себя оправдывает на площадках, предоставляющих услуги репетиторства и подготовки к ЕГЭ.</p>
+
+<p>Что касается рынка бесплатных продуктов онлайн-образования в России, он действительно неширок. Осенью этого года мы собирали данные об основных площадках, предлагающих образовательный контент по бесплатной и условно-бесплатной модели. Почему мы это делали? Поскольку российский рынок онлайн-образования, несмотря на то, что Интуит или Лекториум существуют уже более 7 лет, а первый MOOC запустился в 2012 году на базе Лекториума (в том же году, что Coursera, Udacity и EdX), уровень вовлечённости населения в онлайн-образование и информированности о его возможностях остаётся низким. Из 56 миллионов россиян, выходящих в сеть ежедневно (по данным <a href="http://minsvyaz.ru/ru/news/index.php?id_4=44571">Минсвязи РФ 2014 года</a>) хотя бы раз проходили обучение онлайн 7,2 миллиона жителей. Почти 90% российских интернет-пользователей просто не знают о существовании дистанционных курсов, MOOC, интерактивного обучения и видеолекциях, распространяющихся в сети. Именно для них мы составили небольшую инфографику о возможностях получения знаний в рунете. </p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/-%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6-%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE_1.png"></p>
+
+<p>Наш <a href="http://newtonew.com/blog/posts/328">образовательный пейзаж</a> получился очень близок по составу к аналитике, собранной J'son & Partners: значительную долю онлайн-образовательных услуг представляют площадки для подготовкик к ЕГЭ и площадки, предлагающие бизнес-образование. Ещё одна отличительная особенность — ошеломляющий успех платформ для изучения иностранных языков; один только LinguaLeo имеет более 10 миллионов зарегистрированных пользователей (для сравнения: столько же пользователей у одного из пионеров глобального EdTech рынка Khan Academy). </p>
+
+<div class="important-text">А <a href="http://newtonew.com/blog/posts/228">зарубежный образовательный пейзаж 2014 года</a> подготовила команда Degreed. </div>
+
+<h2>MOOC</h2>
+
+<p>2014 год стал годом критики и переосмысления массовых онлайн-курсов. Президент Стэнфордского университета Джон Хеннесси в июне этого года заявляет: «В массовых открытых онлайн-курсах есть два лишних слова: массовые и открытые», тем самым поднимая вопрос о необходимости вовлечения как можно большего количества пользователей в MOOC и доступности курсов абсолютно для всех. Сомнения вызваны прежде всего низким показателем завершаемости курсов: регистраций на курсы становится всё больше, а полностью проходит курс всё меньшее количество пользователей. Согласно данным <a href="http://www.educause.edu/ero/article/mooc-completion-and-retention-context-student-intent">исследования профессора Гарвардского университета Ричарда Меншела</a>, из 80 000 зарегистрировавшихся на девять онлайн-курсов Гарвардского университета завершило курс только 13,3%. Профессоры Стэнфордского университета и Корнельского университета также занимались этим вопросом, <a href="http://cs.stanford.edu/people/ashton/pubs/mooc-engagement-www2014.pdf">выясняя возможные модели поведения студентов</a>. Легендарный профессор Принстонского университета Джереми Адельман, один из пионеров среди преподавателей, ведущих онлайн-курсы, <a href="http://moreorlessbunk.wordpress.com/2014/07/17/hes-leaving-coursera-thats-how-it-worked-out/">в этом году ушёл из Coursera</a>.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/coursera_large.png"></p>
+
+<p>Несмотря на это, крупнейшие MOOC-площадки продолжают развивать своё представительство в сети, выходя на новые рынки и запуская курсы для школьников (тот же <a href="http://newtonew.com/blog/posts/253">EdX активно развивал это направление</a> в 2014 году). Что касается локализации MOOC-контента для стран третьего мира, этот год стал годом блокировок со стороны государств (органы надзора Сирии, Кубы, Судана и Ирана периодически <a href="http://www.wamda.com/2014/01/coursera-blocks-syria-and-iran-moocs-online-courses">блокировали Coursera и Udacity</a> в связи с применяемыми на территориях этих государств санкциями).</p>
+
+<p>Компания Boston Consulting Group в этом году <a href="http://newtonew.com/blog/posts/222">проводила исследование ожиданий и впечатлений студентов и их родителей от MOOC</a>. По результатам опроса, в котором приняло участие 3 000 респондентов из США, проходивших обучение как в чистом онлайн-виде, так и в смешанном, только 15% полностью довольны результатами и большую часть знаний получают именно в онлайне; 30% предпочитают смешанное обучение, отдавая приоритет взаимодействию с преподавателем и сокурсниками в реальном времени. </p>
+
+<h2>Проект Minerva: Анти-MOOC</h2>
+
+<p>Амар Кумар, заместитель советника по вопросам образования издательства Pearson, как и многие другие эксперты образования в этом году, <a href="http://newtonew.com/blog/posts/149">был значительно обеспокоен показателями завершаемости MOOC</a>. Мало того, что большая часть студентов, записавшихся на курс, не завершает их; непонятно, что получают те, кто всё-таки полностью проходит обучение:</p>
+
+<blockquote>
+<p>Выходит, что MOOCs в целом не помогли людям чего-то добиться в своей жизни. Например, получить диплом или новую работу.</p>
+</blockquote>
+
+<p>По его мнению, эволюция MOOC должна повернуться в русло развития селективных открытых онлайн-курсов (SOOCs): платных курсов, требующих вступительной проверки.</p>
+
+<p>На волне многочисленных исследований эффективности MOOC и закрадывающихся сомнений в правильности существующей модели в 2014 году был создан крайне противоречивый образовательный проект <a href="http://about.minervaproject.com/">Minerva</a>, позиционирующийся как полная противоположность массовым открытым онлайн-курсам — элитная закрытая коммерческая система образования. Проект запустился в марте, получив 1794 заявки на обучение и одобрив только 45 из них. В октябре этого года проект Minerva <a href="http://blogs.wsj.com/venturecapital/2014/10/15/education-company-minerva-project-taps-chinese-investors-for-70-million/">получил 70 миллионов долларов</a> инвестиций. В классах Минервы учатся по 19 человек, живущих вместе, но обучающихся онлайн. О каких-либо результатах этого эксперимента говорить рано, однако сам факт возникновения и PR-успеха подобной платформы говорит о значительном переосмыслении EdTech.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/minerva%20project%20edit.png"></p>
+
+<h2>EdTech-провалы года</h2>
+
+<p>С громким треском провалилась <a href="https://www.apple.com/pr/library/2013/06/19Apple-Awarded-30-Million-iPad-Deal-From-LA-Unified-School-District.html">нашумевшая инициатива школьного региона Лос-Анджелеса</a> по закупке iPad для школ региона в количестве 700 000 штук. И сразу всё пошло не так: WiFi-инфраструктура в школах оказалась не готова к использованию устройств; не была подготовлены юридические акты на случай кражи устройств; не было разработано никакого дополнительного программного обеспечения, защищающего планшеты от взлома самими учащимися (школьники быстро справились с существующей блокировкой, начиная смотреть фильмы и скачивать музыку с помощью учебных планшетов). После ухода в отставку суперинтенданта округа Джона Дизи дело приобрело скандальный оборот: его заместитель Рэймон Коринес решил не переоткрывать тендер, а продолжить контракт с Apple и потратить ещё 22 миллиона долларов на покупку ещё 20 000 iPad по цене 552$ за каждый (что на 48$ выше прежней цены). В сентябре этого года Американский исследовательский институт опубликовал <a href="http://blogs.wsj.com/venturecapital/2014/10/15/education-company-minerva-project-taps-chinese-investors-for-70-million/">отчёт на 95 страниц</a> о реализации программы «айпэдизации» региона, в котором выяснилось, что 80% школ округа используют планшеты в учебном процессе крайне редко. Администрация округа настолько увлеклась распределением устройств по школам, что совсем забыла о том, что нужно обеспечить ещё и их компетентное применение.</p>
+
+<p style="text-align:center"><img alt="" src="/uploads/ckeditor/heres-why-a-controversial-plan-to-give-an-ipad-to-every-los-angeles-public-school-student-failed.jpg"></p>
+
+<p style="text-align:right"><em>Источник: <a href="http://static5.businessinsider.com/image/543fd7cb6da811d160137795/heres-why-a-controversial-plan-to-give-an-ipad-to-every-los-angeles-public-school-student-failed.jpg">veooz.com</a></em></p>
+
+<p>В преддверии нового года не очень хочется копаться в дебрях государственных закупок российского Министерства образования, но можно вспомнить пару горячих тем, вызвавших недоумение и поднятые брови большинства работников образования. Нельзя не упомянуть <a href="http://newtonew.com/blog/posts/303">активно проводимую в этом году реформу школьного образования</a> и её результаты в Москве. А самой наболевшей темой в EdTech-сфере России стал <a href="http://newtonew.com/blog/posts/323">добровольно-принудительный перевод</a> общеобразовательных учреждений Москвы на единый электронный дневник Московского регистра качества образования, что привело к ожидаемым проблемам с интеграцией базы данных сторонних электронных дневников с государственной разработкой.</p>
+
+<p>Не будем завершать обзор главных трендов онлайн-образования этого года фейлами, вспомним и хорошее: например, в России была проведена <a href="http://newtonew.com/blog/posts/282">первая конференция, посвящённая EdTech — EdCrunch</a>, <a href="http://newtonew.com/blog/posts/395">Минобранауки создал Совет по онлайн-образованию</a>, <a href="http://newtonew.com/blog/posts/345">Россия приняла участие в «Часе кода»,</a> а <a href="http://newtonew.com/blog/posts/369">добровольцы оцифровали 90 томов Льва Толстого</a>.</p>
+
+<h2>Итоги года в трёх пунктах</h2>
+
+<p>Основными изменениями в сфере онлайн-образования в 2014 году стали: </p>
+
+<p>1. Поиск подходящей бизнес-модели (переход от бесплатного контента к платным сертификатам, платному сопровождению обучения, курсам по подписке);</p>
+
+<p>2. Проведение исследований эффективности существующих систем онлайн-образования и постановка вопроса о соотношении открытости и результативности: не ставит ли чрезмерная доступность онлайн-обучения под угрозу качество полученных знаний?</p>
+
+<p>3. Появление SOOC на смену MOOC: тенденция закрытия онлайн-курсов. </p>
+
+<div class="important-text">Этот год стал критичным для глобальной EdTech-сферы: мир снимает розовые очки, иллюзии развеваются, стартапы возникают и исчезают, инвестиции льются рекой, одно за другим проводятся исследования — и всё это в попытке понять: быть революции в образовании или не быть? Идём ли мы по пути качественного изменения системы образования, либо все наши технологические инновации меняют процесс обучения не больше, чем выданный в XIX веке учителю мел и школьная доска?</div>
+
+<p style="text-align:right"><em>По материалам <a href="http://json.tv/ict_telecom_analytics_view/rynok-onlayn-obrazovaniya-v-rossii-i-mire-segment-massovyh-onlayn-kursov-20141209065340">аналитического исследования J’son & Partners</a> и блога <a href="http://2014trends.hackeducation.com/">HackEducation</a>.</em></p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer ">30 декабря 2014, 18:00
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /tech/trendy-edtech-2014-dorogo-i-nepredskazuemo " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Тренды EdTech-2014: дорого и непредсказуемо от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/tech/trendy-edtech-2014-dorogo-i-nepredskazuemo"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                        
+
+                            <div class="n2-post__author">
+                    <div class="n2-post__author__label n2-author-label n2-author-label_editors"><a href="/author/shirshova">Редакция Newtonew</a></div>
+                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/9d77f652f96b35bf7d056463160ee6c3.jpg" alt=""></div>
+        <div class="n2-post__author__name io-author">Люся Ширшова</div>
+        <div class="n2-post__author__descr">В детстве выводила мелом на старом бабушкином комоде заветные слова «Классная работа» и зачитывалась Макаренко. Училась в провинциальном педагогическом, вела английский у лодырей-ровесников из медицинского колледжа, репетиторствовала у подростков, продавала знания командировочным. Поняла, что внутри системы образования могут остаться либо очень святые, либо очень равнодушные люди. Теперь пишет о ней, находясь снаружи.</div>
+    </div>
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/tech"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_tech">технологии</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/407/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/tech/who-is-your-god"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/tech" class="n2-tag n2-tag_tech"
+   style="background-color: #5ca7cc">технологии</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Если бы технологии были богами</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/tech/vr-open-school"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/tech" class="n2-tag n2-tag_tech"
+   style="background-color: #5ca7cc">технологии</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Надень этот VR-шлем и возьми эту виртуальную линейку</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/tech/machine-learning-novice"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/tech" class="n2-tag n2-tag_tech"
+   style="background-color: #5ca7cc">технологии</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Машинное обучение для чайников</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/tech/trendy-edtech-2014-dorogo-i-nepredskazuemo">
+                    <input type="hidden" name="post-id" value="407">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 131230767;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

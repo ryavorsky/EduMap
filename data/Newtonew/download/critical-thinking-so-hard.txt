@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>Почему так сложно научить критическому мышлению? / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Вместе с когнитивным психологом Дэниелом Виллингэмом разбираемся, почему критическое мышление — это не та вещь, которой можно научить по методичке."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/critical-thinking-so-hard"/>
+            
+    <meta property="og:title" content="Почему так сложно научить критическому мышлению?"/>
+    <meta property="og:description" content="Вместе с когнитивным психологом Дэниелом Виллингэмом разбираемся, почему критическое мышление — это не та вещь, которой можно научить по методичке."/>
+    <meta property="og:url" content="https://newtonew.com/school/critical-thinking-so-hard"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/41e7c9234c68dfd9f223500eac756d76.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/41e7c9234c68dfd9f223500eac756d76.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/41e7c9234c68dfd9f223500eac756d76.jpg" />
+
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-post n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+    
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">Почему так сложно научить критическому мышлению?</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/critical-thinking-so-hard">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(5)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-post-page-body n2-first-page-block" data-postid="2147">
+                    <div class="container container-01">
+                <div class="n2-post-page-body__info">
+                                        <a href="/" class="n2-back-link n2-post-page-body__info_back-link"><span
+                                class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; вернуться</a>
+                    Время чтения: &gt;15 минут &nbsp; | &nbsp;
+                    <a href="#comments"
+                       data-scroll="comments"
+                       data-duration="1000">Комментариев: 5</a>
+                    <div class="n2-post-page-body__info__save n2-save-post dropdown">
+                            <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+                    </div>
+
+                </div>
+                <div class="n2-post-wrap">
+                    <div class="n2-post-header">
+                        <h1>Почему так сложно научить критическому мышлению?</h1>
+                        <div class="n2-post-header__annotation"><p>Вместе с когнитивным психологом <a href="https://en.wikipedia.org/wiki/Daniel_T._Willingham">Дэниелом Виллингэмом</a> разбираемся, почему критическое мышление &mdash; это не та вещь, которой можно научить по методичке.</p></div>
+                    </div>
+                    <div class="n2-post io-article-body">
+
+                                                    <div class="js-mediator-article">
+                                <p>Почти всякий согласится, что основная, но редко достигаемая цель образования — научить критически мыслить. Компонентами критического мышления принято считать умение увидеть обе стороны проблемы, способность быть открытым к новой информации, которая может опровергнуть ваши идеи, способность рассуждать беспристрастно, требовать, чтобы всякое утверждение подкреплялось доказательством, делать выводы и обобщения из наличествующих фактов, решать сопутствующие проблемы. При этом существуют и специфические типы критического мышления, зависящие от предмета обучения — то, что мы имеем в виду, когда говорим «рассуждать как учёный» или «мыслить как историк».</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/2ac9d3ce6a2b8033cc1459233bedb0f1532b7a5a.jpg"></div><div class="person-of-interview__name">Дэниэл Виллингэм</div><div class="person-of-interview__descr">американский психолог-когнитивист, популяризатор научного подхода в педагогике и методике преподавания</div></div><p>Эти здравые представления очень часто оборачиваются призывами обучить «навыкам критического мышления» и абстрактными разговорами о том, что учащиеся должны лучше рассуждать, логически обосновывать и тому подобное. Ведущие бизнесмены и работники кадровых агентств на самом высоком уровне настойчиво призывают школы лучше обучать детей критическому мышлению. Совет колледжей США недавно пересмотрел государственный экзамен SAT, чтобы он более соответствовал данным целям, одна из корпораций предложила специальный тест для проверки навыков критического мышления у студентов колледжей.</p><p>Всё это уже не ново. В 1983 году Национальная комиссия по образованию и повышению квалификации представила доклад <a href="https://www2.ed.gov/pubs/NatAtRisk/risk.html">«Нация под угрозой»</a>. Выяснилось, что значительное количество 17-тилетних не владеет «продвинутыми» интеллектуальными навыками, в которых так нуждается страна.</p><div class="important-text important-text_type02">Утверждалось, что почти 40% выпускников не могут сделать выводы из прочитанного, и только пятая часть из них могла убедительно формулировать мысли в письменном виде.</div><p>После публикации доклада стали популярны всевозможные программы обучения студентов критическому мышлению. К 1990 году большинство штатов разработало руководства для учителей по преподаванию такого мышления. Самая распространенная программа такого рода — <a href="https://www.amazon.com/Tactics-Thinking-Teachers-Marzano-Arredondo/dp/B000U34JPO">Tactics for Thinking</a> — позволила продать 70 тысяч методичек. По причинам, которые я объясню ниже, программы не были особенно эффективны — мы и по сей день продолжаем жаловаться на то, что учащиеся не могут критически мыслить.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/ac3331f87d31ea26f3bb7a89f0d679b7dc46c74b.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption">Алексей Тыранов «Девушка, опирающаяся на руку»<div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://upload.wikimedia.org/wikipedia/commons/1/16/Alexey_Tyranov._Girl_with_hand.jpg">Википедия</a>)</div></div></div></div><p>После двадцати с лишним лет жалоб и призывов, которые не привели к улучшению, возможно, настала пора задать ключевой вопрос: можно ли вообще научить критическому мышлению? Многолетние исследования процессов познания приводят к неутешительному ответу на этот вопрос. Ранее предполагалось, что навык соответствующего мышления — что-то вроде езды на велосипеде, овладев которым однажды, можно использовать в любой ситуации. Когнитивистика доказала, что мыслительные процессы не похожи на подобные навыки.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/science/choice-blindness">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/fddf9f4d224576c4aefbc81581cc4b57.jpg" alt=""></span>
+                «Слепота выбора»: в реальности и на самом деле
+    </a>
+</div></div><p>Мыслительные процессы неразрывно связаны с содержанием наших мыслей. Соответственно, напоминая ученику «посмотреть на проблему с разных точек зрения», мы только приучаем его к мысли, что он обязан это сделать. Но если сам он не так много знает об объекте рассуждения, то он и не сможет судить с разных точек зрения. Можно заставить выучить догмы о том, как следует правильно мыслить, но без сопутствующих знаний и опыта ученики вряд ли смогут применить советы на практике. Бессмысленно обучать фактам, не давая понять, как их использовать, и равно бессмысленно учить критическому мышлению, лишенному фактического содержания.</p><p>В данной статье я постараюсь рассказать о природе критического мышления, объяснить, почему оно так трудно в применении и обучении, и поговорить о том, как учащиеся осваивают особый тип критического мышления: мышление научное. Вместе с тем мы увидим, что критическое мышление не является набором навыков, применимых во всякое время и в любом контексте. Это особое умение, в котором может преуспеть трехлетний ребенок и потерпеть неудачу профессиональный ученый. И очень многое здесь зависит от практики и предметного знания.</p><h3>Почему критически мыслить так тяжело?</h3><p>Педагоги давно отметили, что посещаемость и даже академическая успеваемость не гарантируют здравых рассуждений. Существует странная тенденция: «правильное» мышление, которому научили в школе, заставляет ребенка цепляться за частные примеры или типы задач. Скажем, решая математическую задачу, ученик может оценить до начала вычислений, какого ответа не может быть ни в коем случае, но в химической лаборатории он запросто может ошибиться. А студент, способный глубокомысленно рассуждать о причинах Гражданской войны 1918 г., и не подумает себя спросить о том, как немцы относились ко Второй Мировой.</p><div class="important-text important-text_type02">Почему учащиеся, способные критически мыслить в одной ситуации, цепенеют в другой?</div><p>Попросту говоря, мыслительные процессы завязаны на том, о чем конкретно мы думаем. Давайте рассмотрим этот процесс подробнее на примере хорошо изученного способа мыслить критически: решения задач.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/uploads/ckeditor/322b4f694288fafa13c1b380d181e2e05c717130.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption">Художник: Оскар Бьорк<div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://s-media-cache-ak0.pinimg.com/736x/6a/77/8d/6a778d5b089aa49d7ce40433680dcb76.jpg">Pinterest</a>)</div></div></div></div><p>Вообразим младшеклассников, которые решают задачи вроде «У меня было пять яблок». Почему те, кто может решить задачу про яблоки, пасуют перед задачей про вёдра с водой, хотя математически они одинаковы? Школьники здесь фокусируются на сюжете задачи (её поверхностной структуре), а не на математическом смысле (глубинной структуре). И, хотя их обучили решать частный случай задач, стоит описанию в учебнике измениться, младшеклассники не могут приложить к нему знакомое решение, поскольку не осознают, что задачи математически тождественны.</p><p>Чтобы понять, почему поверхностный смысл задач так отвлекает и почему так трудно использовать испытанные решения в незнакомых ситуациях, разберёмся в механизмах понимания.</p><p>Мы автоматически интерпретируем всё, что слышим или читаем, исходя из того, что уже знаем о похожих вещах.</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/0dc2b0e6c3febf21359295f2528253625ac0c245.png"></div><div class="person-of-interview__name">Прочитайте этот абзац:</div><div class="person-of-interview__descr"> </div><div class="person-of-interview__quote">— После многолетнего давления со стороны кино- и телеиндустрии президент направил в Китай официальную жалобу на нарушение прав американских компаний. Компании посчитали, что правительство КНР устанавливает жёсткие ограничения на легальное распространение американской развлекательной продукции в стране, в то время как на китайском рынке процветает пиратство, а американское кино продается на чёрном рынке.</div></div><p>Знание контекста позволяет вам продолжить чтение, сократив разброс интерпретаций текста. Скажем, если дальше вам попадется слово «Буш», вы не будете гадать, относится оно к бывшему президенту США, австралийскому кустарнику или одноименной рок-группе. Слово «пиратство» также вряд ли напомнит вам об одноглазых матросах, кричащих «На абордаж!». Мы воспринимаем мир таким образом, что вновь поступающая информация связана с тем, о чём вы думали секундой раньше. Это значительно сужает диапазон интерпретации слов, предложений и концепций. Преимуществом процесса является то, что мы быстрее и проще понимаем, о чём речь. Обратная его сторона в том, что от нас ускользает глубинная структура повествования.</p><p>Чем меньше идей для интерпретации возникает у нас при чтении, тем вернее это значит, что мы фокусируемся на поверхностных признаках. Вот ещё пример — испытуемые в одном эксперименте решали такую задачу:</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/2a61ce73f39281ab7d21bf13bac8110cdc36af26.png"></div><div class="person-of-interview__name">Детская задачка:</div><div class="person-of-interview__descr"> </div><div class="person-of-interview__quote">— Участники школьного оркестра долго репетировали парад к ежегодной встрече выпускников. Сперва они маршировали колоннами по 12, но Эндрю оказался позади в одиночестве. Затем встали в колонны по восемь, но Эндрю опять не досталось места в строю. Даже когда встали по трое, повторилась та же история. Наконец, рассердившись, Эндрю сказал, что нужно встать в ряды по пять человек, тогда никто не будет лишним. Он оказался прав. Мы знаем, что в строю было больше 45, но меньше 200 музыкантов — сколько всего было участников в школьном оркестре?</div></div><p>Перед тем, как получить эту задачу, школьники прочитали детальные разъяснения решения нескольких других задач. Одна из них была аналогична задаче про оркестр, только в ней говорилось об овощах. Но лишь 19% учащихся смогли «опознать» задачу про овощи и применить её решение в примере про музыкантов. Как же так получилось?</p><p>Когда школьник читает задачу «с сюжетом», он интерпретирует её в ключе того, что читал перед этим. К сожалению, сложность в том, что нужная вроде бы информация увязывается с поверхностным смыслом задачи. Ученик думает об оркестрах, школе, музыкантах и не может подумать о глубинной структуре задачи, чтобы привести её к общему знаменателю с задачей про овощи. Сюжет лежит на поверхности, а математический смысл — нет. Потому первая задача и не помогает большинству в решении второй: в сознании учеников одна была про овощи, а другая — про парад музыкантов.</p><h3>Знания помогают нам проникнуть за внешнюю оболочку вещей</h3><p>Если бы знание о решении вообще бы не срабатывало в задачах с новым описанием, в школьном обучении было бы мало смысла. Однако рано или поздно нужное понимание появляется. Сложно сказать, как оно возникает и за счёт чего, но для педагогов в этом смысле важны два фактора: наличие у ученика представления о внутренней структуре задачи и знание о том, что это структуру нужно искать.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/uploads/ckeditor/78d74d32257a8b4a8a1ae2822fefba6b76d6f453.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption">Художник: Эллен Эммет Рэнд<div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://s-media-cache-ak0.pinimg.com/736x/e0/29/2e/e0292ecb36bc0b2d5a6f4bdbff5d174a.jpg">Pinterest</a>)</div></div></div></div><p>Я остановлюсь подробнее на обоих пунктах. Если человек хорошо знаком с внутренней структурой задачи, его легко обучить решению. Понимание структуры может прийти после долгого изучения конкретной задачи или разных задач с одинаковой структурой. Когда человек постоянно решает одно и то же, он воспринимает внутреннюю структуру уже на порах описания задачи. Вот пример:</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/981e08362e989e65c9500860c8ead494defd9e8c.png"></div><div class="person-of-interview__name">Ещё одна задачка:</div><div class="person-of-interview__descr"> </div><div class="person-of-interview__quote">— Охотник за сокровищами хочет обследовать пещеру в горах возле пляжа. Он подозревает, что в пещере много ходов и разветвлений, поэтому он боится заблудиться. Карты пещеры у него нет, в рюкзаке только обыкновенные предметы вроде фонарика. Что ему предпринять, чтобы точно не заблудиться и выбраться из пещеры?</div></div><p>Решение данной задачи — насыпать в рюкзак песка с пляжа и просыпать его по дороге в пещере, оставляя за собой след, по которому можно выбраться обратно. Среди опрошенных американских студентов к этому пришли 75%, но среди китайских — только 25%. Предполагается, что высокий результат среди американцев объясняется тем, что большинство из них слышали в детстве сказку о Гензеле и Гретель — где брат с сестрой оставляли за собой след, чтобы вернуться. В ходе эксперимента студентам затем предложили разгадать загадку, ответ которой схож с мотивом <a href="http://www.aft.org/periodical/american-educator/summer-2007/you-probably-solved-puzzle-based-hansel-and">китайской народной сказки</a>, и процент правильно ответивших среди американцев и китайцев поменялся ровно в противоположную сторону.</p><p>Итак, постоянное обращение к определенной задаче помогло нашим студентам немедленно опознать глубинную структуру этой задачи в другом примере. Американцы не размышляли над условиями, а сразу думали о предмете, который поможет им оставить за собой след. Внутренний смысл задачи настолько запечатлён в их сознании, что они его сразу же опознали.</p><h3>Поиски глубинной структуры помогают, но не слишком</h3><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/higher/why-universities">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/e9518493d6bd529e01ac2aca343671be.jpg" alt=""></span>
+                Зачем нам нужны университеты
+    </a>
+</div></div><p>Теперь обратимся к следующему фактору, который помогает в обучении, несмотря на отвлекающие различия во внешних описаниях задач — это знание о том, что вообще нужно искать внутреннюю структуру. Предположим, я скажу ученику, решающему задачу с оркестром, что она похожа на задачу про сад. Он поймет, что у обеих задач есть нечто общее и попытается установить, что именно. Ученики могут прийти к этому и без намеков с моей стороны.</p><p>Например, они могут подумать: «Раз уж мы решаем эту задачу на уроке математики, должна быть математическая формула, которая облегчит решение». Затем можно покопаться в своей памяти (или в учебнике) и узнать, какая формула подходит.</p><p>Это именно то, что психологи называют метапознанием или регулировкой мыслей. Во вступлении к статье я упоминал, что ученикам можно внушить максимы о том, как им следует мыслить. Учёные-когнитивисты называют такие максимы метапознавательными стратегиями. Это маленькие отрывки общих знаний вроде «ищи внутреннюю структуру задачи» или «учти обе стороны проблемы», которые ученик может запомнить и с их помощью направить свои мысли в продуктивном направлении.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/media/cache/resolve/resize_616/uploads/ckeditor/778ce6683a11a71f4a41c733fc805838e184655d.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption">Художник: Уолтер Фирле<div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://s-media-cache-ak0.pinimg.com/736x/01/40/6d/01406d385bd51a68e41026cced573bb7.jpg">Pinterest</a>)</div></div></div></div><p>Помогать ученикам лучше управлять их мыслями было одной из целей программ критического мышления, популярных двадцать лет назад. Эти программы были не слишком эффективны. Своим скромным достижениям они обязаны как раз обучению детей метапознавательным стратегиям. Студенты и школьники обучились избегать распространенных ошибок рассуждения: останавливаться на первом выводе, который показался логичным, искать только те свидетельства, которые подтверждают наше мнение, игнорировать свидетельства обратного, переоценивать свои силы и тому подобное. То есть студент, которому много раз говорили обратить внимание на обе стороны проблемы, рано или поздно начинал думать об этом сам, столкнувшись с новой задачей.</p><div class="important-text important-text_type02">К сожалению, ничего сверх этого метапознавательные стратегии нам дать не могут. Они подсказывают, что надо сделать обязательно, но не говорят о том, как именно это осуществить.</div><p>Например, когда ученикам всё-таки сказали, что задача об оркестре похожа на задачу с садом, это увеличило количество решивших задачу (35% против 19%), но большинство всё-таки не смогло её решить даже зная, что надо делать. Вы можете знать, что нельзя останавливаться на первом разумно звучащем решении проблемы, но при этом можете и не найти других решений или определить, какое разумнее всего. Для этого нужно обладать знаниями в данной области и опытом их применения.</p><p>Критическое научное мышление настолько тесно связано с необходимостью знания о предмете изучения, что педагоги вправе поинтересоваться: не проще ли обучать критическому мышлению именно в определенной области знания. Ответ — легче, но не намного. Чтобы понять почему, обратимся к науке и рассмотрим феномен научного мышления.</p><h3>Легко ли мыслить как учёный?</h3><p>Обучение научной проблематике было предметом интенсивных исследований на протяжении десятилетий, и эти исследования можно разделить на две ветви.</p><p>Первая обращается к тому, как дети усваивают научные концепции — например, как они преодолевают наивные представления о движении и заменяют их представлениями о физических процессах.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/school/lameness-math-education">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/fe80b0062b0d6d5fd51d6de0ed15c488.jpg" alt=""></span>
+                Хромота математического образования
+    </a>
+</div></div><p>Вторая ветвь как раз относится к тому, что мы называем научным мышлением, производимым в уме операциям, которые управляют научным процессом: построение модели, выделение гипотезы, проведение эксперимента для проверки гипотезы, сбор данных, их интерпретация и так далее.</p><p>Большинство исследователей считает, что научное мышление — это один из подтипов мышления, который используют дети и взрослые. Научным его делает знание о том, когда его следует применять, и достаточное количество информации и опыта, чтобы применить.</p><div class="important-text important-text_type02">Исследования показывают: умения рассуждать недостаточно. И дети, и взрослые постоянно неправильно применяют навыки мышления в сходных процессах.</div><p>Рассмотрим пример, имеющий важное значение для понимания причины и следствия в науке: условные вероятности. Если две вещи происходят одновременно, вероятно, одна послужила причиной для другой.</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/a50b2126f3bf74f63cc1681009ed1ed3d3d968c9.png"></div><div class="person-of-interview__name">Задачка на понимание условных вероятностей:</div><div class="person-of-interview__descr"> </div><div class="person-of-interview__quote">— Допустим, вы начали принимать лекарство и заметили, что у вас стала часто болеть голова. Вы заподозрите, что лекарство повлияло на головные боли. Но возможно также, что лекарство повышает шансы возникновения боли лишь в определенных условиях.</div></div><p>Применение представления об условной вероятности событий является ключевым для научного мышления, поскольку оно важно для понимания, что является причиной чего. Но люди, как правило, понимают эту проблему в зависимости от того, как сформулирован вопрос.</p><p>Исследования показали, что взрослые понимают проблему условной вероятности, но не могут её применить во многих необходимых случаях. Даже профессиональные ученые могут допустить логическую ошибку в рассуждениях об условной вероятности событий (как и в других рассуждениях). Врачи зачастую недооценивают или неправильно интерпретируют новые сведения о пациенте, противоречащие поставленному ими диагнозу. Доктора наук становятся жертвой ошибочных рассуждений, когда сталкиваются с проблемой в незнакомом контексте.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/uploads/ckeditor/69e73ee1d34f5de493b712b89058c8172815f07b.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption">Художник: Евгений Кацман<div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://s-media-cache-ak0.pinimg.com/736x/79/42/6f/79426f2330695e14651b3ff4f7bdf553.jpg">Pinterest</a>)</div></div></div></div><p>В то же время, маленькие дети порой могут <a href="http://eccl.mit.edu/papers/gopniksobelshulzglymour.pdf">рассуждать</a> в терминах вероятности. В одном эксперименте трёхлетним детям показали коробку, из которой играет музыка, если на нее положить один из двух кубиков или оба вместе. Дети не только легко вычислили, какой кубик включает машину, но и догадались, как её выключить — положив «нерабочий» кубик.</p><div class="important-text important-text_type02">Выводы из этих экспериментов можно сделать такие: дети не так глупы, как вы могли подумать, а взрослые (и профессиональные учёные) не так умны, как вы могли подумать.</div><p>Что же получается? Прежде всего, общее представление о критическом, научном, историческом мышлении как о сумме неких навыков, видимо, неверно. Критическое мышление нельзя свести к навыкам в традиционном понимании — в отличие от навыка, его не получится применять всякий раз, когда захочется.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/science/collection-about-thinking">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/36efdd38647224a7a2e527d0f11afa31.jpg" alt=""></span>
+                В закладки: самое важное о когнитивных навыках
+    </a>
+</div></div><p>Допустим, я скажу вам, что научился нотной грамоте. Вы поймете, что я смогу теперь пользоваться этим навыком в любое время. Но, как мы заметили, обсуждая условную вероятность, люди могут и пользоваться критическим мышлением без подготовки, и отказываться от него, даже имея большой опыт применения. Понять, что критическое мышление не является навыком, очень важно. Это подсказывает, что обучение студентов и школьников критически мыслить в меньшей степени связано с научением новым способам думать, и в гораздо большей — с научением о том, как правильно применять нужные рассуждения в нужное время.</p><p>Вновь обращаясь к науке, зададим себе вопрос: можно ли обучить студентов мыслить научно? В некотором роде. Вспомним, что, обсуждая решение задач, мы установили: ученикам можно внушить метапознавательные стратегии, которые помогут им видеть сквозь внешнее описание задачи и опознавать её глубинную структуру, на шаг приближаясь к решению. Примерно то же самое можно сделать и в области научного мышления.</p><p>Но, как и в решении задач, такие стратегии только подсказывают, что нужно сделать, а не дают знания о том, как именно. Хорошая новость состоит в том, что внутри научных областей существует больше подсказок, которые помогут студенту понять, какую метапознавательную стратегию использовать. Преподаватели же будут яснее представлять, какой области знания следует уделить особое внимание, чтобы студенты могли использовать свои стратегии.</p><div class="person-of-interview"><div class="person-of-interview__pic"><img alt="" src="https://newtonew.com/uploads/ckeditor/f5872fd6ce4c0c1aa95766da6a3898a398a7b890.png"></div><div class="person-of-interview__name">Задачка для младшеклассников:</div><div class="person-of-interview__descr"> </div><div class="person-of-interview__quote">— Так, два учёных обучили школьников во втором, третьем и четвертом классах концепции управляющих переменных. Она состоит в том, что в двух сравниваемых положениях все одинаково, кроме одной переменной, которую и нужно исследовать. Ученые детально объяснили, как эта концепция помогает в проведении экспериментов, а затем выдали школьникам для эксперимента пружины. Их попросили ответить, какой из этих факторов определяет, насколько сильно распрямится пружина после сжатия: её длина, диаметр витка, диаметр проволоки, вес?</div></div><p>Исследование показало, что младшеклассники не только поняли концепцию управляющих переменных, но и вспомнили и применили её семь месяцев спустя, с другими материалами и другими учеными. Школьники поняли, что вновь проводят эксперимент, и вспомнили, какой метапознавательной стратегией уже пользовались.</p><h3>Почему научное мышление зависит от суммы научного знания</h3><p>Специалисты по преподаванию науки рекомендуют обучать научным рассуждениям в контексте общего знания об определённом предмете. Национальный исследовательский совет прямо говорит: «Теория без практики и обучение практической работе в отрыве от научной теории равным образом не приведут к успеху».</p><p>К таким выводам пришли, осознав, что знание о предмете необходимо для научного мышления. Например, важно знать, что для эксперимента необходима контрольная группа. Но знать это — ещё не значит быть способным её создать. Не всегда возможно сформировать две абсолютно схожие группы, поэтому следует представлять, какие факторы в группах могут отличаться, а какие для чистоты эксперимента должны быть одинаковы. Так, если мы исследуем быстроту реакции, контрольные группы должны быть отобраны по возрасту, но могут разниться по полу.</p><p>Это не единственный пример того, как «фоновые» знания помогают рассуждать научно. Возьмём разработку исследовательской гипотезы. Для разных ситуаций можно придумать множество гипотез. Допустим, машина А имеет меньший расход бензина, чем машина В, и вы хотите узнать, почему. Машины между собой серьёзно отличаются, с чего начать сравнивать? С размера двигателя? Давления в шинах? Ключ к составлению гипотезы в данном случае — осмысленность. Вы вряд ли станете рассуждать о расходе бензина, исходя из цвета машины. Однако, если это вдруг окажется осмысленным, например, подросток покрасил свою машину в красный и начал гонять как бешеный, придётся исследовать и этот фактор. Таким образом, представление об осмысленности того или иного фактора зависит от наших знаний в данной сфере.</p><div class="n2-post-images n2-post-images_1-images"><div class="item n2-post-image"><div style='background-image: url("https://newtonew.com/uploads/ckeditor/7806488d7c7dd8edb63aba8385b47611310ad758.jpg");' class="n2-post-image__image"> </div><div class="n2-post-image__image-caption"><div class="n2-post-image__image-source">(источник: <a target="_blank" class="img-source" href="https://s-media-cache-ak0.pinimg.com/736x/12/36/43/123643f633d6bd316b0c231435e4eaaa.jpg">Pinterest</a>)</div></div></div></div><p>Другие данные показывают, что знакомство с определённой областью знаний позволяет нам одновременно оперировать разными факторами и конструировать более сложные эксперименты. Например, в одном эксперименте восьмиклассники столкнулись с двумя задачами. В одной они должны были поддерживать жизнь воображаемых животных в компьютерной симуляции, управляя условиями их среды. В другой их попросили оценить, как площадь поверхности воды в бассейне влияет на скорость охлаждения воды в нём. В первом случае школьники справились лучше — видимо потому, что факторы, которые надо оценивать, были им более знакомы. Детям знакомо то, что влияет на существование (еда, наличие хищников, свет), но у них меньше опыта наблюдения за факторами изменения температуры воды (объём, площадь поверхности). Мы видим, что «контроль переменных в эксперименте» — это не какой-то абстрактный процесс, он тоже подвержен влиянию представлений экспериментатора об этих переменных.</p><div class="note note_read-more"><div class="note_read-more__inner">
+    <h3>Читайте также<span class="note_read-more__colon">:</span></h3>
+    <a target="_blank" href="/science/critical-thinking-guidance">
+                    <span class="note_read-more__pic">
+                <img src="https://newtonew.com/uploads/media/cache/thumb_small_post/uploads/blog/posts/7a890d14dcf57edbdd91b6ef4f0029bd.jpg" alt=""></span>
+                Критическое мышление: базовые принципы и приёмы
+    </a>
+</div></div><p>Первоначальные знания и убеждения не только влияют на то, какую гипотезу мы скорее выберем для исследования, они также искажают нашу интерпретацию данных эксперимента. Так, в одной школе оценили уровень знаний старшеклассников об электрических схемах. Затем эти старшеклассники приняли участие в трёх еженедельных занятиях продолжительностью 1,5 часа, где с помощью компьютера, они моделировали схемы и ставили эксперименты, чтобы понять работу электричества. Результаты показали зависимость выводов школьников от их первоначальных знаний о предмете. Те, кто приступал к экспериментам с лучшим пониманием предмета, составляли более информативные эксперименты и лучше распоряжались полученными результатами.</p><p>Другие исследования привели к схожим выводам. Было установлено, что аномальные или неожиданные результаты экспериментов важны для появления новых знаний. Данные, которые кажутся странными, поскольку не укладываются в нашу модель, крайне информативны. Они показывают, что наше понимание неполно, и ведут к разработке новых гипотез. Но вы можете охарактеризовать результат эксперимента как «аномальный» только если уже обладали представлением о том, к чему он приведёт. А это представление основано на общем знании предмета, так же как и ваша новая гипотеза, которая уже будет учитывать предыдущий аномальный результат.</p><p>Идея о том, что научное мышление должно изучаться одновременно с научными проблемами как таковыми, также подтверждается исследованиями решения научных задач — тех, которые решаются подобно задачам из учебника, а не проведением экспериментов. <a href="http://onlinelibrary.wiley.com/doi/10.1002/tea.1013/abstract">Метаанализ 40 экспериментов</a> показал, что в решении задач эффективны подходы, основанные на построении разносторонней базы знаний. Неэффективные подходы фокусировались на решении конкретной задачи, игнорируя знания, необходимые для понимания этого решения.</p><h3>Какие выводы мы сделали из всех этих исследований?</h3><ul class="ul-large"><li>Во-первых, критическое мышление (а также научное и другие сопутствующие типы мышления) не является навыком. Не существует критическо-мыслительных умений, которыми можно раз и навсегда овладеть и пользоваться независимо от контекста.</li><li>Во-вторых, существуют метапознавательные стратегии, которым можно научиться, и которые помогут критическому мышлению.</li><li>В-третьих, способность критически мыслить зависит от предметного знания и опыта.</li></ul><p>Таким образом, для преподавателей ситуация небезнадежна, но, как можно было предположить, обучить критическому мышлению — крайне непростая задача.</p>
+                            </div>
+                        
+
+                        <script id="js-mpf-mediator-init" data-counter="2771122" data-adaptive="true">
+                            !function (e) {
+                                function t(t, n) {
+                                    if (!(n in e)) {
+                                        for (var r, a = e.document, i = a.scripts, o = i.length; o--;)if (-1 !== i[o].src.indexOf(t)) {
+                                            r = i[o];
+                                            break
+                                        }
+                                        if (!r) {
+                                            r = a.createElement("script"), r.type = "text/javascript", r.async = !0, r.defer = !0, r.src = t;
+                                            var d = function () {
+                                                var e = a.getElementsByTagName("script")[0];
+                                                e.parentNode.insertBefore(r, e)
+                                            };
+                                            "[object Opera]" == e.opera ? a.addEventListener ? a.addEventListener("DOMContentLoaded", d, !1) : e.attachEvent("onload", d) : d()
+                                        }
+                                    }
+                                }
+
+                                t("//top-fwz1.mail.ru/js/code.js", "_tmr"), t("//mediator.imgsmail.ru/2.0/mpf-mediator.min.js", "_mediator")
+                            }(window);
+                        </script>
+
+                        <p class="n2-post__info io-article-footer "> 4 апреля 2017, 12:00
+                            <br>
+                                                                                                            </p>
+
+                        <div class="n2-post__social-likes">
+                            <script>
+    // Vk
+    VK.init({apiId: 4305667, onlyWidgets: true});
+    // Twitter
+    !function (d,s,id){
+        var js,
+                fjs=d.getElementsByTagName(s)[0],
+                p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+            js=d.createElement(s);
+            js.id=id;
+            js.src=p+'://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);}
+    } (document, 'script', 'twitter-wjs');
+
+    // Facebook
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&appId="+ 303000723191123+ "&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="n2-post__social-likes-item">
+        <div style="width: 140px; height: 20px">
+            <div id="vk_like1"></div>
+            <script type="text/javascript">
+                VK.Widgets.Like("vk_like1", {type: "button", width: 100});
+            </script>
+        </div>
+    </div>
+    <div class="n2-post__social-likes-item">
+        <div id="fb-root"></div>
+        <div class="fb-like" data-href=" /school/critical-thinking-so-hard " data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+
+    
+    <div class="n2-post__social-likes-item"><a href="https://twitter.com/intent/tweet?text=Почему так сложно научить критическому мышлению? от @newtonewer " class="twitter-share-button" data-lang="ru">Твитнуть</a></div>
+    <div class="n2-post__social-likes-item"><button class="n2-post__social-likes-item_copy-link copy-to-clipboard" data-clipboard-text="https://newtonew.com/school/critical-thinking-so-hard"><span class="n2-icon n2-icon_size-12 n2-icon_link"></span> Скопировать ссылку</button></div>
+                        </div>
+
+                            <div class="n2-post__materials">
+        <h3>По материалам:</h3>
+        <ul>
+                                                                                                    <li>Статья Дэниела Виллингэма «Критическое мышление: почему ему так сложно научить?»<br>
+                    <a href="http://www.aft.org/sites/default/files/periodicals/Crit_Thinking.pdf">www.aft.org</a>
+                </li>
+                    </ul>
+    </div>
+
+
+                                                <div class="n2-post__author">
+                                    <div class="n2-post__author__label n2-author-label n2-author-label_nonstaff">Внештатный автор</div>
+                                <div class="n2-post__author__pic"><img src="https://newtonew.com/uploads/media/cache/thumb_100x100/uploads/avatars/bbd2663cdee9e245b839c7e9e63f0402.jpg" alt=""></div>
+                <div class="n2-post__author__name io-author">Андрей Гореликов</div>
+                <div class="n2-post__author__descr"></div>
+            </div>
+            
+
+
+                        <div class="n2-tags-list">
+                            <div class="n2-tags-list__tags">
+                                                                    <a href="/school"
+                                       class="io-category n2-tag n2-tag_grey n2-tag_school">школа</a>
+                                                                    <a href="/science"
+                                       class=" n2-tag n2-tag_grey n2-tag_science">наука</a>
+                                                            </div>
+                            <div class="n2-tags-list__pers">
+                                                                    <a href="/teacher"
+                                       class="n2-tag n2-tag_grey n2-tag_teacher">педагог</a>
+                                                            </div>
+                                                    </div>
+                        <div class="n2-found-mistake">Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.</div>
+                    </div>
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/2147/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/team-building-games-for-thinking"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/lifehack" class="n2-tag n2-tag_lifehack"
+   style="background-color: #7583c9">лайфхаки</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Командные игры для развития мышления</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/story/zagorsk-experiment"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/story" class="n2-tag n2-tag_story"
+   style="background-color: #f26650">истории</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">«Загорский эксперимент» и основы человеческого мышления</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/science/walks-with-expert-eyes"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/science" class="n2-tag n2-tag_science"
+   style="background-color: #6297cc">наука</a>                            <a href="/book" class="n2-tag n2-tag_book"
+   style="background-color: #f58d25">книги</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Как мы видим и почему так мало замечаем</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/critical-thinking-so-hard">
+                    <input type="hidden" name="post-id" value="2147">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 972549622;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>
