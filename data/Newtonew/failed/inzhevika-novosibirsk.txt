@@ -1,0 +1,1716 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    <title>«Личный шаттл должен быть у каждого» / Newtonew: новости сетевого образования</title>
+
+    <meta name="description" content="Как школьники Новосибирска работают с генными сетями, обучают искусственный интеллект и ищут рецепты против старения."/>
+
+    <meta name="keywords" content=""/>
+
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="jaQtLC9XtiZ0r9tYTACCcgLAgndcdkk7mXuJtfnzaZI"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          title="Newtonew (RSS 2.0)" href="https://newtonew.com/rss/"/>
+
+                <meta property="og:site_name" content="Newtonew — медиа о современном образовании"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel="canonical" href="https://newtonew.com/school/inzhevika-novosibirsk"/>
+            
+    <meta property="og:title" content="«Личный шаттл должен быть у каждого»"/>
+    <meta property="og:description" content="Как школьники Новосибирска работают с генными сетями, обучают искусственный интеллект и ищут рецепты против старения."/>
+    <meta property="og:url" content="https://newtonew.com/school/inzhevika-novosibirsk"/>
+    <meta property="og:type" content="website"/>
+                    <meta property="og:image" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/84235124b48e591394014b97bc6689a3.jpg" />
+<meta property="og:image:secure_url" content="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/84235124b48e591394014b97bc6689a3.jpg" />
+<link rel="image_src" href="https://newtonew.com/uploads/media/cache/thumb_top/uploads/blog/posts/84235124b48e591394014b97bc6689a3.jpg" />
+
+            <link rel="stylesheet" href="https://tilda.ws/css/tilda-grid-3.0.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" href="https://tilda.ws/project39131/tilda-blocks-2.6.css" rel="stylesheet" media="screen">
+    
+            <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=Vo73nYkNWaRZur-6"></script>
+    
+    <meta property="fb:app_id" content="303000723191123"/>
+    <meta property="fb:pages" content="649920305044462"/>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic-ext">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,700,400&subset=latin,cyrillic-ext">
+
+                        <link rel="stylesheet" href="/css/299bf0d-097404a.css"/>
+                    
+        <link rel="stylesheet" href="/css/9a5a6c7-80e2c9f.css"/>
+            <link rel="stylesheet" href="/css/27997e7-eb1e49d.css"/>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+                        <script src="/js/2a9e754-7b0b6da.js"></script>
+            
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+    <script src="/bundles/fosjsrouting/js/router.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+
+    <!-- sendpulse push -->
+    <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/2809f6af4a4953b1d11bcae49947083c_1.js" async></script>
+
+</head>
+<body style="" class="n2-wide-block_light-blue n2-page-with-picheader n2-tilda-page n2-page-with-banner" >
+<div class="n2-main-wrap">
+    <!-- Header -->
+            
+<header class="n2-main-header" id="header">
+    <div class="n2-advertisment-banner">
+        <!-- adFox top -->
+                <div class="third-party-adv-top-banner">
+        <div id="adfox-desktop-id"></div>
+        <script src="https://yastatic.net/pcode/adfox/loader.js"></script>
+        <script>
+            // banner only for desktop and tablet
+            if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295 ) + 1; }
+            if (typeof(document.referrer) != 'undefined') {
+                if (typeof(afReferrer) == 'undefined') {
+                    afReferrer = encodeURIComponent(document.referrer);
+                }
+            } else {
+                afReferrer = '';
+            }
+            var addate = new Date();
+
+            window.Ya.adfoxCode.createAdaptive({
+                        ownerId: 253124,
+                        containerId: 'adfox-desktop-id',
+                        params: {
+                            pp: 'g',
+                            ps: 'ckaa',
+                            p2: 'fmce',
+                            plp: 'a',
+                            pli: 'a',
+                            pop: 'a',
+                            pr: pr,
+                            pd: addate.getDate(),
+                            pw: addate.getDay(),
+                            pv: addate.getHours(),
+                            prr: afReferrer
+                        }
+                    }, ['desktop', 'tablet'], {
+                        tabletWidth: 1000,
+                        phoneWidth: 300
+                    } // states
+            );
+
+            $(window).resize(setCanvasHeight);
+
+            $(document).ready(function () {
+                $('.third-party-adv-top-banner iframe').load(function() {
+                    setCanvasHeight();
+                    setTopMargin();
+                });
+            });
+
+            function setCanvasHeight(){
+                var canvasHeight = $('#adfox-desktop-id iframe').contents().find('canvas').height();
+
+                $('#adfox-desktop-id iframe').height(canvasHeight);
+            }
+        </script>
+    </div>
+
+    </div>
+
+    <div class="n2-main-header-top">
+        <div class="container container-01">
+            <ul class="n2-main-header-top__menu">
+                <li><a href="/ege/">ЕГЭ спецпроект</a></li>
+                <li><a href="http://proteachers.ru/" target="_blank">ProTeachers</a></li>
+                <li><a href="/opinion/best-mooc-practices-lektorium">MOOC 2016</a></li>
+                <li><a href="http://mooc.newtonew.com/" target="_blank">Большая переменная</a></li>
+                <li><a href="http://ifmo.newtonew.com/" target="_blank">Физика: игра света</a></li>
+            </ul>
+            <div class="n2-main-header-top__social-nets">
+                <ul class="n2-main-header-top__menu">
+                    <li><a href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1"><span class="n2-icon n2-icon_size-16 n2-icon_vk"></span></a></li>
+                    <li><a href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2"><span class="n2-icon n2-icon_size-16 n2-icon_fb"></span></a></li>
+                    <li><a href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3"><span class="n2-icon n2-icon_size-16 n2-icon_tw"></span></a></li>
+                    <li><a href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4"><span class="n2-icon n2-icon_size-16 n2-icon_go"></span></a></li>
+                </ul>
+                <div class="n2-main-header-top__social-nets-label">Мы в соц.сетях:</div>
+            </div>
+        </div>
+    </div>
+    <div class="n2-main-header-body">
+        <div class="container container-01">
+            <div class="n2-main-header-body__inner">
+                <div class="n2-main-header__menu-for-narrow">
+                    <a href="#2" class="n2-main-header__menu-link"><span class="n2-icon n2-icon_gamburger"></span></a>
+                </div>
+                <a href="/" class="n2-main-header-logo"></a>
+                                                    <ul class="n2-header-main-menu">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+                        <li class="n2-header-main-menu__dvdr">·</li>
+                
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+        </ul>
+    
+                <div class="n2-main-header__search">
+                    <form method="get" action="/find">
+                        <input type="text" class="n2-main-header__search-input" name="query" autocomplete="off" value="">
+                        <button class="n2-main-header__search-btn btn btn_bordered btn_medium">Найти</button>
+                        <a href="#" class="n2-main-header__search-close"><span class="n2-icon n2-icon_size-12 n2-icon_cross"></span></a>
+                    </form>
+                </div>
+                <div class="n2-main-header-body__right">
+                    <a href="#1" class="n2-search-link"><span class="n2-icon n2-icon_size-16 n2-icon_search"></span></a>
+                        <a href="#modalLogin" data-toggle="modal" class="btn btn_small btn_bordered n2-main-header__enter-link">Войти</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+                    <div class="n2-header-narrow-menu">
+            <div class="container container-01 clearfix">
+                <ul class="n2-header-narrow-menu__list">
+                                                            
+                <li class="active first">        <a href="/archive">Статьи</a>            
+    </li>
+
+            
+                <li>        <a href="/columns">Авторские колонки</a>            
+    </li>
+
+            
+                <li>        <a href="/collections">Коллекции</a>            
+    </li>
+
+            
+                <li>        <a href="/news">Новости</a>            
+    </li>
+
+            
+                <li class="last">        <a href="/events/">События</a>            
+    </li>
+
+                
+                </ul>
+                <ul class="n2-header-narrow-menu__list n2-header-narrow-menu__list_additional">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li class="n2-with-dvdr"><a href="/contacts">Контакты</a></li>
+                    <li><a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a></li>
+                    <li><a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a></li>
+                    <li><a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a></li>
+                    <li><a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая переменная</a></li>
+                    <li><a href="http://ifmo.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Физика: игра света</a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+    <!-- Content -->
+    
+    <!-- header -->
+        <div class="news-header tilda"></div>
+
+<div class="n2-news-header_tiny">
+    <a href="#" class="n2-news-header_tiny__up-link"><span class="n2-icon n2-icon_arr-up"></span></a>
+    <div class="container container-01">
+        <div class="n2-news-header_tiny__inner">
+
+            <div class="text">«Личный шаттл должен быть у каждого»</div>
+
+            <div class="n2-nets" data-url="https://newtonew.com/school/inzhevika-novosibirsk">
+                <div class="social-likes social-likes_light">
+                    <div class="facebook"></div>
+
+                    <div class="vkontakte" title="Share link on VKontakte"></div>
+
+                    <div class="twitter" title="Share link on Twitter"></div>
+                </div>
+            </div>
+            <div class="button">
+                <a href="#comments" data-scroll="comments" data-duration="1000" class="btn btn_white-bordered-2">Комментировать <span>(1)</span></a>
+                <div class="n2-news-header_tiny__save n2-save-post dropdown">
+        <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn"><span class="n2-save-post__bookmark"></span> Сохранить</a>
+    <a href="#modalLogin" data-toggle="modal" class="n2-save-post__btn n2-save-post__btn_list"><span class="n2-save-post__list"></span></a>
+
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- text -->
+    <div id="js-post-page" class="n2-wide-block n2-first-page-block" data-postid="1728">
+                    <div class="n2-post-header hidden"></div>
+            <div class="js-mediator-article io-article-body">
+                <!--allrecords-->
+<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="39131" data-tilda-page-id="352552"  >
+
+<div id="rec9549326" class="r" style=" " data-animationappear="off" data-record-type="275"   >
+<!-- t256 -->
+<!-- cover -->
+	
+
+
+
+
+<div class="t-cover" id="recorddiv9549326" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
+
+	<div class="t-cover__carrier" id="coverCarry9549326" data-content-cover-id="9549326"  data-content-cover-bg="https://static.tildacdn.com/tild3236-6234-4938-a231-373262303136/noroot.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"   data-content-video-url-youtube="0KbWOSB0ILM"     style="height:100vh; "></div>
+      
+    <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));background-image: -o-linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));background-image: linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#b2000000', endColorstr='#b2000000');"></div>
+    <div class="t-container">
+        <div class="t-width t-width_8 t256__mainblock">
+            <div class="t256 t-align_center">
+                <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+                    <div class="t256__wrapper" data-hook-content="covercontent">
+                        <a class="t256__play-link" href="javascript:t256showvideo('9549326');">
+                            <div class="t256__play-icon">
+                                  <svg width="70px" height="70px" viewBox="0 0 60 60" style="background-color:#000000;border-radius:40px;-moz-border-radius:40px;-webkit-border-radius:40px;">
+                                      <g stroke="none" stroke-width="1" fill="" fill-rule="evenodd">
+                                          <g transform="translate(-691.000000, -3514.000000)" fill="#FFFFFF">
+                                              <path d="M721,3574 C737.568542,3574 751,3560.56854 751,3544 C751,3527.43146 737.568542,3514 721,3514 C704.431458,3514 691,3527.43146 691,3544 C691,3560.56854 704.431458,3574 721,3574 Z M715,3534 L732,3544.5 L715,3555 L715,3534 Z"></path>
+                                          </g>
+                                      </g>
+                                  </svg>                                        
+                            </div>
+                        </a>
+                        <h1 class="t256__title t-title t-title_sm" field="title">«Личный шаттл должен быть у каждого»</h1>
+                        <div class="t256__descr t-descr t-descr_xs" field="descr"><div style="font-size:20px;" data-customstyle="yes">Как школьники Новосибирска работают с генными сетями, обучают искусственный интеллект и ищут рецепты против старения. <br /></div></div>
+                        <span class="space"></span>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+    <div class="t256__video-container t256__hidden" data-content-popup-video-url-youtube="0KbWOSB0ILM">
+      <div class="t256__video-carier"></div>
+      <a class="t256__video-bg" href="javascript:t256hidevideo('9549326');" style="background:#000000; opacity:0.100;"></a>
+  	</div>
+  
+
+</div>
+    
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#rec9549326").attr('data-animationappear','off');
+  $("#rec9549326").css('opacity','1');
+});
+</script>  
+
+</div>
+
+
+<div id="rec9549363" class="r" style="padding-top:60px;padding-bottom:30px; " data-animationappear="off" data-record-type="106"   >
+<!-- T004 -->
+<div class="t004">
+	<div class="t-container ">
+	  	<div class="t-col t-col_8 t-prefix_2">
+			<div field="text" class="t-text t-text_md  "><div style="font-size:16px;" data-customstyle="yes"><span style="font-size: 14px;"></span><span style="font-size: 14px;">На видео: ученица МАОУ ОЦ «Горностай» Аня Петрова рассказывает о проекте «Краш-тест автомобилей» с PASCO digital labs. Создан при поддержке Polymedia</span><span style="font-size: 14px;"></span><span style="font-size: 14px;"></span><br /><br />В конце сентября мы побывали на открытии научно-технической лаборатории <a href="http://school.fit.nsu.ru/">«Инжевика»</a> в новосибирском Академгородке. Много говорили со школьниками, которые будут здесь заниматься. Много думали. Нельзя сказать, что ученики в «Инжевике» – простые ребята из соседнего двора. Все они учатся в хороших гимназиях, в свои 13-16 лет имеют вполне стройные планы на жизнь, круг интересов и чёткую образовательную траекторию. <br /><br /> Но, каким бы одарённым, трудолюбивым и амбициозным ни был ребёнок, ему нужен спектр возможностей по его способностям. Кстати, кажется закономерным, что организацией возможностей для детей с серьёзными талантами занимаются серьёзные корпорации.<br /></div></div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<div id="rec9549393" class="r" style="padding-top:0px;padding-bottom:30px; " data-animationappear="off" data-record-type="139"   >
+<!-- T013 -->
+<div class="t013">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t013__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes">«История этого проекта уходит лет на пять назад, когда компания Intel запустила программу <a href="http://stemcentre.ru/">STEM-центров</a>. Первые центры открылись в Центральной России (Нижегородская и Московская области). В прошлом году началась массивная федеральная экспансия программы, когда уже в 40 регионах России открылось около 80 центров. А год назад наши партнёры по индустрии, которые занимаются образовательной деятельностью для школьников и студентов, – компания <a href="http://education.lego.com/ru-ru/">LEGO Education</a>, <a href="https://www.emc.com/ru-ru/index.htm">Dell EMC</a> и <a href="http://www.polymedia.ru/">Polymedia</a> – примкнули к нашей инициативе. <br /><br /> Первый наш совместный центр открылся в Петрозаводске – научно-проектная лаборатория для школьников. Проект оказался успешным, его поддержало Министерство образования и науки РФ, и мы решили, что нужно продолжать эту инициативу. Поэтому на базе Новосибирского государственного университета мы открыли новую лабораторию <a href="http://school.fit.nsu.ru/">«Инжевика»</a>. <br /><br /></div></div>
+      </div>
+      <div class="t-col t-col_2  t013__centeredsection">
+        <img class="t013__img" src="https://static.tildacdn.com/tild3066-3533-4262-a235-336234336138/AnnaLobanova.jpg" imgfield="img"  data-tu-max-width="320" data-tu-max-height="320" data-tu-cover="c" /><br />        <div class="t013__autor-title t-descr" field="imgtitle">Анна Лобанова</div>
+        <div class="t013__autor-descr t-descr" field="imgdescr">директор департамента внешних связей компании Intel в России и странах СНГ</div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9556005" class="r" style="padding-top:0px;padding-bottom:30px; " data-animationappear="off" data-record-type="139"   >
+<!-- T013 -->
+<div class="t013">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t013__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes">«В ближайшем будущем самыми перспективными для трудоустройства сегодняшних школьников станут отрасли, связанные с инженерией, IT, программированием, робототехникой, технологиями интернета вещей, анализом больших данных и 3D-прототипирования. Поэтому мы с партнерами уже сейчас начали воплощать в жизнь проект по созданию научно-проектных лабораторий при вузах. <br /><br />НГУ с его наработанным десятилетиями научно-техническим потенциалом – идеальный базис для организации лаборатории с инженерным уклоном. Мы искренне верим, что те технологии, которые мы предоставили в распоряжение учащихся, помогут им полюбить науку, найти для себя интересующее направление или даже определиться с профессией».</div></div>
+      </div>
+      <div class="t-col t-col_2  t013__centeredsection">
+        <img class="t013__img" src="https://static.tildacdn.com/tild3934-6337-4534-b732-353665393163/noroot.jpg" imgfield="img"  data-tu-max-width="320" data-tu-max-height="320" data-tu-cover="c" /><br />        <div class="t013__autor-title t-descr" field="imgtitle">Елена Новикова</div>
+        <div class="t013__autor-descr t-descr" field="imgdescr">генеральный директор компании Polymedia</div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9549465" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="248"   >
+<!-- T220 -->
+<div class="t220">
+	<div class="t-container ">
+	  	<div class="t-col t-col_8 t-prefix_2">
+          <div class="t220__textwrapper" style="background-color:#f5f5f5;">
+	          <div style="">            
+                                    <div field="text" class="t220__text t-text t-text_md "> На открытии нам показали проекты, которые школьники разрабатывали на Летней школе. В течение учебного года ребята будут и развивать эти проекты, и работать над новыми. <br /><br /> Просто почитайте, что рассказывают молодые исследователи-разработчики и их руководители, о чём они мечтают и что читают. <br /></div>
+	          </div>
+          </div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<div id="rec9549478" class="r" style=" " data-animationappear="off" data-record-type="275"   >
+<!-- t256 -->
+<!-- cover -->
+	
+
+
+
+
+<div class="t-cover" id="recorddiv9549478" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
+
+	<div class="t-cover__carrier" id="coverCarry9549478" data-content-cover-id="9549478"  data-content-cover-bg="https://static.tildacdn.com/tild6631-6533-4465-a534-366336356333/noroot.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"   data-content-video-url-youtube="FRy9_pImqnA"     style="height:100vh; "></div>
+      
+    <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7f000000', endColorstr='#33000000');"></div>
+    <div class="t-container">
+        <div class="t-width t-width_8 t256__mainblock">
+            <div class="t256 t-align_center">
+                <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+                    <div class="t256__wrapper" data-hook-content="covercontent">
+                        <a class="t256__play-link" href="javascript:t256showvideo('9549478');">
+                            <div class="t256__play-icon">
+                                  <svg width="70px" height="70px" viewBox="0 0 60 60" >
+                                      <g stroke="none" stroke-width="1" fill="" fill-rule="evenodd">
+                                          <g transform="translate(-691.000000, -3514.000000)" fill="#FFFFFF">
+                                              <path d="M721,3574 C737.568542,3574 751,3560.56854 751,3544 C751,3527.43146 737.568542,3514 721,3514 C704.431458,3514 691,3527.43146 691,3544 C691,3560.56854 704.431458,3574 721,3574 Z M715,3534 L732,3544.5 L715,3555 L715,3534 Z"></path>
+                                          </g>
+                                      </g>
+                                  </svg>                                        
+                            </div>
+                        </a>
+                        <h1 class="t256__title t-title t-title_sm" field="title">МАРСОХОД</h1>
+                        <div class="t256__descr t-descr t-descr_xs" field="descr"><span style="font-weight: 500;">Рассказывал: Кирилл<br />Учится в 11 классе гимназии № 3 в Академгородке <br /></span></div>
+                        <span class="space"></span>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+    <div class="t256__video-container t256__hidden" data-content-popup-video-url-youtube="FRy9_pImqnA">
+      <div class="t256__video-carier"></div>
+      <a class="t256__video-bg" href="javascript:t256hidevideo('9549478');" style="background:#000000; opacity:0.80;"></a>
+  	</div>
+  
+
+</div>
+    
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#rec9549478").attr('data-animationappear','off');
+  $("#rec9549478").css('opacity','1');
+});
+</script>  
+
+</div>
+
+
+<div id="rec9549488" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes"><span></span>суть</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes"><span></span><span></span><span></span>Мы пишем алгоритм автоматического принятия решений компьютером в ситуации недостатка информации о среде. Работаем мы на примере небольшой задачи. <br /><br /> Выглядит она так: есть игровое поле, на игровом поле раскиданы «яблоки» и совершают ходы несколько роботов. При совершении хода в одну из четырёх сторон (влево, вправо, вверх, вниз на одну клетку) робот получает информацию: есть на этой клетке «яблоко» или нет. Задача – собрать с поля больше яблок, чем остальные роботы. Игровая ситуация зависит от других противников, в данном случае, от действий роботов, запрограммированных другими участниками. <br /><br /> Наша лаборатория называется «Марсоход» именно потому, что сейчас человечество активно исследует Марс, отправляя туда роботов, но оперативно ими управлять нет возможности. Поэтому роботам необходимо учиться самим принимать решения. <br /></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9549501" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes">планы</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes">Хочу поступить на факультет информационных технологий НГУ, потом работать программистом и улучшать человечеству жизнь. А вообще было бы здорово изобрести шаттл и улететь куда-нибудь далеко. Одному. Хотя вообще личный шаттл должен быть у каждого человека. <br /></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9549514" class="r" style="padding-top:75px;padding-bottom:75px; " data-animationappear="off" data-record-type="222"   >
+<!-- T194 -->
+<div class="t194">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t194__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes"><b>СОВЕТУЮ ПОЧИТАТЬ</b><br /><br />Я в основном читаю книги серии <a href="http://www.labirint.ru/series/17483/?p=19749">WarHammer 40 000</a>, но посоветую я постапокалиптическую антиутопию Андрея Круза <a href="http://www.labirint.ru/books/222791/?p=19749">«Эпоха мёртвых».</a> Помогает снять розовые очки.</div></div>
+      </div>
+          <div class="t-col t-col_2  t-align_left">
+        <img src="https://static.tildacdn.com/tild6136-3835-4438-a562-326430346339/noroot.jpg" imgfield="img" data-tu-max-width="800" data-tu-max-height="800"  class="t194__img t-width t-width_2"  /><br />        <div class="t194__sectitle" field="imgtitle"></div>
+        <div class="t194__secdescr" field="imgdescr"></div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9549938" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="71"   >
+<!-- T057 -->
+<div class="t057">
+	<div class="t-container t-align_center">~</div>
+</div>
+</div>
+
+
+<div id="rec9549696" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="139"   >
+<!-- T013 -->
+<div class="t013">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t013__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes">Компьютер прекрасно справится с задачей, которую понятно, как решать. А что делать, когда у задачи нет готовых путей решения, готового алгоритма? <br /><br /> Мы с ребятами учим программу решать как раз такую задачу. <br /><br /> Они могут работать над решением такой задачи и индивидуально, и в группах – например, выявляя и объединяя самые результативные идеи. Пишут без ограничений и на Java, и на C#, и на C/C++, и на Python, и на Pascal. Ещё мы устраиваем соревнования запрограммированных ребятами роботов, и вот тут, в пылу схватки, и появляется настоящий накал страстей. То решение, которое мы представляем здесь – это лучшее решение по результатам соревнований, и, кстати, самый простой робот.<br /><br />Для многих классов задач (возможно, и для исследования далёких планет) будут полезны системы, способные находить приемлемое решение, не имея достаточной информации. Пока это неплохо делают люди, но сложность задач постоянно растёт, поэтому в будущем коллектив из людей с этим перестанет справляться. А вот коллективу из людей и компьютеров или даже только компьютерам это будет по силам.<br /></div></div>
+      </div>
+      <div class="t-col t-col_2  t013__centeredsection">
+        <img class="t013__img" src="https://static.tildacdn.com/tild3938-3966-4565-b266-373663306136/noroot.jpg" imgfield="img"  data-tu-max-width="320" data-tu-max-height="320" data-tu-cover="c" /><br />        <div class="t013__autor-title t-descr" field="imgtitle">Илья Личман</div>
+        <div class="t013__autor-descr t-descr" field="imgdescr">эксперт по разработке инженерного ПО, компания Ledas; автор задач лаборатории программирования</div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9549933" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="71"   >
+<!-- T057 -->
+<div class="t057">
+	<div class="t-container t-align_center">~</div>
+</div>
+</div>
+
+
+<div id="rec9549711" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="139"   >
+<!-- T013 -->
+<div class="t013">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t013__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes"> Когда идёт торговля ценными бумагами на бирже, на успех влияет скорость принятия решений. Люди могут принимать более умные и субъективные решения, чем роботы, зато роботы могут принимать решения гораздо быстрее. Большая часть торговли ценными бумагами сегодня идёт как раз с помощью алгоритмов. Задача «Марсоход» предполагает наличие небольшого количества информации, на основании которой нужно принять решение, ведущее к большей выгоде (собрать больше яблок). <br /><br /> Постепенно эта задача может перейти в среду, где вместо яблок будут акции. Естественно, алгоритм, позволяющий получить большую прибыль, будет весьма востребован на рынке инвестиций. К тому же, если применение алгоритмов на фондовом рынке станет массовым, сам рынок станет более объективным, финансовые риски будут распознаваться роботами гораздо раньше, и кризисные ситуации будут проходить гораздо легче. <br /><br /> Я считаю, что основная цель образовательной деятельности – это дать ученикам видение того мира, в котором они существуют. Известно, что образовательная сфера весьма консервативна, наши дети вполне могут учиться по учебникам, по которым учились мы и наши родители. А мир меняется быстро. <br /><br /></div></div>
+      </div>
+      <div class="t-col t-col_2  t013__centeredsection">
+        <img class="t013__img" src="https://static.tildacdn.com/tild3464-6630-4031-b934-303235626537/lobarev.jpg" imgfield="img"  data-tu-max-width="320" data-tu-max-height="320" data-tu-cover="c" /><br />        <div class="t013__autor-title t-descr" field="imgtitle">Андрей Лобарев</div>
+        <div class="t013__autor-descr t-descr" field="imgdescr">математик, автор задач лаборатории программирования</div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9549920" class="r" style="padding-top:60px;padding-bottom:60px; " data-animationappear="off" data-record-type="36"   >
+<!-- T021 -->
+<div class="t021">
+  <div class="t-container">
+    <div class="t-row">
+      <div class="t-col t-col_2 t-prefix_5">
+        <div class="t021__line" ></div>
+      </div>
+    </div>
+    <div class="t-row">
+      <div class="t-col t-col_10 t-prefix_1">
+        <div class="t021__text-impact t-text-impact t-text-impact_md" field="text"><div style="font-size:26px;" data-customstyle="yes">Если дети понимают, в каком мире они живут сегодня и в каком будут жить завтра, это заставляет их задуматься: а где здесь место мне? Чем мне заниматься? Поиск ответов на эти фундаментальные вопросы поможет построить свою судьбу более продуктивно, чем прохождение по проторенной поколениями дорожке.<br /></div></div>
+      </div>
+    </div>
+    <div class="t-row">
+      <div class="t-col t-col_2 t-prefix_5">
+        <div class="t021__line" ></div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9549924" class="r" style="padding-top:60px;padding-bottom:60px; " data-animationappear="off" data-record-type="106"   >
+<!-- T004 -->
+<div class="t004">
+	<div class="t-container ">
+	  	<div class="t-col t-col_8 t-prefix_2">
+			<div field="text" class="t-text t-text_md  "><div style="font-size:16px;" data-customstyle="yes">В конце концов, даже популярная сейчас профессия программиста будет рано или поздно вытеснена с рынка: программировать машины смогут другие машины. Важна ответственность, умение принять решение и сгенерировать нестандартные решения. Осваивать большие пласты знаний – это тактически верный подход, но стратегически проигрышный.</div></div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<div id="rec9549943" class="r" style=" " data-animationappear="off" data-record-type="275"   >
+<!-- t256 -->
+<!-- cover -->
+	
+
+
+
+
+<div class="t-cover" id="recorddiv9549943" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
+
+	<div class="t-cover__carrier" id="coverCarry9549943" data-content-cover-id="9549943"  data-content-cover-bg="https://static.tildacdn.com/tild3966-3736-4863-a662-373231323637/noroot.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"   data-content-video-url-youtube="9hI85nS7oqE"     style="height:100vh; "></div>
+      
+    <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7f000000', endColorstr='#33000000');"></div>
+    <div class="t-container">
+        <div class="t-width t-width_8 t256__mainblock">
+            <div class="t256 t-align_center">
+                <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+                    <div class="t256__wrapper" data-hook-content="covercontent">
+                        <a class="t256__play-link" href="javascript:t256showvideo('9549943');">
+                            <div class="t256__play-icon">
+                                  <svg width="70px" height="70px" viewBox="0 0 60 60" >
+                                      <g stroke="none" stroke-width="1" fill="" fill-rule="evenodd">
+                                          <g transform="translate(-691.000000, -3514.000000)" fill="#FFFFFF">
+                                              <path d="M721,3574 C737.568542,3574 751,3560.56854 751,3544 C751,3527.43146 737.568542,3514 721,3514 C704.431458,3514 691,3527.43146 691,3544 C691,3560.56854 704.431458,3574 721,3574 Z M715,3534 L732,3544.5 L715,3555 L715,3534 Z"></path>
+                                          </g>
+                                      </g>
+                                  </svg>                                        
+                            </div>
+                        </a>
+                        <h1 class="t256__title t-title t-title_sm" field="title">АКВАЛАНГИСТЫ</h1>
+                        <div class="t256__descr t-descr t-descr_xs" field="descr"><span style="font-weight: 500;">Рассказывали: Артемий,<br />учится в 10 физико-математическом классе гимназии № 2<br />  и Максим,<br />учится в 8 инженерно-математическом классе инженерного лицея НГТУ <br /></span></div>
+                        <span class="space"></span>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+    <div class="t256__video-container t256__hidden" data-content-popup-video-url-youtube="9hI85nS7oqE">
+      <div class="t256__video-carier"></div>
+      <a class="t256__video-bg" href="javascript:t256hidevideo('9549943');" style="background:#000000; opacity:0.80;"></a>
+  	</div>
+  
+
+</div>
+    
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#rec9549943").attr('data-animationappear','off');
+  $("#rec9549943").css('opacity','1');
+});
+</script>  
+
+</div>
+
+
+<div id="rec9549966" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes"><span></span>артемий<br /><br />суть</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes"> Здесь программа, написанная на языке Python, с помощью датчика считывает значения пульса, от которых зависит движение аквалангиста на экране. Задача: замедлить пульс, чтобы успокоиться, спустить водолаза на дно, собрать сокровища и не попасться в зубы акуле. Это такой развлекательный тренажёр, чтобы в игровой форме научиться управлять своим состоянием. <br /><br />Подобные тренажёры для управления пульсом уже несколько лет производит лаборатория компьютерных систем биоуправления ГУ НИИ молекулярной биологии и биофизики Сибирского<br /> отделения РАМН. От них нам и достались датчики.  <br /></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9549969" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes">планы</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes">Поступлю в НГУ, но не знаю, на какой факультет. Я недавно посещал разные новосибирские вузы; мне понравилось в Институте химической биологии и фундаментальной медицины. Выбираю вот мучительно между ним и мехматом.</div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9549971" class="r" style="padding-top:75px;padding-bottom:75px; " data-animationappear="off" data-record-type="222"   >
+<!-- T194 -->
+<div class="t194">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t194__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes"><b>СОВЕТУЮ ПОЧИТАТЬ</b><br /><br /> Джон Уиндэм <a href="http://www.labirint.ru/books/527695/?p=19749">«День Триффидов»</a>. Очень красиво написанная антиутопия, где прямо чувствуешь переживания главных героев. А из школьной программы мне очень понравился роман «Война и мир». Первый том, может быть, скучноват, но остальное – на одном дыхании за 7 дней. </div></div>
+      </div>
+          <div class="t-col t-col_2  t-align_left">
+        <img src="https://static.tildacdn.com/tild6264-6438-4265-a630-313735323838/Dzhon_Uindem__Den_triffidov.jpeg" imgfield="img" data-tu-max-width="800" data-tu-max-height="800"  class="t194__img t-width t-width_2"  /><br />        <div class="t194__sectitle" field="imgtitle"></div>
+        <div class="t194__secdescr" field="imgdescr"></div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9550029" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes"><span></span>максим<br /><br />о себе</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes"> Моё основное направление – это робототехника и программирование. Когда я выбирал лабораторию в Летней школе, я сразу пошёл сюда. Мало того, что здесь работают на моём любимом языке программирования Python, так ещё и специализируется она на программировании игр. Поэтому долго я не размышлял. Программированием я увлекаюсь с того лета, когда закончил 6 класс. Меня никто не учил, я занимался с помощью книг и интернет-ресурсов – статьи, текстовые уроки. <br /><br /></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550038" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes">планы</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes">Буду пытаться поступать на факультет автоматики и вычислительной техники в НГТУ.</div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550044" class="r" style="padding-top:75px;padding-bottom:75px; " data-animationappear="off" data-record-type="222"   >
+<!-- T194 -->
+<div class="t194">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t194__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes"><b>СОВЕТУЮ ПОЧИТАТЬ</b><br /><br />  Для тех, кто хочет заниматься робототехникой, идеальными станут <a href="http://www.labirint.ru/books/482894/?p=19749">книги по Arduino</a> от Джереми Блюма. Из художественной литературы люблю <a href="http://www.labirint.ru/authors/15602/?p=19749">Макса Фрая</a>.  </div></div>
+      </div>
+          <div class="t-col t-col_2  t-align_left">
+        <img src="https://static.tildacdn.com/tild3438-6636-4164-a662-396262633430/Maks_Fraj__Dar_Shavanaholy_Istoriya_rasskazannaya_serom_Maksom_iz_Eho.jpeg" imgfield="img" data-tu-max-width="800" data-tu-max-height="800"  class="t194__img t-width t-width_2"  /><br />        <div class="t194__sectitle" field="imgtitle"></div>
+        <div class="t194__secdescr" field="imgdescr"></div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9550065" class="r" style=" " data-animationappear="off" data-record-type="275"   >
+<!-- t256 -->
+<!-- cover -->
+	
+
+
+
+
+<div class="t-cover" id="recorddiv9550065" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
+
+	<div class="t-cover__carrier" id="coverCarry9550065" data-content-cover-id="9550065"  data-content-cover-bg="https://static.tildacdn.com/tild6635-3230-4162-a632-616263633731/noroot.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"   data-content-video-url-youtube="uE1yQUQ2gG0"     style="height:100vh; "></div>
+      
+    <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7f000000', endColorstr='#33000000');"></div>
+    <div class="t-container">
+        <div class="t-width t-width_8 t256__mainblock">
+            <div class="t256 t-align_center">
+                <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+                    <div class="t256__wrapper" data-hook-content="covercontent">
+                        <a class="t256__play-link" href="javascript:t256showvideo('9550065');">
+                            <div class="t256__play-icon">
+                                  <svg width="70px" height="70px" viewBox="0 0 60 60" >
+                                      <g stroke="none" stroke-width="1" fill="" fill-rule="evenodd">
+                                          <g transform="translate(-691.000000, -3514.000000)" fill="#FFFFFF">
+                                              <path d="M721,3574 C737.568542,3574 751,3560.56854 751,3544 C751,3527.43146 737.568542,3514 721,3514 C704.431458,3514 691,3527.43146 691,3544 C691,3560.56854 704.431458,3574 721,3574 Z M715,3534 L732,3544.5 L715,3555 L715,3534 Z"></path>
+                                          </g>
+                                      </g>
+                                  </svg>                                        
+                            </div>
+                        </a>
+                        <h1 class="t256__title t-title t-title_sm" field="title">ГЕННЫЕ СЕТИ</h1>
+                        <div class="t256__descr t-descr t-descr_xs" field="descr"><span style="font-weight: 500;">Рассказывала: Екатерина<br /> Учится в 11 физико-математическом классе гимназии № 3 в Академгородке <br /></span></div>
+                        <span class="space"></span>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+    <div class="t256__video-container t256__hidden" data-content-popup-video-url-youtube="uE1yQUQ2gG0">
+      <div class="t256__video-carier"></div>
+      <a class="t256__video-bg" href="javascript:t256hidevideo('9550065');" style="background:#000000; opacity:0.80;"></a>
+  	</div>
+  
+
+</div>
+    
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#rec9550065").attr('data-animationappear','off');
+  $("#rec9550065").css('opacity','1');
+});
+</script>  
+
+</div>
+
+
+<div id="rec9550087" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes"><span></span>суть</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes"> Генные сети сегодня очень популярны и разрабатываются во многих областях. Дело это непростое: например, если мы разрабатываем сеть для 5 элементов, у нас уже получается более 9 000 вариантов. В нашем проекте мы рассматривали взаимодействие генов и белков. Мы брали случайные разные количественные значения первого и второго белка, в результате регистрации тестов мы выяснили, что неважно, какое изначальное количество белка мы берём: один почти полностью подавляет синтез второго. А вот при одинаковом количестве подавления не происходит. <br /><br /> Благодаря разработке генных сетей мы можем понять, как происходят механизмы синтеза и распада белка, более глубоко изучить происходящие в клетках изменения. Инсулин сейчас синтезируется с помощью модифицированных бактерий, и сделано это было именно благодаря генным сетям. <br /></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550093" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes">планы</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes">Очень хочется поступить в НГУ на физический факультет. Биология – это здорово, но физику люблю больше. В будущем хочу заняться серьёзной наукой. <br /></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550094" class="r" style="padding-top:75px;padding-bottom:75px; " data-animationappear="off" data-record-type="222"   >
+<!-- T194 -->
+<div class="t194">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t194__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes"><b>СОВЕТУЮ ПОЧИТАТЬ</b><br /><br />Думаю, всем стоит читать антиутопии, очень полезно для любого человека. <a href="http://www.labirint.ru/books/419735/?p=19749">«1984»</a> и <a href="http://www.labirint.ru/books/420220/?p=19749">«О дивный новый мир»</a> – пусть и всем известные, но прекрасные книги.  </div></div>
+      </div>
+          <div class="t-col t-col_2  t-align_left">
+        <img src="https://static.tildacdn.com/tild3430-3033-4233-b130-396130336238/200pxBraveNewWorld_FirstEdition.jpg" imgfield="img" data-tu-max-width="800" data-tu-max-height="800"  class="t194__img t-width t-width_2"  /><br />        <div class="t194__sectitle" field="imgtitle"></div>
+        <div class="t194__secdescr" field="imgdescr"></div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9550213" class="r" style=" " data-animationappear="off" data-record-type="275"   >
+<!-- t256 -->
+<!-- cover -->
+	
+
+
+
+
+<div class="t-cover" id="recorddiv9550213" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
+
+	<div class="t-cover__carrier" id="coverCarry9550213" data-content-cover-id="9550213"  data-content-cover-bg="https://static.tildacdn.com/tild3733-6338-4933-a233-623330646130/noroot.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"   data-content-video-url-youtube="TDg-nI41cUQ"     style="height:100vh; "></div>
+      
+    <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7f000000', endColorstr='#33000000');"></div>
+    <div class="t-container">
+        <div class="t-width t-width_8 t256__mainblock">
+            <div class="t256 t-align_center">
+                <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+                    <div class="t256__wrapper" data-hook-content="covercontent">
+                        <a class="t256__play-link" href="javascript:t256showvideo('9550213');">
+                            <div class="t256__play-icon">
+                                  <svg width="70px" height="70px" viewBox="0 0 60 60" >
+                                      <g stroke="none" stroke-width="1" fill="" fill-rule="evenodd">
+                                          <g transform="translate(-691.000000, -3514.000000)" fill="#FFFFFF">
+                                              <path d="M721,3574 C737.568542,3574 751,3560.56854 751,3544 C751,3527.43146 737.568542,3514 721,3514 C704.431458,3514 691,3527.43146 691,3544 C691,3560.56854 704.431458,3574 721,3574 Z M715,3534 L732,3544.5 L715,3555 L715,3534 Z"></path>
+                                          </g>
+                                      </g>
+                                  </svg>                                        
+                            </div>
+                        </a>
+                        <h1 class="t256__title t-title t-title_sm" field="title">УМНАЯ ЛАБОРАТОРИЯ</h1>
+                        <div class="t256__descr t-descr t-descr_xs" field="descr"><span style="font-weight: 500;">Рассказывал: Игорь<br />  Учится в 11 классе гимназии № 3 <br /></span></div>
+                        <span class="space"></span>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+    <div class="t256__video-container t256__hidden" data-content-popup-video-url-youtube="TDg-nI41cUQ">
+      <div class="t256__video-carier"></div>
+      <a class="t256__video-bg" href="javascript:t256hidevideo('9550213');" style="background:#000000; opacity:0.80;"></a>
+  	</div>
+  
+
+</div>
+    
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#rec9550213").attr('data-animationappear','off');
+  $("#rec9550213").css('opacity','1');
+});
+</script>  
+
+</div>
+
+
+<div id="rec9550231" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes"><span></span>суть</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes"> Мы исследовали механизмы старения. Сейчас мы экспериментируем на грызунах. Основной показатель старения – это двигательная активность. С помощью специальных датчиков мы исследуем движения грызунов в течение их жизни, регистрируем и визуализируем в графиках. Так можно выявить животных с пренебрежимым старением. Пренебрежимое старение – это очень незаметные или отсутствующие у животного процессы старения. Например, голый землекоп может прожить до 40 лет, и у этого вида зарегистрировано лишь 2 случая онкологического заболевания. Практически все подземные грызуны обладают пренебрежимым старением. <br /><br /> По графикам легко определить, какой вид старения у организма. Если кривая графика плавно спускается, то есть двигательная активность с течением времени снижается, значит, старение обычное. Если же кривая на конечном отрезке резко падает вниз, значит, старение пренебрежимое – организм стареет непосредственно перед смертью.</div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550281" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes">планы</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes">Я хочу стать археологом. Уже участвовал в некоторых экспедициях, мне очень понравилось. Интересно было бы исследовать Южную Америку и их древнюю цивилизацию.<br /></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550283" class="r" style="padding-top:75px;padding-bottom:75px; " data-animationappear="off" data-record-type="222"   >
+<!-- T194 -->
+<div class="t194">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t194__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes"><b>СОВЕТУЮ ПОЧИТАТЬ</b><br /><br />Мне очень понравилась книга британского артиллерийского офицера Перси Фосетта <a href="http://www.labirint.ru/books/499298/?p=19749">«Неоконченное путешествие»</a>. Это записи, которые собрал его младший сын о путешествии отца в Южную Америку.   </div></div>
+      </div>
+          <div class="t-col t-col_2  t-align_left">
+        <img src="https://static.tildacdn.com/tild3462-3465-4161-b339-316232303430/Persi_Fosett__Neokonchennoe_puteshestvie.jpeg" imgfield="img" data-tu-max-width="800" data-tu-max-height="800"  class="t194__img t-width t-width_2"  /><br />        <div class="t194__sectitle" field="imgtitle"></div>
+        <div class="t194__secdescr" field="imgdescr"></div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9550295" class="r" style=" " data-animationappear="off" data-record-type="275"   >
+<!-- t256 -->
+<!-- cover -->
+	
+
+
+
+
+<div class="t-cover" id="recorddiv9550295" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
+
+	<div class="t-cover__carrier" id="coverCarry9550295" data-content-cover-id="9550295"  data-content-cover-bg="https://static.tildacdn.com/tild6461-3662-4562-a266-653063383933/noroot.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"   data-content-video-url-youtube="IDrO8rOpe6U"     style="height:100vh; "></div>
+      
+    <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7f000000', endColorstr='#33000000');"></div>
+    <div class="t-container">
+        <div class="t-width t-width_8 t256__mainblock">
+            <div class="t256 t-align_center">
+                <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+                    <div class="t256__wrapper" data-hook-content="covercontent">
+                        <a class="t256__play-link" href="javascript:t256showvideo('9550295');">
+                            <div class="t256__play-icon">
+                                  <svg width="70px" height="70px" viewBox="0 0 60 60" >
+                                      <g stroke="none" stroke-width="1" fill="" fill-rule="evenodd">
+                                          <g transform="translate(-691.000000, -3514.000000)" fill="#FFFFFF">
+                                              <path d="M721,3574 C737.568542,3574 751,3560.56854 751,3544 C751,3527.43146 737.568542,3514 721,3514 C704.431458,3514 691,3527.43146 691,3544 C691,3560.56854 704.431458,3574 721,3574 Z M715,3534 L732,3544.5 L715,3555 L715,3534 Z"></path>
+                                          </g>
+                                      </g>
+                                  </svg>                                        
+                            </div>
+                        </a>
+                        <h1 class="t256__title t-title t-title_sm" field="title">СКАНЕР СИЛУЭТОВ</h1>
+                        <div class="t256__descr t-descr t-descr_xs" field="descr"><span style="font-weight: 500;">Рассказывал: Владислав<br />   Учится в 10 классе СУНЦ НГУ <br /></span></div>
+                        <span class="space"></span>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+    <div class="t256__video-container t256__hidden" data-content-popup-video-url-youtube="IDrO8rOpe6U">
+      <div class="t256__video-carier"></div>
+      <a class="t256__video-bg" href="javascript:t256hidevideo('9550295');" style="background:#000000; opacity:0.80;"></a>
+  	</div>
+  
+
+</div>
+    
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#rec9550295").attr('data-animationappear','off');
+  $("#rec9550295").css('opacity','1');
+});
+</script>  
+
+</div>
+
+
+<div id="rec9550296" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes"><span></span>суть</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes"> Мы берём серию фотографий объекта с обычной веб-камеры, попутно подавая команды на контроллер Intel Edison, который вращает поворотный стол, на котором и стоит сканируемый объект. Из этих фотографий выделяется силуэт объекта, и по нему выстраивается трёхмерная модель. Сканирование занимает около минуты, а построение модели в зависимости от точности может занимать от секунды до 15 минут. <br /></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550297" class="r" style="padding-top:28px;padding-bottom:28px; "  data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes">планы</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes">Я уже определился со своим будущим лет десять назад и иду по этому пути. Буду учиться в НГУ на факультете информационных технологий и работать программистом. Хотя и научной деятельностью никто не запретит мне заниматься. А мечтаю я о том, чтобы люди в этом мире были воспитанные. И в сферу образования пошёл бы, но только не в российской реальности. На старости лет, может быть, займусь.  </div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550298" class="r" style="padding-top:75px;padding-bottom:75px; " data-animationappear="off" data-record-type="222"   >
+<!-- T194 -->
+<div class="t194">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t194__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes"><b>СОВЕТУЮ ПОЧИТАТЬ</b><br /><br />Книги я практически не читаю. Очень мало поглощаю информации, только творю и творю. Хотя вот книги <a href="http://www.labirint.ru/authors/33215/?p=19749">Стивена Кови</a> про высокоэффективных людей могу порекомендовать. Ещё <a href="http://www.labirint.ru/books/360000/?p=19749">«Чёрный лебедь»</a> Талеба. Тоже не для всех.    </div></div>
+      </div>
+          <div class="t-col t-col_2  t-align_left">
+        <img src="https://static.tildacdn.com/tild6239-3739-4133-b966-303737303865/noroot.jpg" imgfield="img" data-tu-max-width="800" data-tu-max-height="800"  class="t194__img t-width t-width_2"  /><br />        <div class="t194__sectitle" field="imgtitle"></div>
+        <div class="t194__secdescr" field="imgdescr"></div>
+      </div>
+      </div>
+</div>
+</div>
+
+
+<div id="rec9550325" class="r" style=" " data-animationappear="off" data-record-type="275"   >
+<!-- t256 -->
+<!-- cover -->
+	
+
+
+
+
+<div class="t-cover" id="recorddiv9550325" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
+
+	<div class="t-cover__carrier" id="coverCarry9550325" data-content-cover-id="9550325"  data-content-cover-bg="https://static.tildacdn.com/tild3261-6237-4439-a661-666137616339/noroot.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"   data-content-video-url-youtube="wCSHS4uQbnM"     style="height:100vh; "></div>
+      
+    <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7f000000', endColorstr='#33000000');"></div>
+    <div class="t-container">
+        <div class="t-width t-width_8 t256__mainblock">
+            <div class="t256 t-align_center">
+                <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+                    <div class="t256__wrapper" data-hook-content="covercontent">
+                        <a class="t256__play-link" href="javascript:t256showvideo('9550325');">
+                            <div class="t256__play-icon">
+                                  <svg width="70px" height="70px" viewBox="0 0 60 60" >
+                                      <g stroke="none" stroke-width="1" fill="" fill-rule="evenodd">
+                                          <g transform="translate(-691.000000, -3514.000000)" fill="#FFFFFF">
+                                              <path d="M721,3574 C737.568542,3574 751,3560.56854 751,3544 C751,3527.43146 737.568542,3514 721,3514 C704.431458,3514 691,3527.43146 691,3544 C691,3560.56854 704.431458,3574 721,3574 Z M715,3534 L732,3544.5 L715,3555 L715,3534 Z"></path>
+                                          </g>
+                                      </g>
+                                  </svg>                                        
+                            </div>
+                        </a>
+                        <h1 class="t256__title t-title t-title_sm" field="title">РОБОРУКА</h1>
+                        <div class="t256__descr t-descr t-descr_xs" field="descr"><span style="font-weight: 500;">Рассказывал: Александр<br />    Учится в 9 классе гимназии № 3  <br /></span></div>
+                        <span class="space"></span>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+    <div class="t256__video-container t256__hidden" data-content-popup-video-url-youtube="wCSHS4uQbnM">
+      <div class="t256__video-carier"></div>
+      <a class="t256__video-bg" href="javascript:t256hidevideo('9550325');" style="background:#000000; opacity:0.80;"></a>
+  	</div>
+  
+
+</div>
+    
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#rec9550325").attr('data-animationappear','off');
+  $("#rec9550325").css('opacity','1');
+});
+</script>  
+
+</div>
+
+
+<div id="rec9550326" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes"><span></span>суть</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes">Это манипулятор, управляемый с помощью электромиограммы <br /><br /> Данные о напряжении мышц считываются с помощью датчиков, передаются на плату Intel Edison, которая после обработки передаёт их моторам, приводящим манипулятор в движение. Датчики установлены на бицепсы – их удобно устанавливать, и данные получаются более точными. <br /><br /> Важно было добиться такого результата, чтобы рука-манипулятор производила более-менее плавные движения, для этого нужно дополнительное время на обработку сигнала с платы. Здесь мы искали компромисс: если обработка будет слишком долгой, будет большая задержка между сигналом и действием манипулятора, а если слишком быстрой – манипулятор будет совершать очень резкие движения. <br /><br /> В будущем можно будет добавить ещё несколько суставов, чтобы наш манипулятор был больше похож на руку, мог сам захватывать предметы. <br /><br /> Такая разработка может быть очень полезна для управления протезом: устанавливаешь датчики на одну группу мышц, сигналы с которой передаются протезу. А ещё биологическая обратная связь важна для реабилитации. Например, для реабилитации людей после инсульта: обратная связь поможет им увидеть, что происходит при их действиях и постепенно вернуть свои навыки. <br /><br /></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550327" class="r" style="padding-top:30px;padding-bottom:30px; " data-animationappear="off" data-record-type="40"   >
+<!-- T026 -->
+<div class="t026">
+  <div class="t-container t-align_left">
+    <div class="t-col t-col_8 t-prefix_2">      
+      <div class="t026__title t-text" field="title"><div style="font-size:16px;" data-customstyle="yes">планы</div></div>
+      <div class="t026__descr t-text t-text_xs" field="subtitle"><div style="font-size:16px;" data-customstyle="yes">Хочу поступать на мехмат, но, скорее всего, стану программистом. </div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec9550328" class="r" style="padding-top:75px;padding-bottom:75px; " data-animationappear="off" data-record-type="222"   >
+<!-- T194 -->
+<div class="t194">
+  <div class="t-container">
+                
+      <div class="t-col t-col_8 t-prefix_2">
+        <div class="t194__text t-text t-text_md" field="text"><div style="font-size:16px;" data-customstyle="yes"><b>СОВЕТУЮ ПОЧИТАТЬ</b><br /><br />По-моему, книги каждый должен выбирать сам, поэтому и советовать не буду.   </div></div>
+      </div>
+          <div class="t-col t-col_2  t-align_left">
+                <div class="t194__sectitle" field="imgtitle"></div>
+        <div class="t194__secdescr" field="imgdescr"></div>
+      </div>
+      </div>
+</div>
+</div>
+
+</div>
+<!--/allrecords-->
+            </div>
+            <div class="container container-01">
+                <div class="n2-post-wrap">
+                    <div id="comments" class="site comments-block hide-on-testing n2-comments"
+                         data-role="comments"
+                         data-source="/get-entity/1728/comments?entityName=post">
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="n2-wide-block">
+    <div class="container container-01">
+        <h2 class="n2-section-title">статьи по теме</h2>
+        <div class="n2-cards-list n2-cards-list__same-theme clearfix">
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/schoolchildren-about-life"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/story" class="n2-tag n2-tag_story"
+   style="background-color: #f26650">истории</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Семь школьников о своей жизни, учёбе и будущем</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/hero/schoolchildren-on-russian"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/hero" class="n2-tag n2-tag_hero"
+   style="background-color: #f25c5c">герои</a>                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">«Лол» и «кек» — это очень грустно</h2>
+                    </div>
+                </div>
+                            <div class="n2-card n2-card_common">
+                    <a href="/school/teachers-reading-list"
+                       class="n2-card__main-link"></a>
+                    <div class="n2-card_common__body">
+                        <div class="n2-card__tags-line">
+    <div class="n2-card__tags-line-inner">
+        <div class="n2-card__tags">
+                            <a href="/school" class="n2-tag n2-tag_school"
+   style="background-color: #f2b72c">школа</a>                            <a href="/book" class="n2-tag n2-tag_book"
+   style="background-color: #f58d25">книги</a>                    </div>
+        <div class="n2-card__pers">
+            <div class="dropdown">
+                
+    <div class=" n2-save-post">
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_bookmark"></a>
+        <a href="#modalLogin" data-toggle="modal" class="n2-icon n2-icon_list"></a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>                        <h2 class="n2-card__title">Что ты читаешь, учитель?</h2>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>    
+    <div class="modal" id="spellModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщить об ошибке</h4>
+            </div>
+            <form id="spell-form" name="spell-form" action="/typo-report" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="highlighted-text" class="control-label">Выделенный текст:</label>
+                        <input type="text" class="form-control" id="highlighted-text" name="highlighted-text" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="control-label">Сообщение:</label>
+                        <textarea class="form-control" id="message-text" name="message-text" required></textarea>
+                    </div>
+
+                    <div class="g-recaptcha" data-sitekey="6Le4DxsTAAAAAA_qDNZ59Z7iTZHPZFJoAwJfDEqQ"></div>
+
+                    <input type="hidden" name="url" value="https://newtonew.com/school/inzhevika-novosibirsk">
+                    <input type="hidden" name="post-id" value="1728">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="spellModal-success" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Сообщение отправлено</h4>
+            </div>
+            <div class="modal-body">
+                <p class="message-body">Сообщение об ошибке успешно отправлено, благодарим вас за помощь!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- Footer -->
+            <div class="n2-wide-block n2-main-footer">
+    <div class="container container-01">
+        <div class="n2-main-footer__slogan">
+            <div class="n2-main-footer__logo"></div> <span class="n2-main-footer__slogan__dash">–</span> Oбразование как Стиль Жизни
+        </div>
+        <div class="clearfix">
+            <div class="n2-main-footer__col-1">
+                <div class="n2-send-us-your-columns">
+                    <h2>Присылайте свои колонки<br> и предложения</h2>
+                    <p>У вас есть интересная новость
+                        или материал из сферы образования
+                        или популярной науки?<br>
+                        Расскажите нам! </p>
+                    <div class="n2-send-us-your-columns__mail"><a href="mailto:hello@newtonew.com">hello@newtonew.com</a></div>
+                </div>
+            </div>
+            <div class="n2-main-footer__col-2">
+                <ul class="n2-footer-menu">
+                    <li><a href="/about">О проекте</a></li>
+                    <li><a href="/legal">Правообладателям</a></li>
+                    <li><a href="/partners">Партнёры</a></li>
+                    <li><a href="/contacts">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="n2-main-footer__col-3">
+                <p>&copy; 2014-2017 Newtonew.</p>
+
+                <p>Просветительский медиа-проект об образовании,
+                    посвящённый самым актуальным и полезным
+                    концепциям, теориям и методикам, технологиям
+                    и исследованиям, продуктам и сервисам. Мы
+                    говорим о том, как развиваются и изменяются
+                    образование и наука.<br>
+                    Копирование материалов возможно только
+                    с разрешения редакции Newtonew.</p>
+
+                <div class="n2-main-footer__add-links">
+                    <a href="/ege/" class="n2-main-footer__ege-link">ЕГЭ спецпроект</a>
+                    <a href="http://proteachers.ru/" target="_blank" class="n2-main-footer__ege-link">ProTeachers</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="/opinion/best-mooc-practices-lektorium" class="n2-main-footer__ege-link">MOOC 2016</a>
+                    <a href="http://mooc.newtonew.com/" target="_blank" class="n2-main-footer__ege-link">Большая&nbsp;переменная</a>
+                </div>
+                <div class="n2-main-footer__add-links">
+                    <a href="http://ifmo.newtonew.com/" class="n2-main-footer__ege-link" target="_blank">Физика: игра света</a>
+                </div>
+            </div>
+        </div>
+        <div class="n2-main-footer__bottom clearfix">
+            <div class="n2-main-footer__apps">
+                <a href="https://itunes.apple.com/us/app/newtonew/id1003853815" class="n2-main-footer__apps-item"><span
+                            class="n2-icon n2-icon_size-22 n2-icon_app-ios"></span> App Store</a>
+            </div>
+            <div class="n2-main-footer__sign-up-form n2-form-01" data-role="form-container">
+                <div data-role="loader" style="display: none;">
+    <img src="/bundles/newtonewblog/images/ajax-loader-fb.gif" alt=""/>
+</div>
+<div class="subscr-mes"></div>
+<form action="/subscribe" method="post" data-role="subscription-form">
+    
+    <input type="email" id="subscription_email" name="subscription[email]" required="required" class="n2-main-footer__sign-up-form__input n2-form-01__input" placeholder="Введите Ваш email" />
+    
+    <button class="n2-form-01__btn">Подписаться</button>
+</form>
+
+            </div>
+            <div class="clearfix n2-hide-on-wide">
+                <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-narrow">
+                    <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+                </div>
+            </div>
+            <div class="n2-social-nets n2-main-footer__social-nets">
+                <a target="_blank" href="http://vk.com/newtonew" data-ga-event="blog:follow:social:1" class="n2-social-nets__item n2-social-nets__item_vk"><span
+                            class="n2-icon n2-icon_vk"></span></a>
+                <a target="_blank" href="https://www.facebook.com/newtonewer" data-ga-event="blog:follow:social:2" class="n2-social-nets__item n2-social-nets__item_fb"><span
+                            class="n2-icon n2-icon_fb"></span></a>
+                <a href="https://ok.ru/newtonew" target="_blank" class="n2-social-nets__item n2-social-nets__item_ok"><span
+                            class="n2-icon n2-icon_ok"></span></a>
+                <a target="_blank" href="https://twitter.com/newtonewer" data-ga-event="blog:follow:social:3" class="n2-social-nets__item n2-social-nets__item_tw"><span
+                            class="n2-icon n2-icon_tw"></span></a>
+                <a target="_blank" href="https://plus.google.com/u/0/communities/106410195015490702706" data-ga-event="blog:follow:social:4" class="n2-social-nets__item n2-social-nets__item_go"><span
+                            class="n2-icon n2-icon_go"></span></a>
+                <a target="_blank" href="https://telegram.me/newtonew" class="n2-social-nets__item n2-social-nets__item_tm"><span
+                            class="n2-icon n2-icon_tm"></span></a>
+                <a target="_blank" href="https://newtonew.com/rss/" class="n2-social-nets__item n2-social-nets__item_rs"><span
+                            class="n2-icon n2-icon_rs"></span></a>
+            </div>
+            <div class="n2-sign-up-for-mailing-list n2-main-footer__sign-up n2-main-footer__sign-up_for-wide">
+                <a href="#" class="n2-main-footer__sign-up-link btn btn_dark-grey">Подписаться на рассылку</a>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    <div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Авторизация на сайте</h2>
+            <p>Вход через соц.сети:</p>
+            <div class="n2-login-buttons">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+            <hr>
+            
+
+<form action="/login_check" method="post" role="form">
+        <div class="n2-input-wrap">
+        <div class="n2-input-wrap__title">Вход через email:</div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <input type="text" id="username" name="_username" value="" required="required" class="n2-input-text" placeholder="Email" />
+            </div>
+            <div class="n2-modal-login__col">
+                <input type="password" id="password" name="_password" class="n2-input-text" placeholder="Пароль" required="required" />
+            </div>
+            <div class="n2-modal-login__col">
+                <button type="submit" id="_submit" name="_submit" class="btn">Войти</button>
+            </div>
+        </div>
+        <div class="n2-modal-login__row">
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalNewUser" data-toggle="modal">Регистрация нового пользователя</a></div>
+            </div>
+            <div class="n2-modal-login__col">
+                <div class="n2-modal-login__addit-link"><a href="#modalForgotPassword" data-toggle="modal">Забыли пароль?</a></div>
+            </div>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalNewUser" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Новый пользователь</h2>
+            <div class="js-registration-form">
+    <form name="fos_user_registration_form" method="post" action="/profile/registration">
+    <div class="n2-input-wrap">
+        <div class="js-error-messages"></div>
+        <div class="n2-input-wrap__title faded">Введите ваш email:</div>
+        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="n2-input-text" />
+    </div>
+    <div class="n2-input-wrap">
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Введите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="n2-input-text" />
+        </div>
+        <div class="n2-modal-login__col">
+            <div class="n2-input-wrap__title faded">Повторите пароль:</div>
+            <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="n2-input-text" />
+        </div>
+    </div>
+    <div class="n2-input-wrap">
+        <button type="submit" class="btn">Зарегистрироваться</button>
+    </div>
+    </form>
+</div>
+
+
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalForgotPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="n2-common-title n2-mar-top-0">Напомнить пароль</h2>
+            <form action="/resetting/send-email">
+                <div class="n2-input-wrap">
+                    <div class="n2-input-wrap__title faded">Введите email, на который вы зарегистрированы:</div>
+                    <input type="text" class="n2-input-text" id="username" name="username" required="required" placeholder="Email" />
+                </div>
+                <div class="n2-input-wrap">
+                    <button class="btn">Отправить</button>
+                </div>
+            </form>
+            <hr style="margin: 40px 0;">
+            <a href="#" class="n2-back-link js-back-to-login-form"><span class="n2-icon n2-icon_size-16 n2-icon_arr-left"></span> &nbsp; назад</a>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalPasswordSent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Пароль выслан</h2>
+            <p style="margin: 25px 0;">Мы выслали ваш пароль для входа в систему на указанный email.</p>
+            <hr style="margin: 40px 0;">
+            <p class="faded">Не забывайте о том, что вы можете авторизоваться в системе через социальные сети. Если при регистрации в соц.сетях вы указывали тот же email что и на нашем сайте, то после авторизации вы попадете в свой профиль.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Подтвердите регистрацию</h2>
+            <p style="margin: 25px 0;">На указанный e-mail было отправлено письмо со ссылкой. Пожалуйста, перейдите по ссылке для подтверждения.</p>
+            <p class="faded">Вход через соц.сети:</p>
+            <div class="n2-login-buttons" style="margin-bottom: 0;">
+                <a href="/connect/vkontakte" class="btn btn_shadowed btn_vk"><span class="n2-icon n2-icon_size-22 n2-icon_vk"></span> ВКонтакте</a>
+                <a href="/connect/facebook" class="btn btn_shadowed btn_fb"><span class="n2-icon n2-icon_size-22 n2-icon_fb"></span> Facebook</a>
+                <a href="/connect/google" class="btn btn_shadowed btn_go"><span class="n2-icon n2-icon_size-22 n2-icon_go"></span> Google</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade n2-modal-common n2-modal-common_additional n2-modal-login" id="modalRegConfirmed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="n2-icon n2-icon_size-17 n2-icon_cross-2"></span></button>
+            <h2 class="modal-title">Регистрация подтверждена</h2>
+            <p style="margin: 25px 0;">Вы успешно зарегистрировались</p>
+        </div>
+    </div>
+</div>
+
+
+    
+        <script src="/js/bb70c81-236a954.js"></script>
+    
+
+                    <script src="/js/186b7f4-679c45f.js"></script>
+        
+                    <script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/config.js"></script>
+<script type="text/javascript" src="/bundles/newtonewblog/vendor/ckeditor/styles.js"></script>
+<script type="text/javascript">
+    // do this before the first CKEDITOR.replace( ... )
+    CKEDITOR.timestamp = 455963308;
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        $(".ckeditor").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                filebrowserUploadSmallUrl:  '/ckeditor/images/new-thumb',
+                authorQuoteUrl:  '/ckeditor/images/new-author-thumb',
+                mathJaxLib: 'https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+            });
+        });
+
+        $(".ckeditor-skinny").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","Subscript","Superscript","-","RemoveFormat", "Blockquote"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]},
+                    { name: 'insert', items : [ 'Image' ] }
+                ],
+                filebrowserUploadUrl: "/ckeditor/images/new",
+                filebrowserImageBrowseUrl:  '/ckeditor/images',
+                width: "100%"
+            });
+        });
+
+        $(".ckeditor-limited").each(function(){
+            CKEDITOR.replace($(this)[0], {
+                toolbar :  [
+                    {"name":"basicstyles","items":["Bold","Italic","Underline","Strike","RemoveFormat"]},
+                    {"name":"paragraph","items":["NumberedList","BulletedList"]}
+                ],
+                width: "100%",
+                height: "120px"
+            });
+        });
+    });
+</script>            
+        
+        <script type="text/javascript" src="/js/2459b99-4131861.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+
+            <script src="https://tilda.ws/js/tilda-scripts-2.6.js"></script>
+<script src="https://tilda.ws/project39131/tilda-blocks-2.3.js"></script>
+    
+    <script type="text/javascript">
+        $(function () {
+            var com = $("[data-role=comments]");
+            com.load(com.data('source'), function () {
+                $(document).trigger("comments.ready");
+            });
+        });
+    </script>
+
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-50460049-1', 'newtonew.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        window.environment = 'prod';
+    </script>
+
+    <script src="/bundles/newtonewblog/js/vendor/jquery.scrolldepth.min.js"></script>
+    <script>
+        jQuery(function() {
+            jQuery.scrollDepth();
+        });
+    </script>
+
+    <script src="/bundles/newtonewblog/js/screentime.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.screentime({
+                fields: [
+                    { selector: '#header',
+                        name: 'Header'
+                    },
+                    { selector: '#content',
+                        name: 'Content'
+                    },
+                    { selector: '#comments',
+                        name: 'Comments'
+                    },
+                    { selector: '#read-also',
+                        name: 'Read also'
+                    },
+                    { selector: '#footer',
+                        name: 'Footer'
+                    }
+                ],
+                googleAnalytics: true
+            });
+        });
+    </script>
+        <script async src="https://cdn.onthe.io/io.js/DxThKN1r2nv5"></script>
+    <script type="text/javascript"
+            src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyASInhsBdm4RrR24UAXQcEzLdRJOibemWI"></script>
+    <script>
+        $(document).ready(function(){
+            setClampModule.set();
+        });
+    </script>
+
+    
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29065095 = new Ya.Metrika({id:29065095,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29065095" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=Ttn26IDO81mD52Pt/Il23CidCkqqZ/6TNKHO744uBwEkB1vqvhy*8iyuU1SMcnoJ73aMLj2TBlAOAEAGI/AquClcMKIsoFiYc4Bfz/nojo1HztPF*TqdbzGuHIrnEo8Kj3ZOg1pM/DTgtt0kUy*ckDlGUETqUsYgQ/45aNm/O0M-';
+    </script>
+
+    <script type="text/javascript">
+        (window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=GmIB1GcEmcWi5ygbxA0fGQhLRi5Z6bGZm9EEE/0YZ5AuV2epW2swTgI99UV21Ay8wsnwCIEk7ngeuNT1oWLFb4mdRKey8kwyJHaA8e*rIv5SOO9ynjN6s979pTvVHoPNE*mGI6pjUn5U6KhVqVy8ywQBFJIVABxhhTrLcTcRIHs-&pixel_id=1000031050';
+    </script>
+
+    <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1606200423031483');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1606200423031483&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2780379", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2780379;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 881327349;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/881327349/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+</div>
+</body>
+</html>

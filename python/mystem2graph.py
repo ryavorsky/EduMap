@@ -1,7 +1,9 @@
+path = "../data/Newtonew/"
+years = [2013, 2014, 2015, 2016, 2017]
 #path = "../data/Direktor_shkoly/"
 #years = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]
-path = "../data/Nauka_i_shkola/"
-years = [2013, 2014, 2015, 2016, 2017]
+#path = "../data/Nauka_i_shkola/"
+#years = [2013, 2014, 2015, 2016, 2017]
 json_file_name = "titles_and_abstracts.json"
 frequent_word_min = 12
 number_of_trending = 50
