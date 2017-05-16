@@ -1,5 +1,6 @@
+path = "../data/Newtonew/"
 #path = "../data/Direktor_shkoly/"
-path = "../data/Nauka_i_shkola/"
+#path = "../data/Nauka_i_shkola/"
 json_file_name = "trend_words_and_pairs.json"
 
 import json

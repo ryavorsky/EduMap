@@ -32,7 +32,7 @@ for file_name in file_names:
         if not node.has_attr('class') and not node.has_attr('style'):
             for s in node.strings:
                 if not any(stop_word in str(s) for stop_word in stop_words):
-                    text += " " + str(s)
+                    text += " " + str(s).replace("\n", " ")
     print(text)
 
     date = list(soup.find("p", attrs = {"class": "io-article-footer"}))[0].strip()

@@ -1,3 +1,5 @@
+# first, use mystem.exe -cd --format json titles_and_abstracts.txt titles_and_abstracts.json
+
 path = "../data/Newtonew/"
 years = [2013, 2014, 2015, 2016, 2017]
 #path = "../data/Direktor_shkoly/"
@@ -44,7 +46,7 @@ def lemma(d):
 
 # get data from json file
 def parse_json(fname):
-    res = [] # will be list of pairs [year, list of words]
+    res = [] # will be list of pairs [year, list of words] for each paper
 
     f = open(path + json_file_name, "r", encoding="utf-8")
     lines = f.readlines()
@@ -52,8 +54,8 @@ def parse_json(fname):
     # extract set of normalized words for each paper
     current_line = 0
     while current_line < len(lines):
-
-        year = json.loads(lines[current_line])[0]["text"]
+        print(current_line, lines[current_line])
+        year_of_publication = json.loads(lines[current_line])[0]["text"]
         title = lines[current_line+1]
         abstract = lines[current_line+2]
         current_line += 4
@@ -65,7 +67,7 @@ def parse_json(fname):
         for w in words_set:
             if (len(w)>2) and (w not in excluded):
                 words_list.append(w)
-        res.append([year, words_list])
+        res.append([year_of_publication, words_list])
 
     return res
 
