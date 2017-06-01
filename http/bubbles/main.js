@@ -3,13 +3,8 @@ var data = {};
 (function() {
 
 data.parties = [
-  {name: "democrat", speeches: [
-    "THE DEMOCRAT: Урок Test test TEST test, test American dream American dream",
-    "THE DEMOCRAT: Test test TEST test, test American dream Arithmetic Arithmetic Arithmetic"
-  ]},
-  {name: "republican", speeches: [
-    "REPUB: Урок Урок Test TEST test test TEST American dream American dream American dream American dream American dream American dreamAmerican dream American dream Arithmetic Arithmetic Arithmetic Arithmetic Arithmetic Arithmetic"
-  ]}
+  {name: "democrat", speeches: text_collection_1},
+  {name: "republican", speeches: text_collection_2}
 ].map(party);
 
 data.speakers = {
@@ -19,8 +14,8 @@ data.speakers = {
 
 data.topics = [
   {name: "Test", re: /\b(Test)\b/gi, x: 234, y: 432},
-  {name: "Образование", re: /\b(Образование)\b/gi, x: 100, y: 100},
-  {name: "Урок", re: /\b(Урок)\b/gi, x: 107, y: 106},
+  {name: "Образование", re: /(Образование)/gi, x: 100, y: 100},
+  {name: "Урок", re: /(Урок)/gi, x: 107, y: 106},
   {name: "American dream", re: /\b(American dream)\b/gi, x: 558, y: 181},
   {name: "Arithmetic", re: /\b(Arithmetic)\b/gi, x: 43, y: 203}
 ].map(topic);
@@ -43,6 +38,7 @@ function speech(text, i) {
 }
 
 function sections(speeches) {
+  console.log("INPUT SPEECHES", speeches);
   var speakerRe = /(?:\n|^)([A-Z\.()\- ]+): /g,
       sections = [];
 
@@ -58,37 +54,36 @@ function sections(speeches) {
     sections.push({speaker: speakerName, speech: speech, i: i, j: speech.text.length});
   });
 
-  return sections.filter(function(d) { return !/^AUDIENCE\b/.test(d.speaker); });
+  res = sections.filter(function(d) { return !/^AUDIENCE\b/.test(d.speaker); });
+  console.log("OUTPUT SECTIONS", res);
+
+  return res;
 }
 
 function topic(topic, i) {
+  console.log("TOPIC INPUT", topic, i);
   topic.id = i;
   topic.count = 0;
   topic.cx = topic.x;
   topic.cy = topic.y;
 
   topic.parties = data.parties.map(function(party) {
-    var count = 0,
-        mentions = [];
+    var count = 0;
 
     party.sections.forEach(function(section) {
-      var text = section.speech.text.substring(section.i, section.j), match;
+      var text = section.speech.text.substring(section.i, section.j);
+      console.log("TOPIC", topic.re);
       topic.re.lastIndex = 0;
-      while (match = topic.re.exec(text)) {
+      while (topic.re.exec(text)) {
         ++count;
-        mentions.push({
-          topic: topic,
-          section: section,
-          i: section.i + match.index,
-          j: section.i + topic.re.lastIndex
-        });
       }
     });
 
     topic.count += count = count / party.wordCount * 2000;
-    return {count: count, mentions: mentions};
-  });
+    return {count: count};
+  }); // eod topic.parties
 
+  console.log("TOPIC RESULT", topic);
   return topic;
 }
 
