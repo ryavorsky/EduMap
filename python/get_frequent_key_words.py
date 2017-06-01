@@ -6,6 +6,8 @@ import itertools
 
 # Configuration
 stopwords_for_all = "../data/stopwords_for_all.txt"
+general_words = ["учитель", "ученик", "человек", "работать", "ребенок", "работа", "школа", "образование",
+                 "образовательный", "процесс", "новый", "обучение", "вопрос"]
 path = "../data/Newtonew/"
 input_file_name = "titles_and_abstracts.json"
 output_file_name = "frequent_words.txt"
@@ -25,6 +27,7 @@ def lemma(d):
             return analysis[0]["lex"]
 
 
+# Auxiliary counting functions
 def increment(d, v):
     if v in d:
         d[v] += 1
@@ -39,8 +42,12 @@ def count_frequency(list_of_values):
     return res
 
 
-# get data from json file
+# Get data from the json file
 def extract_lists_of_words_from_json(words_to_remove=[]):
+    stopwords_for_all_file = open(stopwords_for_all, "r", encoding="utf-8")
+    stopwords = [w.strip() for w in stopwords_for_all_file.readlines()] + words_to_remove  #  + general_words
+    stopwords_for_all_file.close()
+
     res = []  # will be list of [list of words] for each paper
 
     f = open(path + input_file_name, "r", encoding="utf-8")
@@ -58,7 +65,7 @@ def extract_lists_of_words_from_json(words_to_remove=[]):
         words_list = title_words + abstract_words
         clean_words_list = []
         for w in words_list:
-            if (len(w) > 2) and (w not in words_to_remove):
+            if (len(w) > 2) and (w not in stopwords):
                 clean_words_list.append(w)
 
         res.append(clean_words_list)
@@ -79,24 +86,25 @@ def tf_idf(list_of_texts):
         print(tf_idf_values)
         res.append(tf_idf_values)
 
-    return  res
+    return res    # list of lists of pairs [word, tf_idf]
 
 
 # The main part
 def main():
-    papers_data = extract_lists_of_words_from_json([])  # array of [list of words]
+    papers_data = extract_lists_of_words_from_json([])  # array of [list of words_tf_idf]
 
     key_words = []
-    for words in tf_idf(papers_data):
-        key_words = key_words + [w[0] for w in words[:60]]
+    for words_tf_idf in tf_idf(papers_data):
+        half = len(words_tf_idf) // 4   # another heuristics - take the part with bigger tf_idf values
+        key_words = key_words + [w[0] for w in words_tf_idf[:half]]
     key_words = [[w, stat] for w,stat in count_frequency(key_words).items()]
     key_words.sort(key=lambda x: x[1], reverse=True)
+    key_words = key_words[:500]    # truncate the tail
     print(key_words)
 
-
-    # Calculate statistics for each pair
+    # Calculate statistics for each pair of key words
     word_pairs = dict()
-    set_of_frequent_words = set([e[0] for e in []])
+    set_of_frequent_words = set([e[0] for e in key_words])
     for word_list in papers_data:
         word_set = set_of_frequent_words.intersection(word_list)
         for pair in itertools.combinations(word_set, 2):
@@ -106,6 +114,11 @@ def main():
                 word_pairs[pair] = 1
 
     # Find nearest
+    res_file = open(path + "pairs.tgf", "w", encoding="cp1251")
+    for w in set_of_frequent_words:
+        res_file.write(w + " " + w + "\n")
+    res_file.write("#\n")
+
     for central_word in set_of_frequent_words:
         nearest = []
         for pair in word_pairs:
@@ -114,7 +127,17 @@ def main():
                 #print("урок", pair, word_pairs[pair])
                 nearest.append([w, word_pairs[pair]])
                 nearest.sort(key=lambda x: x[1], reverse=True)
-        print(central_word, nearest[:5])
+        K = 2
+        delta = 100.0 * (nearest[0][1] - nearest[K-1][1]) / nearest[0][1]
+        while (delta < 10.0) and (K < 6):
+            K += 1
+            delta = 100.0 * (nearest[0][1] - nearest[K-1][1]) / nearest[0][1]
+
+        print(K-1, central_word, str(int(delta)) + "%: ", nearest[0][1], nearest[K-2][1], nearest[:K-1])
+        for w in nearest[:K-1]:
+            res_file.write(central_word + " " + w[0] + "\n")
+
+    res_file.close()
 
     print(len(papers_data), " papers analyzed")
 
